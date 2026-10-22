@@ -5,7 +5,7 @@
 **M3U dosyası (VLC ve uyumlu IPTV oynatıcılar):**  
 https://raw.githubusercontent.com/muratgulkazar/ETS2-Europe-Radio/main/Europe-55-TV.m3u
 
-Liste, geniş ve karışık eski listedeki binlerce kaydı azaltarak **346 seçilmiş yayın bağlantısına** indirildi. Ana akım ulusal kanallar, kamu yayıncıları, haber kanalları ve mevcut kaynakta bulunabilen spor kanalları öne alındı. Kanal adlarının başında ülke adı bulunur ve oynatıcı destekliyorsa ülke grubuna göre de ayrılır.
+Liste, ülke bazlı açık yayın listelerinden ulusal genel yayın, haber ve spor kanalları eklenerek **998 yayın bağlantısına** genişletildi. Ana akım ulusal kanallar, kamu yayıncıları, haber kanalları ve mevcut kaynakta bulunabilen spor kanalları öne alındı. Kanal adlarının başında ülke adı bulunur ve oynatıcı destekliyorsa ülke grubuna göre de ayrılır.
 
 ## VLC'de açma
 
