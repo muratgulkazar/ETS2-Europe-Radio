@@ -1,23 +1,22 @@
-# Avrupa TV Kanalları
+# Avrupa TV Kanalları — Ana Akım Seçki
 
-## Ülke isimleriyle hazırlanmış birleşik liste
+## Önerilen liste
 
-**M3U dosyası (VLC, IPTV oynatıcılar):**  
+**M3U dosyası (VLC ve uyumlu IPTV oynatıcılar):**  
 https://raw.githubusercontent.com/muratgulkazar/ETS2-Europe-Radio/main/Europe-55-TV.m3u
 
-Bu dosya IPTV-org'un ülke bazlı açık yayın listelerinden birleştirildi. Şu an **4.356 benzersiz yayın bağlantısı** içeriyor ve kanal adlarının başına ülke adı eklendi; ayrıca oynatıcı destekliyorsa ülkeye göre grup başlığıyla ayrılıyor.
-
-**Önemli kapsam notu:** Hedeflenen 55 ülke/bölgeden kaynakta kanal yayını bulunan 51 grup çıktı. Cebelitarık ve Man Adası için kaynak dosyası bulunamadı; Lihtenştayn ve Grönland için de kullanılabilir kanal kaydı çıkmadı. Bu nedenle bu dört yer için çalışan yayın varmış gibi sahte kanal eklemedim.
+Liste, geniş ve karışık eski listedeki binlerce kaydı azaltarak **346 seçilmiş yayın bağlantısına** indirildi. Ana akım ulusal kanallar, kamu yayıncıları, haber kanalları ve mevcut kaynakta bulunabilen spor kanalları öne alındı. Kanal adlarının başında ülke adı bulunur ve oynatıcı destekliyorsa ülke grubuna göre de ayrılır.
 
 ## VLC'de açma
 
-1. Yukarıdaki M3U bağlantısını açıp dosyayı `Europe-55-TV.m3u` adıyla kaydet.
+1. Yukarıdaki bağlantıya sağ tıkla ve dosyayı `Europe-55-TV.m3u` adıyla kaydet.
 2. VLC Media Player'ı aç.
-3. **Medya → Dosya Aç** yolundan kaydettiğin dosyayı seç.
-4. **Görünüm → Oynatma Listesi** bölümünde kanalları gör. Kanal adları ülke adıyla başlayacak; destekleyen oynatıcılarda ülke grupları da görünecek.
+3. **Medya → Dosya Aç** yolundan dosyayı seç.
+4. **Görünüm → Oynatma Listesi** bölümünde ülke adıyla başlayan kanalları görebilirsin.
 
-## Bilinmesi gerekenler
+## Yayınların çalışması hakkında
 
-- Kaynak liste herkese açık yayın bağlantılarını derler; kanal sahipliği veya yayın hakkı sağlamaz.
-- 4.356 bağlantının hepsi her an çalışıyor olmayabilir. Bazı yayınlar kapanabilir, coğrafi kısıtlamaya tabi olabilir veya HLS desteği gerektirebilir.
-- Listeyi güncel tutmak için kaynak proje zaman içinde yenilendikçe dosyanın tekrar oluşturulması gerekir.
+- Kaynakta açık yayın bağlantısı bulunan **49 ülke/bölge** için seçilmiş kanal çıktı. Hedeflenen 55 yerin tamamında kullanılabilir, herkese açık kanal yayını bulunmadığı için eksik yerlere sahte bağlantı eklenmedi.
+- Kaynakta `Geo-blocked` veya `Not 24/7` olarak işaretlenen bağlantılar seçkiye alınmadı. Buna rağmen her bağlantının şu anda çalıştığını garanti edemem; yayın adresleri değişebilir ve bazı kanallar ülkeye göre erişimi sınırlayabilir.
+- Ücretli spor yayınlarının korsan bağlantılarını özellikle listeye eklemek yerine, kaynakta bulunan erişilebilir ulusal ve spor kanalları tercih edildi.
+- Bu liste resmi izlenme sıralaması değildir; ana akım kanal seçkisi olarak düzenlenmiştir.
