@@ -3897,3 +3897,885 @@ https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 group-title="Gürcistan" tvg-id="GMSTV.ge@SD",Gürcistan - GMS TV
 http://158.101.222.193:88/georgia_play.php?id=gms
+#EXTINF:-1 group-title="İzlanda" tvg-id="Althingi.is@SD",İzlanda - Althingi (1080p) [Not 24/7]
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
+#EXTINF:-1 group-title="İzlanda" tvg-id="Omega.is@SD",İzlanda - Omega (720p)
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8
+#EXTINF:-1 group-title="İzlanda" tvg-id="RUV.is@SD",İzlanda - RÚV (720p)
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 group-title="İzlanda" tvg-id="RUV2.is@SD",İzlanda - RÚV 2 (1080p)
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 group-title="İzlanda" tvg-id="Visir.is@SD",İzlanda - Vísir (1080p)
+https://live.visir.is/hls-live/visir.smil/playlist.m3u8
+#EXTINF:-1 group-title="İzlanda" tvg-id="RUV.is@SD",İzlanda - RUV (720p) [Not 24/7]
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8
+#EXTINF:-1 group-title="İzlanda" tvg-id="K100.is@SD",İzlanda - K100 (1080p)
+https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF:-1 group-title="İzlanda" tvg-id="RUV.is@SD",İzlanda - RUV (1080p) [Geo-blocked]
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream1_.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="31Kanal.kz@SD",Kazakistan - 31 Kanal (576p)
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="31Kanal.kz@SD",Kazakistan - 31 Kanal
+#EXTVLCOPT:http-referrer=https://31.kz/
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="AbaiTV.kz@SD",Kazakistan - Abai TV (720p)
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="AlauTV.kz@SD",Kazakistan - Alau TV (576p)
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Aqjaiyq.kz@SD",Kazakistan - Aqjaiyq (576p)
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Aqtobe.kz@SD",Kazakistan - Aqtóbe (576p)
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="AstanaTV.kz@SD",Kazakistan - Astana TV (576p)
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Atyray.kz@SD",Kazakistan - Atyraý (720p)
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Balapan.kz@HD",Kazakistan - Balapan HD (1080p)
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="BalapanInternational.kz@SD",Kazakistan - Balapan International (1080p)
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Channel7.kz@SD",Kazakistan - Channel 7 (576p)
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Ertis.kz@SD",Kazakistan - Ertis (1080p) [Not 24/7]
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Jambyl.kz@SD",Kazakistan - Jambyl (360p) [Not 24/7]
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="JibekJoly.kz@HD",Kazakistan - Jibek Joly HD (1080p)
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Kokshe.kz@SD",Kazakistan - Kókshe (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="KTK.kz@SD",Kazakistan - KTK (576p)
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="KTK.kz@HD",Kazakistan - KTK HD (720p) [Not 24/7]
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="KTK.kz@HD",Kazakistan - KTK HD (720p) [Not 24/7]
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="ManasTV.kg@SD",Kazakistan - Manas TV (1080p)
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Mangystay.kz@SD",Kazakistan - Mańǵystaý (540p) [Not 24/7]
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="MTRK.kz@SD",Kazakistan - MTRK (576p)
+https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="MuzzOne.kz@SD",Kazakistan - MuzzOne
+#EXTVLCOPT:http-referrer=https://muzzone.tv/
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="NickelodeonCIS.kz@SD",Kazakistan - Nickelodeon CIS (1080p)
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="NTK.kz@SD",Kazakistan - NTK (576p)
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Ontustik.kz@SD",Kazakistan - Ontústik (360p)
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qazaqstan.kz",Kazakistan - Qazaqstan (1080p)
+#EXTVLCOPT:http-referrer=https://megogo.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qazaqstan.kz@HD",Kazakistan - Qazaqstan HD (1080p) [Not 24/7]
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qazaqstan.kz@HD",Kazakistan - Qazaqstan HD (1080p)
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="QazaqstanInternational.kz@SD",Kazakistan - Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="QazSport.kz@SD",Kazakistan - QazSport (1080p)
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="QazSport.kz@SD",Kazakistan - QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="QonaevMedia.kz@SD",Kazakistan - Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qostanai.kz@SD",Kazakistan - Qostanai (576p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qyzyljar.kz@SD",Kazakistan - Qyzyljar (720p)
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qyzylorda.kz@SD",Kazakistan - Qyzylorda (720p)
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="RikaTV.kz@SD",Kazakistan - Rika TV (480p)
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Saryarqa.kz@SD",Kazakistan - Saryarqa (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Semei.kz@SD",Kazakistan - Semeı (1080p)
+#EXTVLCOPT:http-referrer=https://qazaqstan.tv/
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="SilkWay.kz@SD",Kazakistan - Silk Way (1080p)
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="SilkWayCinema.kz@SD",Kazakistan - Silk Way Cinema (1080p) [Geo-blocked]
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="MTRK.kz@SD",Kazakistan - МТРК (576p) [Not 24/7]
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Новое телевидение (576p) [Not 24/7]
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Ulytau.kz@SD",Kazakistan - Ulytau
+https://ulytau.tv/hls/master.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="TDK42.kz@SD",Kazakistan - TDK 42
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie (576p)
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="QazSport.kz@SD",Kazakistan - QazSport (576p)
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="AstanaTV.kz@SD",Kazakistan - Astana TV (576p)
+https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="KTK.kz@SD",Kazakistan - KTK (576p)
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="NTK.kz@SD",Kazakistan - NTK (576p)
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="AtamekenBusiness.kz@SD",Kazakistan - Atameken Business (576p)
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="24KZ.kz@SD",Kazakistan - 24KZ (576p)
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Channel7.kz@SD",Kazakistan - Channel 7 (576p)
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="AbaiTV.kz@SD",Kazakistan - Abai TV (576p)
+https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="AlmatyTV.kz@SD",Kazakistan - Almaty TV (576p)
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Khabar.kz@SD",Kazakistan - Khabar (576p)
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qazaqstan.kz@SD",Kazakistan - Qazaqstan (576p)
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Balapan.kz@SD",Kazakistan - Balapan (576p)
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="TuranTV.kz@SD",Kazakistan - Turan TV (576p)
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="31Kanal.kz@SD",Kazakistan - 31 Kanal (576p)
+https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="ChannelOneEurasia.kz@SD",Kazakistan - Channel One Eurasia (576p)
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="JibekJoly.kz@SD",Kazakistan - Jibek Joly (576p)
+https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Mirovoekino.kz@SD",Kazakistan - Mirovoe kino (1080p)
+https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="KinoBoevik.kz@SD",Kazakistan - KinoBoevik (1080p)
+https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="SportPlusQazaqstan.kz@SD",Kazakistan - Sport+ Qazaqstan (1080p)
+https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
+http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qazaqstan.kz@SD",Kazakistan - Qazaqstan
+http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="Kosova" tvg-id="Kohavision.xk@SD",Kosova - Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="RTK3.xk@SD",Kosova - RTK 3 (1080p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="RTV21.xk@SD",Kosova - RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="T7.xk@SD",Kosova - T7 (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="TVArberia3Femije.xk@SD",Kosova - TV Arbëria 3 Fëmijë (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="TVArberia4Muzike.xk@SD",Kosova - TV Arbëria 4 Muzikë (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="TVArberiaRetroHits.xk@SD",Kosova - TV Arbëria Retro Hits (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="TVArta.xk@SD",Kosova - TV Arta (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="TVDielli.xk@SD",Kosova - TV Dielli (720p) [Not 24/7]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="TVOpoja.xk@SD",Kosova - TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 group-title="Kosova" tvg-id="TVSyri.xk@SD",Kosova - TV Syri (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="apartTV.lu@SD",Lüksemburg - apart TV (1080p)
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="DudelangeTV.lu@SD",Lüksemburg - Dudelange TV (720p)
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="eldoTV.lu@SD",Lüksemburg - eldo.TV (1080p)
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="LuxeTV.lu@SD",Lüksemburg - Luxe TV (1080p)
+http://103.154.3.101:5001/live/1736.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="RTL9.lu@SD",Lüksemburg - RTL9 (720p)
+http://145.239.5.177/308/index.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="RTLGold.lu@SD",Lüksemburg - RTL Gold (1080p)
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="RTLWebRadioTV.lu@SD",Lüksemburg - RTL Radio Web TV (1080p)
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="RTLTeleLetzebuerg.lu@SD",Lüksemburg - RTL Télé Lëtzebuerg (1080p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="TodayRadio.lu@SD",Lüksemburg - RTL Today Radio (720p)
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="RTLZwee.lu@SD",Lüksemburg - RTL Zwee (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="LuxeTV.lu@SD",Lüksemburg - Luxe TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="MierschTV.lu@SD",Lüksemburg - MierschTV
+https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="LuxembourgGlobalRadioTV.lu@HD",Lüksemburg - Luxembourg Global Radio TV (1080p)
+https://stream.globalradio.lu/lgr/index.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-id="RadiotelevizijaRozaje.me@SD",Karadağ - Radio televizija Rožaje (614p) [Not 24/7]
+https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-id="TVNiksic.me@SD",Karadağ - TV Niksic (720p)
+https://tv.rtv-niksic.me/hls/stream.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-id="TVTeuta.me@SD",Karadağ - TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-id="TVCG1.me@SD",Karadağ - TVCG 1 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-id="TVCG2.me@SD",Karadağ - TVCG 2 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-id="TVCG3.me@SD",Karadağ - TVCG 3 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-id="TVCGMNE.me@SD",Karadağ - TVCG MNE (1080p)
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="4FunTV.pl@SD",Polonya - 4 Fun TV (288p) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ATMRozrywkaREWORK.pl@HD",Polonya - ATM Rozrywka REWORK (720p)
+https://grupaatmrr.org.pl:8888/fallback/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="BialogardzkaTelewizjaKablowa.pl@HD",Polonya - Bialogardzka Telewizja Kablowa (1080p)
+https://bsmbialogard.pl/live/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="BTB2.pl@SD",Polonya - BTB 2 (1080p)
+https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="BTB3.pl@HD",Polonya - BTB 3 (1080p)
+https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="BTBInfo.pl@SD",Polonya - BTB Info (1080p)
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="BTBMusic.pl@SD",Polonya - BTB Music (1080p)
+https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Echo24.pl@SD",Polonya - Echo24 (720p)
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Euronews.pl@FAST",Polonya - Euronews (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusFestival.pl@HD",Polonya - FILMBOX+ Festival HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusHits.pl@Hungary",Polonya - FILMBOX+ Hits Hungary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/fb_premium_hungary/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusLoveCrime.pl@Magyar",Polonya - FILMBOX+ Love & Crime Magyar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NewTV.pl@SD",Polonya - NewTV (1080p)
+https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NewTV.pl@SD",Polonya - NewTV (1080p)
+https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Puls2.pl@SD",Polonya - Puls 2 (1080p)
+https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Puls2.pl@HD",Polonya - Puls 2 HD (1080p)
+http://193.24.244.60:1001/udp/239.254.4.122:6060
+#EXTINF:-1 group-title="Polonya" tvg-id="RadiowaCzworka.pl@SD",Polonya - Radio Czwórka (1080p)
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="RadioRAM.pl@HD",Polonya - Radio RAM (1080p)
+https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="RedCarpetTVInternational.pl@SD",Polonya - Red Carpet TV International (1080p)
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="RemontyTV.pl@HD",Polonya - Remonty TV (1080p)
+https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="SferaTV.pl@SD",Polonya - Sfera TV (480p) [Not 24/7]
+https://stream.sferatv.pl/sferatvlive/live.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TelewizjaBiznesowa.pl@SD",Polonya - Telewizja Biznesowa (1080p)
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TelewizjaiTTV.pl@SD",Polonya - Telewizja iTTV (1080p)
+https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TelewizjaJaslo.pl@SD",Polonya - Telewizja Jaslo (720p)
+https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TelewizjaLuban.pl@SD",Polonya - Telewizja Lubań (720p) [Not 24/7]
+http://stream.herissons.cloud/hls/tvluban.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TelewizjaRegionalnaZary.pl@SD",Polonya - Telewizja Regionalna Zary
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TelewizjaRelax.pl@SD",Polonya - Telewizja Relax (1080p)
+https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TV4.pl@SD",Polonya - TV4 (1080p) [Geo-blocked]
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:-1 group-title="Polonya" tvg-id="TVASTA.pl@SD",Polonya - TV ASTA (720p)
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVKujawy.pl@SD",Polonya - TV Kujawy (576p) [Not 24/7]
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVOkazje.pl@SD",Polonya - TV Okazje (1080p) [Geo-blocked]
+https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
+#EXTINF:-1 group-title="Polonya" tvg-id="TVRegionalnaLubin.pl@SD",Polonya - TV Regionalna Lubin (1080p)
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVTorun.pl@SD",Polonya - TV Toruń (1080p) [Not 24/7]
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVTrwam.pl@SD",Polonya - TV Trwam (1080p) [Geo-blocked]
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:-1 group-title="Polonya" tvg-id="TVKStella.pl@SD",Polonya - TVK Stella (576p)
+https://stream.tvkstella.pl/stella/stella.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVT.pl@SD",Polonya - TVT (720p)
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVTZgorzelec.pl@SD",Polonya - TVT Zgorzelec (576p) [Not 24/7]
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TwojaTV.pl@SD",Polonya - Twoja.TV (1080p)
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TwojaTV.pl@SD",Polonya - Twoja.TV (1080p)
+https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="WPolscePL.pl@SD",Polonya - W Polsce PL (720p)
+https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="wedotvAuta.pl@FAST",Polonya - wedotv Auta (480p)
+https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPuls.pl@SD",Polonya - TV Puls (1080p)
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatViasatHistory.pl@SD",Polonya - Polsat Viasat History (1080p)
+http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusOne.pl@Romania",Polonya - FILMBOX+ One Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusHits.pl@Romania",Polonya - FILMBOX+ Hits Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusEmotion.pl@Romania",Polonya - FILMBOX+ Emotion Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusOne.pl@Romania",Polonya - FILMBOX+ One Romania (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusHits.pl@Romania",Polonya - FILMBOX+ Hits Romania (576p)
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusComedy.pl@Romania",Polonya - FILMBOX+ Comedy Romania
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusLoveCrime.pl@Romania",Polonya - FILMBOX+ Love & Crime Romania
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusFestival.pl@HD",Polonya - FILMBOX+ Festival HD (1080p)
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="MusicBoxPolska.pl@Ukraine",Polonya - Music Box Polska Ukraine
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57
+#EXTINF:-1 group-title="Polonya" tvg-id="BTBInfo.pl@SD",Polonya - BTB Info (1080p)
+https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DisneyXD.pl@SD",Polonya - Disney XD (576p)
+http://185.227.34.179:8080/disney-xd/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DisneyChannel.pl@HD",Polonya - Disney Channel HD (1080p)
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusOne.pl@Bulgaria",Polonya - FILMBOX+ One Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusLoveCrime.pl@Bulgaria",Polonya - FILMBOX+ Love & Crime Bulgaria (720p)
+http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam (576p)
+http://185.227.34.179:8080/jimjam/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TimelessDiziChannel.pl@SD",Polonya - Timeless Dizi Channel (1080p)
+http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Mango.pl@SD",Polonya - Mango (1080p) [Geo-blocked]
+https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Polsat.pl@SD",Polonya - Polsat (1080p) [Geo-blocked]
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatNews.pl@SD",Polonya - Polsat News (1080p) [Geo-blocked]
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatNews.pl@SD",Polonya - Polsat News (1080p) [Geo-blocked]
+https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatNews2.pl@SD",Polonya - Polsat News 2 (1080p) [Geo-blocked]
+https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatNewsPolityka.pl@SD",Polonya - Polsat News Polityka (1080p) [Geo-blocked]
+https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatNewsPolityka.pl@SD",Polonya - Polsat News Polityka (1080p) [Geo-blocked]
+https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSport1.pl@SD",Polonya - Polsat Sport 1 (1080p) [Geo-blocked]
+http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatGames.pl@HD",Polonya - Polsat Games HD (1080p)
+http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+#EXTINF:-1 group-title="Polonya" tvg-id="DiscoPoloMusic.pl@SD",Polonya - Disco Polo Music (1080p)
+http://185.227.34.179:8080/disco-polo-music/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="BTB.pl@SD",Polonya - BTB (1080p)
+https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NewsmaxPolska.pl@SD",Polonya - Newsmax Polska
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPRozrywka.pl@SD",Polonya - TVP Rozrywka (576p)
+http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="EskaRockTV.pl@SD",Polonya - Eska Rock TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:
+#EXTINF:-1 group-title="Polonya" tvg-id="E.pl@SD",Polonya - E! (1080p)
+http://57.128.231.171:8080/273/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Fox.pl@SD",Polonya - Fox (1080p)
+http://57.128.231.171:8080/249/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CrimePlusInvestigationPolsat.pl@SD",Polonya - Crime + Investigation Polsat (1080p)
+http://57.128.231.171:8080/285/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatComedyCentralExtra.pl@SD",Polonya - Polsat Comedy Central Extra (1080p)
+http://57.128.231.171:8080/290/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="AdventureTV.pl@SD",Polonya - Adventure TV (1080p)
+http://57.128.231.171:8080/320/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="13Ulica.pl@SD",Polonya - 13 Ulica (1080p)
+http://57.128.231.171:8080/325/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="KinoPolska.pl@SD",Polonya - Kino Polska (1080p)
+http://57.128.231.171:8080/238/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="KinoPolskaMuzyka.pl@SD",Polonya - Kino Polska Muzyka (1080p)
+http://57.128.231.171:8080/237/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ExtremeSportsChannelPolska.pl@SD",Polonya - Extreme Sports Channel Polska (1080p)
+http://57.128.231.171:8080/262/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DisneyJunior.pl@SD",Polonya - Disney Junior (576p)
+http://57.128.231.171:8080/277/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DaVinci.pl@SD",Polonya - Da Vinci (1080p)
+http://57.128.231.171:8080/284/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ComedyCentral.pl@SD",Polonya - Comedy Central (1080p)
+http://57.128.231.171:8080/286/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusOne.pl@Poland",Polonya - FILMBOX+ One (1080p)
+http://57.128.231.171:8080/236/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVC.pl@SD",Polonya - TVC (1080p)
+http://57.128.231.171:8080/214/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="MTV.pl@SD",Polonya - MTV (1080p)
+http://57.128.231.171:8080/227/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="StopklatkaTV.pl@SD",Polonya - Stopklatka TV
+http://92.114.85.87:8018/play/a004/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="SzlagierTV.pl@SD",Polonya - Szlagier TV
+http://92.114.85.87:8010/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPuls.pl@HD",Polonya - TV Puls HD (1080p)
+https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="4FunDance.pl@SD",Polonya - 4 Fun Dance
+http://92.114.85.87:8018/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVRepublika.pl@SD",Polonya - TV Republika
+http://92.114.85.87:8018/play/a008/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FokusTV.pl@SD",Polonya - Fokus TV
+http://92.114.85.87:8018/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVCSuper.pl@SD",Polonya - TVC Super
+http://92.114.85.87:8010/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NutaGold.pl@SD",Polonya - Nuta Gold
+http://92.114.85.87:8010/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NutaTV.pl@SD",Polonya - Nuta TV
+http://92.114.85.87:8010/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatViasatNature.pl@SD",Polonya - Polsat Viasat Nature
+http://92.114.85.87:8016/play/a004/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSportFight.pl@SD",Polonya - Polsat Sport Fight
+http://92.114.85.87:8016/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatViasatExplore.pl@SD",Polonya - Polsat Viasat Explore
+http://92.114.85.87:8014/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="SuperPolsat.pl@SD",Polonya - Super Polsat
+http://92.114.85.87:8004/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="EskaRockTV.pl@SD",Polonya - Eska Rock TV (1080p)
+http://92.114.85.87:8016/play/a005/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="EskaTVExtra.pl@SD",Polonya - Eska TV Extra (1080p)
+http://92.114.85.87:8016/play/a008/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="EskaTV.pl@SD",Polonya - Eska TV (1080p)
+http://92.114.85.87:8018/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatMusic.pl@SD",Polonya - Polsat Music (1080p)
+http://92.114.85.87:8001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DiscoPoloMusic.pl@SD",Polonya - Disco Polo Music (1080p)
+http://92.114.85.87:8014/play/a007/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="VOXMusicTV.pl@SD",Polonya - VOX Music TV (1080p)
+http://92.114.85.87:8016/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CBeebies.pl@SD",Polonya - CBeebies (576p)
+http://92.114.85.87:8017/play/a004/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVC.pl@SD",Polonya - TVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="AntenaHD.pl@SD",Polonya - Antena HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVS.pl@SD",Polonya - TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVP3Warszawa.pl@SD",Polonya - TVP 3 Warszawa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a006/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PowerTV.pl@SD",Polonya - Power TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="HomeTV.pl@SD",Polonya - Home TV
+http://92.114.85.87:8010/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="AXNSpin.pl@SD",Polonya - AXN Spin
+http://92.114.85.87:8010/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ViasatTrueCrime.pl@HD",Polonya - Viasat True Crime
+http://92.114.85.87:8010/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatRodzina.pl@HD",Polonya - Polsat Rodzina HD
+http://92.114.85.87:8014/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatViasatHistory.pl@SD",Polonya - Polsat Viasat History
+http://92.114.85.87:8015/play/a005/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusFestival.pl@Poland",Polonya - FILMBOX+ Festival Poland
+http://92.114.85.87:8018/play/a009/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="4FunTV.pl@SD",Polonya - 4 Fun TV
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="GolfZone.pl@SD",Polonya - Golf Zone (1080p)
+http://57.128.231.171:8080/248/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CBeebies.pl@SD",Polonya - CBeebies (360p)
+https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatFilm.pl@HD",Polonya - Polsat Film HD
+http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+#EXTINF:-1 group-title="Polonya" tvg-id="ElevenSports1.pl@SD",Polonya - Eleven Sports 1
+http://92.114.85.87:8002/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPHD.pl@SD",Polonya - TVP HD (1080p)
+http://57.128.210.196:8080/141/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVP1.pl@SD",Polonya - TVP1
+http://92.114.85.87:8009/play/a009/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPWilno.pl@SD",Polonya - TVP Wilno
+http://78.62.9.23:55555/TVP%20Wilno%20HD
+#EXTINF:-1 group-title="Polonya" tvg-id="TVP1.pl@SD",Polonya - TVP1 (1080p)
+http://57.128.210.196:8080/144/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVP2.pl@SD",Polonya - TVP2 (1080p)
+http://57.128.210.196:8080/143/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TV6.pl@SD",Polonya - TV6 (1080p)
+http://57.128.210.196:8080/160/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPSport.pl@SD",Polonya - TVP Sport (1080p)
+http://57.128.210.196:8080/134/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSport3.pl@SD",Polonya - Polsat Sport 3 (1080p)
+http://57.128.210.196:8080/192/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSportFight.pl@SD",Polonya - Polsat Sport Fight (1080p)
+http://57.128.210.196:8080/194/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSport1.pl@SD",Polonya - Polsat Sport 1 (1080p)
+http://57.128.210.196:8080/193/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSport2.pl@SD",Polonya - Polsat Sport 2 (1080p)
+http://57.128.210.196:8080/195/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSeriale.pl@SD",Polonya - Polsat Seriale (1080p)
+http://57.128.210.196:8080/196/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatRodzina.pl@SD",Polonya - Polsat Rodzina (1080p)
+http://57.128.210.196:8080/197/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Eurosport1Polska.pl@SD",Polonya - Eurosport 1 Polska (1080p)
+http://57.128.210.196:8080/264/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Eurosport2Polska.pl@SD",Polonya - Eurosport 2 Polska (1080p)
+http://57.128.210.196:8080/263/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Eurosport4Polska.pl@SD",Polonya - Eurosport 4 Polska (1080p)
+http://57.128.231.171:8080/291/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Eurosport3Polska.pl@SD",Polonya - Eurosport 3 Polska
+#EXTVLCOPT:http-user-agent=Enigma2
+http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSport2.pl@SD",Polonya - Polsat Sport 2
+#EXTVLCOPT:http-referrer=Enigma2
+http://91.228.35.249:8001/1:0:1:C24:1E78:71:820000:0:0:0:
+#EXTINF:-1 group-title="Polonya" tvg-id="Polsat2.pl@SD",Polonya - Polsat 2 (1080p)
+http://57.128.210.196:8080/208/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="VOD205.pl@SD",Polonya - VOD 205 (576p)
+http://91.228.35.249:8001/1:0:1:3F:1964:13E:820000:0:0:0
+#EXTINF:-1 group-title="Polonya" tvg-id="VOD206.pl@SD",Polonya - VOD 206 (576p)
+http://91.228.35.249:8001/1:0:1:40:1964:13E:820000:0:0:0
+#EXTINF:-1 group-title="Polonya" tvg-id="VOD207.pl@SD",Polonya - VOD 207 (576p)
+http://91.228.35.249:8001/1:0:1:41:1964:13E:820000:0:0:0
+#EXTINF:-1 group-title="Polonya" tvg-id="VOD208.pl@SD",Polonya - VOD 208 (576p)
+http://91.228.35.249:8001/1:0:1:42:1964:13E:820000:0:0:0
+#EXTINF:-1 group-title="Polonya" tvg-id="FoodNetwork.pl@SD",Polonya - Food Network (1080p)
+http://57.128.231.171:8080/253/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DiscoveryChannel.pl@SD",Polonya - Discovery Channel (1080p)
+http://57.128.231.171:8080/282/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DiscoveryHistoria.pl@SD",Polonya - Discovery Historia (576p)
+http://57.128.231.171:8080/281/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="HGTV.pl@SD",Polonya - HGTV (1080p)
+http://57.128.231.171:8080/241/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="4FunKids.pl@SD",Polonya - 4 Fun Kids (576i)
+https://stream.4fun.tv:8889/hls/4fk.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatPlay.pl@SD",Polonya - Polsat Play (1080p)
+http://57.128.210.196:8080/198/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatNews.pl@SD",Polonya - Polsat News (1080p)
+http://57.128.210.196:8080/199/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatMusic.pl@SD",Polonya - Polsat Music (1080p)
+http://57.128.210.196:8080/201/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam (576p)
+http://57.128.210.196:8080/202/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Polsat.pl@SD",Polonya - Polsat (1080p)
+http://57.128.210.196:8080/203/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatGames.pl@SD",Polonya - Polsat Games (1080p)
+http://57.128.210.196:8080/204/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatFilm.pl@SD",Polonya - Polsat Film (1080p)
+http://57.128.210.196:8080/205/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatDoku.pl@SD",Polonya - Polsat Doku (1080p)
+http://57.128.210.196:8080/206/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatCafe.pl@SD",Polonya - Polsat Cafe (1080p)
+http://57.128.210.196:8080/207/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PoloTV.pl@SD",Polonya - Polo TV (1080p)
+http://57.128.210.196:8080/210/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ParamountNetwork.pl@SD",Polonya - Paramount Network (1080p)
+http://57.128.210.196:8080/212/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TV4.pl@SD",Polonya - TV4 (1080p)
+http://57.128.210.196:8080/161/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="WaterPlanet.pl@SD",Polonya - Water Planet (1080p)
+http://57.128.231.171:8080/122/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Motowizja.pl@SD",Polonya - Motowizja (1080p)
+http://57.128.231.171:8080/230/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="InvestigationDiscovery.pl@SD",Polonya - Investigation Discovery (1080p)
+http://57.128.231.171:8080/239/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="History.pl@SD",Polonya - History (1080p)
+http://57.128.231.171:8080/240/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="History2.pl@SD",Polonya - History 2 (1080p)
+http://57.128.231.171:8080/247/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DisneyXD.pl@SD",Polonya - Disney XD (576p)
+http://57.128.231.171:8080/276/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DisneyChannel.pl@SD",Polonya - Disney Channel (1080p)
+http://57.128.231.171:8080/278/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CBeebies.pl@SD",Polonya - CBeebies (576p)
+http://57.128.231.171:8080/308/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVTrwam.pl@SD",Polonya - TV Trwam (576i)
+http://57.128.231.171:8080/338/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPSeriale.pl@SD",Polonya - TVP Seriale (1080p)
+http://92.114.85.87:8019/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NowaTV.pl@SD",Polonya - Nowa TV (1080p)
+http://92.114.85.87:8001/play/a013/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="StarsTV.pl@SD",Polonya - Stars TV (1080p)
+http://92.114.85.87:8001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ZoomTV.pl@SD",Polonya - Zoom TV (576i)
+http://92.114.85.87:8001/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ElevenSports2.pl@SD",Polonya - Eleven Sports 2 (1080p)
+http://92.114.85.87:8002/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ElevenSports3.pl@SD",Polonya - Eleven Sports 3 (1080p)
+http://92.114.85.87:8002/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ElevenSports4.pl@SD",Polonya - Eleven Sports 4 (1080p)
+http://92.114.85.87:8002/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPABC.pl@SD",Polonya - TVP ABC (576i)
+http://92.114.85.87:8002/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPHistoria.pl@SD",Polonya - TVP Historia (576i)
+http://92.114.85.87:8002/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="WPTV.pl@SD",Polonya - WP TV (576i)
+http://92.114.85.87:8002/play/a008/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="SciFi.pl@SD",Polonya - Sci Fi (1080p)
+http://92.114.85.87:8003/play/a007/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="SundanceTV.pl@SD",Polonya - Sundance TV (576i)
+http://92.114.85.87:8003/play/a004/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CanalPlusNow.pl@SD",Polonya - Canal+ Now (576i)
+http://92.114.85.87:8006/play/a005/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NationalGeographic.pl@SD",Polonya - National Geographic (576i)
+http://92.114.85.87:8006/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPKultura.pl@SD",Polonya - TVP Kultura (1080p)
+http://92.114.85.87:8006/play/a007/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusAction.pl@HD",Polonya - FILMBOX+ Action (720p)
+http://92.114.85.87:8008/play/a007/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusComedy.pl@Poland",Polonya - FILMBOX+ Comedy (720p)
+http://92.114.85.87:8008/play/a009/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusEmotion.pl@Poland",Polonya - FILMBOX+ Emotion (720p)
+http://92.114.85.87:8008/play/a008/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusHits.pl@Poland",Polonya - FILMBOX+ Hits (576i)
+http://92.114.85.87:8008/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="RomanceTV.pl@SD",Polonya - Romance TV (576i)
+http://92.114.85.87:8009/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TeletoonPlus.pl@HD",Polonya - Teletoon+ HD (1080i)
+http://92.114.85.87:8009/play/a006/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="ActiveFamily.pl@HD",Polonya - Active Family HD (1080i)
+http://92.114.85.87:8010/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="HBO.pl@SD",Polonya - HBO (576i)
+http://57.128.231.171:8080/243/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="HBO2.pl@SD",Polonya - HBO 2 (576i)
+http://57.128.231.171:8080/246/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NationalGeographicWild.pl@SD",Polonya - National Geographic Wild (576i)
+http://92.114.85.87:8010/play/a005/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TeenNick.pl@SD",Polonya - TeenNick (576i)
+http://92.114.85.87:8010/play/a009/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TravelChannel.pl@SD",Polonya - Travel Channel (576i)
+http://92.114.85.87:8011/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Polonia1.pl@SD",Polonya - Polonia 1 (576i)
+http://92.114.85.87:8012/play/a006/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="HBO3.pl@SD",Polonya - HBO 3 (1080p)
+http://57.128.231.171:8080/245/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Tele5.pl@SD",Polonya - Tele5 (576i)
+http://92.114.85.87:8012/play/a005/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NickJr.pl@SD",Polonya - Nick Jr. (576i)
+http://92.114.85.87:8013/play/a004/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Nickelodeon.pl@SD",Polonya - Nickelodeon (576i)
+http://92.114.85.87:8013/play/a005/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Nicktoons.pl@SD",Polonya - Nicktoons (576i)
+http://92.114.85.87:8013/play/a008/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="AXNBlack.pl@SD",Polonya - AXN Black (576i)
+http://92.114.85.87:8014/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="AXNWhite.pl@SD",Polonya - AXN White (576i)
+http://92.114.85.87:8014/play/a004/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NewsmaxPolska.pl@SD",Polonya - Newsmax Polska (576i)
+http://92.114.85.87:8014/play/a006/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam (576i)
+http://92.114.85.87:8014/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSeriale.pl@HD",Polonya - Polsat Seriale HD (1080i)
+http://92.114.85.87:8014/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="TVOkazje.pl@SD",Polonya - TV Okazje (576i)
+http://92.114.85.87:8014/play/a008/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="AXNPoland.pl@SD",Polonya - AXN Poland (1080p)
+http://92.114.85.87:8015/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CrimePlusInvestigationPolsat.pl@SD",Polonya - Crime + Investigation Polsat (576i)
+http://92.114.85.87:8015/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Fox.pl@SD",Polonya - Fox (576i)
+http://92.114.85.87:8015/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="History.pl@SD",Polonya - History (576i)
+http://92.114.85.87:8015/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="NatGeoPeople.pl@SD",Polonya - Nat Geo People (576i)
+http://92.114.85.87:8016/play/a003/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="Wydarzenia24.pl@SD",Polonya - Wydarzenia 24 (576i)
+http://92.114.85.87:8016/play/a007/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CANALPlus360.pl@SD",Polonya - CANAL+ 360 (576i)
+http://92.114.85.87:8019/play/a003/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CanalPlusDomo.pl@SD",Polonya - Canal+ Domo (576i)
+http://92.114.85.87:8019/play/a008/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CanalPlusKuchnia.pl@SD",Polonya - Canal+ Kuchnia (576i)
+http://92.114.85.87:8019/play/a009/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CanalPlusSeriale.pl@SD",Polonya - Canal+ Seriale (576i)
+http://57.128.210.196:8080/294/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CanalPlusFilm.pl@SD",Polonya - Canal+ Film (576i)
+http://57.128.210.196:8080/296/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CanalPlusNow.pl@SD",Polonya - Canal+ Now (576i)
+http://57.128.210.196:8080/299/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CANALPlus360.pl@SD",Polonya - CANAL+ 360 (576i)
+http://57.128.210.196:8080/300/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="CanalPlusDokument.pl@SD",Polonya - Canal+ Dokument (576i)
+http://57.128.210.196:8080/301/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="4FunKids.pl@SD",Polonya - 4 Fun Kids
+https://stream.4fun.tv:8889/hd/kids_hd_high.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="V90.pl@SD",Polonya - V90 (1080p)
+http://57.128.231.171:8080/228/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FILMBOXPlusOne.pl@Magyar",Polonya - FILMBOX+ One Magyar
+http://88.212.15.17/live/filmbox_hungary/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="AnimalPlanet.pl@HD",Polonya - Animal Planet HD (1080i)
+http://57.128.231.171:8080/317/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DiscoveryLife.pl@SD",Polonya - Discovery Life SD (576i)
+http://57.128.231.171:8080/280/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="DTX.pl@SD",Polonya - DTX (576i)
+http://57.128.231.171:8080/274/index.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-id="FoxComedy.pl@SD",Polonya - Fox Comedy (576i)
+http://57.128.231.171:8080/250/index.m3u8
+#EXTINF:-1 group-title="San Marino" tvg-id="SanMarinoRTV.sm@SD",San Marino - San Marino RTV (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
+#EXTINF:-1 group-title="San Marino" tvg-id="SanMarinoRTVSport.sm@SD",San Marino - San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="ExodusTV.si@SD",Slovenya - Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="ExodusTV.si@SD",Slovenya - Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="FolxSlovenija.si@SD",Slovenya - Folx Slovenija
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="H2HD.si@SD",Slovenya - H2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="History.si@HD",Slovenya - History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="StarChannel.si@SD",Slovenya - Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01s
+#EXTINF:-1 group-title="Slovenya" tvg-id="StarCrime.si@SD",Slovenya - Star Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02o
+#EXTINF:-1 group-title="Slovenya" tvg-id="StarLife.si@SD",Slovenya - Star Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02n
+#EXTINF:-1 group-title="Slovenya" tvg-id="StarMovies.si@SD",Slovenya - Star Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01o
+#EXTINF:-1 group-title="Slovenya" tvg-id="TrzicTV.si@SD",Slovenya - Tržič TV (1080p) [Not 24/7]
+https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="ViasatKino.ua@Balkan",Slovenya - Viasat Kino Balkan (1080p)
+http://176.61.157.250/TV1000/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="TVSLO1.si@HD",Slovenya - TV SLO 1 HD (1080p) [Not 24/7]
+http://23.88.66.93/SLO1/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="TVSLO2.si@HD",Slovenya - TV SLO 2 HD (1080p) [Not 24/7]
+http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="TelevizijaUrslja.si@SD",Slovenya - TV Uršlja (1080p) [Not 24/7]
+http://ott.sgn.net/hls/tvurslja.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="TVVeseljakGolicaHD.si@SD",Slovenya - TV Veseljak Golica HD
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="ViasatExplore.si@HD",Slovenya - Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="ViasatHistory.si@HD",Slovenya - Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="ViasatNature.si@SD",Slovenya - Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="Slovenya" tvg-id="ArenaSport1Premium.si@SD",Slovenya - Arena Sport 1 Premium
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
+#EXTINF:-1 group-title="Avusturya" tvg-id="AntenneKaernten.at@SD",Avusturya - Antenne Kaernten (720p)
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="AntenneSteiermark.at@SD",Avusturya - Antenne Steiermark (720p)
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="AntenneVorarlberg.at@SD",Avusturya - Antenne Vorarlberg (720p) [Not 24/7]
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="AntenneVorarlberg.at@SD",Avusturya - Antenne Vorarlberg (720p) [Not 24/7]
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="ATV.at@HD",Avusturya - ATV HD (1080p)
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
+#EXTINF:-1 group-title="Avusturya" tvg-id="FS1Salzburg.at@SD",Avusturya - FS1 Salzburg (720p) [Not 24/7]
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="FS1Salzburg.at@SD",Avusturya - FS1 Salzburg (720p) [Not 24/7]
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="FUELTV.pt@EMEA",Avusturya - FUEL TV (1080p)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="HitradioO3.at@SD",Avusturya - Hitradio O3 (720p)
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 group-title="Avusturya" tvg-id="HitradioO3.at@SD",Avusturya - Hitradio O3 (720p)
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="HitradioO3.at@SD",Avusturya - Hitradio Ö3 (720p) [Not 24/7]
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="K19.at@SD",Avusturya - K19
+https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="KTV.at@SD",Avusturya - K-TV (720p)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="KITTV.at@SD",Avusturya - KIT-TV (720p)
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="Kronehit.at@SD",Avusturya - Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="LandleTV.at@SD",Avusturya - Ländle TV (1080p) [Not 24/7]
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="ORF1.at@SD",Avusturya - ORF 1
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="ORF2.at@SD",Avusturya - ORF 2 (720p)
+http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="ORF2.at@HD",Avusturya - ORF 2 (720p)
+https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="ORFIII.at@HD",Avusturya - ORF III HD (720p)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="ORFKids.at@SD",Avusturya - ORF Kids (720p)
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 group-title="Avusturya" tvg-id="P3tv.at@SD",Avusturya - P3tv (720p) [Not 24/7]
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="R9.at@SD",Avusturya - R9 (720p) [Not 24/7]
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@EUMENA",Avusturya - Red Bull TV (1080p)
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@EUMENA",Avusturya - Red Bull TV (1080p)
+https://76b17ec8b2424026b8e1523836cc90e7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-WHALETVPLUS/641/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@SD",Avusturya - Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@SD",Avusturya - Red Bull TV (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@AU",Avusturya - Red Bull TV AU (1080p)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@BR",Avusturya - Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@DE",Avusturya - Red Bull TV DE (1080p)
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@ES",Avusturya - Red Bull TV ES (1080p)
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@SD",Avusturya - Red Bull TV SD (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@UK",Avusturya - Red Bull TV UK (1080p)
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RedBullTV.at@US",Avusturya - Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="RTV.at@SD",Avusturya - RTV (1080p) [Not 24/7]
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="SchladmingDachsteinTV.at@SD",Avusturya - Schladming-Dachstein TV (720p)
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="ServusTV.at@SD",Avusturya - ServusTV (1080p) [Geo-blocked]
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="SteiermarkTV.at@SD",Avusturya - Steiermark TV (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1 group-title="Avusturya" tvg-id="SwamijiTVAmerican.at@SD",Avusturya - Swamiji TV American (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="SwamijiTVAustralian.at@SD",Avusturya - Swamiji TV Australian (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="SwamijiTVEuropean.at@SD",Avusturya - Swamiji TV European (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="TirolTV.at@SD",Avusturya - Tirol TV (720p) [Not 24/7]
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="TV1Oberosterreich.at@SD",Avusturya - TV 1 Oberösterreich (1080p)
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="UpperaBalkan.at@SD",Avusturya - Uppera Balkan (720p) [Geo-blocked]
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-id="W24.at@SD",Avusturya - W24 (720p) [Not 24/7]
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="BHRT.ba@SD",Bosna-Hersek - BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="BHRT.ba@SD",Bosna-Hersek - BHRT (270p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="BHT1.ba@SD",Bosna-Hersek - BHT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="Federalnatelevizija.ba@SD",Bosna-Hersek - Federalna televizija (720p)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="Kanal6.ba@SD",Bosna-Hersek - Kanal 6 (288p)
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="",Bosna-Hersek - Malta (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="MariaPlusVisionMedjugorje.ba@SD",Bosna-Hersek - María+Visión Medjugorje (720p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="NewsmaxBalkans.ba@SD",Bosna-Hersek - Newsmax Balkans (1080p)
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="RTRSplus.ba@SD",Bosna-Hersek - RTRS Plus (576p) [Not 24/7]
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="RTRSTV.ba@SD",Bosna-Hersek - RTRS TV (576p) [Not 24/7]
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="RTVGlasDrine.ba@SD",Bosna-Hersek - RTV Glas Drine (404p) [Not 24/7]
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="RTVHB.ba@SD",Bosna-Hersek - RTV Herceg-Bosne (576p) [Not 24/7]
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="RTVZenica.ba@SD",Bosna-Hersek - RTV Zenica (720p)
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="SuperTV.ba@SD",Bosna-Hersek - Super TV Media (720p)
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="Televizija5.ba@SD",Bosna-Hersek - Televizija 5 (576p)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="TelevizijaM.ba@SD",Bosna-Hersek - Televizija M (1080p)
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="TNTKidsTV.ba@SD",Bosna-Hersek - TNT Kids (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="TVSlonExtra.ba@SD",Bosna-Hersek - TV Slon Extra (1080p) [Not 24/7]
+http://31.47.0.130:8082
