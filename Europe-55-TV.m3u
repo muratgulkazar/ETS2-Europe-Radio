@@ -1,102 +1,158 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DasErste.de@HD" group-title="Almanya",Almanya - Das Erste HD (1080p)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de@SD" group-title="Almanya",Almanya - ZDF
-https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLZwei.de@SD" group-title="Almanya",Almanya - RTL Zwei
-https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" group-title="Almanya",Almanya - ProSieben Maxx (576p)
-https://s6.hopslan.com/pro7maxxX/index.m3u8
-#EXTINF:-1 tvg-id="VOX.de@SD" group-title="Almanya",Almanya - VOX
-https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="WELT.de@SD" group-title="Almanya",Almanya - WELT
-https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" group-title="Almanya",Almanya - DW English (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=109
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de@SD" group-title="Almanya",Almanya - ARD-alpha (720p)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" group-title="Almanya",Almanya - NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" group-title="Almanya",Almanya - SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de@SD" group-title="Almanya",Almanya - Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" group-title="Almanya",Almanya - WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" group-title="Almanya",Almanya - Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="ZDF.de@SD" group-title="Almanya",Almanya - ZDF
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="3sat.de@SD" group-title="Almanya",Almanya - 3sat
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de@SD" group-title="Almanya",Almanya - RTL
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenHD.de@SD" group-title="Almanya",Almanya - SWR Fernsehen HD
+https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="VOX.de@SD" group-title="Almanya",Almanya - VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de@SD" group-title="Almanya",Almanya - RTL Zwei
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="WELT.de@SD" group-title="Almanya",Almanya - WELT
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Nitro.de@SD" group-title="Almanya",Almanya - Nitro
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" group-title="Almanya",Almanya - ProSieben Maxx (576p)
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@HD" group-title="Almanya",Almanya - ProSieben Maxx HD (360p)
+https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8
 #EXTINF:-1 tvg-id="AndorraTV.ad@SD" group-title="Andorra",Andorra - Andorra TV (1080p)
 https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
+#EXTINF:-1 tvg-id="CNA.al@SD" group-title="Arnavutluk",Arnavutluk - CNA (1080p)
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="VizionPlus.al@SD" group-title="Arnavutluk",Arnavutluk - Vizion Plus (1080p)
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-id="RTSH1.al@SD" group-title="Arnavutluk",Arnavutluk - RTSH 1 (1080p)
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH2.al@SD" group-title="Arnavutluk",Arnavutluk - RTSH 2 (1080p)
+http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSH24.al@SD" group-title="Arnavutluk",Arnavutluk - RTSH 24 (1080p)
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSHSport.al@SD" group-title="Arnavutluk",Arnavutluk - RTSH Sport (1080p)
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:-1 tvg-id="A2CNN.al@SD" group-title="Arnavutluk",Arnavutluk - A2 CNN
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.al@SD" group-title="Arnavutluk",Arnavutluk - News 24 Albania (392p)
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="OraNews.al@SD" group-title="Arnavutluk",Arnavutluk - Ora News (720p)
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="VizionPlus.al@SD" group-title="Arnavutluk",Arnavutluk - Vizion Plus (1080p)
-https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al@SD" group-title="Arnavutluk",Arnavutluk - Report TV (720p)
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al@SD" group-title="Arnavutluk",Arnavutluk - Syri (720p)
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al@SD" group-title="Arnavutluk",Arnavutluk - A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kronehit.at@SD" group-title="Avusturya",Avusturya - Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@EUMENA" group-title="Avusturya",Avusturya - Red Bull TV (1080p)
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@AU" group-title="Avusturya",Avusturya - Red Bull TV AU (1080p)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@BR" group-title="Avusturya",Avusturya - Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@DE" group-title="Avusturya",Avusturya - Red Bull TV DE (1080p)
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@ES" group-title="Avusturya",Avusturya - Red Bull TV ES (1080p)
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@UK" group-title="Avusturya",Avusturya - Red Bull TV UK (1080p)
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@US" group-title="Avusturya",Avusturya - Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF1.at@SD" group-title="Avusturya",Avusturya - ORF 1
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF2.at@HD" group-title="Avusturya",Avusturya - ORF 2 (720p)
 https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
-#EXTINF:-1 tvg-id="ORFIII.at@HD" group-title="Avusturya",Avusturya - ORF III HD (720p)
-https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:-1 tvg-id="ATV.at@HD" group-title="Avusturya",Avusturya - ATV HD (1080p)
-http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
-#EXTINF:-1 tvg-id="RedBullTV.at@US" group-title="Avusturya",Avusturya - Red Bull TV US (1080p)
-https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azerbaycan",Azerbaycan - Az TV
-https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Azerbaycan",Azerbaycan - Ictimai TV
-https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az@SD" group-title="Azerbaycan",Azerbaycan - Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-id="AnewZTV.az@SD" group-title="Azerbaycan",Azerbaycan - AnewZ
-https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az@SD" group-title="Azerbaycan",Azerbaycan - Xezer TV (720p)
-https://www.xezerxeber.az/stream/index.m3u8
+#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azerbaycan",Azerbaycan - Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az@SD" group-title="Azerbaycan",Azerbaycan - Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="APATv.az@SD" group-title="Azerbaycan",Azerbaycan - APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-id="AnewZTV.az@SD" group-title="Azerbaycan",Azerbaycan - AnewZ
+https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az@SD" group-title="Azerbaycan",Azerbaycan - Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Azerbaycan",Azerbaycan - Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az@SD" group-title="Azerbaycan",Azerbaycan - Xezer TV (720p)
+https://www.xezerxeber.az/stream/index.m3u8
+#EXTINF:-1 tvg-id="KapazTV.az@SD" group-title="Azerbaycan",Azerbaycan - Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="Belarus1.by@SD" group-title="Belarus",Belarus - Belarus-1 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by@HD" group-title="Belarus",Belarus - Belarus-1 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus2.by@HD" group-title="Belarus",Belarus - Belarus-2 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by@HD" group-title="Belarus",Belarus - Belarus-24 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus5.by@HD" group-title="Belarus",Belarus - Belarus-5 HD (1080p)
-http://178.124.179.122:8080/BT5/index.m3u8
-#EXTINF:-1 tvg-id="Belarus24.by@SD" group-title="Belarus",Belarus - Belarus-24 (576p)
-http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" group-title="Belarus",Belarus - Perviy Informationniy HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LaUne.be@SD" group-title="Belçika",Belçika - La Une (720p)
-http://145.239.5.177/329/index.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by@HD" group-title="Belarus",Belarus - Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 tvg-id="STV.by@HD" group-title="Belarus",Belarus - STV HD (720p)
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus24.by@SD" group-title="Belarus",Belarus - Belarus-24 (576p)
+http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1 tvg-id="LaTrois.be@SD" group-title="Belçika",Belçika - La Trois (1080p)
 http://145.239.5.177/330/index.m3u8
 #EXTINF:-1 tvg-id="BX1.be@SD" group-title="Belçika",Belçika - BX1 (504p)
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="Birleşik Krallık",Birleşik Krallık - BBC One London HD (720p)
-http://193.46.58.239:8080/BBCOneHD/index.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="Birleşik Krallık",Birleşik Krallık - BBC Two HD (720p)
-http://193.46.58.239:8080/BBCTwoHD/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@UKHD" group-title="Birleşik Krallık",Birleşik Krallık - BBC News UK HD (1080p)
-http://45.153.96.44:8001
+#EXTINF:-1 tvg-id="LaUne.be@SD" group-title="Belçika",Belçika - La Une (720p)
+http://145.239.5.177/329/index.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk@SD" group-title="Birleşik Krallık",Birleşik Krallık - GB News (1080p)
+https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TalkTV.uk@SD" group-title="Birleşik Krallık",Birleşik Krallık - TalkTV (1080p)
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" group-title="Birleşik Krallık",Birleşik Krallık - BBC News Europe (576p)
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Channel4.uk@UK" group-title="Birleşik Krallık",Birleşik Krallık - Channel 4 (360p)
 https://lb.iptvnetwork.net/ls28/10104/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk@SD" group-title="Birleşik Krallık",Birleşik Krallık - Channel 5 (360p)
 https://lb.iptvnetwork.net/ls28/10105/playlist.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk@SD" group-title="Birleşik Krallık",Birleşik Krallık - GB News (1080p)
-https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
-#EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" group-title="Birleşik Krallık",Birleşik Krallık - Sky News Weather (720p)
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TalkTV.uk@SD" group-title="Birleşik Krallık",Birleşik Krallık - TalkTV (1080p)
-https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCParliament.uk@SD" group-title="Birleşik Krallık",Birleşik Krallık - BBC Parliament
-https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" group-title="Birleşik Krallık",Birleşik Krallık - BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="Birleşik Krallık",Birleşik Krallık - BBC One London HD (720p)
+http://193.46.58.239:8080/BBCOneHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" group-title="Birleşik Krallık",Birleşik Krallık - BBC Three/CBBC (720p)
+http://193.46.58.239:8080/CBBCHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="Birleşik Krallık",Birleşik Krallık - BBC Two HD (720p)
+http://193.46.58.239:8080/BBCTwoHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@UKHD" group-title="Birleşik Krallık",Birleşik Krallık - BBC News UK HD (1080p)
+http://45.153.96.44:8001
+#EXTINF:-1 tvg-id="BBCFour.uk@UK" group-title="Birleşik Krallık",Birleşik Krallık - BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@London" group-title="Birleşik Krallık",Birleşik Krallık - BBC One
+https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCParliament.uk@SD" group-title="Birleşik Krallık",Birleşik Krallık - BBC Parliament
+https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCThree.uk@HD" group-title="Birleşik Krallık",Birleşik Krallık - BBC Three HD
+https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@Wales" group-title="Birleşik Krallık",Birleşik Krallık - BBC Two Wales
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland" group-title="Birleşik Krallık",Birleşik Krallık - BBC Two Northern Ireland
+https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" group-title="Bosna-Hersek",Bosna-Hersek - Newsmax Balkans (1080p)
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 tvg-id="BHT1.ba@SD" group-title="Bosna-Hersek",Bosna-Hersek - BHT 1 (720p)
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" group-title="Bosna-Hersek",Bosna-Hersek - Federalna televizija (720p)
 http://185.81.240.65:15000/udp/233.233.233.39:12000
-#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" group-title="Bosna-Hersek",Bosna-Hersek - Newsmax Balkans (1080p)
-https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 tvg-id="BNT1.bg@SD" group-title="Bulgaristan",Bulgaristan - BNT 1 (1080p)
 https://shift03.isp.bg/BNT1_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT2.bg@SD" group-title="Bulgaristan",Bulgaristan - BNT 2 (1080p)
@@ -107,166 +163,224 @@ https://shift03.isp.bg/BNT3_HD/index.m3u8
 https://shift03.isp.bg/BNT4_HD/index.m3u8
 #EXTINF:-1 tvg-id="bTV.bg@SD" group-title="Bulgaristan",Bulgaristan - bTV
 http://213.91.179.28:8000/play/a03w
-#EXTINF:-1 tvg-id="KinoNova.bg@SD" group-title="Bulgaristan",Bulgaristan - Kino Nova
-http://213.91.179.28:8000/play/a041
-#EXTINF:-1 tvg-id="NovaNews.bg@SD" group-title="Bulgaristan",Bulgaristan - Nova News
-http://213.91.179.28:8000/play/a063
 #EXTINF:-1 tvg-id="BulgariaOnAir.bg@SD" group-title="Bulgaristan",Bulgaristan - Bulgaria On Air
 http://213.91.179.28:8000/play/a05x
+#EXTINF:-1 tvg-id="Diema.bg@SD" group-title="Bulgaristan",Bulgaristan - Diema
+http://213.91.179.28:8000/play/a045
+#EXTINF:-1 tvg-id="DiemaFamily.bg@SD" group-title="Bulgaristan",Bulgaristan - Diema Family
+http://213.91.179.28:8000/play/a047
 #EXTINF:-1 tvg-id="EuronewsBulgaria.bg@SD" group-title="Bulgaristan",Bulgaristan - Euronews Bulgaria
 http://213.91.179.28:8000/play/a05e
+#EXTINF:-1 tvg-id="Nova.bg@SD" group-title="Bulgaristan",Bulgaristan - Nova
+http://213.91.179.28:8000/play/a03l
 #EXTINF:-1 tvg-id="DRTV.dk@SD" group-title="Danimarka",Danimarka - DRTV (1080p)
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am@SD" group-title="Ermenistan",Ermenistan - Armenia 1 (1080p)
+https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am@America" group-title="Ermenistan",Ermenistan - Armenia 1 America (1080p)
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenia1.am@Sattelite" group-title="Ermenistan",Ermenistan - Armenia 1 Sattelite (1080p)
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenia2.am@SD" group-title="Ermenistan",Ermenistan - Armenia 2 (1080p)
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="FirstChannelNews.am@SD" group-title="Ermenistan",Ermenistan - First Channel News
-https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ShantTV.am@SD" group-title="Ermenistan",Ermenistan - Shant TV (1080p)
-http://stream.mcquack.net/37/index.m3u8
+#EXTINF:-1 tvg-id="FirstChannelNews.am@SD" group-title="Ermenistan",Ermenistan - First Channel News (1080p)
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 #EXTINF:-1 tvg-id="KentronTV.am@SD" group-title="Ermenistan",Ermenistan - Kentron TV (1080p)
 http://stream.mcquack.net/39/index.m3u8
-#EXTINF:-1 tvg-id="ETVPlus.ee@SD" group-title="Estonya",Estonya - ETV+ (720p)
-https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 tvg-id="ETV2.ee@SD" group-title="Estonya",Estonya - ETV2 (720p)
-https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="ShantTV.am@SD" group-title="Ermenistan",Ermenistan - Shant TV (1080p)
+http://stream.mcquack.net/37/index.m3u8
+#EXTINF:-1 tvg-id="YerkirMedia.am@SD" group-title="Ermenistan",Ermenistan - Yerkir Media (1080p)
+http://yerkirmedia.am/yerkirmedia/live.m3u8
 #EXTINF:-1 tvg-id="Go3Sport1.ee@SD" group-title="Estonya",Estonya - Go3 Sport 1 (1080p)
 http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-id="ETV2.ee@SD" group-title="Estonya",Estonya - ETV2 (720p)
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="ETVPlus.ee@SD" group-title="Estonya",Estonya - ETV+ (720p)
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-id="Riigikogu.ee@SD" group-title="Estonya",Estonya - Riigikogu (720p)
+https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
 #EXTINF:-1 tvg-id="MTV3.fi@SD" group-title="Finlandiya",Finlandiya - MTV3 (720p)
 https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-id="MTVAva.fi@SD" group-title="Finlandiya",Finlandiya - MTV Ava (720p)
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:-1 tvg-id="MTVSub.fi@SD" group-title="Finlandiya",Finlandiya - MTV Sub (720p)
+https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 tvg-id="MTVUutiset.fi@SD" group-title="Finlandiya",Finlandiya - MTV Uutiset (720p)
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="Nelonen.fi@SD" group-title="Finlandiya",Finlandiya - Nelonen (720p)
 https://live-fi.tvkaista.net/nelonen/live.m3u8
-#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="Fransa",Fransa - TF1 (576p)
-https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" group-title="Fransa",Fransa - France 24 (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
-#EXTINF:-1 tvg-id="France3.fr@CotedAzur" group-title="Fransa",Fransa - France 3 Cote d'Azur
-http://89.187.185.76:8080/France3/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" group-title="Fransa",Fransa - France 24 English (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=96
-#EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="Fransa",Fransa - BFM TV (576p)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="CNews.fr@SD" group-title="Fransa",Fransa - CNews (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD" group-title="Fransa",Fransa - CNEWS PRIME (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
-#EXTINF:-1 tvg-id="LCI.fr@HD" group-title="Fransa",Fransa - LCI HD (1080p)
-http://145.239.5.177/368/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="Fransa",Fransa - France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="Fransa",Fransa - France 24 English (1080p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="Fransa",Fransa - France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="Fransa",Fransa - France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" group-title="Fransa",Fransa - Franceinfo (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="Fransa",Fransa - France 24 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 tvg-id="France3.fr@Lorraine" group-title="Fransa",Fransa - France 3 Lorraine (1080p)
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr@HD" group-title="Fransa",Fransa - LCI HD (1080p)
+http://145.239.5.177/368/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@EnglishHD" group-title="Fransa",Fransa - France 24 English HD (1080p)
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" group-title="Fransa",Fransa - BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="Fransa",Fransa - BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" group-title="Fransa",Fransa - Euronews French (720p)
-https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="Fransa",Fransa - France 24 Spanish (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="Fransa",Fransa - TF1 (576p)
+https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD" group-title="Fransa",Fransa - arte (720p)
+http://145.239.5.177/300/index.m3u8
+#EXTINF:-1 tvg-id="France3.fr@CotedAzur" group-title="Fransa",Fransa - France 3 Cote d'Azur
+http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 tvg-id="Formula.ge@SD" group-title="Gürcistan",Gürcistan - Formula (1080p)
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" group-title="Gürcistan",Gürcistan - Imedi TV (1080p)
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-id="1TV.ge@SD" group-title="Gürcistan",Gürcistan - 1TV (720p)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="2TV.ge@SD" group-title="Gürcistan",Gürcistan - 2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="ImediTV.ge@SD" group-title="Gürcistan",Gürcistan - Imedi TV (1080p)
-https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-id="Rustavi2.ge@SD" group-title="Gürcistan",Gürcistan - Rustavi 2
-http://31.146.5.178:8087/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Formula.ge@SD" group-title="Gürcistan",Gürcistan - Formula (1080p)
-https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" group-title="Gürcistan",Gürcistan - Euronews Georgia
-http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 #EXTINF:-1 tvg-id="Adjarasport1.ge@SD" group-title="Gürcistan",Gürcistan - Adjarasport 1
 https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" group-title="Gürcistan",Gürcistan - Rustavi 2
+http://31.146.5.178:8087/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" group-title="Gürcistan",Gürcistan - Euronews Georgia
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 #EXTINF:-1 tvg-id="TVPirveli.ge@SD" group-title="Gürcistan",Gürcistan - TV Pirveli
 http://nue01-edge01.itdc.ge/pirvelitv/mpegts
-#EXTINF:-1 tvg-id="NPO1.nl@SD" group-title="Hollanda",Hollanda - NPO 1 (360p)
-https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabant.nl@SD" group-title="Hollanda",Hollanda - Omroep Brabant (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabantRadio.nl@SD" group-title="Hollanda",Hollanda - Omroep Brabant Radio (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-id="OmroepGelderland.nl@HD" group-title="Hollanda",Hollanda - Omroep Gelderland HD (1080p)
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:-1 tvg-id="OmroepZeeland.nl@SD" group-title="Hollanda",Hollanda - Omroep Zeeland (1080p)
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 #EXTINF:-1 tvg-id="AT5.nl@SD" group-title="Hollanda",Hollanda - AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="OmroepDommelland.nl@SD" group-title="Hollanda",Hollanda - Omroep Dommelland (720p)
+https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
+#EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl@SD" group-title="Hollanda",Hollanda - Omroep Hoeksche Waard (480p)
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepLandvanCuijk.nl@SD" group-title="Hollanda",Hollanda - Omroep Land van Cuijk (720p)
+https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" group-title="Hollanda",Hollanda - Omroep Lingewaard (720p)
+https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepMeierijstad.nl@SD" group-title="Hollanda",Hollanda - Omroep Meierijstad (480p)
+https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepOnsWestBrabant.nl@SD" group-title="Hollanda",Hollanda - Omroep Ons West Brabant (480p)
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepPeelrand.nl@SD" group-title="Hollanda",Hollanda - Omroep Peelrand (720p)
+https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepSudwest.nl@SD" group-title="Hollanda",Hollanda - Omroep Súdwest (720p)
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+#EXTINF:-1 tvg-id="OmroepTilburg.nl@SD" group-title="Hollanda",Hollanda - Omroep Tilburg TV (480p)
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepVenlo.nl@SD" group-title="Hollanda",Hollanda - Omroep Venlo (720p)
+https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+#EXTINF:-1 tvg-id="OmroepVenray.nl@SD" group-title="Hollanda",Hollanda - Omroep Venray (720p)
+https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+#EXTINF:-1 tvg-id="NPO1.nl@SD" group-title="Hollanda",Hollanda - NPO 1 (360p)
+https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr@SD" group-title="Hırvatistan",Hırvatistan - CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="NovaTV.hr@SD" group-title="Hırvatistan",Hırvatistan - Nova TV (1080p)
+http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:-1 tvg-id="HRT1.hr@SD" group-title="Hırvatistan",Hırvatistan - HRT 1 (720p)
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
 #EXTINF:-1 tvg-id="HRT2.hr@SD" group-title="Hırvatistan",Hırvatistan - HRT 2 (720p)
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
-#EXTINF:-1 tvg-id="NovaTV.hr@SD" group-title="Hırvatistan",Hırvatistan - Nova TV (1080p)
-http://176.61.157.250/NovaTV/index.m3u8
-#EXTINF:-1 tvg-id="CMCTV.hr@SD" group-title="Hırvatistan",Hırvatistan - CMC TV (1080p)
-https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr@SD" group-title="Hırvatistan",Hırvatistan - HRT 3 (720p)
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me@SD" group-title="Karadağ",Karadağ - TVCG MNE (1080p)
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
-#EXTINF:-1 tvg-id="QazSport.kz@SD" group-title="Kazakistan",Kazakistan - QazSport (576p)
-https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Channel7.kz@SD" group-title="Kazakistan",Kazakistan - Channel 7 (576p)
-https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="31Kanal.kz@SD" group-title="Kazakistan",Kazakistan - 31 Kanal (576p)
-https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="JibekJoly.kz@SD" group-title="Kazakistan",Kazakistan - Jibek Joly (576p)
-https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="KTK.kz@SD" group-title="Kazakistan",Kazakistan - KTK (576p)
-https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="AstanaTV.kz@SD" group-title="Kazakistan",Kazakistan - Astana TV (576p)
-https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Khabar.kz@SD" group-title="Kazakistan",Kazakistan - Khabar (576p)
-https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="AbaiTV.kz@SD" group-title="Kazakistan",Kazakistan - Abai TV (576p)
-https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kanal5.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Kanal 5 (360p)
 https://s2.teve.mk/tvstanici/2/playlist.m3u8
-#EXTINF:-1 tvg-id="Sitel.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Sitel (480p)
-https://teve.mk/tvstanici/s1/playlist.m3u8
 #EXTINF:-1 tvg-id="MNetInfo.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - M-Net Info
 https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - M-Net Sport
+https://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="Sitel.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Sitel (480p)
+https://teve.mk/tvstanici/s1/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Arena Sport Premium M1
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
+#EXTINF:-1 tvg-id="ArenaSportPremiumM2.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Arena Sport Premium M2
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4
+#EXTINF:-1 tvg-id="ArenaSportPremiumM3.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Arena Sport Premium M3
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" group-title="Kıbrıs",Kıbrıs - ANT1 Cyprus (1080p)
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="OmegaChannel.cy@SD" group-title="Kıbrıs",Kıbrıs - Omega Channel (576i)
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-id="RIK1.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK 1
 http://213.7.216.229:8888/udp/239.23.0.1:1234
 #EXTINF:-1 tvg-id="RIK2.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK 2
 http://213.7.216.229:8888/udp/239.23.0.2:1234
 #EXTINF:-1 tvg-id="RIKHD.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK HD
 http://213.7.216.229:8888/udp/239.23.0.5:1234
-#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" group-title="Kıbrıs",Kıbrıs - ANT1 Cyprus (1080p)
-http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="OmegaChannel.cy@SD" group-title="Kıbrıs",Kıbrıs - Omega Channel (576i)
-https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-id="LTV1.lv@SD" group-title="Letonya",Letonya - LTV1 (1080p)
 https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LTV7.lv@SD" group-title="Letonya",Letonya - LTV7 (1080p)
 https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3Life.lv@SD" group-title="Letonya",Letonya - TV3 Life (1080p)
-http://stream.mcquack.net/373/index.m3u8
 #EXTINF:-1 tvg-id="ReTV.lv@SD" group-title="Letonya",Letonya - Re TV (1080p)
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3Life.lv@SD" group-title="Letonya",Letonya - TV3 Life (1080p)
+http://stream.mcquack.net/373/index.m3u8
 #EXTINF:-1 tvg-id="TVNET.lv@SD" group-title="Letonya",Letonya - TVNET (360p)
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:-1 tvg-id="LRTTV.lt@SD" group-title="Litvanya",Litvanya - LRT TV (1080p)
-http://stream.mcquack.net/31/index.m3u8
-#EXTINF:-1 tvg-id="LRTPlius.lt@SD" group-title="Litvanya",Litvanya - LRT Plius (1080p)
-http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="LNK.lt@SD" group-title="Litvanya",Litvanya - LNK (1080p)
 http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" group-title="Litvanya",Litvanya - LRT Plius (1080p)
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 tvg-id="LRTTV.lt@SD" group-title="Litvanya",Litvanya - LRT TV (1080p)
+http://stream.mcquack.net/31/index.m3u8
 #EXTINF:-1 tvg-id="TV3.lt@SD" group-title="Litvanya",Litvanya - TV3 (1080p)
 http://stream.mcquack.net/29/index.m3u8
-#EXTINF:-1 tvg-id="BTV.lt@SD" group-title="Litvanya",Litvanya - BTV (576p)
-http://stream.mcquack.net/35/index.m3u8
 #EXTINF:-1 tvg-id="DelfiTV.lt@SD" group-title="Litvanya",Litvanya - Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV.lt@SD" group-title="Litvanya",Litvanya - BTV (576p)
+http://stream.mcquack.net/35/index.m3u8
 #EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Télé Lëtzebuerg (1080p)
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLZwee.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Zwee (1080p)
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="TodayRadio.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Today Radio (720p)
-https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="LuxeTV.lu@SD" group-title="Lüksemburg",Lüksemburg - Luxe TV (1080p)
 http://103.154.3.101:5001/live/1736.m3u8
-#EXTINF:-1 tvg-id="M1.hu@HD" group-title="Macaristan",Macaristan - M1 HD
-http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Today Radio (720p)
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="M2.hu@SD" group-title="Macaristan",Macaristan - M2 (1080p)
 http://88.212.15.17/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-id="M4Sport.hu@SD" group-title="Macaristan",Macaristan - M4 Sport (1080p)
+http://88.212.15.17/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 tvg-id="ATV.hu@SD" group-title="Macaristan",Macaristan - ATV
+http://88.212.15.17/live/test_atv_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Duna.hu@SD" group-title="Macaristan",Macaristan - Duna
 http://88.212.15.17/live/duna_hun/index.m3u8
-#EXTINF:-1 tvg-id="RTLGold.hu@SD" group-title="Macaristan",Macaristan - RTL Gold
-https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVSpirit.hu@SD" group-title="Macaristan",Macaristan - ATV Spirit (360p)
-https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="M4Sport.hu@SD" group-title="Macaristan",Macaristan - M4 Sport
-http://88.212.15.17/live/m4_hun/index.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu@SD" group-title="Macaristan",Macaristan - Duna World
+http://88.212.15.17/live/duna_world_hun/index.m3u8
+#EXTINF:-1 tvg-id="M1.hu@HD" group-title="Macaristan",Macaristan - M1 HD
+http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.hu@SD" group-title="Macaristan",Macaristan - RTL
+http://88.212.15.17/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.hu@SD" group-title="Macaristan",Macaristan - Sport 1
 http://88.212.15.17/live/sport1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.hu@SD" group-title="Macaristan",Macaristan - Sport 2
 http://88.212.15.17/live/sport2_hun/index.m3u8
+#EXTINF:-1 tvg-id="TV2.hu@SD" group-title="Macaristan",Macaristan - TV2
+http://88.212.15.17/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="One.mt@SD" group-title="Malta",Malta - One
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-id="SmashTV.mt@SD" group-title="Malta",Malta - Smash TV (720p)
@@ -275,38 +389,62 @@ https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-id="Moldova2.md@SD" group-title="Moldova",Moldova - Moldova 2 (1080p)
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md@HD" group-title="Moldova",Moldova - TVR Moldova HD (1440p)
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="PROTVChisinau.md@SD" group-title="Moldova",Moldova - PRO TV Chisinau (480p)
 https://stream.protv.md/live/sursa-1/index.m3u8
-#EXTINF:-1 tvg-id="TVRMoldova.md@HD" group-title="Moldova",Moldova - TVR Moldova HD (1080p)
-https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.md@SD" group-title="Moldova",Moldova - Rlive TV (406p)
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md@SD" group-title="Moldova",Moldova - TVR Moldova (720p)
+https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
 #EXTINF:-1 tvg-id="MonacoInfo.mc@SD" group-title="Monako",Monako - Monaco Info (1080p)
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc@SD" group-title="Monako",Monako - TV Monaco (1080p)
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-id="TVOstfold.no@SD" group-title="Norveç",Norveç - TV Østfold (1080p)
+https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-id="Frikanalen.no@SD" group-title="Norveç",Norveç - Frikanalen (720p)
 https://frikanalen.no/stream/index.m3u8
-#EXTINF:-1 tvg-id="TVP1.pl@SD" group-title="Polonya",Polonya - TVP1
-http://92.114.85.87:8009/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="TVP1.pl@SD" group-title="Polonya",Polonya - TVP1 (1080p)
+http://57.128.210.196:8080/144/index.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl@SD" group-title="Polonya",Polonya - TVP2 (1080p)
 http://57.128.210.196:8080/143/index.m3u8
 #EXTINF:-1 tvg-id="TVPSport.pl@SD" group-title="Polonya",Polonya - TVP Sport (1080p)
 http://57.128.210.196:8080/134/index.m3u8
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD" group-title="Polonya",Polonya - Polsat News (1080p)
 http://57.128.210.196:8080/199/index.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD" group-title="Polonya",Polonya - Polsat Viasat History (1080p)
-http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+#EXTINF:-1 tvg-id="TVPKultura.pl@SD" group-title="Polonya",Polonya - TVP Kultura (1080p)
+http://92.114.85.87:8006/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="TVP3Warszawa.pl@SD" group-title="Polonya",Polonya - TVP 3 Warszawa
 http://92.114.85.87:8010/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD" group-title="Portekiz",Portekiz - SIC Alta Definição (1080p)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-id="SICReplay.pt@SD" group-title="Portekiz",Portekiz - SIC Replay (1080p)
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" group-title="Portekiz",Portekiz - V+ TVI (720p)
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt@SD" group-title="Portekiz",Portekiz - Porto Canal (720p)
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt@SD" group-title="Portekiz",Portekiz - TVI (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" group-title="Portekiz",Portekiz - TVI Ficção (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt@SD" group-title="Portekiz",Portekiz - CNN Portugal
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt@SD" group-title="Portekiz",Portekiz - Sport TV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt@SD" group-title="Portekiz",Portekiz - Porto Canal (720p)
-https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICMulher.pt@SD" group-title="Portekiz",Portekiz - SIC Mulher
+http://zntx.dyndns.org:8085/hls/sicm.m3u8
+#EXTINF:-1 tvg-id="SICRadical.pt@SD" group-title="Portekiz",Portekiz - SIC Radical
+http://znty.dyndns.org:5010/hls/sicr.m3u8
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" group-title="Romanya",Romanya - Pro TV News (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="AlephNews.ro@SD" group-title="Romanya",Romanya - Aleph News (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro@SD" group-title="Romanya",Romanya - Digi 24 (720p)
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-id="ObservatorNews.ro@SD" group-title="Romanya",Romanya - Observator News (360p)
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" group-title="Romanya",Romanya - Realitatea Plus (720p)
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD" group-title="Romanya",Romanya - TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD" group-title="Romanya",Romanya - TVR 2
@@ -315,175 +453,185 @@ https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" group-title="Romanya",Romanya - TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Digi24.ro@SD" group-title="Romanya",Romanya - Digi 24 (720p)
-https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1 tvg-id="PROTVNews.ro@SD" group-title="Romanya",Romanya - Pro TV News (1080p)
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="Antena1.ro@SD" group-title="Romanya",Romanya - Antena 1
 https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
-#EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" group-title="Romanya",Romanya - Realitatea Plus (720p)
-https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="AlephNews.ro@SD" group-title="Romanya",Romanya - Aleph News (720p)
-https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ObservatorNews.ro@SD" group-title="Romanya",Romanya - Observator News (360p)
-https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro@HD" group-title="Romanya",Romanya - Digi 24 HD (1080i)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Izvestia.ru@SD" group-title="Rusya",Rusya - Известия (1080p)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="360News.ru@SD" group-title="Rusya",Rusya - 360° Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@HD" group-title="Rusya",Rusya - Channel One HD (720p)
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@Europa" group-title="Rusya",Rusya - Channel One Europa (480p)
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="360News.ru@SD" group-title="Rusya",Rusya - 360° Новости
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
-#EXTINF:-1 tvg-id="Izvestia.ru@SD" group-title="Rusya",Rusya - Известия (1080p)
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="SanMarinoRTV.sm@SD" group-title="San Marino",San Marino - San Marino RTV (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm@SD" group-title="San Marino",San Marino - San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 tvg-id="Jednotka.sk@SD" group-title="Slovakya",Slovakya - Jednotka
-http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Dvojka.sk@SD" group-title="Slovakya",Slovakya - Dvojka
-http://88.212.15.17/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="24.sk@SD" group-title="Slovakya",Slovakya - :24 (1080p)
 http://88.212.15.17/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.sk@SD" group-title="Slovakya",Slovakya - :Šport (1080p)
 http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.sk@SD" group-title="Slovakya",Slovakya - Arena Sport 1
 http://88.212.15.17/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.sk@SD" group-title="Slovakya",Slovakya - Arena Sport 2
+http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-id="Dvojka.sk@SD" group-title="Slovakya",Slovakya - Dvojka
+http://88.212.15.17/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Jednotka.sk@SD" group-title="Slovakya",Slovakya - Jednotka
+http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" group-title="Slovakya",Slovakya - Canal+ Sport SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="ArenaSport1Premium.si@SD" group-title="Slovenya",Slovenya - Arena Sport 1 Premium
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
-#EXTINF:-1 tvg-id="RTS1.rs@SD" group-title="Sırbistan",Sırbistan - RTS 1
-https://de1.dstv.cx/RTS1HD/index.m3u8
 #EXTINF:-1 tvg-id="RTS2.rs@SD" group-title="Sırbistan",Sırbistan - RTS 2 (1080p)
 https://de1.dstv.cx/RTS2HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS1.rs@SD" group-title="Sırbistan",Sırbistan - RTS 1
+https://de1.dstv.cx/RTS1HD/index.m3u8
 #EXTINF:-1 tvg-id="RTS3.rs@SD" group-title="Sırbistan",Sırbistan - RTS 3 (720p)
 http://185.81.240.65:15000/udp/233.233.233.36:12000
-#EXTINF:-1 tvg-id="Pink.rs@SD" group-title="Sırbistan",Sırbistan - Pink (720p)
-https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:-1 tvg-id="PrvaWorld.rs@SD" group-title="Sırbistan",Sırbistan - Prva World (1080p)
-https://de1.dstv.cx/PrvaWorld/index.m3u8
-#EXTINF:-1 tvg-id="Nova.rs@SD" group-title="Sırbistan",Sırbistan - Nova (1080p)
-https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" group-title="Sırbistan",Sırbistan - Arena Sport 1 Premium (360p)
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
-#EXTINF:-1 tvg-id="TRT1.tr@SD" group-title="Türkiye",Türkiye - TRT 1 (1440p)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr@SD" group-title="Türkiye",Türkiye - TRT Haber (720p)
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr@SD" group-title="Türkiye",Türkiye - TRT Spor (720p)
-https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr@SD" group-title="Türkiye",Türkiye - A Haber (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" group-title="Türkiye",Türkiye - A Spor (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="NTV.tr@SD" group-title="Türkiye",Türkiye - NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Türkiye",Türkiye - Bloomberg HT (720p)
-https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
-#EXTINF:-1 tvg-id="TVNET.tr@SD" group-title="Türkiye",Türkiye - TVNET (1080p)
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr@SD" group-title="Türkiye",Türkiye - Halk TV (1080p)
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr@SD" group-title="Türkiye",Türkiye - TGRT Haber (720p)
-https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-id="ATVAvrupa.tr@SD" group-title="Türkiye",Türkiye - ATV Avrupa (576p)
-https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" group-title="Türkiye",Türkiye - Kanal D Drama (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="Türkiye",Türkiye - Star TV (720p)
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-#EXTINF:-1 tvg-id="NOWTV.tr@SD" group-title="Türkiye",Türkiye - NOW TV (720p)
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr@SD" group-title="Türkiye",Türkiye - HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="TRT1.tr@SD" group-title="Türkiye",Türkiye - TRT 1 (1440p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TVNET.tr@SD" group-title="Türkiye",Türkiye - TVNET (1080p)
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr@SD" group-title="Türkiye",Türkiye - NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="NTV.tr@SD" group-title="Türkiye",Türkiye - NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="Türkiye",Türkiye - Star TV (720p)
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+#EXTINF:-1 tvg-id="TGRTHaber.tr@SD" group-title="Türkiye",Türkiye - TGRT Haber (720p)
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr@SD" group-title="Türkiye",Türkiye - TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr@SD" group-title="Türkiye",Türkiye - TRT Spor (720p)
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Türkiye",Türkiye - Bloomberg HT (720p)
+https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Türkiye",Türkiye - FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1Plus1Ukraina.ua@SD" group-title="Ukrayna",Ukrayna - 1+1 Ukraina (1080p)
-http://stream.mcquack.net/219/index.m3u8
-#EXTINF:-1 tvg-id="24Kanal.ua@SD" group-title="Ukrayna",Ukrayna - 24 Kanal (720p)
-https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.ua@SD" group-title="Ukrayna",Ukrayna - Channel 5 (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
-#EXTINF:-1 tvg-id="FREEDOM.ua@SD" group-title="Ukrayna",Ukrayna - Freedom (FREEДOM) (UATV) (720p)
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" group-title="Ukrayna",Ukrayna - Espreso TV (1080p)
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" group-title="Ukrayna",Ukrayna - FREEDOM (1080p)
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="1Plus1Ukraina.ua@SD" group-title="Ukrayna",Ukrayna - 1+1 Ukraina (1080p)
+http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 tvg-id="ICTV.ua@SD" group-title="Ukrayna",Ukrayna - ICTV (1080p)
 http://stream.mcquack.net/158/index.m3u8
-#EXTINF:-1 tvg-id="RAZ3International.ua@SD" group-title="Ukrayna",Ukrayna - RAZ 3 International
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadaTV.ua@SD" group-title="Ukrayna",Ukrayna - Rada TV (720p)
-https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SuspilneKyiv.ua@SD" group-title="Ukrayna",Ukrayna - Suspilne. Kyiv (360p)
-https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
-#EXTINF:-1 tvg-id="MyUkrainaPlus.ua@SD" group-title="Ukrayna",Ukrayna - My Ukraina+
-https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 tvg-id="ICTV2.ua@SD" group-title="Ukrayna",Ukrayna - ICTV2 (1080p)
+http://stream.mcquack.net/368/index.m3u8
+#EXTINF:-1 tvg-id="MaincastSport.ua@SD" group-title="Ukrayna",Ukrayna - Maincast Sport (1080p)
+http://stream.mcquack.net/490/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" group-title="Ukrayna",Ukrayna - Setanta Sports+ Ukraine (1080p)
 http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneKrym.ua@SD" group-title="Ukrayna",Ukrayna - Suspilne. Krym (1080p)
+http://stream.mcquack.net/436/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneKultura.ua@SD" group-title="Ukrayna",Ukrayna - Suspilne. Kultura (1080p)
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneSport.ua@SD" group-title="Ukrayna",Ukrayna - Suspilne. Sport (1080p)
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 tvg-id="24Kanal.ua@SD" group-title="Ukrayna",Ukrayna - 24 Kanal (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MyUkrainaPlus.ua@SD" group-title="Ukrayna",Ukrayna - My Ukraina+
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 tvg-id="SuspilneKyiv.ua@SD" group-title="Ukrayna",Ukrayna - Suspilne. Kyiv (360p)
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+#EXTINF:-1 tvg-id="RadaTV.ua@SD" group-title="Ukrayna",Ukrayna - Rada TV (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SuspilneDonbas.ua@SD" group-title="Ukrayna",Ukrayna - Suspilne. Donbas (576p)
+http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
+#EXTINF:-1 tvg-id="AlphaTV.gr@SD" group-title="Yunanistan",Yunanistan - Alpha TV (1080p)
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr@HD" group-title="Yunanistan",Yunanistan - ERT News HD (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 tvg-id="SkaiTV.gr@SD" group-title="Yunanistan",Yunanistan - Skai TV (720p)
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="ERTSports1.gr@HD" group-title="Yunanistan",Yunanistan - ERT Sports 1 (1080p)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 tvg-id="ERTSports2.gr@HD" group-title="Yunanistan",Yunanistan - ERT Sports 2 (1080p)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:-1 tvg-id="AlphaTV.gr@SD" group-title="Yunanistan",Yunanistan - Alpha TV (1080p)
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SkaiTV.gr@SD" group-title="Yunanistan",Yunanistan - Skai TV (720p)
-http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-id="BarrandovKrimi.cz@SD" group-title="Çekya",Çekya - Barrandov Krimi (1080p)
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" group-title="Çekya",Çekya - CNN Prima News (1080p)
+http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-id="CT24.cz@SD" group-title="Çekya",Çekya - ČT24 (1080p)
+http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CT1.cz@SD" group-title="Çekya",Çekya - ČT 1
 http://88.212.15.17/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2.cz@SD" group-title="Çekya",Çekya - ČT 2
 http://88.212.15.17/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CT24.cz@SD" group-title="Çekya",Çekya - ČT24 (1080p)
-http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz@SD" group-title="Çekya",Çekya - ČT Sport (720p)
 http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" group-title="Çekya",Çekya - CNN Prima News (1080p)
-http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima.cz@SD" group-title="Çekya",Çekya - Prima (1080p)
-http://88.212.15.17/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TG4.ie@SD" group-title="İrlanda",İrlanda - TG4 (1080p)
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+#EXTINF:-1 tvg-id="OireachtasTV.ie@SD" group-title="İrlanda",İrlanda - Oireachtas TV (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom1.ie@SD" group-title="İrlanda",İrlanda - Oireachtas TV Committee Room 1 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom2.ie@SD" group-title="İrlanda",İrlanda - Oireachtas TV Committee Room 2 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom3.ie@SD" group-title="İrlanda",İrlanda - Oireachtas TV Committee Room 3 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom4.ie@SD" group-title="İrlanda",İrlanda - Oireachtas TV Committee Room 4 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVDailEireann.ie@SD" group-title="İrlanda",İrlanda - Oireachtas TV Dáil Éireann (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
 #EXTINF:-1 tvg-id="OireachtasTVSeanadEireann.ie@SD" group-title="İrlanda",İrlanda - Oireachtas TV Seanad Éireann (720p)
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
-#EXTINF:-1 tvg-id="La1Catalunya.es@SD" group-title="İspanya",İspanya - La 1 Catalunya (720p)
-https://ztnr.rtve.es/ztnr/3293681.m3u8
-#EXTINF:-1 tvg-id="La2Catalunya.es@SD" group-title="İspanya",İspanya - La 2 Catalunya (720p)
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" group-title="İspanya",İspanya - Antena 3 Internacional (1080p)
-http://38.252.238.18:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="24HorasCatalunya.es@SD" group-title="İspanya",İspanya - Canal 24 Horas Catalunya (720p)
-https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 tvg-id="Teledeporte.es@SD" group-title="İspanya",İspanya - Teledeporte
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="3CatInfo.es@SD" group-title="İspanya",İspanya - 3CatInfo (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD" group-title="İspanya",İspanya - TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-id="24HorasCanarias.es@SD" group-title="İspanya",İspanya - 24 Horas Canarias (1080p)
+http://185.47.212.25:8080/24h_HD/index.m3u8
+#EXTINF:-1 tvg-id="La1.es@UHD" group-title="İspanya",İspanya - La 1 UHD (2160p)
+http://185.47.212.25:8080/tdp_HD/index.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" group-title="İspanya",İspanya - Antena 3 Internacional (1080p)
+http://38.252.238.18:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="La1.es@SD" group-title="İspanya",İspanya - La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La1Canarias.es@SD" group-title="İspanya",İspanya - La 1 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-id="La1Catalunya.es@SD" group-title="İspanya",İspanya - La 1 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-id="La2.es@SD" group-title="İspanya",İspanya - La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="La2Canarias.es@SD" group-title="İspanya",İspanya - La 2 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es@SD" group-title="İspanya",İspanya - La 2 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" group-title="İspanya",İspanya - Real Madrid TV (726p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="ExpressenTV.se@SD" group-title="İsveç",İsveç - Expressen TV (1080p)
-https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es@SD" group-title="İspanya",İspanya - Teledeporte
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@SD" group-title="İspanya",İspanya - TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" group-title="İspanya",İspanya - Real Madrid TV English
+http://88.212.15.17/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-id="Antena3.es@National" group-title="İspanya",İspanya - Antena 3
+https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" group-title="İspanya",İspanya - TVE Internacional Europe
+http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="DiTV.se@SD" group-title="İsveç",İsveç - Di TV (1080p)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSInfo.ch@SD" group-title="İsviçre",İsviçre - RTS Info (1080p)
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1 tvg-id="ExpressenTV.se@SD" group-title="İsveç",İsveç - Expressen TV (1080p)
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch@SD" group-title="İsviçre",İsviçre - Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RTSInfo.ch@SD" group-title="İsviçre",İsviçre - RTS Info (1080p)
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="LemanBleu.ch@SD" group-title="İsviçre",İsviçre - Léman Bleu (1080p)
 http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai1.it@SD" group-title="İtalya",İtalya - Rai 1 (Geo) (576p)
-https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 tvg-id="Rai2.it@SD" group-title="İtalya",İtalya - Rai 2 (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
-#EXTINF:-1 tvg-id="Rai3.it@HD" group-title="İtalya",İtalya - Rai 3 (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
-#EXTINF:-1 tvg-id="RaiNews24.it@HD" group-title="İtalya",İtalya - Rai News 24 HD (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
-#EXTINF:-1 tvg-id="" group-title="İtalya",İtalya - Rai Sport 2
-http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
-#EXTINF:-1 tvg-id="Canale5.it@HD" group-title="İtalya",İtalya - Canale 5 HD
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="LA7.it@HD" group-title="İtalya",İtalya - LA7 HD (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
-#EXTINF:-1 tvg-id="TGCom24.it@SD" group-title="İtalya",İtalya - TGCom24 (720p)
-https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" group-title="İtalya",İtalya - Sportitalia Solocalcio (1080p)
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RUV2.is@SD" group-title="İzlanda",İzlanda - RÚV 2 (1080p)
-https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
-#EXTINF:-1 tvg-id="Visir.is@SD" group-title="İzlanda",İzlanda - Vísir (1080p)
-https://live.visir.is/hls-live/visir.smil/playlist.m3u8
