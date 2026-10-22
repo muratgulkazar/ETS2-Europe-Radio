@@ -651,3 +651,2214 @@ https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
 #EXTINF:-1 group-title="Malta" tvg-id="MedTV.mt@SD",Malta - Med.TV (720p)
 https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="A7TV.ro@SD",Romanya - A7TV (1080p)
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AgroTV.ro@SD",Romanya - Agro TV (360p) [Not 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AlephBusiness.ro@SD",Romanya - Aleph Business (1280p)
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AlephNews.ro@SD",Romanya - Aleph News (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AlfaOmegaTV.ro@SD",Romanya - Alfa Omega TV (1080p) [Not 24/7]
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AngelusTV.ro@SD",Romanya - Angelus TV (1080p)
+https://video.angelustv.ro/hls/angelustv.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AntenaMonden.ro@SD",Romanya - Antena Monden (720p)
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AtomicAcademyTV.ro@SD",Romanya - Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AtomicTV.ro@SD",Romanya - Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="BollywoodHD.ro@SD",Romanya - Bollywood HD (1080p)
+http://103.213.31.109:90/BollywoodHD/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="BollywoodHD.ro@Russia",Romanya - Bollywood HD Russia (576p)
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="BoomTV.ro@HD",Romanya - Boom TV (1080p)
+#EXTVLCOPT:http-referrer=https://tvboom.ro/
+https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="BucovinaTV.ro@SD",Romanya - Bucovina TV (576i)
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ColumnaTV.ro@SD",Romanya - Columna TV
+https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="CredoTV.ro@SD",Romanya - Credo TV (720p) [Not 24/7]
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="CredoTV.ro@SD",Romanya - Credo TV (720p) [Not 24/7]
+https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="CredoTV.ro@SD",Romanya - Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Digi24.ro@SD",Romanya - Digi 24 (720p)
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="DottoTV.ro@SD",Romanya - Dotto TV (1080p)
+https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="EMITV.ro@SD",Romanya - EMI TV
+https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVSE.ro@SD",Romanya - Exploris (576p) [Not 24/7]
+http://89.38.8.130:39419
+#EXTINF:-1 group-title="Romanya" tvg-id="HD365TV.ro@SD",Romanya - HD365 TV
+https://s2.netstreaming.eu/hd365.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Hunedoara1.ro@SD",Romanya - Hunedoara 1 (480p) [Not 24/7]
+https://netstreaming.eu/hd1.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="IasiTVLife.ro@SD",Romanya - IasiTV Life (1080p) [Not 24/7]
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ImpactTV.ro@HD",Romanya - Impact TV (1080p)
+#EXTVLCOPT:http-referrer=https://tvimpact.ro/
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ImpactTVDance.ro@SD",Romanya - Impact TV Dance (1080p)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ImpactTVManele.ro@SD",Romanya - Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="InformatiaTV.ro@SD",Romanya - Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="JOBTV.ro@SD",Romanya - JOB TV (1080p)
+https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="KanalD.ro@SD",Romanya - Kanal D (480p)
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="KanalD2.ro@SD",Romanya - Kanal D2 (1080i)
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="KapitalTV.ro@SD",Romanya - Kapital TV (1080p)
+#EXTVLCOPT:http-referrer=https://kapitaltv.ro/
+https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="KissTV.ro@SD",Romanya - Kiss TV (1080p)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="LightChannel.ro@SD",Romanya - Light Channel (480p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="LiraTV.es@SD",Romanya - LiraTV (720p)
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MagicTV.ro@SD",Romanya - Magic TV (720p)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MetropolaTV.ro@SD",Romanya - Metropola TV (1080p) [Not 24/7]
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Mireasa.ro@SD",Romanya - Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MISATV.ro@SD",Romanya - MISA TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MuscelTV.ro@SD",Romanya - Muscel TV (720p)
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="NasulTV.ro@SD",Romanya - Nasul TV (720p) [Not 24/7]
+https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="NovaTVBrasov.ro@SD",Romanya - Nova TV Brasov (576p) [Not 24/7]
+http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ObservatorNews.ro@SD",Romanya - Observator News (360p)
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="PROTVNews.ro@SD",Romanya - Pro TV News (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="Romanya" tvg-id="PROFI24TV.ro@SD",Romanya - PROFI 24 TV
+https://live.ro24tv.ro/hls/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="QubTV.ro@SD",Romanya - Qub TV
+https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RadioFxNet.ro@HD",Romanya - Radio Fx Net (720p)
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RealitateaPlus.ro@SD",Romanya - Realitatea Plus (720p)
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RealitateaSportiva.ro@SD",Romanya - Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RealitateaStar.ro@SD",Romanya - Realitatea Star (576i)
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RockTV.ro@SD",Romanya - Rock TV (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ROTVValencia.es@SD",Romanya - ROTV Valencia (720p)
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="SperantaTV.ro@SD",Romanya - SperantaTV (1080p)
+https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="SuperTV.ro@SD",Romanya - Super TV (1080i) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://supertv.ro
+https://live.supertv.ro/live/supertv/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="SuperTV.ro@SD",Romanya - Super TV (576p)
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Tele7ABCHD.ro@SD",Romanya - Tele7ABC HD (720p)
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TeleMBotosani.ro@SD",Romanya - TeleM Botosani (540p) [Not 24/7]
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TeleMoldovaPlus.ro@SD",Romanya - TeleMoldova + [Geo-blocked]
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Telestar1.ro@SD",Romanya - Telestar1
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TraditionalTV.ro@SD",Romanya - Traditional TV (1080p)
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 group-title="Romanya" tvg-id="TVBuzau.ro@SD",Romanya - TV Buzau (576p)
+http://78.96.33.89:8080
+#EXTINF:-1 group-title="Romanya" tvg-id="TVSUD.ro@SD",Romanya - TV SUD (1080p) [Geo-blocked]
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVPlusSuceava.ro@SD",Romanya - TVPlus Suceava (576p)
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVPlusSuceava.ro@SD",Romanya - TVPlus Suceava (576p)
+http://85.186.146.34:8080
+#EXTINF:-1 group-title="Romanya" tvg-id="TVR1.ro@SD",Romanya - TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVR2.ro@SD",Romanya - TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVR3.ro@SD",Romanya - TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRCluj.ro@SD",Romanya - TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRCraiova.ro@SD",Romanya - TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRCultural.ro@SD",Romanya - TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRFolclor.ro@SD",Romanya - TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRIasi.ro@SD",Romanya - TVR Iasi (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.tvrplus.ro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0
+https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRIasi.ro@SD",Romanya - TVR Iasi (1080p) [Not 24/7]
+http://82.208.141.70:8778/1.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRIasi.ro@SD",Romanya - TVR Iasi
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRInfo.ro@SD",Romanya - TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRInternational.ro@SD",Romanya - TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRSport.ro@SD",Romanya - TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRTarguMures.ro@SD",Romanya - TVR Targu-Mures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRTimisoara.ro@SD",Romanya - TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVSat.ro@SD",Romanya - TVSat (576p) [Not 24/7]
+http://89.38.8.130:39443
+#EXTINF:-1 group-title="Romanya" tvg-id="RadioRomaniaAntenaSatelor.ro@720p",Romanya - Radio Romania Antena Satelor (720p) [Not 24/7]
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ComedyPlay.ro@SD",Romanya - Comedy Play (576i)
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Tele7music.ro@SD",Romanya - Tele7music (576i)
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ComedyCentral.ro@SD",Romanya - Comedy Central
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TimelessDiziChannel.ro@SD",Romanya - Timeless Dizi Channel
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="DisneyChannel.ro@SD",Romanya - Disney Channel
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Nickelodeon.ro@SD",Romanya - Nickelodeon
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Nicktoons.ro@SD",Romanya - Nicktoons
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TVPaprika.ro@SD",Romanya - TV Paprika
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="NationalGeographic.ro@SD",Romanya - National Geographic
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="NationalGeographicWild.ro@SD",Romanya - National Geographic Wild
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="EuronewsRomania.ro@SD",Romanya - Euronews Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="DisneyJunior.ro@SD",Romanya - Disney Junior
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="FilmNow.ro@SD",Romanya - Film Now
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ArgesTV.ro@SD",Romanya - Arges TV (720p)
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ViasatHistory.ro@SD",Romanya - Viasat History
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="BollywoodClassic.ro@Romania",Romanya - Bollywood Classic Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ViasatNature.ro@SD",Romanya - Viasat Nature
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ViasatExplore.ro@SD",Romanya - Viasat Explore
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="HelloTaste.ro@SD",Romanya - Hello Taste
+https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Minimax.ro@SD",Romanya - Minimax
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="B1.ro@SD",Romanya - B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="NationalTV.ro@SD",Romanya - National TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="National24Plus.ro@SD",Romanya - National 24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="PrimaTV.ro@HD",Romanya - Prima TV HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="PROTV.ro@HD",Romanya - PRO TV HD
+http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RadioRomania3Net.ro@SD",Romanya - Radio Romania 3Net (480p)
+https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ProArena.ro@HD",Romanya - Pro Arena HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ProCinema.ro@SD",Romanya - Pro Cinema
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Acasa.ro@HD",Romanya - Acasa HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AcasaGold.ro@SD",Romanya - Acasa Gold
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="PrimaNews.ro@SD",Romanya - Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="HappyChannel.ro@SD",Romanya - Happy Channel
+https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TraLaLaTV.ro@SD",Romanya - TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AntenaInternational.ro@SD",Romanya - Antena International
+https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AntenaStars.ro@SD",Romanya - Antena Stars
+https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="EtnoTV.ro@SD",Romanya - Etno TV
+https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="IneditTV.ro@SD",Romanya - Inedit TV
+https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="BollywoodFilm.ro@SD",Romanya - Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Antena1.ro@SD",Romanya - Antena 1
+https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MoozDance.ro@SD",Romanya - Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MoozHits.ro@SD",Romanya - Mooz Hits
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MoozRo.ro@SD",Romanya - Mooz Ro!
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MediCOOLTV.ro@SD",Romanya - MediCOOL TV
+https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="HelloTaste.ro@SD",Romanya - Hello Taste
+https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="CinemaratonPlus.ro@HD",Romanya - Cinemaraton Plus (1080i)
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="ImpactTV2.ro@HD",Romanya - Impact TV 2 (1080p)
+https://online.tvimpact.live/hls/impact_tv2.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Insulanonstop.ro@SD",Romanya - Insula non stop (576i)
+https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AsiaExpressNonStop.ro@SD",Romanya - Asia Express NonStop (576i)
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="DigiSport2.ro@HD",Romanya - Digi Sport 2 HD (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="FilmNow.ro@HD",Romanya - Film Now HD (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RadioRomaniaTarguMures.ro@SD",Romanya - Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RadioRomaniaOlteniaCraiova.ro@SD",Romanya - Radio Romania Oltenia-Craiova (576p) [Not 24/7]
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TarafTV.ro@SD",Romanya - Taraf TV (576p)
+https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="FavoritTV.ro@SD",Romanya - Favorit TV (576p)
+https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="EuronewsRomania.ro@SD",Romanya - Euronews Romania (576p)
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Chefiro.ro@SD",Romanya - Chefi.ro (1080p)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="PartyMix.ro@HD",Romanya - Party Mix HD (1080p)
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="PROTVInternational.ro@SD",Romanya - PRO TV International
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="PROTV.ro@HD",Romanya - PRO TV HD (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="ProArena.ro@SD",Romanya - Pro Arena (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="Acasa.ro@SD",Romanya - Acasa (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="AcasaGold.ro@SD",Romanya - Acasa Gold (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="ProCinema.ro@SD",Romanya - Pro Cinema (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="HtMusicChannel.ro@SD",Romanya - H!t Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="MusicChannel.ro@SD",Romanya - Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="RapsodiaTV.ro@SD",Romanya - Rapsodia TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="MoozLove.ro@SD",Romanya - Mooz Love (576p)
+https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="MoozRetro.ro@SD",Romanya - Mooz Retro (576p)
+https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="NostalgiaTV.ro@HD",Romanya - Nostalgia TV (1080p)
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="VoyoSport1.ro@HD",Romanya - Voyo Sport 1 (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="VPTV.ro@SD",Romanya - VP TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="DeParintiro.ro@SD",Romanya - DeParinti.ro (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="RadioRomaniaResita.ro@SD",Romanya - Radio Romania Resita (576p) [Not 24/7]
+https://stream3.srr.ro/RadioResita/live/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Antena3CNN.ro@SD",Romanya - Antena 3 CNN (576p)
+https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="FavoritTV2.ro@SD",Romanya - Favorit TV2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="NationalTV2.ro@SD",Romanya - National TV2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="IntermediaTV.ro@SD",Romanya - Intermedia TV (576p)
+https://live.intermediatv.ro/ram/playlist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="AccesDirect.ro@SD",Romanya - Acces Direct (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="InPuiiMei.ro@SD",Romanya - In Puii Mei (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="iRoast.ro@SD",Romanya - iRoast (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="iUmor.ro@SD",Romanya - iUmor (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TraLaLaDSN.ro@SD",Romanya - TraLaLa DSN
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="RomaniaTV.ro@SD",Romanya - Romania TV (576p)
+https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Nicktoons.ro@SD",Romanya - Nicktoons
+http://178.76.68.60:7442/80/mpegts
+#EXTINF:-1 group-title="Romanya" tvg-id="Formula1AntenaPlay.ro@SD",Romanya - Formula 1 AntenaPlay (576p) [Not 24/7]
+https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="Nickelodeon.ro@SD",Romanya - Nickelodeon
+http://178.76.68.60:7442/64/mpegts
+#EXTINF:-1 group-title="Romanya" tvg-id="SangeorzTV.ro@SD",Romanya - Sangeorz TV (576p)
+https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
+#EXTINF:-1 group-title="Romanya" tvg-id="Antena3CNN.ro@SD",Romanya - Antena 3 CNN (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TravelMix.ro@SD",Romanya - Travel Mix (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="Digi24.ro@HD",Romanya - Digi 24 HD (1080i)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="BollywoodClassic.ro@Romania",Romanya - Bollywood Classic Romania (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="EMITV.ro@HD",Romanya - EMI TV HD (1080i)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="UTV.ro@SD",Romanya - UTV (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="DiscoMix.ro@SD",Romanya - Disco Mix (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="CineWow.ro@SD",Romanya - CineWow (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-aleph-news/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="BeautyON.ro@SD",Romanya - Beauty ON (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="BanatTV.ro@SD",Romanya - Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="OrizontTV.ro@SD",Romanya - Orizont TV (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="TVAS.ro@SD",Romanya - TV AS (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Romanya" tvg-id="NHLAntenaPlay.ro@SD",Romanya - NHL AntenaPlay
+https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TequilaMusicTV.ro@SD",Romanya - Tequila Music TV
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="SmartRadio.ro@SD",Romanya - Smart Radio (576p)
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="SportExtra.ro@SD",Romanya - Sport Extra
+https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="QuantumTV.ro@SD",Romanya - Quantum TV (576p)
+https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="CineWow.ro@SD",Romanya - CineWow
+https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TraLaLaDSN.ro@SD",Romanya - TraLaLa DSN
+https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="TravelMix.ro@SD",Romanya - Travel Mix
+https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+#EXTINF:-1 group-title="Romanya" tvg-id="BollywoodClassic.ro@Romania",Romanya - Bollywood Classic Romania (576p)
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="DMSat.rs@SD",Sırbistan - DM Sat (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/DMSat/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="DMSat.rs@SD",Sırbistan - DM Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.40:5000
+#EXTINF:-1 group-title="Sırbistan" tvg-id="EDUTV.rs@SD",Sırbistan - EDU TV (576p) [Not 24/7]
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="IDJTV.rs@SD",Sırbistan - IDJTV
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
+#EXTINF:-1 group-title="Sırbistan" tvg-id="KitchenTV.rs@SD",Sırbistan - Kitchen TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03n
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TVMarsh.rs@SD",Sırbistan - Marsh TV (720p) [Not 24/7]
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="MISTelevizija.au@SD",Sırbistan - MIS Televizija (720p) [Not 24/7]
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="NarodnaTV.rs@SD",Sırbistan - Narodna TV (720p)
+https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="Nova.rs@SD",Sırbistan - Nova (1080p)
+https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+#EXTINF:-1 group-title="Sırbistan" tvg-id="Pink.rs@SD",Sırbistan - Pink (720p)
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="Prva.rs@SD",Sırbistan - Prva (1080p)
+https://de1.dstv.cx/PrvaTVHD/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaFiles.rs@SD",Sırbistan - Prva Files
+https://de1.dstv.cx/PrvaFiles/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaKick.rs@SD",Sırbistan - Prva Kick (1080p)
+https://de1.dstv.cx/PrvaKick/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaLife.rs@SD",Sırbistan - Prva Life (1080p)
+https://de1.dstv.cx/PrvaLife/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaMax.rs@SD",Sırbistan - Prva Max (1080p)
+https://de1.dstv.cx/PrvaMax/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaPlus.rs@SD",Sırbistan - Prva Plus (1080p)
+https://de1.dstv.cx/PrvaPlus/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaWorld.rs@SD",Sırbistan - Prva World (1080p)
+https://de1.dstv.cx/PrvaWorld/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RadioHitFMTV.rs@SD",Sırbistan - Radio Hit FM TV (720p)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RadioKarolinaTV.rs@SD",Sırbistan - Radio Karolina TV (720p)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RadioLolaTV.rs@SD",Sırbistan - Radio Lola (720p) [Not 24/7]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTS1.rs@SD",Sırbistan - RTS 1 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTS1.rs@SD",Sırbistan - RTS 1
+https://de1.dstv.cx/RTS1HD/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTS2.rs@SD",Sırbistan - RTS 2 (1080p)
+https://de1.dstv.cx/RTS2HD/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTS2.rs@SD",Sırbistan - RTS 2 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTS3.rs@SD",Sırbistan - RTS 3 (720p)
+http://185.81.240.65:15000/udp/233.233.233.36:12000
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSDrama.rs@SD",Sırbistan - RTS Drama (576p)
+https://de1.dstv.cx/RTSDrama/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSKolo.rs@SD",Sırbistan - RTS Kolo (576p)
+https://de1.dstv.cx/RTSKolo/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSMuzika.rs@SD",Sırbistan - RTS Muzika (576p)
+https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSPoletarac.rs@SD",Sırbistan - RTS Poletarac (576p)
+https://de1.dstv.cx/RTSPoletarac/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSSvet.rs@SD",Sırbistan - RTS Svet (1080p)
+https://de1.dstv.cx/RTSSvet/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSTrezor.rs@SD",Sırbistan - RTS Trezor (576p)
+https://de1.dstv.cx/RTSTrezor/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSZivot.rs@SD",Sırbistan - RTS Zivot (576p)
+https://de1.dstv.cx/RTSZivot/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTVBap.rs@SD",Sırbistan - RTV Bap (480p)
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTVNoviPazar.rs@SD",Sırbistan - RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="SandzakTV.rs@SD",Sırbistan - Sandzak TV (576p)
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="SOSKanalPlus.rs@SD",Sırbistan - SOS Kanal Plus (720p)
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TDIRadioTV.rs@SD",Sırbistan - TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TopTV.rs@SD",Sırbistan - Top TV (1080p)
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="BelleAmie.rs@SD",Sırbistan - TV Belle Amie (540p)
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TVDugaPlus.rs@SD",Sırbistan - TV Duga Plus (480p) [Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TVHram.rs@SD",Sırbistan - TV Hram (576p) [Not 24/7]
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TVKanalM.rs@SD",Sırbistan - TV Kanal M (576p)
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TVPanon.rs@SD",Sırbistan - TV Panon
+https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TVPiKanal.rs@SD",Sırbistan - TV Pi Kanal (576p) [Not 24/7]
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TVPirot.rs@SD",Sırbistan - TV Pirot (240p) [Not 24/7]
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="ZICOTV.rs@SD",Sırbistan - ZICO TV (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="SciFi.rs@SD",Sırbistan - Sci Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+#EXTINF:-1 group-title="Sırbistan" tvg-id="ArenaSport1Premium.rs@SD",Sırbistan - Arena Sport 1 Premium (360p)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
+#EXTINF:-1 group-title="İsveç" tvg-id="AryenTV.se@SD",İsveç - Aryen TV (1080p) [Not 24/7]
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="ATGLive.se@SD",İsveç - ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="AznewsTV.se@SD",İsveç - Azerbaijan News TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="DiTV.se@SD",İsveç - Di TV (1080p)
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="ExpressenTV.se@SD",İsveç - Expressen TV (1080p)
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="Kanal10Asia.se@SD",İsveç - Kanal 10 Asia (540p) [Not 24/7]
+https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/playlist.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="Kunskapskanalen.se@HD",İsveç - Kunskapskanalen (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 group-title="İsveç" tvg-id="MiracleChannel.se@SD",İsveç - Miracle TV (1080p)
+https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="MissionAsia.au@SD",İsveç - Mission Asia (1080p)
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="SVT1.se@HD",İsveç - SVT1 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 group-title="İsveç" tvg-id="SVT2.se@HD",İsveç - SVT2 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 group-title="İsveç" tvg-id="SVTBarnSVT24.se@HD",İsveç - SVT Barn/SVT24 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 group-title="İsveç" tvg-id="VSportGolf.se@SD",İsveç - V Sport Golf [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="ViasatExplore.se@SD",İsveç - Viasat Explore [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="ViasatHistory.se@SD",İsveç - Viasat History [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+#EXTINF:-1 group-title="İsveç" tvg-id="ViasatNature.se@SD",İsveç - Viasat Nature [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
+#EXTINF:-1 group-title="Andorra" tvg-id="AndorraTV.ad@SD",Andorra - Andorra TV (1080p)
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="PlusTV.by@SD",Belarus - +TV (576p) [Geo-blocked]
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus1.by@SD",Belarus - Belarus-1 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus1.by@SD",Belarus - Belarus-1 (720p)
+http://82.209.232.129:10102/0.ts
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus1.by@HD",Belarus - Belarus-1 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus2.by@HD",Belarus - Belarus-2 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus3.by@HD",Belarus - Belarus-3 HD (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus4.by@Vitebsk",Belarus - Belarus-4 Vitebsk (1080p)
+https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus5.by@SD",Belarus - Belarus-5 (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus5.by@SD",Belarus - Belarus-5 (576p) [Geo-blocked]
+https://streaming.thestream.cyou/live/7001.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus5.by@HD",Belarus - Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus5.by@HD",Belarus - Belarus-5 HD (1080p)
+http://stream.mcquack.net/33/index.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus24.by@SD",Belarus - Belarus-24 (576p) [Geo-blocked]
+https://streaming.thestream.cyou/live/7003.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus24.by@SD",Belarus - Belarus-24 (576p)
+http://ott-7.sevstar.net/belarus24/index.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus24.by@HD",Belarus - Belarus-24 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannelRussia.by@SD",Belarus - First Music Channel Russia (1080p)
+http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="PerviyInformationniy.by@HD",Belarus - Perviy Informationniy HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="RadioMir.by@SD",Belarus - Radio Mir (720p)
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="SportTV.by@SD",Belarus - Sport TV (1080p)
+http://178.124.179.122:8080/SportTV/mpegts
+#EXTINF:-1 group-title="Belarus" tvg-id="STV.by@HD",Belarus - STV HD (720p)
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus5.by@Internet",Belarus - Беларусь 5 Интернет (1080p) [Not 24/7]
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus5.by@Internet",Belarus - Беларусь 5 Интернет (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannel.by@SD",Belarus - Первый Музыкальный Канал (576p)
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannel.by@SD",Belarus - Первый Музыкальный Канал HD (1080p)
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannel.by@SD",Belarus - Первый Музыкальный Канал HD (720p)
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannel.by@SD",Belarus - Первый Музыкальный Канал Int (576p)
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannelRussia.by@SD",Belarus - Первый Музыкальный Канал Россия (576p)
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannelRussia.by@SD",Belarus - Первый Музыкальный Канал Россия HD (1080p)
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Belarus" tvg-id="Belarus4.by@Gomel",Belarus - Belarus-4 Gomel
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Vitebsk.by@SD",Belarus - Vitebsk
+https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannel.by@SD",Belarus - First Music Channel (1080p)
+http://hls127.freeott.top:8080/1mus_HD/video.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="Vitebsk.by@SD",Belarus - Vitebsk (576p)
+http://46.53.200.153:7777/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="BugTV.by@SD",Belarus - Bug-TV (1080p)
+http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="SvetloeTV.by@SD",Belarus - Svetloe TV (576p)
+http://46.53.200.153:7777/play/svetloetv/index.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="SportTV.by@SD",Belarus - Sport TV (1080p)
+http://media1.skifnet.by/sporttv/index.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-id="VoyenTV.by@SD",Belarus - VoyenTV (1080p)
+http://media1.skifnet.by/voentv/index.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="BravoKidsTV.hr@SD",Hırvatistan - Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="CMCTV.hr@SD",Hırvatistan - CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="DiadoraTV.hr@SD",Hırvatistan - Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="HRT1.hr@SD",Hırvatistan - HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="HRT1.hr@HD",Hırvatistan - HRT 1 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="HRT2.hr@SD",Hırvatistan - HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="HRT2.hr@HD",Hırvatistan - HRT 2 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="HRT3.hr@SD",Hırvatistan - HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="HRT3.hr@HD",Hırvatistan - HRT 3 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="HRT4.hr@HD",Hırvatistan - HRT 4 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="KlapeiTambureTV.hr@SD",Hırvatistan - Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="Klasik.hr@SD",Hırvatistan - Klasik TV (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="LibertasTV.hr@SD",Hırvatistan - Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="NationalGeographic.hr@SD",Hırvatistan - National Geographic (1080p)
+http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="Nickelodeon.hr@SD",Hırvatistan - Nickelodeon (1080p)
+http://176.61.157.250/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="NovaTV.hr@SD",Hırvatistan - Nova TV (1080p)
+http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="OTV.hr@SD",Hırvatistan - OTV (720p) [Not 24/7]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="RadioTelevizijaBanovina.hr@SD",Hırvatistan - Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="SBTV.hr@SD",Hırvatistan - SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="ShiftTV.hr@SD",Hırvatistan - Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="STV.hr@SD",Hırvatistan - STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="TrendTV.hr@SD",Hırvatistan - Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="TVJadran.hr@SD",Hırvatistan - TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="TVNova.hr@SD",Hırvatistan - TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="TVZapad.hr@SD",Hırvatistan - TV Zapad (1080p) [Not 24/7]
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="NickJr.hr@SD",Hırvatistan - Nick Jr. (540p)
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="6ter.fr@SD",Fransa - 6ter (1080p)
+http://145.239.5.177/314/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="20MinutesTV.fr@SD",Fransa - 20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="AB1.fr@SD",Fransa - AB1 (720p)
+http://145.239.5.177/332/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="ADNTVPlus.fr@SD",Fransa - ADN TV+ (720p)
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Africa24.fr@SD",Fransa - Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Africa24English.fr@SD",Fransa - Africa 24 English (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Africa24Sport.fr@SD",Fransa - Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="AfricanewsEnglish.fr@SD",Fransa - Africanews English (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="AfricanewsFrench.fr@SD",Fransa - Africanews French (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="AlpedHuezTV.fr@SD",Fransa - Alpe d’Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="AntenneReunion.fr@SD",Fransa - Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 group-title="Fransa" tvg-id="arte.fr@SD",Fransa - Arte (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="arte.fr@SD",Fransa - arte (720p)
+http://145.239.5.177/300/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="BFM2.fr@HD",Fransa - BFM2 (1080p)
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="BFMBusiness.fr@SD",Fransa - BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="BFMLyon.fr@SD",Fransa - BFM Lyon (576p)
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="BFMTV.fr@SD",Fransa - BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="BrionnaisTV.fr@SD",Fransa - Brionnais TV (720p)
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CStar.fr@SD",Fransa - C Star (1080p)
+http://145.239.5.177/361/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CStar.fr@SD",Fransa - C Star (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Caillou.fr@SD",Fransa - Caillou
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CanalPlusCinemas.fr@SD",Fransa - Canal+ Cinemas (720p)
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CanalPlusSport360.fr@SD",Fransa - Canal+ Sport 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CannesLerinsTV.fr@SD",Fransa - Cannes Lérins TV (1080p)
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CinePlusClassic.fr@SD",Fransa - Cine+ Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CinePlusEmotion.fr@SD",Fransa - Cine+ Emotion (720p)
+http://145.239.5.177/337/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CinePlusFrisson.fr@SD",Fransa - Cine+ Frisson (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CNews.fr@SD",Fransa - CNews (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CNews.fr@SD",Fransa - CNews (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CNEWSPRIME.fr@HD",Fransa - CNEWS PRIME (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="DBMTV.fr@SD",Fransa - DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="DisneyJr.fr@SD",Fransa - Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="DisneyJr.fr@SD",Fransa - Disney Jr. (576p)
+http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Equidia.fr@SD",Fransa - Equidia (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="",Fransa - Equidia Racing Mag (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsEnglish.fr@SD",Fransa - Euronews English (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsFrench.fr@SD",Fransa - Euronews French (720p)
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsFrench.fr@SD",Fransa - Euronews French (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsGerman.fr@SD",Fransa - Euronews German (720p)
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsGerman.fr@SD",Fransa - Euronews German (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsGreek.fr@SD",Fransa - Euronews Greek (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsHungarian.fr@SD",Fransa - Euronews Hungarian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsHungarian.fr@SD",Fransa - Euronews Hungarian
+https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsItalian.fr@SD",Fransa - Euronews Italian (720p)
+https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsItalian.fr@SD",Fransa - Euronews Italian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsPortuguese.fr@SD",Fransa - Euronews Portuguese (720p)
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsPortuguese.fr@SD",Fransa - Euronews Portuguese (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian (576p)
+http://tmptv.sunduk.tv/CH31/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsSpanish.fr@SD",Fransa - Euronews Spanish (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EvandisGospelTV.fr@SD",Fransa - Evandis Gospel TV (1080p)
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="FashionTVParisLOriginal.fr@SD",Fransa - FashionTV Paris L'Original (1080p)
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="FashionTVSecrets.fr@HD",Fransa - FashionTV Secrets (1080p)
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 group-title="Fransa" tvg-id="FootPlus.fr@SD",Fransa - Foot+
+http://145.239.5.177/556a/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France3.fr@National",Fransa - France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.144:5000
+#EXTINF:-1 group-title="Fransa" tvg-id="France3.fr@CotedAzur",Fransa - France 3 Cote d'Azur
+http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France3.fr@Lorraine",Fransa - France 3 Lorraine (1080p)
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France4.fr@SD",Fransa - France 4
+http://176.65.146.100:8047/play/a074/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France4.fr@HD",Fransa - France 4 HD (1080p) [Geo-blocked]
+http://41.205.93.154/OKOO/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France4.fr@HD",Fransa - France 4 HD (1080p)
+https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France5.fr@SD",Fransa - France 5 (720p)
+http://145.239.5.177/305/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic (720p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic (720p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic (576p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic (576p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic (360p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic (360p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (1080p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (1080p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (720p)
+http://170.83.16.50/FRANCE_24/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (720p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (720p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (576p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (576p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (360p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (360p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español (720p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español (720p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español (576p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español (576p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español (360p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español (360p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French (1080p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French (720p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French (720p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French (576p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French (576p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French (360p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French (360p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Spanish (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Francophonie24.fr@SD",Fransa - Francophonie24 (1080p)
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="GenerationsTV.fr@SD",Fransa - Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Gong.fr@SD",Fransa - Gong (1080p)
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Gulli.fr@SD",Fransa - Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="HANDICAPTV.fr@SD",Fransa - HANDICAP TV France
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="ILTV.fr@SD",Fransa - ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="KTO.fr@SD",Fransa - KTO (504p)
+http://145.239.5.177/354/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="KTO.fr@SD",Fransa - KTO (404p) [Not 24/7]
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="LCI.fr@HD",Fransa - LCI HD (1080p)
+http://145.239.5.177/368/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="LCI.fr@HD",Fransa - LCI HD (1080p)
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="LeFigaroTVIledeFrance.fr@SD",Fransa - Le Figaro IDF (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="LeFigaroTVIledeFrance.fr@SD",Fransa - Le Figaro IDF (720p)
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="LittoralFMTV.fr@SD",Fransa - Littoral FM (720p)
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="M6.fr@HD",Fransa - M6 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="M6Music.fr@SD",Fransa - M6 Music (720p)
+http://145.239.5.177/320/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="M6Music.fr@SD",Fransa - M6 Music
+https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+#EXTINF:-1 group-title="Fransa" tvg-id="MDL.fr@SD",Fransa - MDL (720p)
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="MezzoLive.fr@SD",Fransa - Mezzo Live (1080p)
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="MezzoLive.fr@SD",Fransa - Mezzo Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://45.84.187.172:3001/udp/239.10.10.76:5000
+#EXTINF:-1 group-title="Fransa" tvg-id="MezzoLive.fr@SD",Fransa - Mezzo Live
+https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
+#EXTINF:-1 group-title="Fransa" tvg-id="MonteCarloDigitalTelevision.fr@HD",Fransa - Monte Carlo Digital Television (1080p)
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="MTV.fr@SD",Fransa - MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="MyZenTV.fr@SD",Fransa - MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="NickelodeonJunior.fr@SD",Fransa - Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="NollywoodTV.fr@SD",Fransa - Nollywood TV (720p)
+http://145.239.5.177/148/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="NRJHits.fr@SD",Fransa - NRJ Hits
+https://test.946985.filegear-sg.me/proxy/a23981548880f405
+#EXTINF:-1 group-title="Fransa" tvg-id="P2MTV.fr@SD",Fransa - P2M TV (720p)
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="PuissanceTV.fr@SD",Fransa - Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="RFMTV.fr@SD",Fransa - RFM TV [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="RMCStory.fr@SD",Fransa - RMC Story (1080p)
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SciFi.fr@HD",Fransa - SciFi (720p)
+http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SerieClub.fr@SD",Fransa - Serie Club (720p)
+http://145.239.5.177/355/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SonyOneBlacklist.fr@HD",Fransa - Sony One Blacklist (1080p)
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SonyOneBlacklist.fr@HD",Fransa - Sony One Blacklist (1080p)
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SonyOneFavoris.fr@HD",Fransa - Sony One Favoris (1080p)
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SonyOneFavoris.fr@HD",Fransa - Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SonyOneHitsAction.fr@HD",Fransa - Sony One Hits Action (1080p)
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SonyOneHitsAction.fr@HD",Fransa - Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SonyOneHitsComedie.fr@HD",Fransa - Sony One Hits Comedie (1080p)
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="SonyOneHitsComedie.fr@HD",Fransa - Sony One Hits Comedie (1080p)
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Syfy.fr@SD",Fransa - Syfy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="T18.fr@HD",Fransa - T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TeleGohelle.fr@SD",Fransa - TéléGohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Teva.fr@SD",Fransa - Teva (1080p)
+http://145.239.5.177/356/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TF1.fr@SD",Fransa - TF1 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TF1.fr@HD",Fransa - TF1 HD (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TFX.fr@SD",Fransa - TFX (720p)
+http://145.239.5.177/315/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TiVi5Monde.fr@SD",Fransa - TiVi5 Monde [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TMC.fr@SD",Fransa - TMC (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TraceSportStars.fr@Russia",Fransa - Trace Sport Stars Russia (720p)
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TraceSportStars.fr@SD",Fransa - Trace Sport Stars SD
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TraceUrban.fr@SD",Fransa - Trace Urban (1080p)
+http://145.239.5.177/210/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV3V.fr@SD",Fransa - TV3V (720p)
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAfrica.fr@SD",Fransa - TV5Monde Africa (720p)
+http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAsia.fr@SD",Fransa - TV5Monde Asia (1080p)
+http://54.37.19.157/TV5MONDE/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAsia.fr@SD",Fransa - TV5Monde Asia (576p)
+http://27.131.164.187:8080/TV5_Monde/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAsia.fr@SD",Fransa - TV5Monde Asia
+http://103.172.187.30:12000/stream/allchannel/tv5asie
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAsia.fr@SD",Fransa - TV5Monde Asia
+http://103.190.232.129/stream/tvb/asie/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAsia.fr@SD",Fransa - TV5Monde Asia
+http://103.190.232.129/stream/tvb/asie?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAsia.fr@SD",Fransa - TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MONDEChefs.fr@SD",Fransa - TV5MONDE Chefs (1080p)
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeEurope.fr@SD",Fransa - TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeEurope.fr@SD",Fransa - TV5Monde Europe (1080p)
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeEurope.fr@SD",Fransa - TV5Monde Europe (1080p)
+http://45.14.84.37/tv5monde/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeEurope.fr@SD",Fransa - TV5Monde Europe (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD",Fransa - TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD",Fransa - TV5Monde France Belgium Switzerland Monaco
+http://5.78.65.164/TV5Monde/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeInfo.fr@SD",Fransa - TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeLatinAmerica.fr@SD",Fransa - TV5Monde Latin America (720p)
+http://45.162.231.38:7779/TV5_Monde/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeLatinAmerica.fr@SD",Fransa - TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondePacific.fr@SD",Fransa - TV5Monde Pacific
+http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondePacific.fr@SD",Fransa - TV5Monde Pacific
+http://103.190.232.129/stream/tvb/pacifique?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondePacific.fr@SD",Fransa - TV5Monde Pacifique (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeStyle.fr@SD",Fransa - TV5Monde Style (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeStyle.fr@SD",Fransa - TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeStyle.fr@SD",Fransa - TV5Monde Style
+http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="Fransa" tvg-id="TV7Colmar.fr@SD",Fransa - TV7 Colmar (576p)
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV78.fr@SD",Fransa - TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TVAlsace.fr@HD",Fransa - TV Alsace (1080p)
+http://194.163.157.137:8080/hls/radioalsace.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TVBreizh.fr@SD",Fransa - TV Breizh (1080p)
+http://145.239.5.177/318/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TVMulhouse.fr@HD",Fransa - TV Mulhouse (1080p)
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TVR.fr@SD",Fransa - TVR (Bretagne) (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TZiK.fr@SD",Fransa - TZiK [Not 24/7]
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="ViaMatele.fr@SD",Fransa - ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="MoselleTV.fr@SD",Fransa - viàMoselleTV (720p) [Not 24/7]
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="ViaOccitanie.fr@SD",Fransa - viàOccitanie (540p) [Not 24/7]
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="viaTelePaese.fr@SD",Fransa - viàTéléPaese (720p)
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="VosgesTV.fr@SD",Fransa - Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="W9.fr@SD",Fransa - W9 (1080p)
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="W9.fr@SD",Fransa - W9 (720p)
+http://145.239.5.177/331a/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="W9.fr@SD",Fransa - W9 (720p)
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="zenith.fr@HD",Fransa - zenith (1080p)
+https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="zenith.fr@HD",Fransa - zenith (1080p)
+https://live.azenagroup.com/zenith/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Mezzo.fr@SD",Fransa - Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAsia.fr@SD",Fransa - TV5Monde Asia (576p)
+https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsSpanish.fr@SD",Fransa - Euronews Spanish (1080p)
+https://iptv.bitred.cl/euronews/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@EnglishHD",Fransa - France 24 English HD (1080p)
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Spanish (720p)
+http://138.121.15.230:9002/FRANCE-24/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TraceLatina.fr@SD",Fransa - Trace Latina (576p)
+https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TraceSportStars.fr@HD",Fransa - Trace Sport Stars (576p)
+https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (720p)
+https://mumbai-edge.smartplaytv.in/france24/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="AfricanewsEnglish.fr@SD",Fransa - Africanews English (720p)
+https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CanalPlusSport.fr@SD",Fransa - Canal+ Sport (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="GolfPlus.fr@SD",Fransa - Golf + (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TMC.fr@HD",Fransa - TMC HD (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="MCMPop.fr@SD",Fransa - MCM Pop (580p)
+http://188.115.15.121:8000/play/a014
+#EXTINF:-1 group-title="Fransa" tvg-id="CanalPlus.fr@SD",Fransa - Canal+ (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/41.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="CanalPlus.fr@SD",Fransa - Canal+ (720p)
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Europe1TV.fr@HD",Fransa - Europe 1 TV (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="W9.fr@SD",Fransa - W9 (1086p)
+http://5.180.164.197:8080/W9/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="LCP.fr@SD",Fransa - LCP (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Franceinfo.fr@SD",Fransa - Franceinfo (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Nickelodeon.fr@SD",Fransa - Nickelodeon (504p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport1.fr@Hungary",Fransa - Eurosport 1 Hungary
+http://88.212.15.17/live/esp1_hun/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport2.fr@Hungary",Fransa - Eurosport 2 Hungary
+http://88.212.15.17/live/esp2_hun/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport1.fr@Turkiye",Fransa - Eurosport 1 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport2.fr@Turkiye",Fransa - Eurosport 2 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport1.fr@Russia",Fransa - Eurosport 1 Russia (1080p)
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport2.fr@Russia",Fransa - Eurosport 2 Russia (1080p)
+http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="Mezzo.fr@SD",Fransa - Mezzo (576p)
+#EXTVLCOPT:http-user-agent=Enigma2
+http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
+#EXTINF:-1 group-title="Fransa" tvg-id="RMCLife.fr@SD",Fransa - RMC Life (1080p)
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="RMCDecouverte.fr@SD",Fransa - RMC Decouverte (1080p)
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeAsia.fr@SD",Fransa - TV5Monde Asia (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
+#EXTINF:-1 group-title="Fransa" tvg-id="LEquipe.fr@SD",Fransa - L'Equipe (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=96
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 group-title="Macaristan" tvg-id="16tvBudapest.hu@SD",Macaristan - 16tv Budapest (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="AlfoldTV.hu@SD",Macaristan - Alföld TV (1080p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ApostolTV.hu@SD",Macaristan - Apostol TV (576p)
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ATV.hu@SD",Macaristan - ATV (360p) [Not 24/7]
+https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ATV.hu@SD",Macaristan - ATV (160p)
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ATV.hu@SD",Macaristan - ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_atv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ATVSpirit.hu@SD",Macaristan - ATV Spirit (360p)
+https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ATVSpirit.hu@SD",Macaristan - ATV Spirit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_atv_spirit/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="BTV.hu@SD",Macaristan - Bábolnai TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="BajaiTV.hu@SD",Macaristan - Bajai TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="BalatonTV.hu@SD",Macaristan - Balaton TV (432p)
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="BerenteTV.hu@SD",Macaristan - Berente TV (1080p)
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="BudapestEuropaTelevizio.hu@SD",Macaristan - Budapest Európa Televízió (576p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="CityTV.hu@SD",Macaristan - City TV
+https://citytv.hu/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="CsurgoTV.hu@SD",Macaristan - Csurgo TV (720p)
+https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="CsurgoTV.hu@SD",Macaristan - Csurgó TV (720p)
+http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="CsurgoTV.hu@SD",Macaristan - Csurgó TV (720p)
+https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="DaruTV.hu@SD",Macaristan - Daru TV (720p)
+https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="DikhTV.hu@SD",Macaristan - Dikh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/dikh/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="DisneyChannel.hu@SD",Macaristan - Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="DSTV.hu@SD",Macaristan - DSTV (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="DTV.hu@SD",Macaristan - DTV (720p) [Not 24/7]
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Duna.hu@SD",Macaristan - Duna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/duna_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="DunaWorld.hu@SD",Macaristan - Duna World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/duna_world_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="EgykerTV.hu@SD",Macaristan - Elsö Kerület TV (1080p)
+https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ESTV.hu@SD",Macaristan - ESTV (420p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ESTV.hu@SD",Macaristan - ESTV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="EWTNBonumTV.hu@SD",Macaristan - EWTN/Bonum TV
+https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="FehervarTV.hu@SD",Macaristan - Fehérvár TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="FEM3.hu@SD",Macaristan - FEM3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Film4.hu@SD",Macaristan - Film4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/film4_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="FilmCafe.hu@Hungary",Macaristan - Film Cafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/film_cafe/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="FilmPlus.hu@SD",Macaristan - Film+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="FIXTV.hu@SD",Macaristan - Fix TV (720p) [Not 24/7]
+https://fixhd.tv:8082/fix/1080i/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Galaxy4.hu@SD",Macaristan - Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="GloboTV.hu@SD",Macaristan - Globo TV (720p) [Geo-blocked]
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="GolyaTV.hu@SD",Macaristan - Gólya TV (480p) [Geo-blocked]
+https://stream.streaming4u.hu/GolyaTV/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="GranTV.hu@SD",Macaristan - Gran TV (720p)
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="GyongyosiTV.hu@SD",Macaristan - Gyongyosi TV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="GyongyosiTV.hu@SD",Macaristan - Gyöngyösi TV (576p)
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="HtMusicChannel.hu@SD",Macaristan - H!T Music Channel (480p)
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="HangulatTV.hu@SD",Macaristan - Hangulat TV (720p)
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="HegyvidekTV.hu@SD",Macaristan - Hegyvidek TV
+https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="HegyvidekTV.hu@SD",Macaristan - Hegyvidek Tv Budapest (576p) [Not 24/7]
+https://tv.hegyvidek.hu/stream_mpeg.flv
+#EXTINF:-1 group-title="Macaristan" tvg-id="HeviziTV.hu@SD",Macaristan - Hévízi TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="History.hu@SD",Macaristan - History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/history_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="IzauraTV.hu@SD",Macaristan - Izaura TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/izaura/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="JaszsagiTersegiTV.hu@SD",Macaristan - Jászsági Térségi TV (440p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="JockyTV.hu@SD",Macaristan - Jocky TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/jocky/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="KanizsaTV.hu@SD",Macaristan - Kanizsa TV (400p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="KaposTV.hu@SD",Macaristan - Kapos TV (1080p)
+https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="KarcagTV.hu@SD",Macaristan - Karcag TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="KecskemetiTV.hu@SD",Macaristan - Kecskemeti TV (416p) [Not 24/7]
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="KecskemetiTV.hu@SD",Macaristan - Kecskemeti TV (416p) [Not 24/7]
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="KiskorosTV.hu@SD",Macaristan - Kiskőrös TV (720p)
+https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Kolyokklub.hu@SD",Macaristan - Kolyokklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/kolyokklub_atk/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="KomaromiTelevizio.hu@SD",Macaristan - Komáromi Televízió (400p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="KomlosTV.hu@SD",Macaristan - Komlós TV (1080p) [Not 24/7]
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="LiceumTV.hu@SD",Macaristan - Liceum TV (576p)
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="LifeTV.hu@SD",Macaristan - Life TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/lifetv/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Loversenykozvetites.hu@SD",Macaristan - Lóverseny közvetítés (420p)
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="M1.hu@HD",Macaristan - M1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="M2.hu@SD",Macaristan - M2 (1080p)
+http://88.212.15.17/live/m2_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="M4Sport.hu@SD",Macaristan - M4 Sport
+http://88.212.15.17/live/m4_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="M5.hu@SD",Macaristan - M5 (1080p)
+http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="MagyarMoziTV.hu@SD",Macaristan - Magyar Mozi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/mozi/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="MakoiVarosiTelevizio.hu@SD",Macaristan - Makói Városi (576p)
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="MezokovesdiTelevizio.hu@SD",Macaristan - Mezőkövesdi Televízió (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Minimax.hu@SD",Macaristan - Minimax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/minimax_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="MoraNetTV.hu@SD",Macaristan - Móra-Net TV (576p)
+https://stream.moranettv.hu/live/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="MoziPlus.hu@SD",Macaristan - Mozi+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/mozi_plusz/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Moziklub.hu@SD",Macaristan - Moziklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/moziklub_atk/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Moziverzum.hu@SD",Macaristan - Moziverzum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/moziverzum/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="MuzsikaTV.hu@SD",Macaristan - Muzsika TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="NationalGeographic.hu@SD",Macaristan - National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/ngc_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="NationalGeographicWild.hu@SD",Macaristan - National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/ngw_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="NickJr.hu@SD",Macaristan - Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/nick_junior_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Nickelodeon.hu@SD",Macaristan - Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Nicktoons.hu@SD",Macaristan - Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/nicktoons_hungary/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="OroszlanyiVarosiTelevizio.hu@SD",Macaristan - Oroszlányi Városi Televízió (720p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="OrszaggyulesOGYplenaris.hu@SD",Macaristan - Országgyűlés (Plenáris) (720p) [Not 24/7]
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="OrszaggyulesOGYplenaris.hu@SD",Macaristan - Országgyűlés (Plenáris) (720p) [Not 24/7]
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="OrszaggyulesOGYTAB.hu@SD",Macaristan - Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]
+http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="OrszaggyulesOGYTAB.hu@SD",Macaristan - Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="OxygenMusic.hu@HD",Macaristan - Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="OzdiVarosiTV.hu@SD",Macaristan - Ózdi Városi TV (720p) [Not 24/7]
+http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="OzoneTV.hu@SD",Macaristan - Ozone TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/ozone/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="PannonTV.rs@SD",Macaristan - Pannon RTV (648p)
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="PilisTV.hu@SD",Macaristan - PilisTV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Prime.hu@SD",Macaristan - Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/prime/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="PVTV.hu@SD",Macaristan - Putnok Városi TV (720p)
+http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
+#EXTINF:-1 group-title="Macaristan" tvg-id="RakosmenteTV.hu@SD",Macaristan - Rákosmente TV (720p)
+http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="RegioPluszTV.hu@SD",Macaristan - RégióPlusz TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="RTL.hu@SD",Macaristan - RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="RTLGold.hu@SD",Macaristan - RTL Gold
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="RTLHarom.hu@SD",Macaristan - RTL Harom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="RTLKetto.hu@SD",Macaristan - RTL Ketto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="RTLOtthon.hu@SD",Macaristan - RTL Otthon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="SIXOTV.hu@SD",Macaristan - SIXO TV (360p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="SlagerTV.hu@SD",Macaristan - Slager TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="SoltvadkertiTelevizio.hu@SD",Macaristan - Soltvadkerti Televízió (720p)
+http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="SorozatPlus.hu@SD",Macaristan - Sorozat+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Sorozatklub.hu@SD",Macaristan - Sorozatklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/sorozatklub_atk/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Spektrum.hu@SD",Macaristan - Spektrum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/spektrum_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="SpektrumHome.hu@SD",Macaristan - Spektrum Home
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/spektrum_home_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Spiler1.hu@SD",Macaristan - Spiler 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/spiler1/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Spiler2.hu@SD",Macaristan - Spiler 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/spiler2/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Sport1.hu@SD",Macaristan - Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/sport1_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Sport2.hu@SD",Macaristan - Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/sport2_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Story4.hu@SD",Macaristan - Story4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_story_4_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="SuperTV2.hu@SD",Macaristan - Super TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="SzecsenyTV.hu@SD",Macaristan - Szécsény TV (720p)
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="SzolnokTV.hu@SD",Macaristan - Szolnok TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TataiTV.hu@SD",Macaristan - Tatai TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TelePaks.hu@SD",Macaristan - TelePaks (396p)
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TheFishingHuntingChannel.hu@SD",Macaristan - The Fishing & Hunting Channel
+http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TiszaTV.hu@SD",Macaristan - Tisza TV (576p) [Not 24/7]
+https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TrimedioTV.hu@SD",Macaristan - Trimedio TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TV2.hu@SD",Macaristan - TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TV2Comedy.hu@SD",Macaristan - TV2 Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/tv2_comedy/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TV2Kids.hu@SD",Macaristan - TV2 Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/tv2_kids/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TV2Sef.hu@SD",Macaristan - TV2 Sef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TV4.hu@SD",Macaristan - TV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="7TV.hu@SD",Macaristan - TV7 Bekescsaba (360p)
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TVBudakalasz.hu@SD",Macaristan - TV Budakalasz (1080p) [Not 24/7]
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TVEger.hu@SD",Macaristan - TV Eger (1080p)
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TVKeszthely.hu@SD",Macaristan - TV Keszthely (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TVSzentendre.hu@SD",Macaristan - TV Szentendre (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="VasarhelyiTelevizio.hu@SD",Macaristan - Vásárhelyi Televízió (576p)
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Viasat2.hu@SD",Macaristan - Viasat2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/viasat2/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Viasat3.hu@SD",Macaristan - Viasat 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/viasat3/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Viasat6.hu@SD",Macaristan - Viasat 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/viasat6/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="AXNCrime.us@SD",Macaristan - AXN Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/viasat_film/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="VolgyhidTV.hu@SD",Macaristan - Völgyhíd TV (540p)
+https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="VTVFuzesabony.hu@SD",Macaristan - VTV Füzesabony (720p) [Not 24/7]
+https://stream.nmih.hu:7962/live.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="VTVMor.hu@SD",Macaristan - VTV Mór (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="WilliamsTV.hu@SD",Macaristan - Williams TV (480p)
+http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="XVTV.hu@SD",Macaristan - XV TV (480p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ZalaegerszegiTV.hu@SD",Macaristan - Zalaegerszegi TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Zenebutik.hu@SD",Macaristan - Zenebutik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/zenebutik/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="ZugloTV.hu@SD",Macaristan - Zuglo TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TheFishingHuntingChannel.hu@HD",Macaristan - The Fishing & Hunting Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/fishing_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="M4Sport.hu@SD",Macaristan - M4 Sport (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TVPaprika.hu@SD",Macaristan - TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/parpika_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="JimJam.hu@SD",Macaristan - JimJam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/jim_jam_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Story4.hu@Czechia",Macaristan - Story4 Czechia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/story_4_cze_atk/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="AXNSpin.hu@SD",Macaristan - AXN Spin
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="FilmCafe.hu@Romania",Macaristan - Film Cafe Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="AXNSpin.hu@Poland",Macaristan - AXN Spin Poland
+#EXTVLCOPT:http-referrer=https://ritsatv.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://polska.hach.workers.dev/14847.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="MAX4.hu@SD",Macaristan - MAX4 (1080p)
+http://141.94.193.53:80/MAX4_HD/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Match4.hu@SD",Macaristan - Match4 (1080p)
+http://141.94.193.53:80/Match4_HD/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Arena4.hu@SD",Macaristan - Arena4
+http://88.212.15.17/live/arena4/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="InvestigationDiscovery.hu@SD",Macaristan - Investigation Discovery
+http://88.212.15.17/live/id_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="DiscoveryChannel.hu@SD",Macaristan - Discovery Channel
+http://88.212.15.17/live/discovery_hungary/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="HGTV.hu@SD",Macaristan - HGTV
+http://88.212.15.17/live/hgtv_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="AnimalPlanet.hu@SD",Macaristan - Animal Planet
+http://88.212.15.17/live/animal_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TravelChannel.hu@SD",Macaristan - Travel Channel
+http://88.212.15.17/live/travel_hun/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="FoodNetwork.hu@SD",Macaristan - Food Network
+http://88.212.15.17/live/fn_hungary/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="TLC.hu@SD",Macaristan - TLC
+http://88.212.15.17/live/tlc_hungary/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="CinemaxCentralEurope.hu@Poland",Macaristan - Cinemax Central Europe Poland (1080p)
+http://57.128.231.171:8080/287/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-id="Cinemax2CentralEurope.hu@Poland",Macaristan - Cinemax 2 Central Europe Poland (1080p)
+http://57.128.231.171:8080/288/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="7RadioVisione.it@HD",İtalya - 7 RadioVisione (720p)
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="12TVParma.it@SD",İtalya - 12 TV Parma (540p) [Not 24/7]
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="20.it@SD",İtalya - 20 Mediaset [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="50Canale.it@SD",İtalya - 50 Canale
+https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="51RadioTV.it@SD",İtalya - 51 Radio TV (480p) [Geo-blocked]
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="51RadioTV.it@SD",İtalya - 51 Radio TV (480p) [Geo-blocked]
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="7080TV.it@SD",İtalya - 70-80 TV (1080P)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="111TV.it@SD",İtalya - 111 TV (720p)
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="A2iTV.it@SD",İtalya - A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ACISportTV.it@SD",İtalya - ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ACISportTV.it@SD",İtalya - ACI Sport TV (720p)
+http://145.239.5.177/564a/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Adnkronos.it@SD",İtalya - Adnkronos (720p)
+https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="AlmaTV.it@SD",İtalya - Alma TV (576p)
+http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="AltoAdigeTV.it@SD",İtalya - Alto Adige TV (720p)
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Antenna2TV.it@SD",İtalya - Antenna 2 TV (720p)
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="AntennaSud.it@SD",İtalya - Antenna Sud (720p)
+https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="AntennaSudExtra.it@SD",İtalya - Antenna Sud Extra (720p)
+https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="AntennaTre.it@SD",İtalya - Antenna Tre Veneto (480p) [Geo-blocked]
+https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="AuroraArte.it@SD",İtalya - Aurora Arte (480p)
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="AzzurraTV.it@SD",İtalya - Azzurra TV (576p)
+https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="BeJoykids.it@HD",İtalya - BeJoy.kids (1080p)
+https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="BergamoTV.it@SD",İtalya - Bergamo TV (1080p)
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="BomChannel.it@SD",İtalya - Bom Channel (720p)
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="CafeTV24.it@SD",İtalya - CafeTV24 (720p)
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="CalabriaTV.it@SD",İtalya - Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="CameradeiDeputati.it@SD",İtalya - Camera dei Deputati (via RR) (240p)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Canale2Altamura.it@SD",İtalya - Canale 2 Altamura (576p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Canale5.it@SD",İtalya - Canale 5 [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Canale7.it@SD",İtalya - Canale 7 (480p)
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Canale7.it@SD",İtalya - CANALE 7 (480p)
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Canale8.it@SD",İtalya - Canale 8 (480p)
+http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Canale8.it@SD",İtalya - CANALE 8 (480p)
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="CanaleDieci.it@SD",İtalya - Canale 10 (540p) [Not 24/7]
+http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="CasaItalia53.it@SD",İtalya - Casa Italia 53 (720p)
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Cine34.it@SD",İtalya - Cine 34 [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ClassCNBC.it@SD",İtalya - Class CNBC (1080p) [Geo-blocked]
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="CompanyTV.it@SD",İtalya - Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="CusanoItaliaTV.it@SD",İtalya - Cusano Italia TV (720p)
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - D Television (Antenna 10) (480p)
+https://ssh101.bozztv.com/ssh101/dtelevision/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="DeejayTV.it@SD",İtalya - Deejay TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="DellaTV.it@HD",İtalya - DellaTV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Deluxe139.it@SD",İtalya - Deluxe 139 (480p)
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="DITV80.it@SD",İtalya - DI.TV 80 (720p)
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="DonnaTV.it@SD",İtalya - Donna TV (480p)
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="EliveTVBrescia.it@SD",İtalya - Elive TV Brescia (720p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="EntellaTV.it@SD",İtalya - Entella TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="EsperiaTV.it@SD",İtalya - Esperia TV (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="EsperiaTV.it@SD",İtalya - Esperia TV (480p)
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="EtnaEspressoChannel.it@SD",İtalya - Etna Espresso Channel (720p)
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="eTvMarche.it@SD",İtalya - èTv Marche (720p)
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="eTvRete7.it@SD",İtalya - èTv Rete 7 (720p)
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="EuroIndieMusicChartTV.it@SD",İtalya - Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="EuroTV.it@SD",İtalya - Euro TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="FanoTV.it@SD",İtalya - Fano TV (1080p)
+https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="FMITALIA.it@SD",İtalya - FM ITALIA (1080p)
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="GiornaleRadioTV.it@SD",İtalya - Giornale Radio TV (720p)
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="GiovanniPaoloTV.it@SD",İtalya - Giovanni Paolo TV (1080p)
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="GOTVCanale163.it@SD",İtalya - GO-TV Canale 163 (720p)
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="GoldTV.it@SD",İtalya - Gold TV (576p)
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="GoldTV.it@SD",İtalya - Gold TV
+https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="GoldTVSat.it@SD",İtalya - Gold TV Sat (576p)
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="GRPVERATV.it@SD",İtalya - GRP VERATV (576p)
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="IcaroTV.it@SD",İtalya - Icaro TV (720p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Iris.it@SD",İtalya - Iris [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Italia1.it@SD",İtalya - Italia 1 [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Italia2.it@SD",İtalya - Italia 2 (480p) [Geo-blocked]
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Italia2.it@SD",İtalya - Italia 2 [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Italia2TV.it@SD",İtalya - Italia 2 TV (480p) [Geo-blocked]
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Italia7.it@SD",İtalya - Italia 7 (576p)
+http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ItalianFishingTV.it@SD",İtalya - Italian Fishing TV (1080p)
+https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="IuniorTV.it@SD",İtalya - Iunior TV (1080p)
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="IuniorTV.it@SD",İtalya - Iunior TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Juwelo.it@SD",İtalya - Juwelo Italia (480p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="KissKissNapoliTV.it@SD",İtalya - Kiss Kiss Napoli TV (720p)
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="KissKissTV.it@SD",İtalya - Kiss Kiss TV (1080p)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="KissKissTV.it@SD",İtalya - Kiss Kiss TV (720p)
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="KissKissTV.it@SD",İtalya - Kiss Kiss TV (720p)
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LaltroCorriereTV.it@SD",İtalya - L'altro Corriere TV
+https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LaltroCorriereTV.it@SD",İtalya - L'altro Corriere TV (720P)
+https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="La5.it@SD",İtalya - La5 [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LA7d.it@SD",İtalya - LA7d (720p)
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LaCTV.it@SD",İtalya - La C TV (720p)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LaNuovaTV.it@SD",İtalya - La Nuova TV
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LaTR3Marsala.it@SD",İtalya - La TR3 Marsala (720p)
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LaCNews24.it@SD",İtalya - LaC News 24 (720p)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LazioTV.it@SD",İtalya - Lazio TV (576p)
+http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LazioTV.it@SD",İtalya - Lazio TV (576p)
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LeCronacheTV.it@SD",İtalya - Le Cronache TV (720p)
+http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LeCronacheTV.it@SD",İtalya - Le Cronache TV (720p)
+http://stucazz.com:8888/hls/cronache.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LiraTV.it@SD",İtalya - Lira TV (720p) [Not 24/7]
+https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LiraTV.it@SD",İtalya - Lira TV
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LombardiaTV.it@SD",İtalya - Lombardia TV
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="m2oTV.it@SD",İtalya - m2o TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MadeinBOTV.it@SD",İtalya - MadeinBO TV (1080p)
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MariaVisionItalia.it@SD",İtalya - Maria Vision (1080p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MediasetExtra.it@SD",İtalya - Mediaset Extra [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MediasetItalia.it@SD",İtalya - Mediaset Italia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MediasetItalia.it@SD",İtalya - Mediaset Italia [Geo-blocked]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MediasetItalia.it@Australia",İtalya - Mediaset Italia Australia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MediasetItalia.it@USA",İtalya - Mediaset Italia USA (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MediterraniaTV.it@SD",İtalya - MediterraniaTV (1080p)
+https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MedjugorjeItaliaTV.it@SD",İtalya - Medjugorje Italia TV (480p)
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="MinformoTV.it@SD",İtalya - Minformo TV (720p)
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="NTN.it@SD",İtalya - NTN (720p)
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Odeon24.it@SD",İtalya - Odeon 24 (288p)
+https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="OndaNovaraTV.it@SD",İtalya - Onda Novara TV (720p) [Not 24/7]
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="OndaTV.it@SD",İtalya - Onda TV (568p)
+https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="OrlerTV.it@SD",İtalya - Orler TV (420p) [Not 24/7]
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="OttoChannel.it@SD",İtalya - Otto Channel (480p)
+https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PaciContemporaryChannel.it@SD",İtalya - Paci Contemporary Channel (720p)
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PadrePioTV.it@SD",İtalya - Padre Pio TV (1080p)
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ParadiseTV.it@SD",İtalya - Paradise TV [Geo-blocked]
+https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ParolediVita.it@SD",İtalya - Parole di Vita (1080p)
+https://stream.paroledivita.org/paroledivita.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PassioneLotto.it@SD",İtalya - Passione Lotto (300p)
+http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PeerTVAltoAdige.it@SD",İtalya - Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PeerTVSouthTyrol.it@SD",İtalya - Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PeerTVSudtirol.it@SD",İtalya - Peer TV Südtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PrimaTV.it@SD",İtalya - Prima TV Sicilia (720p)
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PrimaFree.it@SD",İtalya - PrimaFree
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PrimAntennaTV.it@SD",İtalya - PrimAntenna TV (720p)
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Primocanale.it@SD",İtalya - Primocanale (1080p) [Not 24/7]
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="PromovideoTV.it@SD",İtalya - Promovideo TV (486p)
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="QuartoCanaleFlegreo.it@SD",İtalya - Quarto Canale Flegreo (720p)
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="QVC.it@SD",İtalya - QVC Italia (540p)
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Radio51TV.it@SD",İtalya - Radio 51 TV (480p) [Geo-blocked]
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioBirikinaTV.it@SD",İtalya - Radio Birikina TV (720p) [Not 24/7]
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioCapitalTiVu.it@HD",İtalya - Radio Capital TiVu (720p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Radiofreccia.it@SD",İtalya - Radio Freccia TV (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Radiofreccia.it@SD",İtalya - Radio Freccia TV (1080p)
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioIbizaTV.it@SD",İtalya - Radio Ibiza TV (720p) [Not 24/7]
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioIglesias.it@SD",İtalya - Radio Iglesias (576p) [Geo-blocked]
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioIglesiasSardegna.it@SD",İtalya - Radio Iglesias Sardegna (576p) [Geo-blocked]
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioNorbaTV.it@SD",İtalya - Radio Norba TV (1080p)
+https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioNumberOne.it@SD",İtalya - Radio Number One (720p) [Not 24/7]
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioPiterPanTV.it@SD",İtalya - Radio Piter Pan TV (720p) [Not 24/7]
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - Radio Radicale TV (240p) [Not 24/7]
+https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioStudioDeltaTV.it@SD",İtalya - Radio Studio Delta TV (1080p) [Not 24/7]
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioTaorminaSicilia.it@SD",İtalya - Radio Taormina Sicilia (720p) [Not 24/7]
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioZeta.it@SD",İtalya - Radio Zeta TV (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioZeta.it@SD",İtalya - Radio Zeta TV (1080p)
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Rai1.it@SD",İtalya - Rai 1 (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 group-title="İtalya" tvg-id="Rai1.it@SD",İtalya - Rai 1 (Geo) (576p)
+https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 group-title="İtalya" tvg-id="Rai2.it@SD",İtalya - Rai 2 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Rai3.it@HD",İtalya - Rai 3 (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 group-title="İtalya" tvg-id="Rai4.it@SD",İtalya - Rai 4 (576p)
+https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiGulp.it@SD",İtalya - Rai Gulp (576p)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiItalia.it@EuropeAfrica",İtalya - Rai Italia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiItalia.it@EuropeAfrica",İtalya - Rai Italia [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiItalia.it@Australia",İtalya - Rai Italia Australia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiItalia.it@NorthAmericas",İtalya - Rai Italia North Americas (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiItalia.it@SouthAmericas",İtalya - Rai Italia South Americas (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiNews24.it@SD",İtalya - Rai News 24 (720p)
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Italiana.it@SD",İtalya - Italiana (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiScuola.it@SD",İtalya - Rai Scuola (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - Rai Sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiStoria.it@SD",İtalya - Rai Storia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiStoria.it@SD",İtalya - Rai Storia (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiSudtirol.it@SD",İtalya - Rai Sudtirol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiWorldPremium.it@SD",İtalya - Rai World Premium (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RDSSocialTV.it@SD",İtalya - RDS Social TV (720p)
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ReggioTV.it@SD",İtalya - ReggioTV (480p) [Not 24/7]
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Rete8.it@SD",İtalya - Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Rete55.it@SD",İtalya - Rete 55 (720p) [Not 24/7]
+https://stream.internet.one/Rete55_Live/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Rete55.it@SD",İtalya - Rete 55
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ReteBiellaTV.it@SD",İtalya - Rete Biella TV (720p) [Not 24/7]
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ReteOro.it@SD",İtalya - Rete Oro (720p) [Not 24/7]
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ReteTVItalia.it@SD",İtalya - Rete TV Italia (1080p)
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Retemia.it@SD",İtalya - Retemia (720p) [Not 24/7]
+https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Reteveneta.it@SD",İtalya - Reteveneta (480p)
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RomanticaTV.it@SD",İtalya - Romantica TV (1080p)
+https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RossiniTV.it@SD",İtalya - Rossini TV (720p)
+https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTCTelecalabria.it@SD",İtalya - RTC Telecalabria (720p) [Not 24/7]
+http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTCTelecalabria.it@SD",İtalya - RTC Telecalabria (720p) [Not 24/7]
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Best.it@SD",İtalya - RTL 102.5 Best (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025BroSis.it@SD",İtalya - RTL 102.5 Bro&Sis (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Caliente.it@SD",İtalya - RTL 102.5 Caliente (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Disco.it@SD",İtalya - RTL 102.5 Disco (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Napule.it@SD",İtalya - RTL 102.5 Napulè (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Traffic.it@SD",İtalya - RTL 102.5 Traffic (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025TV.it@SD",İtalya - RTL 102.5 TV (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTMTV.it@SD",İtalya - RTM TV (1080p)
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTP.it@SD",İtalya - RTP (404p)
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTTRTrento.it@SD",İtalya - RTTR Trento (720p)
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTV38.it@SD",İtalya - RTV38 (576p)
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RTV38.it@SD",İtalya - RTV38 (576p)
+https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Sportitalia.it@SD",İtalya - Sportitalia (1080p)
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Sportitalia.it@SD",İtalya - Sportitalia (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Sportitalia24.it@SD",İtalya - Sportitalia 24 (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SportitaliaMotori.it@SD",İtalya - Sportitalia Motori (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SportitaliaSolocalcio.it@SD",İtalya - Sportitalia Solocalcio (1080p)
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SportitaliaSolocalcio.it@SD",İtalya - Sportitalia Solocalcio (1080p)
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SportitaliaSolocalcio.it@SD",İtalya - Sportitalia Solocalcio (1080p)
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SportitaliaSolocalcio.it@SD",İtalya - Sportitalia Solocalcio (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Stereo5TV.it@SD",İtalya - Stereo 5 TV (720p)
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperJTVTeramo.it@SD",İtalya - Super J TV (720p)
+https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperJTVTeramo.it@SD",İtalya - Super J TV Teramo (720p) [Not 24/7]
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperTV.it@SD",İtalya - Super TV (720p)
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperTV.it@SD",İtalya - Super TV (720p)
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - Super TV Brescia (720p)
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperTVOristano.it@SD",İtalya - Super TV Oristano (720p) [Not 24/7]
+http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Super.it@SD",İtalya - Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperSix.it@SD",İtalya - SuperSix Lombardia (720p)
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperTennis.it@SD",İtalya - SuperTennis (1080p)
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="T9.it@SD",İtalya - T9 (288p)
+https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TaurianovaTV.it@HD",İtalya - Taurianova TV (720p)
+https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeatroTV.it@SD",İtalya - Teatro TV (720p)
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleAbruzzo.it@SD",İtalya - Tele Abruzzo (384p)
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleLiguriaSud.it@SD",İtalya - Tele Liguria Sud (576p)
+https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleOne16.it@SD",İtalya - Tele One 16
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telepavia.it@SD",İtalya - Tele Pavia (720p)
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TelePegasoCatania.it@SD",İtalya - Tele Pegaso Catania (404p) [Not 24/7]
+https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleQuattro.it@SD",İtalya - Tele Quattro (720p)
+https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleQuattro.it@SD",İtalya - Tele Quattro (480p) [Not 24/7]
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleRadioSciacca.it@SD",İtalya - Tele Radio Sciacca (240p) [Not 24/7]
+http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TSNTeleSondrioNews.it@SD",İtalya - Tele Sondrio News (480p) [Not 24/7]
+https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Teleacras.it@SD",İtalya - Teleacras (576p)
+https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleArena.it@SD",İtalya - TeleArena (480p)
+https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - TeleCampione [Geo-blocked]
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleChiara.it@SD",İtalya - Telechiara (720p)
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TelecolorLombardia.it@SD",İtalya - Telecolor Lombardia (1080p) [Not 24/7]
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telefoggia.it@SD",İtalya - Telefoggia (480p) [Not 24/7]
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telefoggia.it@SD",İtalya - Telefoggia (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - TeleFormula (720p) [Not 24/7]
+https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telefriuli.it@SD",İtalya - Telefriuli (1080p)
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telegela647.it@SD",İtalya - Telegela 647
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telegranda.it@SD",İtalya - Telegranda (720p) [Not 24/7]
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telejato.it@SD",İtalya - Telejato (720p)
+https://telejato.liberotratto.com/hls/0/stream.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Teleliberta.it@SD",İtalya - Teleliberta (486p) [Not 24/7]
+https://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleMajg.it@SD",İtalya - TeleMajg (480p)
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telemantova.it@SD",İtalya - Telemantova (1080p)
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleMia.it@SD",İtalya - TeleMia (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleMiaExtra.it@SD",İtalya - TeleMia Extra (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleMistretta.it@SD",İtalya - TeleMistretta (1080p)
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telemolise.it@SD",İtalya - Telemolise (1080p)
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telemontecarlo.it@SD",İtalya - Telemontecarlo (720p)
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="teleMonteneve.it@SD",İtalya - teleMonteneve (480p) [Not 24/7]
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telenord.it@SD",İtalya - Telenord (576p) [Not 24/7]
+https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telenova.it@SD",İtalya - Telenova (720p)
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telepace1.it@SD",İtalya - Telepace 1 (1080p)
+https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telepace2.it@SD",İtalya - Telepace 2 (1080p)
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telepace3.it@SD",İtalya - Telepace 3 (1080p)
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telepace4.it@SD",İtalya - Telepace 4 (1080p)
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TelepaceTrento.it@SD",İtalya - Telepace Trento (540p)
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telepavia.it@SD",İtalya - telePAVIA (720p)
+http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telepavia.it@SD",İtalya - telePAVIA (720p)
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleRama.it@SD",İtalya - TeleRama (576p)
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - TeleRegione 118 (576p)
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Teleromagna.it@SD",İtalya - Teleromagna (480p)
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleSanDomenico.it@SD",İtalya - TeleSanDomenico (1080p)
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Telestense.it@SD",İtalya - Telestense (720p)
+https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TelesudTrapani.it@SD",İtalya - Telesud Trapani (720p) [Not 24/7]
+http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TelesudTrapani.it@SD",İtalya - Telesud Trapani (720p) [Not 24/7]
+https://5cbd3bc28341f.streamlock.net:444/telesud/live/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Teletricolore.it@SD",İtalya - Teletricolore (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleTusciaSabina2000.it@SD",İtalya - TeleTusciaSabina 2000 (576p) [Not 24/7]
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Televallo.it@SD",İtalya - Televallo (576p)
+https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TeleVenezia.it@SD",İtalya - TeleVenezia (576p)
+https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TGCom24.it@SD",İtalya - TGCom 24 [Geo-blocked]
+https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TLTMolise.it@SD",İtalya - TLT Molise (1080p)
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TopCrime.it@SD",İtalya - Top Crime [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TRSport.it@SD",İtalya - TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TrentinoTV.it@SD",İtalya - Trentino TV (720p) [Not 24/7]
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TSNTeleSondrioNews.it@SD",İtalya - TSN Tele Sondrio News (480p) [Not 24/7]
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TV7Benevento.it@SD",İtalya - TV7 Benevento (288p) [Not 24/7]
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - TV7 Meteo (404p)
+https://www.gruppotv7.com:8090/hls/meteo.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TV7Triveneta.it@SD",İtalya - TV7 Triveneta (562p)
+https://www.gruppotv7.com:8090/hls/ireporter.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="tv9Telemaremma.it@HD",İtalya - tv9 Telemaremma (576p)
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TV2000.it@SD",İtalya - TV 2000 (720p)
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TVCampane1.it@SD",İtalya - TV Campane 1 (720p)
+https://eu1.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TVPrato.it@SD",İtalya - TV Prato (1080p)
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TVQuiModena.it@SD",İtalya - TV Qui (Modena) (480p)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TVSei.it@SD",İtalya - TV Sei (576p) [Not 24/7]
+http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TVYesItalia.it@SD",İtalya - TV Yes Italia (720p)
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TVAVicenza.it@SD",İtalya - TVA (Vicenza) (720p)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TVL.it@SD",İtalya - TVL (720p) [Not 24/7]
+https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="",İtalya - TVR Sicilia HD (1080p) [Not 24/7]
+https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TVRS.it@SD",İtalya - TVRS (576p) [Not 24/7]
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="UmbriaTV.it@SD",İtalya - Umbria TV (576p) [Not 24/7]
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="UniNettunoUniversityTV.it@SD",İtalya - UniNettuno University TV (720p)
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Value24TV.it@SD",İtalya - Value 24 TV
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="VeraTV.it@SD",İtalya - Vera TV (1080p) [Not 24/7]
+http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="VeraTV.it@SD",İtalya - Vera TV (Marche) (1080p) [Not 24/7]
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="VideoRola.it@SD",İtalya - Video Rola (1080p)
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="VideolinaSardegna.it@SD",İtalya - Videolina (Sardegna) (404p) [Not 24/7]
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="VisualRadio.it@SD",İtalya - Visual Radio (576p) [Not 24/7]
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="WeddingTV.it@SD",İtalya - Wedding TV
+https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiNews24.it@HD",İtalya - Rai News 24 HD (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TGCom24.it@SD",İtalya - TGCom24 (720p)
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="InterTV.it@SD",İtalya - Inter TV (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="7Gold.it@SD",İtalya - 7 Gold (1080p)
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Canale5.it@HD",İtalya - Canale 5 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Cine34.it@HD",İtalya - Cine34 HD (1080p)
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="EspansioneTV.it@SD",İtalya - Espansione TV (576p)
+https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Iris.it@HD",İtalya - Iris HD (1080p)
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LazioStyleChannel.it@HD",İtalya - Lazio Style Channel HD (720p)
+https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Odeon24.it@SD",İtalya - Odeon 24 (576p)
+#EXTVLCOPT:http-referrer=https://www.grupposciscione.it/odeon-2/#/?playlistId=0&videoId=0
+https://5f11919dca3bd.streamlock.net/odeonjump/_definst_/odeonjump/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="TelecityLombardia.it@SD",İtalya - Telecity Lombardia (1080p)
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="NickJr.it@SD",İtalya - Nick Jr. (720p)
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="ClassCNBC.it@SD",İtalya - Class CNBC (1080p)
+https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
+#EXTINF:-1 group-title="İtalya" tvg-id="Twentyseven.it@HD",İtalya - Twentyseven HD (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="İtalya" tvg-id="RadioBrunoTV.it@SD",İtalya - Radio Bruno TV (720p)
+http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiItalia.it@NorthAmericas",İtalya - Rai Italia North Americas (1080p)
+http://138.59.177.78:9999/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="LA7.it@HD",İtalya - LA7 HD (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="La7Cinema.it@HD",İtalya - La7 Cinema (720p)
+http://102.129.186.182:81/la7d/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="DMAX.it@SD",İtalya - DMAX (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="FoodNetwork.it@SD",İtalya - Food Network (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="HGTV.it@SD",İtalya - HGTV (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="DiscoveryChannel.it@SD",İtalya - Discovery Channel (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Nickelodeon.it@SD",İtalya - Nickelodeon
+https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="DiscoveryTurbo.it@SD",İtalya - Discovery Turbo (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RaiMovie.it@HD",İtalya - Rai Movie HD (1080p)
+http://team-tv.co:81/raimovie/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Rai3.it@HD",İtalya - Rai 3 (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="RealTime.it@SD",İtalya - Real Time (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Nove.it@SD",İtalya - Nove (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-id="Giallo.it@SD",İtalya - Giallo (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="BalticumTV.lt@SD",Litvanya - Balticum TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/376/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="BTV.lt@SD",Litvanya - BTV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/35/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="DelfiTV.lt@SD",Litvanya - Delfi TV
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LietuvosRytasTV.lt@SD",Litvanya - Lietuvos Rytas TV (1080p)
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LNK.lt@SD",Litvanya - LNK (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTKlasika.lt@SD",Litvanya - LRT Klasika (1080p)
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTLituanica.lt@SD",Litvanya - LRT Lituanica (1080p) [Geo-blocked]
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTOpus.lt@SD",Litvanya - LRT Opus (1080p)
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTPlius.lt@SD",Litvanya - LRT Plius (1080p) [Geo-blocked]
+https://stream-live.lrt.lt/plius/master.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTPlius.lt@SD",Litvanya - LRT Plius (1080p)
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTRadijas.lt@SD",Litvanya - LRT Radijas (1080p)
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTTV.lt@SD",Litvanya - LRT TV (1080p) [Geo-blocked]
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTTV.lt@SD",Litvanya - LRT TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="M1.lt@SD",Litvanya - M-1 (480p)
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="PowerHitRadio.lt@SD",Litvanya - Power Hit Radio (576p)
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="TV3.lt@SD",Litvanya - TV3 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="TV6.lt@SD",Litvanya - TV6 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/375/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="TV8.lt@SD",Litvanya - TV8 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/374/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-id="TV1.lt@SD",Litvanya - TV1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd
