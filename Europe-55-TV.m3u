@@ -691,1307 +691,1307 @@ https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTK3.xk@SD" group-title="Kosova",Kosova - RTK 3 (1080p)
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:-1 tvg-id="ATV.be@SD",Belçika - ATV
+#EXTINF:-1 group-title="Belçika" tvg-id="ATV.be@SD",Belçika - ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
-#EXTINF:-1 tvg-id="BelRTL.be@SD",Belçika - Bel RTL
+#EXTINF:-1 group-title="Belçika" tvg-id="BelRTL.be@SD",Belçika - Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="QMusic.be@SD",Belçika - Q-Music
+#EXTINF:-1 group-title="Belçika" tvg-id="QMusic.be@SD",Belçika - Q-Music
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
-#EXTINF:-1 tvg-id="RadioContact.be@SD",Belçika - Radio Contact
+#EXTINF:-1 group-title="Belçika" tvg-id="RadioContact.be@SD",Belçika - Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="Radio1.be@SD",Belçika - VRT Radio 1
+#EXTINF:-1 group-title="Belçika" tvg-id="Radio1.be@SD",Belçika - VRT Radio 1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Radio1.be@SD",Belçika - VRT Radio 1
+#EXTINF:-1 group-title="Belçika" tvg-id="Radio1.be@SD",Belçika - VRT Radio 1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd
-#EXTINF:-1 tvg-id="Radio2.be@SD",Belçika - VRT Radio 2
+#EXTINF:-1 group-title="Belçika" tvg-id="Radio2.be@SD",Belçika - VRT Radio 2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Radio2.be@SD",Belçika - VRT Radio 2
+#EXTINF:-1 group-title="Belçika" tvg-id="Radio2.be@SD",Belçika - VRT Radio 2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd
-#EXTINF:-1 tvg-id="Klara.be@SD",Belçika - VRT Radio Klara
+#EXTINF:-1 group-title="Belçika" tvg-id="Klara.be@SD",Belçika - VRT Radio Klara
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Klara.be@SD",Belçika - VRT Radio Klara
+#EXTINF:-1 group-title="Belçika" tvg-id="Klara.be@SD",Belçika - VRT Radio Klara
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd
-#EXTINF:-1 tvg-id="StuBru.be@SD",Belçika - VRT Radio StuBru
+#EXTINF:-1 group-title="Belçika" tvg-id="StuBru.be@SD",Belçika - VRT Radio StuBru
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
-#EXTINF:-1 tvg-id="StuBru.be@SD",Belçika - VRT Radio StuBru
+#EXTINF:-1 group-title="Belçika" tvg-id="StuBru.be@SD",Belçika - VRT Radio StuBru
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd
-#EXTINF:-1 tvg-id="VTM3.be@SD",Belçika - VTM 3
+#EXTINF:-1 group-title="Belçika" tvg-id="VTM3.be@SD",Belçika - VTM 3
 https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8
-#EXTINF:-1 tvg-id="VTM4.be@SD",Belçika - VTM 4
+#EXTINF:-1 group-title="Belçika" tvg-id="VTM4.be@SD",Belçika - VTM 4
 https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8
-#EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl@HD",Polonya - Bialogardzka Telewizja Kablowa
+#EXTINF:-1 group-title="Polonya" tvg-id="BialogardzkaTelewizjaKablowa.pl@HD",Polonya - Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
-#EXTINF:-1 tvg-id="BTBMusic.pl@SD",Polonya - BTB Music
+#EXTINF:-1 group-title="Polonya" tvg-id="BTBMusic.pl@SD",Polonya - BTB Music
 https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
-#EXTINF:-1 tvg-id="Euronews.pl@FAST",Polonya - Euronews
+#EXTINF:-1 group-title="Polonya" tvg-id="Euronews.pl@FAST",Polonya - Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
-#EXTINF:-1 tvg-id="RemontyTV.pl@HD",Polonya - Remonty TV
+#EXTINF:-1 group-title="Polonya" tvg-id="RemontyTV.pl@HD",Polonya - Remonty TV
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD",Polonya - Polsat Viasat History
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatViasatHistory.pl@SD",Polonya - Polsat Viasat History
 http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam
 http://185.227.34.179:8080/jimjam/index.m3u8
-#EXTINF:-1 tvg-id="PolsatGames.pl@HD",Polonya - Polsat Games HD
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatGames.pl@HD",Polonya - Polsat Games HD
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
-#EXTINF:-1 tvg-id="DiscoPoloMusic.pl@SD",Polonya - Disco Polo Music
+#EXTINF:-1 group-title="Polonya" tvg-id="DiscoPoloMusic.pl@SD",Polonya - Disco Polo Music
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
-#EXTINF:-1 tvg-id="TVPRozrywka.pl@SD",Polonya - TVP Rozrywka
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPRozrywka.pl@SD",Polonya - TVP Rozrywka
 http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD",Polonya - Crime + Investigation Polsat
+#EXTINF:-1 group-title="Polonya" tvg-id="CrimePlusInvestigationPolsat.pl@SD",Polonya - Crime + Investigation Polsat
 http://57.128.231.171:8080/285/index.m3u8
-#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl@SD",Polonya - Polsat Comedy Central Extra
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatComedyCentralExtra.pl@SD",Polonya - Polsat Comedy Central Extra
 http://57.128.231.171:8080/290/index.m3u8
-#EXTINF:-1 tvg-id="ExtremeSportsChannelPolska.pl@SD",Polonya - Extreme Sports Channel Polska
+#EXTINF:-1 group-title="Polonya" tvg-id="ExtremeSportsChannelPolska.pl@SD",Polonya - Extreme Sports Channel Polska
 http://57.128.231.171:8080/262/index.m3u8
-#EXTINF:-1 tvg-id="MTV.pl@SD",Polonya - MTV
+#EXTINF:-1 group-title="Polonya" tvg-id="MTV.pl@SD",Polonya - MTV
 http://57.128.231.171:8080/227/index.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatNature.pl@SD",Polonya - Polsat Viasat Nature
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatViasatNature.pl@SD",Polonya - Polsat Viasat Nature
 http://92.114.85.87:8016/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportFight.pl@SD",Polonya - Polsat Sport Fight
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSportFight.pl@SD",Polonya - Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatExplore.pl@SD",Polonya - Polsat Viasat Explore
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatViasatExplore.pl@SD",Polonya - Polsat Viasat Explore
 http://92.114.85.87:8014/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="SuperPolsat.pl@SD",Polonya - Super Polsat
+#EXTINF:-1 group-title="Polonya" tvg-id="SuperPolsat.pl@SD",Polonya - Super Polsat
 http://92.114.85.87:8004/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="PolsatMusic.pl@SD",Polonya - Polsat Music
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatMusic.pl@SD",Polonya - Polsat Music
 http://92.114.85.87:8001/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="DiscoPoloMusic.pl@SD",Polonya - Disco Polo Music
+#EXTINF:-1 group-title="Polonya" tvg-id="DiscoPoloMusic.pl@SD",Polonya - Disco Polo Music
 http://92.114.85.87:8014/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="VOXMusicTV.pl@SD",Polonya - VOX Music TV
+#EXTINF:-1 group-title="Polonya" tvg-id="VOXMusicTV.pl@SD",Polonya - VOX Music TV
 http://92.114.85.87:8016/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="PolsatRodzina.pl@HD",Polonya - Polsat Rodzina HD
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatRodzina.pl@HD",Polonya - Polsat Rodzina HD
 http://92.114.85.87:8014/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD",Polonya - Polsat Viasat History
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatViasatHistory.pl@SD",Polonya - Polsat Viasat History
 http://92.114.85.87:8015/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="PolsatFilm.pl@HD",Polonya - Polsat Film HD
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatFilm.pl@HD",Polonya - Polsat Film HD
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
-#EXTINF:-1 tvg-id="ElevenSports1.pl@SD",Polonya - Eleven Sports 1
+#EXTINF:-1 group-title="Polonya" tvg-id="ElevenSports1.pl@SD",Polonya - Eleven Sports 1
 http://92.114.85.87:8002/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="TVPHD.pl@SD",Polonya - TVP HD
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPHD.pl@SD",Polonya - TVP HD
 http://57.128.210.196:8080/141/index.m3u8
-#EXTINF:-1 tvg-id="TVP1.pl@SD",Polonya - TVP1
+#EXTINF:-1 group-title="Polonya" tvg-id="TVP1.pl@SD",Polonya - TVP1
 http://92.114.85.87:8009/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="TVPWilno.pl@SD",Polonya - TVP Wilno
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPWilno.pl@SD",Polonya - TVP Wilno
 http://78.62.9.23:55555/TVP%20Wilno%20HD
-#EXTINF:-1 tvg-id="PolsatSport3.pl@SD",Polonya - Polsat Sport 3
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSport3.pl@SD",Polonya - Polsat Sport 3
 http://57.128.210.196:8080/192/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportFight.pl@SD",Polonya - Polsat Sport Fight
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSportFight.pl@SD",Polonya - Polsat Sport Fight
 http://57.128.210.196:8080/194/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSport1.pl@SD",Polonya - Polsat Sport 1
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSport1.pl@SD",Polonya - Polsat Sport 1
 http://57.128.210.196:8080/193/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSport2.pl@SD",Polonya - Polsat Sport 2
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSport2.pl@SD",Polonya - Polsat Sport 2
 http://57.128.210.196:8080/195/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSeriale.pl@SD",Polonya - Polsat Seriale
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSeriale.pl@SD",Polonya - Polsat Seriale
 http://57.128.210.196:8080/196/index.m3u8
-#EXTINF:-1 tvg-id="PolsatRodzina.pl@SD",Polonya - Polsat Rodzina
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatRodzina.pl@SD",Polonya - Polsat Rodzina
 http://57.128.210.196:8080/197/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1Polska.pl@SD",Polonya - Eurosport 1 Polska
+#EXTINF:-1 group-title="Polonya" tvg-id="Eurosport1Polska.pl@SD",Polonya - Eurosport 1 Polska
 http://57.128.210.196:8080/264/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2Polska.pl@SD",Polonya - Eurosport 2 Polska
+#EXTINF:-1 group-title="Polonya" tvg-id="Eurosport2Polska.pl@SD",Polonya - Eurosport 2 Polska
 http://57.128.210.196:8080/263/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD",Polonya - Eurosport 4 Polska
+#EXTINF:-1 group-title="Polonya" tvg-id="Eurosport4Polska.pl@SD",Polonya - Eurosport 4 Polska
 http://57.128.231.171:8080/291/index.m3u8
-#EXTINF:-1 tvg-id="Polsat2.pl@SD",Polonya - Polsat 2
+#EXTINF:-1 group-title="Polonya" tvg-id="Polsat2.pl@SD",Polonya - Polsat 2
 http://57.128.210.196:8080/208/index.m3u8
-#EXTINF:-1 tvg-id="PolsatPlay.pl@SD",Polonya - Polsat Play
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatPlay.pl@SD",Polonya - Polsat Play
 http://57.128.210.196:8080/198/index.m3u8
-#EXTINF:-1 tvg-id="PolsatMusic.pl@SD",Polonya - Polsat Music
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatMusic.pl@SD",Polonya - Polsat Music
 http://57.128.210.196:8080/201/index.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam
 http://57.128.210.196:8080/202/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.pl@SD",Polonya - Polsat
+#EXTINF:-1 group-title="Polonya" tvg-id="Polsat.pl@SD",Polonya - Polsat
 http://57.128.210.196:8080/203/index.m3u8
-#EXTINF:-1 tvg-id="PolsatGames.pl@SD",Polonya - Polsat Games
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatGames.pl@SD",Polonya - Polsat Games
 http://57.128.210.196:8080/204/index.m3u8
-#EXTINF:-1 tvg-id="PolsatFilm.pl@SD",Polonya - Polsat Film
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatFilm.pl@SD",Polonya - Polsat Film
 http://57.128.210.196:8080/205/index.m3u8
-#EXTINF:-1 tvg-id="PolsatDoku.pl@SD",Polonya - Polsat Doku
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatDoku.pl@SD",Polonya - Polsat Doku
 http://57.128.210.196:8080/206/index.m3u8
-#EXTINF:-1 tvg-id="PolsatCafe.pl@SD",Polonya - Polsat Cafe
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatCafe.pl@SD",Polonya - Polsat Cafe
 http://57.128.210.196:8080/207/index.m3u8
-#EXTINF:-1 tvg-id="TV4.pl@SD",Polonya - TV4
+#EXTINF:-1 group-title="Polonya" tvg-id="TV4.pl@SD",Polonya - TV4
 http://57.128.210.196:8080/161/index.m3u8
-#EXTINF:-1 tvg-id="TVPSeriale.pl@SD",Polonya - TVP Seriale
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPSeriale.pl@SD",Polonya - TVP Seriale
 http://92.114.85.87:8019/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2.pl@SD",Polonya - Eleven Sports 2
+#EXTINF:-1 group-title="Polonya" tvg-id="ElevenSports2.pl@SD",Polonya - Eleven Sports 2
 http://92.114.85.87:8002/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3.pl@SD",Polonya - Eleven Sports 3
+#EXTINF:-1 group-title="Polonya" tvg-id="ElevenSports3.pl@SD",Polonya - Eleven Sports 3
 http://92.114.85.87:8002/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports4.pl@SD",Polonya - Eleven Sports 4
+#EXTINF:-1 group-title="Polonya" tvg-id="ElevenSports4.pl@SD",Polonya - Eleven Sports 4
 http://92.114.85.87:8002/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="TVPABC.pl@SD",Polonya - TVP ABC
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPABC.pl@SD",Polonya - TVP ABC
 http://92.114.85.87:8002/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="TVPHistoria.pl@SD",Polonya - TVP Historia
+#EXTINF:-1 group-title="Polonya" tvg-id="TVPHistoria.pl@SD",Polonya - TVP Historia
 http://92.114.85.87:8002/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="NewsmaxPolska.pl@SD",Polonya - Newsmax Polska
+#EXTINF:-1 group-title="Polonya" tvg-id="NewsmaxPolska.pl@SD",Polonya - Newsmax Polska
 http://92.114.85.87:8014/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatJimJam.pl@SD",Polonya - Polsat JimJam
 http://92.114.85.87:8014/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSeriale.pl@HD",Polonya - Polsat Seriale HD
+#EXTINF:-1 group-title="Polonya" tvg-id="PolsatSeriale.pl@HD",Polonya - Polsat Seriale HD
 http://92.114.85.87:8014/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD",Polonya - Crime + Investigation Polsat
+#EXTINF:-1 group-title="Polonya" tvg-id="CrimePlusInvestigationPolsat.pl@SD",Polonya - Crime + Investigation Polsat
 http://92.114.85.87:8015/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="ACISportTV.it@SD",İtalya - ACI Sport TV
+#EXTINF:-1 group-title="İtalya" tvg-id="ACISportTV.it@SD",İtalya - ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-id="ACISportTV.it@SD",İtalya - ACI Sport TV
+#EXTINF:-1 group-title="İtalya" tvg-id="ACISportTV.it@SD",İtalya - ACI Sport TV
 http://145.239.5.177/564a/index.m3u8
-#EXTINF:-1 tvg-id="AuroraArte.it@SD",İtalya - Aurora Arte
+#EXTINF:-1 group-title="İtalya" tvg-id="AuroraArte.it@SD",İtalya - Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 tvg-id="CafeTV24.it@SD",İtalya - CafeTV24
+#EXTINF:-1 group-title="İtalya" tvg-id="CafeTV24.it@SD",İtalya - CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DellaTV.it@HD",İtalya - DellaTV
+#EXTINF:-1 group-title="İtalya" tvg-id="DellaTV.it@HD",İtalya - DellaTV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD",İtalya - Euro Indie Music Chart TV
+#EXTINF:-1 group-title="İtalya" tvg-id="EuroIndieMusicChartTV.it@SD",İtalya - Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="GRPVERATV.it@SD",İtalya - GRP VERATV
+#EXTINF:-1 group-title="İtalya" tvg-id="GRPVERATV.it@SD",İtalya - GRP VERATV
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
-#EXTINF:-1 tvg-id="LaCNews24.it@SD",İtalya - LaC News 24
+#EXTINF:-1 group-title="İtalya" tvg-id="LaCNews24.it@SD",İtalya - LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
-#EXTINF:-1 tvg-id="LombardiaTV.it@SD",İtalya - Lombardia TV
+#EXTINF:-1 group-title="İtalya" tvg-id="LombardiaTV.it@SD",İtalya - Lombardia TV
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="MediterraniaTV.it@SD",İtalya - MediterraniaTV
+#EXTINF:-1 group-title="İtalya" tvg-id="MediterraniaTV.it@SD",İtalya - MediterraniaTV
 https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
-#EXTINF:-1 tvg-id="PaciContemporaryChannel.it@SD",İtalya - Paci Contemporary Channel
+#EXTINF:-1 group-title="İtalya" tvg-id="PaciContemporaryChannel.it@SD",İtalya - Paci Contemporary Channel
 https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaTV.it@SD",İtalya - Prima TV Sicilia
+#EXTINF:-1 group-title="İtalya" tvg-id="PrimaTV.it@SD",İtalya - Prima TV Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaFree.it@SD",İtalya - PrimaFree
+#EXTINF:-1 group-title="İtalya" tvg-id="PrimaFree.it@SD",İtalya - PrimaFree
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimAntennaTV.it@SD",İtalya - PrimAntenna TV
+#EXTINF:-1 group-title="İtalya" tvg-id="PrimAntennaTV.it@SD",İtalya - PrimAntenna TV
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL1025Best.it@SD",İtalya - RTL 102.5 Best
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Best.it@SD",İtalya - RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025BroSis.it@SD",İtalya - RTL 102.5 Bro&Sis
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025BroSis.it@SD",İtalya - RTL 102.5 Bro&Sis
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025Caliente.it@SD",İtalya - RTL 102.5 Caliente
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Caliente.it@SD",İtalya - RTL 102.5 Caliente
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025Disco.it@SD",İtalya - RTL 102.5 Disco
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Disco.it@SD",İtalya - RTL 102.5 Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025Napule.it@SD",İtalya - RTL 102.5 Napulè
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Napule.it@SD",İtalya - RTL 102.5 Napulè
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025Traffic.it@SD",İtalya - RTL 102.5 Traffic
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025Traffic.it@SD",İtalya - RTL 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025TV.it@SD",İtalya - RTL 102.5 TV
+#EXTINF:-1 group-title="İtalya" tvg-id="RTL1025TV.it@SD",İtalya - RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTV38.it@SD",İtalya - RTV38
+#EXTINF:-1 group-title="İtalya" tvg-id="RTV38.it@SD",İtalya - RTV38
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="RTV38.it@SD",İtalya - RTV38
+#EXTINF:-1 group-title="İtalya" tvg-id="RTV38.it@SD",İtalya - RTV38
 https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD",İtalya - Sportitalia Solocalcio
+#EXTINF:-1 group-title="İtalya" tvg-id="SportitaliaSolocalcio.it@SD",İtalya - Sportitalia Solocalcio
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD",İtalya - Sportitalia Solocalcio
+#EXTINF:-1 group-title="İtalya" tvg-id="SportitaliaSolocalcio.it@SD",İtalya - Sportitalia Solocalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperSix.it@SD",İtalya - SuperSix Lombardia
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperSix.it@SD",İtalya - SuperSix Lombardia
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperTennis.it@SD",İtalya - SuperTennis
+#EXTINF:-1 group-title="İtalya" tvg-id="SuperTennis.it@SD",İtalya - SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-id="TaurianovaTV.it@HD",İtalya - Taurianova TV
+#EXTINF:-1 group-title="İtalya" tvg-id="TaurianovaTV.it@HD",İtalya - Taurianova TV
 https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemontecarlo.it@SD",İtalya - Telemontecarlo
+#EXTINF:-1 group-title="İtalya" tvg-id="Telemontecarlo.it@SD",İtalya - Telemontecarlo
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Telenova.it@SD",İtalya - Telenova
+#EXTINF:-1 group-title="İtalya" tvg-id="Telenova.it@SD",İtalya - Telenova
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
-#EXTINF:-1 tvg-id="TRSport.it@SD",İtalya - TR Sport
+#EXTINF:-1 group-title="İtalya" tvg-id="TRSport.it@SD",İtalya - TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="InterTV.it@SD",İtalya - Inter TV
+#EXTINF:-1 group-title="İtalya" tvg-id="InterTV.it@SD",İtalya - Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
-#EXTINF:-1 tvg-id="LazioStyleChannel.it@HD",İtalya - Lazio Style Channel HD
+#EXTINF:-1 group-title="İtalya" tvg-id="LazioStyleChannel.it@HD",İtalya - Lazio Style Channel HD
 https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="TelecityLombardia.it@SD",İtalya - Telecity Lombardia
+#EXTINF:-1 group-title="İtalya" tvg-id="TelecityLombardia.it@SD",İtalya - Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
-#EXTINF:-1 tvg-id="101tvCadiz.es@SD",İspanya - 101tv Cádiz
+#EXTINF:-1 group-title="İspanya" tvg-id="101tvCadiz.es@SD",İspanya - 101tv Cádiz
 https://streaming101tv.es:19360/cadiz/cadiz.m3u8
-#EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD",İspanya - Anime Vision Classics
+#EXTINF:-1 group-title="İspanya" tvg-id="AnimeVisionClassics.es@SD",İspanya - Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-id="FuerteventuraTV.es@SD",İspanya - Fuerteventura TV
+#EXTINF:-1 group-title="İspanya" tvg-id="FuerteventuraTV.es@SD",İspanya - Fuerteventura TV
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
-#EXTINF:-1 tvg-id="Nortevision.es@SD",İspanya - NORTEvisión
+#EXTINF:-1 group-title="İspanya" tvg-id="Nortevision.es@SD",İspanya - NORTEvisión
 http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1 tvg-id="SolMusica.es@SD",İspanya - Sol Música
+#EXTINF:-1 group-title="İspanya" tvg-id="SolMusica.es@SD",İspanya - Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-id="SpektraTV.es@SD",İspanya - SpektraTV
+#EXTINF:-1 group-title="İspanya" tvg-id="SpektraTV.es@SD",İspanya - SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TVA.es@SD",İspanya - TV Artequatre
+#EXTINF:-1 group-title="İspanya" tvg-id="TVA.es@SD",İspanya - TV Artequatre
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:-1 tvg-id="XPTV2.es@SD",İspanya - XPTV2
+#EXTINF:-1 group-title="İspanya" tvg-id="XPTV2.es@SD",İspanya - XPTV2
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 tvg-id="ATV.at@HD",Avusturya - ATV HD
+#EXTINF:-1 group-title="Avusturya" tvg-id="ATV.at@HD",Avusturya - ATV HD
 http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
-#EXTINF:-1 tvg-id="ORF2.at@SD",Avusturya - ORF 2
+#EXTINF:-1 group-title="Avusturya" tvg-id="ORF2.at@SD",Avusturya - ORF 2
 http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ORFIII.at@HD",Avusturya - ORF III HD
+#EXTINF:-1 group-title="Avusturya" tvg-id="ORFIII.at@HD",Avusturya - ORF III HD
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:-1 tvg-id="ORFKids.at@SD",Avusturya - ORF Kids
+#EXTINF:-1 group-title="Avusturya" tvg-id="ORFKids.at@SD",Avusturya - ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-#EXTINF:-1 tvg-id="Haarlem105TV.nl@SD",Hollanda - Haarlem105 RTV
+#EXTINF:-1 group-title="Hollanda" tvg-id="Haarlem105TV.nl@SD",Hollanda - Haarlem105 RTV
 https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
-#EXTINF:-1 tvg-id="KempenTV.nl@SD",Hollanda - KempenTV
+#EXTINF:-1 group-title="Hollanda" tvg-id="KempenTV.nl@SD",Hollanda - KempenTV
 http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KempenTV.nl@SD",Hollanda - KempenTV
+#EXTINF:-1 group-title="Hollanda" tvg-id="KempenTV.nl@SD",Hollanda - KempenTV
 https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Qmusic.nl@SD",Hollanda - Qmusic
+#EXTINF:-1 group-title="Hollanda" tvg-id="Qmusic.nl@SD",Hollanda - Qmusic
 https://stream.qmusic.nl/qmusic/videohls.m3u8
-#EXTINF:-1 tvg-id="Qmusic.nl@SD",Hollanda - Qmusic
+#EXTINF:-1 group-title="Hollanda" tvg-id="Qmusic.nl@SD",Hollanda - Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-id="SaltoBrasaMusic.nl@SD",Hollanda - Salto Brasa Music
+#EXTINF:-1 group-title="Hollanda" tvg-id="SaltoBrasaMusic.nl@SD",Hollanda - Salto Brasa Music
 https://salto-streams.nl/hls/sotv1.m3u8
-#EXTINF:-1 tvg-id="WeertFMTV.nl@SD",Hollanda - WeertFM TV
+#EXTINF:-1 group-title="Hollanda" tvg-id="WeertFMTV.nl@SD",Hollanda - WeertFM TV
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Africa24Sport.fr@SD",Fransa - Africa 24 Sport
+#EXTINF:-1 group-title="Fransa" tvg-id="Africa24Sport.fr@SD",Fransa - Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD",Fransa - Africanews English
+#EXTINF:-1 group-title="Fransa" tvg-id="AfricanewsEnglish.fr@SD",Fransa - Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-#EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD",Fransa - Africanews French
+#EXTINF:-1 group-title="Fransa" tvg-id="AfricanewsFrench.fr@SD",Fransa - Africanews French
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 tvg-id="BFM2.fr@HD",Fransa - BFM2
+#EXTINF:-1 group-title="Fransa" tvg-id="BFM2.fr@HD",Fransa - BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 tvg-id="BFMLyon.fr@SD",Fransa - BFM Lyon
+#EXTINF:-1 group-title="Fransa" tvg-id="BFMLyon.fr@SD",Fransa - BFM Lyon
 https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Fransa - Euronews English
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsEnglish.fr@SD",Fransa - Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD",Fransa - Euronews French
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsFrench.fr@SD",Fransa - Euronews French
 https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD",Fransa - Euronews German
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsGerman.fr@SD",Fransa - Euronews German
 https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD",Fransa - Euronews German
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsGerman.fr@SD",Fransa - Euronews German
 https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsGreek.fr@SD",Fransa - Euronews Greek
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsGreek.fr@SD",Fransa - Euronews Greek
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD",Fransa - Euronews Hungarian
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsHungarian.fr@SD",Fransa - Euronews Hungarian
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD",Fransa - Euronews Hungarian
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsHungarian.fr@SD",Fransa - Euronews Hungarian
 https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsItalian.fr@SD",Fransa - Euronews Italian
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsItalian.fr@SD",Fransa - Euronews Italian
 https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsItalian.fr@SD",Fransa - Euronews Italian
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsItalian.fr@SD",Fransa - Euronews Italian
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD",Fransa - Euronews Portuguese
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsPortuguese.fr@SD",Fransa - Euronews Portuguese
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD",Fransa - Euronews Portuguese
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsPortuguese.fr@SD",Fransa - Euronews Portuguese
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian
 http://tmptv.sunduk.tv/CH31/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsRussian.fr@SD",Fransa - Euronews Russian
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",Fransa - Euronews Spanish
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsSpanish.fr@SD",Fransa - Euronews Spanish
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD",Fransa - FashionTV Paris L'Original
+#EXTINF:-1 group-title="Fransa" tvg-id="FashionTVParisLOriginal.fr@SD",Fransa - FashionTV Paris L'Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD",Fransa - FashionTV Secrets
+#EXTINF:-1 group-title="Fransa" tvg-id="FashionTVSecrets.fr@HD",Fransa - FashionTV Secrets
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Arabic",Fransa - France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 http://170.83.16.50/FRANCE_24/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish",Fransa - France 24 Español
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish",Fransa - France 24 Español
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish",Fransa - France 24 Español
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish",Fransa - France 24 Español
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish",Fransa - France 24 Español
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish",Fransa - France 24 Español
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish",Fransa - France 24 Español
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",Fransa - France 24 French
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",Fransa - France 24 French
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",Fransa - France 24 French
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",Fransa - France 24 French
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",Fransa - France 24 French
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",Fransa - France 24 French
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",Fransa - France 24 French
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@French",Fransa - France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="LCI.fr@HD",Fransa - LCI HD
+#EXTINF:-1 group-title="Fransa" tvg-id="LCI.fr@HD",Fransa - LCI HD
 http://151.80.18.177:86/LCI_HD/index.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr@SD",Fransa - M6 Music
+#EXTINF:-1 group-title="Fransa" tvg-id="M6Music.fr@SD",Fransa - M6 Music
 http://145.239.5.177/320/index.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr@SD",Fransa - M6 Music
+#EXTINF:-1 group-title="Fransa" tvg-id="M6Music.fr@SD",Fransa - M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
-#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD",Fransa - Monte Carlo Digital Television
+#EXTINF:-1 group-title="Fransa" tvg-id="MonteCarloDigitalTelevision.fr@HD",Fransa - Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr@Russia",Fransa - Trace Sport Stars Russia
+#EXTINF:-1 group-title="Fransa" tvg-id="TraceSportStars.fr@Russia",Fransa - Trace Sport Stars Russia
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr@SD",Fransa - Trace Sport Stars SD
+#EXTINF:-1 group-title="Fransa" tvg-id="TraceSportStars.fr@SD",Fransa - Trace Sport Stars SD
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
-#EXTINF:-1 tvg-id="TV3V.fr@SD",Fransa - TV3V
+#EXTINF:-1 group-title="Fransa" tvg-id="TV3V.fr@SD",Fransa - TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD",Fransa - TV5Monde Style
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeStyle.fr@SD",Fransa - TV5Monde Style
 http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD",Fransa - TV5Monde Style
+#EXTINF:-1 group-title="Fransa" tvg-id="TV5MondeStyle.fr@SD",Fransa - TV5Monde Style
 http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",Fransa - Euronews Spanish
+#EXTINF:-1 group-title="Fransa" tvg-id="EuronewsSpanish.fr@SD",Fransa - Euronews Spanish
 https://iptv.bitred.cl/euronews/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish",Fransa - France 24 Spanish
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@Spanish",Fransa - France 24 Spanish
 http://138.121.15.230:9002/FRANCE-24/index.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr@HD",Fransa - Trace Sport Stars
+#EXTINF:-1 group-title="Fransa" tvg-id="TraceSportStars.fr@HD",Fransa - Trace Sport Stars
 https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://mumbai-edge.smartplaytv.in/france24/index.m3u8
-#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD",Fransa - Africanews English
+#EXTINF:-1 group-title="Fransa" tvg-id="AfricanewsEnglish.fr@SD",Fransa - Africanews English
 https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Hungary",Fransa - Eurosport 1 Hungary
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport1.fr@Hungary",Fransa - Eurosport 1 Hungary
 http://88.212.15.17/live/esp1_hun/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Hungary",Fransa - Eurosport 2 Hungary
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport2.fr@Hungary",Fransa - Eurosport 2 Hungary
 http://88.212.15.17/live/esp2_hun/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Turkiye",Fransa - Eurosport 1 Turkiye
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport1.fr@Turkiye",Fransa - Eurosport 1 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye",Fransa - Eurosport 2 Turkiye
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport2.fr@Turkiye",Fransa - Eurosport 2 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Russia",Fransa - Eurosport 1 Russia
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport1.fr@Russia",Fransa - Eurosport 1 Russia
 http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Russia",Fransa - Eurosport 2 Russia
+#EXTINF:-1 group-title="Fransa" tvg-id="Eurosport2.fr@Russia",Fransa - Eurosport 2 Russia
 http://stream.mcquack.net/192/index.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD",Fransa - RMC Decouverte
+#EXTINF:-1 group-title="Fransa" tvg-id="RMCDecouverte.fr@SD",Fransa - RMC Decouverte
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",Fransa - France 24 English
+#EXTINF:-1 group-title="Fransa" tvg-id="France24.fr@English",Fransa - France 24 English
 https://freem3u.xyz/api/live/play.m3u8?vid=96
-#EXTINF:-1 tvg-id="YleX.fi@SD",Finlandiya - YleX Studio Live
+#EXTINF:-1 group-title="Finlandiya" tvg-id="YleX.fi@SD",Finlandiya - YleX Studio Live
 https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt@SD",Portekiz - Kuriakos Music
+#EXTINF:-1 group-title="Portekiz" tvg-id="KuriakosMusic.pt@SD",Portekiz - Kuriakos Music
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VPlusTVI.pt@SD",Portekiz - V+ TVI
+#EXTINF:-1 group-title="Portekiz" tvg-id="VPlusTVI.pt@SD",Portekiz - V+ TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
-#EXTINF:-1 tvg-id="ATV.tr@SD",Türkiye - ATV
+#EXTINF:-1 group-title="Türkiye" tvg-id="ATV.tr@SD",Türkiye - ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-id="ATV.tr@SD",Türkiye - ATV
+#EXTINF:-1 group-title="Türkiye" tvg-id="ATV.tr@SD",Türkiye - ATV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 tvg-id="ATVAlanya.tr@SD",Türkiye - ATV Alanya
+#EXTINF:-1 group-title="Türkiye" tvg-id="ATVAlanya.tr@SD",Türkiye - ATV Alanya
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr@SD",Türkiye - Kanal 7
+#EXTINF:-1 group-title="Türkiye" tvg-id="Kanal7.tr@SD",Türkiye - Kanal 7
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
-#EXTINF:-1 tvg-id="Kanal23.tr@SD",Türkiye - Kanal 23
+#EXTINF:-1 group-title="Türkiye" tvg-id="Kanal23.tr@SD",Türkiye - Kanal 23
 https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr@SD",Türkiye - Kanal D
+#EXTINF:-1 group-title="Türkiye" tvg-id="KanalD.tr@SD",Türkiye - Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD",Türkiye - Kanal D Drama
+#EXTINF:-1 group-title="Türkiye" tvg-id="KanalDDrama.tr@SD",Türkiye - Kanal D Drama
 http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD",Türkiye - Kanal D Drama
+#EXTINF:-1 group-title="Türkiye" tvg-id="KanalDDrama.tr@SD",Türkiye - Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD",Türkiye - PowerTurk TV
+#EXTINF:-1 group-title="Türkiye" tvg-id="PowerTurkTV.tr@SD",Türkiye - PowerTurk TV
 https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD",Türkiye - PowerTürk TV
+#EXTINF:-1 group-title="Türkiye" tvg-id="PowerTurkTV.tr@SD",Türkiye - PowerTürk TV
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="SSport.tr@SD",Türkiye - S Sport
+#EXTINF:-1 group-title="Türkiye" tvg-id="SSport.tr@SD",Türkiye - S Sport
 https://corestream.siteyaptim.live/s-sport/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr@SD",Türkiye - S Sport 2
+#EXTINF:-1 group-title="Türkiye" tvg-id="SSport2.tr@SD",Türkiye - S Sport 2
 https://corestream.siteyaptim.live/s-sport2/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr@SD",Türkiye - S Sport 2
+#EXTINF:-1 group-title="Türkiye" tvg-id="SSport2.tr@SD",Türkiye - S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="TRT3.tr@SD",Türkiye - TRT 3
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRT3.tr@SD",Türkiye - TRT 3
 https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTAvaz.tr@SD",Türkiye - TRT Avaz
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTAvaz.tr@SD",Türkiye - TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD",Türkiye - TRT Belgesel
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTBelgesel.tr@SD",Türkiye - TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr@SD",Türkiye - TRT Cocuk
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTCocuk.tr@SD",Türkiye - TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD",Türkiye - TRT Diyanet Çocuk
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTDiyanetCocuk.tr@SD",Türkiye - TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr@SD",Türkiye - TRT EBA Ilkokul
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTEBAIlkokul.tr@SD",Türkiye - TRT EBA Ilkokul
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTEBALise.tr@SD",Türkiye - TRT EBA Lise
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTEBALise.tr@SD",Türkiye - TRT EBA Lise
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTEBA.tr@SD",Türkiye - TRT EBA Ortaokul
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTEBA.tr@SD",Türkiye - TRT EBA Ortaokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTKurdi.tr@SD",Türkiye - TRT Kurdî
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTKurdi.tr@SD",Türkiye - TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr@SD",Türkiye - TRT Muzik
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTMuzik.tr@SD",Türkiye - TRT Muzik
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr@SD",Türkiye - TRT Müzik
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTMuzik.tr@SD",Türkiye - TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTurk.tr@SD",Türkiye - TRT Türk
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTTurk.tr@SD",Türkiye - TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TV4.tr@SD",Türkiye - TV4
+#EXTINF:-1 group-title="Türkiye" tvg-id="TV4.tr@SD",Türkiye - TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="ATVAvrupa.tr@SD",Türkiye - ATV Avrupa
+#EXTINF:-1 group-title="Türkiye" tvg-id="ATVAvrupa.tr@SD",Türkiye - ATV Avrupa
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr@SD",Türkiye - TRT World
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTWorld.tr@SD",Türkiye - TRT World
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD",Türkiye - TRT Belgesel
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTBelgesel.tr@SD",Türkiye - TRT Belgesel
 http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr@SD",Türkiye - TRT World
+#EXTINF:-1 group-title="Türkiye" tvg-id="TRTWorld.tr@SD",Türkiye - TRT World
 https://cdn.pishow.tv/ott/live/266/master.m3u8
-#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD",Türkiye - beIN Sports 1 Turk
+#EXTINF:-1 group-title="Türkiye" tvg-id="beINSports1Turk.tr@SD",Türkiye - beIN Sports 1 Turk
 https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="beINSports2Turk.tr@SD",Türkiye - beIN Sports 2 Turk
+#EXTINF:-1 group-title="Türkiye" tvg-id="beINSports2Turk.tr@SD",Türkiye - beIN Sports 2 Turk
 https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="beINSports3Turk.tr@SD",Türkiye - beIN Sports 3 Turk
+#EXTINF:-1 group-title="Türkiye" tvg-id="beINSports3Turk.tr@SD",Türkiye - beIN Sports 3 Turk
 https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="beINSports4Turk.tr@SD",Türkiye - beIN Sports 4 Turk
+#EXTINF:-1 group-title="Türkiye" tvg-id="beINSports4Turk.tr@SD",Türkiye - beIN Sports 4 Turk
 https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="beINSports5Turk.tr@SD",Türkiye - beIN Sports 5 Turk
+#EXTINF:-1 group-title="Türkiye" tvg-id="beINSports5Turk.tr@SD",Türkiye - beIN Sports 5 Turk
 https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-id="beINSportsHaber.tr@SD",Türkiye - beIN Sports Haber
+#EXTINF:-1 group-title="Türkiye" tvg-id="beINSportsHaber.tr@SD",Türkiye - beIN Sports Haber
 https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
-#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD",Bulgaristan - Hope Channel Bulgaria
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="HopeChannelBulgaria.bg@SD",Bulgaristan - Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RMTV.bg@SD",Bulgaristan - RMTV
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="RMTV.bg@SD",Bulgaristan - RMTV
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
-#EXTINF:-1 tvg-id="BNT1.bg@SD",Bulgaristan - BNT 1
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="BNT1.bg@SD",Bulgaristan - BNT 1
 http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
-#EXTINF:-1 tvg-id="BNT2.bg@SD",Bulgaristan - BNT 2
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="BNT2.bg@SD",Bulgaristan - BNT 2
 http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
-#EXTINF:-1 tvg-id="BNT3.bg@SD",Bulgaristan - BNT 3
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="BNT3.bg@SD",Bulgaristan - BNT 3
 http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
-#EXTINF:-1 tvg-id="BNT4.bg@SD",Bulgaristan - BNT 4
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="BNT4.bg@SD",Bulgaristan - BNT 4
 http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
-#EXTINF:-1 tvg-id="MaxSport1.bg@SD",Bulgaristan - Max Sport 1
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="MaxSport1.bg@SD",Bulgaristan - Max Sport 1
 http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
-#EXTINF:-1 tvg-id="MaxSport2.bg@SD",Bulgaristan - Max Sport 2
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="MaxSport2.bg@SD",Bulgaristan - Max Sport 2
 http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
-#EXTINF:-1 tvg-id="MaxSport3.bg@SD",Bulgaristan - Max Sport 3
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="MaxSport3.bg@SD",Bulgaristan - Max Sport 3
 http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
-#EXTINF:-1 tvg-id="MaxSport4.bg@SD",Bulgaristan - Max Sport 4
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="MaxSport4.bg@SD",Bulgaristan - Max Sport 4
 http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
-#EXTINF:-1 tvg-id="VivacomArena.bg@SD",Bulgaristan - Vivacom Arena
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="VivacomArena.bg@SD",Bulgaristan - Vivacom Arena
 http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
-#EXTINF:-1 tvg-id="StarChannel.bg@SD",Bulgaristan - Star Channel
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="StarChannel.bg@SD",Bulgaristan - Star Channel
 http://hls127.freeott.top:8080/BG_FOX/video.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.bg@SD",Bulgaristan - National Geographic
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="NationalGeographic.bg@SD",Bulgaristan - National Geographic
 http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD",Bulgaristan - National Geographic Wild
+#EXTINF:-1 group-title="Bulgaristan" tvg-id="NationalGeographicWild.bg@SD",Bulgaristan - National Geographic Wild
 http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.cz@SD",Çekya - Disney Channel
+#EXTINF:-1 group-title="Çekya" tvg-id="DisneyChannel.cz@SD",Çekya - Disney Channel
 http://88.212.15.17/live/test_disney/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.cz@SD",Çekya - Golf Channel
+#EXTINF:-1 group-title="Çekya" tvg-id="GolfChannel.cz@SD",Çekya - Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 tvg-id="Jihoceskatelevize.cz@SD",Çekya - Jihočeská televize
+#EXTINF:-1 group-title="Çekya" tvg-id="Jihoceskatelevize.cz@SD",Çekya - Jihočeská televize
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxClassic.cz@SD",Çekya - Music Box Classic
+#EXTINF:-1 group-title="Çekya" tvg-id="MusicBoxClassic.cz@SD",Çekya - Music Box Classic
 http://88.212.15.17/live/mb_classic/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxDance.cz@SD",Çekya - Music Box Dance
+#EXTINF:-1 group-title="Çekya" tvg-id="MusicBoxDance.cz@SD",Çekya - Music Box Dance
 http://88.212.15.17/live/mb_dance/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxHits.cz@SD",Çekya - Music Box Hits
+#EXTINF:-1 group-title="Çekya" tvg-id="MusicBoxHits.cz@SD",Çekya - Music Box Hits
 http://88.212.15.17/live/mb_hits/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxSexy.cz@SD",Çekya - Music Box Sexy
+#EXTINF:-1 group-title="Çekya" tvg-id="MusicBoxSexy.cz@SD",Çekya - Music Box Sexy
 http://88.212.15.17/live/mb_sexy/index.m3u8
-#EXTINF:-1 tvg-id="Prima.cz@SD",Çekya - Prima
+#EXTINF:-1 group-title="Çekya" tvg-id="Prima.cz@SD",Çekya - Prima
 http://88.212.15.17/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaCool.cz@SD",Çekya - Prima Cool
+#EXTINF:-1 group-title="Çekya" tvg-id="PrimaCool.cz@SD",Çekya - Prima Cool
 http://88.212.15.17/live/prima_cool_cz_avc/index.m3u8
-#EXTINF:-1 tvg-id="PrimaLove.cz@SD",Çekya - Prima Love
+#EXTINF:-1 group-title="Çekya" tvg-id="PrimaLove.cz@SD",Çekya - Prima Love
 http://88.212.15.17/live/prima_love_cz_avc/index.m3u8
-#EXTINF:-1 tvg-id="PrimaShow.cz@SD",Çekya - Prima Show
+#EXTINF:-1 group-title="Çekya" tvg-id="PrimaShow.cz@SD",Çekya - Prima Show
 http://88.212.15.17/live/test_prima_show_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaStar.cz@SD",Çekya - Prima Star
+#EXTINF:-1 group-title="Çekya" tvg-id="PrimaStar.cz@SD",Çekya - Prima Star
 http://88.212.15.17/live/test_prima_star_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaZoom.cz@SD",Çekya - Prima Zoom
+#EXTINF:-1 group-title="Çekya" tvg-id="PrimaZoom.cz@SD",Çekya - Prima Zoom
 http://88.212.15.17/live/prima_zoom_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",Çekya - Retro Music Television
+#EXTINF:-1 group-title="Çekya" tvg-id="RetroMusicTV.cz@SD",Çekya - Retro Music Television
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",Çekya - Retro Music TV
+#EXTINF:-1 group-title="Çekya" tvg-id="RetroMusicTV.cz@SD",Çekya - Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",Çekya - RetroMusicTV
+#EXTINF:-1 group-title="Çekya" tvg-id="RetroMusicTV.cz@SD",Çekya - RetroMusicTV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportyTV.cz@SD",Çekya - Sporty TV
+#EXTINF:-1 group-title="Çekya" tvg-id="SportyTV.cz@SD",Çekya - Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 tvg-id="TelevizeSeznam.cz@SD",Çekya - Televize Seznam
+#EXTINF:-1 group-title="Çekya" tvg-id="TelevizeSeznam.cz@SD",Çekya - Televize Seznam
 http://88.212.15.17/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicBox80s.cz@SD",Çekya - Music Box 80s
+#EXTINF:-1 group-title="Çekya" tvg-id="MusicBox80s.cz@SD",Çekya - Music Box 80s
 http://57.128.231.171:8080/229/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD",Çekya - Discovery Channel
+#EXTINF:-1 group-title="Çekya" tvg-id="DiscoveryChannel.cz@SD",Çekya - Discovery Channel
 http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.cz@SD",Çekya - Travel Channel
+#EXTINF:-1 group-title="Çekya" tvg-id="TravelChannel.cz@SD",Çekya - Travel Channel
 http://88.212.15.17/live/test_travel_channel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD",Çekya - Prima Sport Czechia
+#EXTINF:-1 group-title="Çekya" tvg-id="PrimaSportCzechia.cz@SD",Çekya - Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
-#EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD",Slovakya - Prima Cool SK
+#EXTINF:-1 group-title="Slovakya" tvg-id="PrimaCoolSK.sk@SD",Slovakya - Prima Cool SK
 http://88.212.15.17/live/prima_cool_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD",Slovakya - Televízia Močenok
+#EXTINF:-1 group-title="Slovakya" tvg-id="TeleviziaMocenok.sk@SD",Slovakya - Televízia Močenok
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk@SD",Slovakya - Televízia OSEM
+#EXTINF:-1 group-title="Slovakya" tvg-id="TV8.sk@SD",Slovakya - Televízia OSEM
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk@SD",Slovakya - Televízia OSEM
+#EXTINF:-1 group-title="Slovakya" tvg-id="TV8.sk@SD",Slovakya - Televízia OSEM
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD",Slovakya - Canal+ Sport 2 SK
+#EXTINF:-1 group-title="Slovakya" tvg-id="CanalPlusSport2SK.sk@SD",Slovakya - Canal+ Sport 2 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD",Slovakya - Canal+ Sport 3 SK
+#EXTINF:-1 group-title="Slovakya" tvg-id="CanalPlusSport3SK.sk@SD",Slovakya - Canal+ Sport 3 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD",Slovakya - Canal+ Sport 4 SK
+#EXTINF:-1 group-title="Slovakya" tvg-id="CanalPlusSport4SK.sk@SD",Slovakya - Canal+ Sport 4 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD",Slovakya - Canal+ Sport 5 SK
+#EXTINF:-1 group-title="Slovakya" tvg-id="CanalPlusSport5SK.sk@SD",Slovakya - Canal+ Sport 5 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk@SD",Slovakya - Canal+ Sport 6 SK
+#EXTINF:-1 group-title="Slovakya" tvg-id="CanalPlusSport6SK.sk@SD",Slovakya - Canal+ Sport 6 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk@SD",Slovakya - Canal+ Sport 7 SK
+#EXTINF:-1 group-title="Slovakya" tvg-id="CanalPlusSport7SK.sk@SD",Slovakya - Canal+ Sport 7 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD",Slovakya - Canal+ Sport 8 SK
+#EXTINF:-1 group-title="Slovakya" tvg-id="CanalPlusSport8SK.sk@SD",Slovakya - Canal+ Sport 8 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="Omega.is@SD",İzlanda - Omega
+#EXTINF:-1 group-title="İzlanda" tvg-id="Omega.is@SD",İzlanda - Omega
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8
-#EXTINF:-1 tvg-id="RTL9.lu@SD",Lüksemburg - RTL9
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="RTL9.lu@SD",Lüksemburg - RTL9
 http://145.239.5.177/308/index.m3u8
-#EXTINF:-1 tvg-id="RTLGold.lu@SD",Lüksemburg - RTL Gold
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="RTLGold.lu@SD",Lüksemburg - RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD",Lüksemburg - RTL Radio Web TV
+#EXTINF:-1 group-title="Lüksemburg" tvg-id="RTLWebRadioTV.lu@SD",Lüksemburg - RTL Radio Web TV
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@HD",Arnavutluk - AlbKanale Music TV
+#EXTINF:-1 group-title="Arnavutluk" tvg-id="AlbKanaleMusicTV.al@HD",Arnavutluk - AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@HD",Arnavutluk - AlbKanale Music TV
+#EXTINF:-1 group-title="Arnavutluk" tvg-id="AlbKanaleMusicTV.al@HD",Arnavutluk - AlbKanale Music TV
 https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
-#EXTINF:-1 tvg-id="News24.al@SD",Arnavutluk - News 24 Albania
+#EXTINF:-1 group-title="Arnavutluk" tvg-id="News24.al@SD",Arnavutluk - News 24 Albania
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv.al@SD",Arnavutluk - ntv
+#EXTINF:-1 group-title="Arnavutluk" tvg-id="ntv.al@SD",Arnavutluk - ntv
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
-#EXTINF:-1 tvg-id="RTSHShqip.al@SD",Arnavutluk - RTSH Shqip
+#EXTINF:-1 group-title="Arnavutluk" tvg-id="RTSHShqip.al@SD",Arnavutluk - RTSH Shqip
 http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
-#EXTINF:-1 tvg-id="TropojaTelevizion.al@SD",Arnavutluk - Tropoja Televizion
+#EXTINF:-1 group-title="Arnavutluk" tvg-id="TropojaTelevizion.al@SD",Arnavutluk - Tropoja Televizion
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal6.ba@SD",Bosna-Hersek - Kanal 6
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="Kanal6.ba@SD",Bosna-Hersek - Kanal 6
 https://restreamer1.tnt.ba/hls/kanal6.m3u8
-#EXTINF:-1 tvg-id="Televizija5.ba@SD",Bosna-Hersek - Televizija 5
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="Televizija5.ba@SD",Bosna-Hersek - Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="TelevizijaM.ba@SD",Bosna-Hersek - Televizija M
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-id="TelevizijaM.ba@SD",Bosna-Hersek - Televizija M
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="LibertasTV.hr@SD",Hırvatistan - Libertas TV
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="LibertasTV.hr@SD",Hırvatistan - Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.hr@SD",Hırvatistan - National Geographic
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="NationalGeographic.hr@SD",Hırvatistan - National Geographic
 http://176.61.157.250/NationalGeographic/index.m3u8
-#EXTINF:-1 tvg-id="TVNova.hr@SD",Hırvatistan - TV Nova
+#EXTINF:-1 group-title="Hırvatistan" tvg-id="TVNova.hr@SD",Hırvatistan - TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="TVNiksic.me@SD",Karadağ - TV Niksic
+#EXTINF:-1 group-title="Karadağ" tvg-id="TVNiksic.me@SD",Karadağ - TV Niksic
 https://tv.rtv-niksic.me/hls/stream.m3u8
-#EXTINF:-1 tvg-id="INTVAustralia.au@SD",Kuzey Makedonya - INTV Australia
+#EXTINF:-1 group-title="Kuzey Makedonya" tvg-id="INTVAustralia.au@SD",Kuzey Makedonya - INTV Australia
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 tvg-id="MNetSport.mk@SD",Kuzey Makedonya - M-Net Sport
+#EXTINF:-1 group-title="Kuzey Makedonya" tvg-id="MNetSport.mk@SD",Kuzey Makedonya - M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-id="Sitel.mk@SD",Kuzey Makedonya - Sitel
+#EXTINF:-1 group-title="Kuzey Makedonya" tvg-id="Sitel.mk@SD",Kuzey Makedonya - Sitel
 http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova.rs@SD",Sırbistan - Nova
+#EXTINF:-1 group-title="Sırbistan" tvg-id="Nova.rs@SD",Sırbistan - Nova
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
-#EXTINF:-1 tvg-id="Pink.rs@SD",Sırbistan - Pink
+#EXTINF:-1 group-title="Sırbistan" tvg-id="Pink.rs@SD",Sırbistan - Pink
 https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:-1 tvg-id="Prva.rs@SD",Sırbistan - Prva
+#EXTINF:-1 group-title="Sırbistan" tvg-id="Prva.rs@SD",Sırbistan - Prva
 https://de1.dstv.cx/PrvaTVHD/index.m3u8
-#EXTINF:-1 tvg-id="PrvaFiles.rs@SD",Sırbistan - Prva Files
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaFiles.rs@SD",Sırbistan - Prva Files
 https://de1.dstv.cx/PrvaFiles/index.m3u8
-#EXTINF:-1 tvg-id="PrvaKick.rs@SD",Sırbistan - Prva Kick
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaKick.rs@SD",Sırbistan - Prva Kick
 https://de1.dstv.cx/PrvaKick/index.m3u8
-#EXTINF:-1 tvg-id="PrvaLife.rs@SD",Sırbistan - Prva Life
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaLife.rs@SD",Sırbistan - Prva Life
 https://de1.dstv.cx/PrvaLife/index.m3u8
-#EXTINF:-1 tvg-id="PrvaMax.rs@SD",Sırbistan - Prva Max
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaMax.rs@SD",Sırbistan - Prva Max
 https://de1.dstv.cx/PrvaMax/index.m3u8
-#EXTINF:-1 tvg-id="PrvaPlus.rs@SD",Sırbistan - Prva Plus
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaPlus.rs@SD",Sırbistan - Prva Plus
 https://de1.dstv.cx/PrvaPlus/index.m3u8
-#EXTINF:-1 tvg-id="PrvaWorld.rs@SD",Sırbistan - Prva World
+#EXTINF:-1 group-title="Sırbistan" tvg-id="PrvaWorld.rs@SD",Sırbistan - Prva World
 https://de1.dstv.cx/PrvaWorld/index.m3u8
-#EXTINF:-1 tvg-id="RTSDrama.rs@SD",Sırbistan - RTS Drama
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSDrama.rs@SD",Sırbistan - RTS Drama
 https://de1.dstv.cx/RTSDrama/index.m3u8
-#EXTINF:-1 tvg-id="RTSKolo.rs@SD",Sırbistan - RTS Kolo
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSKolo.rs@SD",Sırbistan - RTS Kolo
 https://de1.dstv.cx/RTSKolo/index.m3u8
-#EXTINF:-1 tvg-id="RTSMuzika.rs@SD",Sırbistan - RTS Muzika
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSMuzika.rs@SD",Sırbistan - RTS Muzika
 https://de1.dstv.cx/RTSMuzika/index.m3u8
-#EXTINF:-1 tvg-id="RTSPoletarac.rs@SD",Sırbistan - RTS Poletarac
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSPoletarac.rs@SD",Sırbistan - RTS Poletarac
 https://de1.dstv.cx/RTSPoletarac/index.m3u8
-#EXTINF:-1 tvg-id="RTSSvet.rs@SD",Sırbistan - RTS Svet
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSSvet.rs@SD",Sırbistan - RTS Svet
 https://de1.dstv.cx/RTSSvet/index.m3u8
-#EXTINF:-1 tvg-id="RTSTrezor.rs@SD",Sırbistan - RTS Trezor
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSTrezor.rs@SD",Sırbistan - RTS Trezor
 https://de1.dstv.cx/RTSTrezor/index.m3u8
-#EXTINF:-1 tvg-id="RTSZivot.rs@SD",Sırbistan - RTS Zivot
+#EXTINF:-1 group-title="Sırbistan" tvg-id="RTSZivot.rs@SD",Sırbistan - RTS Zivot
 https://de1.dstv.cx/RTSZivot/index.m3u8
-#EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD",Sırbistan - SOS Kanal Plus
+#EXTINF:-1 group-title="Sırbistan" tvg-id="SOSKanalPlus.rs@SD",Sırbistan - SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKanalM.rs@SD",Sırbistan - TV Kanal M
+#EXTINF:-1 group-title="Sırbistan" tvg-id="TVKanalM.rs@SD",Sırbistan - TV Kanal M
 http://176.67.210.1/hls/kanalm.m3u8
-#EXTINF:-1 tvg-id="BlueSkyTV.gr@SD",Yunanistan - Blue Sky TV
+#EXTINF:-1 group-title="Yunanistan" tvg-id="BlueSkyTV.gr@SD",Yunanistan - Blue Sky TV
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel8.gr@HD",Yunanistan - Channel 8
+#EXTINF:-1 group-title="Yunanistan" tvg-id="Channel8.gr@HD",Yunanistan - Channel 8
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="CorfuChannel.gr@SD",Yunanistan - Corfu Channel
+#EXTINF:-1 group-title="Yunanistan" tvg-id="CorfuChannel.gr@SD",Yunanistan - Corfu Channel
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="ENAChannel.gr@SD",Yunanistan - ENA Channel
+#EXTINF:-1 group-title="Yunanistan" tvg-id="ENAChannel.gr@SD",Yunanistan - ENA Channel
 https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
-#EXTINF:-1 tvg-id="EpirusTV1.gr@SD",Yunanistan - Epirus TV1
+#EXTINF:-1 group-title="Yunanistan" tvg-id="EpirusTV1.gr@SD",Yunanistan - Epirus TV1
 https://rtmp.win:3929/live/epiruslive.m3u8
-#EXTINF:-1 tvg-id="ERT3.gr@SD",Yunanistan - ERT3
+#EXTINF:-1 group-title="Yunanistan" tvg-id="ERT3.gr@SD",Yunanistan - ERT3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
-#EXTINF:-1 tvg-id="ERTCosmos.gr@SD",Yunanistan - ERT Cosmos
+#EXTINF:-1 group-title="Yunanistan" tvg-id="ERTCosmos.gr@SD",Yunanistan - ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:-1 tvg-id="ExtraProNews.gr@SD",Yunanistan - Extra ProNews
+#EXTINF:-1 group-title="Yunanistan" tvg-id="ExtraProNews.gr@SD",Yunanistan - Extra ProNews
 http://62.1.176.18:8888/extra/index.m3u8
-#EXTINF:-1 tvg-id="KontraChannel.gr@SD",Yunanistan - Kontra Channel
+#EXTINF:-1 group-title="Yunanistan" tvg-id="KontraChannel.gr@SD",Yunanistan - Kontra Channel
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD",Yunanistan - Star Channel International
+#EXTINF:-1 group-title="Yunanistan" tvg-id="StarChannelInternational.gr@HD",Yunanistan - Star Channel International
 https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
-#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD",Yunanistan - STAR International
+#EXTINF:-1 group-title="Yunanistan" tvg-id="StarChannelInternational.gr@HD",Yunanistan - STAR International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1 tvg-id="SyrosTV1.gr@SD",Yunanistan - Syros TV1
+#EXTINF:-1 group-title="Yunanistan" tvg-id="SyrosTV1.gr@SD",Yunanistan - Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 tvg-id="TopChannel.gr@SD",Yunanistan - Top Channel
+#EXTINF:-1 group-title="Yunanistan" tvg-id="TopChannel.gr@SD",Yunanistan - Top Channel
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT.gr@SD",Yunanistan - TRT
+#EXTINF:-1 group-title="Yunanistan" tvg-id="TRT.gr@SD",Yunanistan - TRT
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
-#EXTINF:-1 tvg-id="AntenaMonden.ro@SD",Romanya - Antena Monden
+#EXTINF:-1 group-title="Romanya" tvg-id="AntenaMonden.ro@SD",Romanya - Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1 tvg-id="InformatiaTV.ro@SD",Romanya - Informatia TV
+#EXTINF:-1 group-title="Romanya" tvg-id="InformatiaTV.ro@SD",Romanya - Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
-#EXTINF:-1 tvg-id="KanalD.ro@SD",Romanya - Kanal D
+#EXTINF:-1 group-title="Romanya" tvg-id="KanalD.ro@SD",Romanya - Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1 tvg-id="KanalD2.ro@SD",Romanya - Kanal D2
+#EXTINF:-1 group-title="Romanya" tvg-id="KanalD2.ro@SD",Romanya - Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
-#EXTINF:-1 tvg-id="LiraTV.es@SD",Romanya - LiraTV
+#EXTINF:-1 group-title="Romanya" tvg-id="LiraTV.es@SD",Romanya - LiraTV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-#EXTINF:-1 tvg-id="PROFI24TV.ro@SD",Romanya - PROFI 24 TV
+#EXTINF:-1 group-title="Romanya" tvg-id="PROFI24TV.ro@SD",Romanya - PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD",Romanya - Realitatea Sportiva
+#EXTINF:-1 group-title="Romanya" tvg-id="RealitateaSportiva.ro@SD",Romanya - Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="RealitateaStar.ro@SD",Romanya - Realitatea Star
+#EXTINF:-1 group-title="Romanya" tvg-id="RealitateaStar.ro@SD",Romanya - Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="SperantaTV.ro@SD",Romanya - SperantaTV
+#EXTINF:-1 group-title="Romanya" tvg-id="SperantaTV.ro@SD",Romanya - SperantaTV
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-#EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD",Romanya - Tele7ABC HD
+#EXTINF:-1 group-title="Romanya" tvg-id="Tele7ABCHD.ro@SD",Romanya - Tele7ABC HD
 https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="Telestar1.ro@SD",Romanya - Telestar1
+#EXTINF:-1 group-title="Romanya" tvg-id="Telestar1.ro@SD",Romanya - Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
-#EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD",Romanya - TVPlus Suceava
+#EXTINF:-1 group-title="Romanya" tvg-id="TVPlusSuceava.ro@SD",Romanya - TVPlus Suceava
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD",Romanya - TVPlus Suceava
+#EXTINF:-1 group-title="Romanya" tvg-id="TVPlusSuceava.ro@SD",Romanya - TVPlus Suceava
 http://85.186.146.34:8080
-#EXTINF:-1 tvg-id="TVR3.ro@SD",Romanya - TVR 3
+#EXTINF:-1 group-title="Romanya" tvg-id="TVR3.ro@SD",Romanya - TVR 3
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRCluj.ro@SD",Romanya - TVR Cluj
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRCluj.ro@SD",Romanya - TVR Cluj
 https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRCraiova.ro@SD",Romanya - TVR Craiova
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRCraiova.ro@SD",Romanya - TVR Craiova
 https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRCultural.ro@SD",Romanya - TVR Cultural
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRCultural.ro@SD",Romanya - TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRFolclor.ro@SD",Romanya - TVR Folclor
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRFolclor.ro@SD",Romanya - TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRIasi.ro@SD",Romanya - TVR Iasi
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRIasi.ro@SD",Romanya - TVR Iasi
 https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRInternational.ro@SD",Romanya - TVR International
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRInternational.ro@SD",Romanya - TVR International
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRTarguMures.ro@SD",Romanya - TVR Targu-Mures
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRTarguMures.ro@SD",Romanya - TVR Targu-Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRTimisoara.ro@SD",Romanya - TVR Timisoara
+#EXTINF:-1 group-title="Romanya" tvg-id="TVRTimisoara.ro@SD",Romanya - TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele7music.ro@SD",Romanya - Tele7music
+#EXTINF:-1 group-title="Romanya" tvg-id="Tele7music.ro@SD",Romanya - Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="NationalTV.ro@SD",Romanya - National TV
+#EXTINF:-1 group-title="Romanya" tvg-id="NationalTV.ro@SD",Romanya - National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="National24Plus.ro@SD",Romanya - National 24 Plus
+#EXTINF:-1 group-title="Romanya" tvg-id="National24Plus.ro@SD",Romanya - National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
-#EXTINF:-1 tvg-id="PrimaTV.ro@HD",Romanya - Prima TV HD
+#EXTINF:-1 group-title="Romanya" tvg-id="PrimaTV.ro@HD",Romanya - Prima TV HD
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
-#EXTINF:-1 tvg-id="PROTV.ro@HD",Romanya - PRO TV HD
+#EXTINF:-1 group-title="Romanya" tvg-id="PROTV.ro@HD",Romanya - PRO TV HD
 http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
-#EXTINF:-1 tvg-id="PrimaNews.ro@SD",Romanya - Prima News
+#EXTINF:-1 group-title="Romanya" tvg-id="PrimaNews.ro@SD",Romanya - Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1 tvg-id="HappyChannel.ro@SD",Romanya - Happy Channel
+#EXTINF:-1 group-title="Romanya" tvg-id="HappyChannel.ro@SD",Romanya - Happy Channel
 https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
-#EXTINF:-1 tvg-id="AntenaInternational.ro@SD",Romanya - Antena International
+#EXTINF:-1 group-title="Romanya" tvg-id="AntenaInternational.ro@SD",Romanya - Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
-#EXTINF:-1 tvg-id="AntenaStars.ro@SD",Romanya - Antena Stars
+#EXTINF:-1 group-title="Romanya" tvg-id="AntenaStars.ro@SD",Romanya - Antena Stars
 https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
-#EXTINF:-1 tvg-id="DigiSport2.ro@HD",Romanya - Digi Sport 2 HD
+#EXTINF:-1 group-title="Romanya" tvg-id="DigiSport2.ro@HD",Romanya - Digi Sport 2 HD
 https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD",Romanya - Euronews Romania
+#EXTINF:-1 group-title="Romanya" tvg-id="EuronewsRomania.ro@SD",Romanya - Euronews Romania
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
-#EXTINF:-1 tvg-id="PROTVInternational.ro@SD",Romanya - PRO TV International
+#EXTINF:-1 group-title="Romanya" tvg-id="PROTVInternational.ro@SD",Romanya - PRO TV International
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="PROTV.ro@HD",Romanya - PRO TV HD
+#EXTINF:-1 group-title="Romanya" tvg-id="PROTV.ro@HD",Romanya - PRO TV HD
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="HtMusicChannel.ro@SD",Romanya - H!t Music Channel
+#EXTINF:-1 group-title="Romanya" tvg-id="HtMusicChannel.ro@SD",Romanya - H!t Music Channel
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
-#EXTINF:-1 tvg-id="MusicChannel.ro@SD",Romanya - Music Channel
+#EXTINF:-1 group-title="Romanya" tvg-id="MusicChannel.ro@SD",Romanya - Music Channel
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
-#EXTINF:-1 tvg-id="VoyoSport1.ro@HD",Romanya - Voyo Sport 1
+#EXTINF:-1 group-title="Romanya" tvg-id="VoyoSport1.ro@HD",Romanya - Voyo Sport 1
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="Antena3CNN.ro@SD",Romanya - Antena 3 CNN
+#EXTINF:-1 group-title="Romanya" tvg-id="Antena3CNN.ro@SD",Romanya - Antena 3 CNN
 https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
-#EXTINF:-1 tvg-id="FavoritTV2.ro@SD",Romanya - Favorit TV2
+#EXTINF:-1 group-title="Romanya" tvg-id="FavoritTV2.ro@SD",Romanya - Favorit TV2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0
-#EXTINF:-1 tvg-id="NationalTV2.ro@SD",Romanya - National TV2
+#EXTINF:-1 group-title="Romanya" tvg-id="NationalTV2.ro@SD",Romanya - National TV2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0
-#EXTINF:-1 tvg-id="RomaniaTV.ro@SD",Romanya - Romania TV
+#EXTINF:-1 group-title="Romanya" tvg-id="RomaniaTV.ro@SD",Romanya - Romania TV
 https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania",Romanya - Bollywood Classic Romania
+#EXTINF:-1 group-title="Romanya" tvg-id="BollywoodClassic.ro@Romania",Romanya - Bollywood Classic Romania
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
-#EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD",Romanya - NHL AntenaPlay
+#EXTINF:-1 group-title="Romanya" tvg-id="NHLAntenaPlay.ro@SD",Romanya - NHL AntenaPlay
 https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
-#EXTINF:-1 tvg-id="TequilaMusicTV.ro@SD",Romanya - Tequila Music TV
+#EXTINF:-1 group-title="Romanya" tvg-id="TequilaMusicTV.ro@SD",Romanya - Tequila Music TV
 https://stream.tequilamusic.net/hls/tequila_tv.m3u8
-#EXTINF:-1 tvg-id="SportExtra.ro@SD",Romanya - Sport Extra
+#EXTINF:-1 group-title="Romanya" tvg-id="SportExtra.ro@SD",Romanya - Sport Extra
 https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania",Romanya - Bollywood Classic Romania
+#EXTINF:-1 group-title="Romanya" tvg-id="BollywoodClassic.ro@Romania",Romanya - Bollywood Classic Romania
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
-#EXTINF:-1 tvg-id="VantageClassic.ee@HD",Estonya - Vantage Classic
+#EXTINF:-1 group-title="Estonya" tvg-id="VantageClassic.ee@HD",Estonya - Vantage Classic
 https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
-#EXTINF:-1 tvg-id="VantageClassic.ee@HD",Estonya - Vantage Classic
+#EXTINF:-1 group-title="Estonya" tvg-id="VantageClassic.ee@HD",Estonya - Vantage Classic
 https://hls.vantagetv.ee/vclassic_stream/index.m3u8
-#EXTINF:-1 tvg-id="",Letonya - Latvijas Radio 3 Klasika
+#EXTINF:-1 group-title="Letonya" tvg-id="",Letonya - Latvijas Radio 3 Klasika
 https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
-#EXTINF:-1 tvg-id="LTV7.lv@HD",Letonya - LTV7
+#EXTINF:-1 group-title="Letonya" tvg-id="LTV7.lv@HD",Letonya - LTV7
 https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD",Letonya - Vidusdaugavas Televīzija
+#EXTINF:-1 group-title="Letonya" tvg-id="VidusdaugavasTelevizija.lv@SD",Letonya - Vidusdaugavas Televīzija
 https://straume.vdtv.lv/vdtv2/index.m3u8
-#EXTINF:-1 tvg-id="LTV7.lv@SD",Letonya - LTV7
+#EXTINF:-1 group-title="Letonya" tvg-id="LTV7.lv@SD",Letonya - LTV7
 http://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="LRTKlasika.lt@SD",Litvanya - LRT Klasika
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTKlasika.lt@SD",Litvanya - LRT Klasika
 https://stream-live.lrt.lt/klasika/master.m3u8
-#EXTINF:-1 tvg-id="LRTOpus.lt@SD",Litvanya - LRT Opus
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTOpus.lt@SD",Litvanya - LRT Opus
 https://stream-live.lrt.lt/opus/master.m3u8
-#EXTINF:-1 tvg-id="LRTRadijas.lt@SD",Litvanya - LRT Radijas
+#EXTINF:-1 group-title="Litvanya" tvg-id="LRTRadijas.lt@SD",Litvanya - LRT Radijas
 https://stream-live.lrt.lt/radijas/master.m3u8
-#EXTINF:-1 tvg-id="1Plus1International.ua@HD",Ukrayna - 1+1 International HD
+#EXTINF:-1 group-title="Ukrayna" tvg-id="1Plus1International.ua@HD",Ukrayna - 1+1 International HD
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel24.ua@SD",Ukrayna - 24 Канал
+#EXTINF:-1 group-title="Ukrayna" tvg-id="Channel24.ua@SD",Ukrayna - 24 Канал
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="100NEWS.ua@SD",Ukrayna - 100% News
+#EXTINF:-1 group-title="Ukrayna" tvg-id="100NEWS.ua@SD",Ukrayna - 100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD",Ukrayna - Channel 7 Ukraine
+#EXTINF:-1 group-title="Ukrayna" tvg-id="Channel7Ukraine.ua@SD",Ukrayna - Channel 7 Ukraine
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD",Ukrayna - Channel 7 Ukraine
+#EXTINF:-1 group-title="Ukrayna" tvg-id="Channel7Ukraine.ua@SD",Ukrayna - Channel 7 Ukraine
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="DiviSport.ua@SD",Ukrayna - DiviSport
+#EXTINF:-1 group-title="Ukrayna" tvg-id="DiviSport.ua@SD",Ukrayna - DiviSport
 http://stream.mcquack.net/457/index.m3u8
-#EXTINF:-1 tvg-id="FREEDOM.ua@SD",Ukrayna - Freedom
+#EXTINF:-1 group-title="Ukrayna" tvg-id="FREEDOM.ua@SD",Ukrayna - Freedom
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 tvg-id="InterPlus.ua@SD",Ukrayna - Inter+
+#EXTINF:-1 group-title="Ukrayna" tvg-id="InterPlus.ua@SD",Ukrayna - Inter+
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV.ua@SD",Ukrayna - ITV
+#EXTINF:-1 group-title="Ukrayna" tvg-id="ITV.ua@SD",Ukrayna - ITV
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV.ua@SD",Ukrayna - ITV HD
+#EXTINF:-1 group-title="Ukrayna" tvg-id="ITV.ua@SD",Ukrayna - ITV HD
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="RAZ3International.ua@SD",Ukrayna - RAZ 3 International
+#EXTINF:-1 group-title="Ukrayna" tvg-id="RAZ3International.ua@SD",Ukrayna - RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MaincastCybersport.ua@SD",Ukrayna - Maincast Cybersport
+#EXTINF:-1 group-title="Ukrayna" tvg-id="MaincastCybersport.ua@SD",Ukrayna - Maincast Cybersport
 http://stream.mcquack.net/487/index.m3u8
-#EXTINF:-1 tvg-id="Mega.ua@SD",Ukrayna - Mega
+#EXTINF:-1 group-title="Ukrayna" tvg-id="Mega.ua@SD",Ukrayna - Mega
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="NASHEMusic.ua@SD",Ukrayna - NASHE Music
+#EXTINF:-1 group-title="Ukrayna" tvg-id="NASHEMusic.ua@SD",Ukrayna - NASHE Music
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD",Ukrayna - Telekanal RAI
+#EXTINF:-1 group-title="Ukrayna" tvg-id="TelekanalRAI.ua@SD",Ukrayna - Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD",Ukrayna - Telekanal RAI
+#EXTINF:-1 group-title="Ukrayna" tvg-id="TelekanalRAI.ua@SD",Ukrayna - Telekanal RAI
 http://92.253.233.136/uploads/playlist.m3u8
-#EXTINF:-1 tvg-id="Televsesvit.ua@SD",Ukrayna - Televsesvit
+#EXTINF:-1 group-title="Ukrayna" tvg-id="Televsesvit.ua@SD",Ukrayna - Televsesvit
 https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="TV7Plus.ua@SD",Ukrayna - TV7+
+#EXTINF:-1 group-title="Ukrayna" tvg-id="TV7Plus.ua@SD",Ukrayna - TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1 tvg-id="4everMusic.ua@SD",Ukrayna - 4ever Music
+#EXTINF:-1 group-title="Ukrayna" tvg-id="4everMusic.ua@SD",Ukrayna - 4ever Music
 http://stream.mcquack.net/257/index.m3u8
-#EXTINF:-1 tvg-id="EUMusic.ua@SD",Ukrayna - EU Music
+#EXTINF:-1 group-title="Ukrayna" tvg-id="EUMusic.ua@SD",Ukrayna - EU Music
 http://stream.mcquack.net/261/index.m3u8
-#EXTINF:-1 tvg-id="UAMusic.ua@HD",Ukrayna - UA Music
+#EXTINF:-1 group-title="Ukrayna" tvg-id="UAMusic.ua@HD",Ukrayna - UA Music
 http://stream.mcquack.net/281/index.m3u8
-#EXTINF:-1 tvg-id="Mega.ua@SD",Ukrayna - Mega
+#EXTINF:-1 group-title="Ukrayna" tvg-id="Mega.ua@SD",Ukrayna - Mega
 http://stream.mcquack.net/325/index.m3u8
-#EXTINF:-1 tvg-id="M1.ua@SD",Ukrayna - M1
+#EXTINF:-1 group-title="Ukrayna" tvg-id="M1.ua@SD",Ukrayna - M1
 http://dtv.vol.net.ua/M1-HD/index.m3u8
-#EXTINF:-1 tvg-id="Mega.ua@SD",Ukrayna - Mega
+#EXTINF:-1 group-title="Ukrayna" tvg-id="Mega.ua@SD",Ukrayna - Mega
 http://dtv.vol.net.ua/MEGA_HD/index.m3u8
-#EXTINF:-1 tvg-id="HistoryUkraine.ua@SD",Ukrayna - History Ukraine
+#EXTINF:-1 group-title="Ukrayna" tvg-id="HistoryUkraine.ua@SD",Ukrayna - History Ukraine
 http://dtv.vol.net.ua/History_HD/index.m3u8
-#EXTINF:-1 tvg-id="History2Ukraine.ua@SD",Ukrayna - History2 Ukraine
+#EXTINF:-1 group-title="Ukrayna" tvg-id="History2Ukraine.ua@SD",Ukrayna - History2 Ukraine
 http://dtv.vol.net.ua/H2-HD/index.m3u8
-#EXTINF:-1 tvg-id="HollywoodUkraine.ua@SD",Ukrayna - Hollywood Ukraine
+#EXTINF:-1 group-title="Ukrayna" tvg-id="HollywoodUkraine.ua@SD",Ukrayna - Hollywood Ukraine
 http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ua@SD",Ukrayna - National Geographic Wild
+#EXTINF:-1 group-title="Ukrayna" tvg-id="NationalGeographicWild.ua@SD",Ukrayna - National Geographic Wild
 http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
-#EXTINF:-1 tvg-id="Afontovo.ru@SD",Rusya - Afontovo
+#EXTINF:-1 group-title="Rusya" tvg-id="Afontovo.ru@SD",Rusya - Afontovo
 https://stream.afontovo.ru/hd.m3u8
-#EXTINF:-1 tvg-id="Avto24.ru@SD",Rusya - Avto24
+#EXTINF:-1 group-title="Rusya" tvg-id="Avto24.ru@SD",Rusya - Avto24
 http://stream.mcquack.net/78/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
+#EXTINF:-1 group-title="Rusya" tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
 http://stream.mcquack.net/272/index.m3u8
-#EXTINF:-1 tvg-id="Channel5International.ru@SD",Rusya - Channel 5 International
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel5International.ru@SD",Rusya - Channel 5 International
 http://178.134.1.158:8081/5channel/index.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel8.ru@SD",Rusya - Channel 8
 http://45.11.139.43:8555/8kanal/index.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel8.ru@SD",Rusya - Channel 8
 http://hls127.freeott.top:8080/8_KANAL/video.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel8.ru@SD",Rusya - Channel 8
 http://tshift-1.telecoma.tv/8channel/index.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel8.ru@SD",Rusya - Channel 8
 http://v4.proofix.ru/okino-tv/index.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel8.ru@SD",Rusya - Channel 8
 https://v4.proofix.ru/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-id="Channel10.ru@SD",Rusya - Channel 10
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel10.ru@SD",Rusya - Channel 10
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Rusya - Channel One
+#EXTINF:-1 group-title="Rusya" tvg-id="ChannelOne.ru@SD",Rusya - Channel One
 http://45.153.24.78/1TV/index.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Rusya - Channel One
+#EXTINF:-1 group-title="Rusya" tvg-id="ChannelOne.ru@SD",Rusya - Channel One
 http://178.217.49.7/1/index.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru@HD",Rusya - Channel One HD
+#EXTINF:-1 group-title="Rusya" tvg-id="ChannelOne.ru@HD",Rusya - Channel One HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="ClassicMusic.ru@SD",Rusya - Classic Music
+#EXTINF:-1 group-title="Rusya" tvg-id="ClassicMusic.ru@SD",Rusya - Classic Music
 http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD",Rusya - Extreme Sports Channel
+#EXTINF:-1 group-title="Rusya" tvg-id="ExtremeSportsChannel.ru@SD",Rusya - Extreme Sports Channel
 http://46.32.176.50/extremesport/index.m3u8
-#EXTINF:-1 tvg-id="",Rusya - Fon Music
+#EXTINF:-1 group-title="Rusya" tvg-id="",Rusya - Fon Music
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
-#EXTINF:-1 tvg-id="",Rusya - Fon Music
+#EXTINF:-1 group-title="Rusya" tvg-id="",Rusya - Fon Music
 http://stream.mcquack.net/317/index.m3u8
-#EXTINF:-1 tvg-id="Kino24.ru@SD",Rusya - Kino 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Kino24.ru@SD",Rusya - Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir.ru@SD",Rusya - Mir
 http://45.153.24.78/MIR/index.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir.ru@SD",Rusya - Mir
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir.ru@SD",Rusya - Mir
 https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Mir24.ru@SD",Rusya - Mir 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir24.ru@SD",Rusya - Mir 24
 http://5.188.159.128:8070/mir_24/index.m3u8
-#EXTINF:-1 tvg-id="Mir24.ru@SD",Rusya - Mir 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir24.ru@SD",Rusya - Mir 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@Kazakhstan",Rusya - Mir Kazakhstan
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir.ru@Kazakhstan",Rusya - Mir Kazakhstan
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
-#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
 https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Moymir.ru@SD",Rusya - Moy mir
+#EXTINF:-1 group-title="Rusya" tvg-id="Moymir.ru@SD",Rusya - Moy mir
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
+#EXTINF:-1 group-title="Rusya" tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
 http://stream.mcquack.net/116/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD",Rusya - National Geographic Wild
+#EXTINF:-1 group-title="Rusya" tvg-id="NationalGeographicWild.ru@SD",Rusya - National Geographic Wild
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV
+#EXTINF:-1 group-title="Rusya" tvg-id="NTV.ru@SD",Rusya - NTV
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD",Rusya - NTV HD
+#EXTINF:-1 group-title="Rusya" tvg-id="NTV.ru@HD",Rusya - NTV HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
-#EXTINF:-1 tvg-id="NTV.ru@HD",Rusya - NTV HD
+#EXTINF:-1 group-title="Rusya" tvg-id="NTV.ru@HD",Rusya - NTV HD
 https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru@SD",Rusya - NTV Law
+#EXTINF:-1 group-title="Rusya" tvg-id="NTVLaw.ru@SD",Rusya - NTV Law
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru@SD",Rusya - NTV Mir
+#EXTINF:-1 group-title="Rusya" tvg-id="NTVMir.ru@SD",Rusya - NTV Mir
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV SD
+#EXTINF:-1 group-title="Rusya" tvg-id="NTV.ru@SD",Rusya - NTV SD
 http://45.153.24.78/NTV/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV SD
+#EXTINF:-1 group-title="Rusya" tvg-id="NTV.ru@SD",Rusya - NTV SD
 https://cdn.ntv.ru/ntv-spb/index.m3u8
-#EXTINF:-1 tvg-id="NTVSeries.ru@SD",Rusya - NTV Series
+#EXTINF:-1 group-title="Rusya" tvg-id="NTVSeries.ru@SD",Rusya - NTV Series
 http://stream.mcquack.net/301/index.m3u8
-#EXTINF:-1 tvg-id="NTVStyle.ru@SD",Rusya - NTV Style
+#EXTINF:-1 group-title="Rusya" tvg-id="NTVStyle.ru@SD",Rusya - NTV Style
 http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
-#EXTINF:-1 tvg-id="NTVVitrina.ru@SD",Rusya - NTV Vitrina
+#EXTINF:-1 group-title="Rusya" tvg-id="NTVVitrina.ru@SD",Rusya - NTV Vitrina
 https://cdn.ntv.ru/vitrina/index.m3u8
-#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD",Rusya - Okko Prajm Sport
+#EXTINF:-1 group-title="Rusya" tvg-id="OkkoPrajmSport.ru@SD",Rusya - Okko Prajm Sport
 http://stream.mcquack.net/493/index.m3u8
-#EXTINF:-1 tvg-id="PeretzInternational.ru@SD",Rusya - Peretz International
+#EXTINF:-1 group-title="Rusya" tvg-id="PeretzInternational.ru@SD",Rusya - Peretz International
 http://stream.mcquack.net/121/index.m3u8
-#EXTINF:-1 tvg-id="Perviyotdel.ru@SD",Rusya - Perviy otdel
+#EXTINF:-1 group-title="Rusya" tvg-id="Perviyotdel.ru@SD",Rusya - Perviy otdel
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+#EXTINF:-1 group-title="Rusya" tvg-id="RENTV.ru@SD",Rusya - REN TV
 http://31.148.48.15/REN-TV/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+#EXTINF:-1 group-title="Rusya" tvg-id="Russia24.ru@SD",Rusya - Russia-24
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+#EXTINF:-1 group-title="Rusya" tvg-id="Russia24.ru@SD",Rusya - Russia-24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
+#EXTINF:-1 group-title="Rusya" tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
 http://77.232.131.211/Rossiya24/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
+#EXTINF:-1 group-title="Rusya" tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 tvg-id="RussianMusicBox.ru@SD",Rusya - Russian MusicBox
+#EXTINF:-1 group-title="Rusya" tvg-id="RussianMusicBox.ru@SD",Rusya - Russian MusicBox
 http://stream.mcquack.net/319/index.m3u8
-#EXTINF:-1 tvg-id="Sportivnyy.ru@SD",Rusya - Sportivnyy
+#EXTINF:-1 group-title="Rusya" tvg-id="Sportivnyy.ru@SD",Rusya - Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 tvg-id="STSInternational.ru@SD",Rusya - STS International
+#EXTINF:-1 group-title="Rusya" tvg-id="STSInternational.ru@SD",Rusya - STS International
 http://178.134.1.158:8081/CTC/index.m3u8
-#EXTINF:-1 tvg-id="T24.ru@SD",Rusya - T24
+#EXTINF:-1 group-title="Rusya" tvg-id="T24.ru@SD",Rusya - T24
 http://178.134.1.158:8081/t24/index.m3u8
-#EXTINF:-1 tvg-id="T24.ru@SD",Rusya - T24
+#EXTINF:-1 group-title="Rusya" tvg-id="T24.ru@SD",Rusya - T24
 http://stream.mcquack.net/209/index.m3u8
-#EXTINF:-1 tvg-id="T24.ru@SD",Rusya - T24
+#EXTINF:-1 group-title="Rusya" tvg-id="T24.ru@SD",Rusya - T24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD",Rusya - Telecafe
+#EXTINF:-1 group-title="Rusya" tvg-id="Telecafe.ru@SD",Rusya - Telecafe
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TeleDom.ru@SD",Rusya - TeleDom
+#EXTINF:-1 group-title="Rusya" tvg-id="TeleDom.ru@SD",Rusya - TeleDom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-id="TV21International.ru@SD",Rusya - TV 21 International
+#EXTINF:-1 group-title="Rusya" tvg-id="TV21International.ru@SD",Rusya - TV 21 International
 http://stream.mcquack.net/152/index.m3u8
-#EXTINF:-1 tvg-id="Vmirezhivotnykh.ru@SD",Rusya - V mire zhivotnykh
+#EXTINF:-1 group-title="Rusya" tvg-id="Vmirezhivotnykh.ru@SD",Rusya - V mire zhivotnykh
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusMegahit.ru@HD",Rusya - viju+ Megahit HD
+#EXTINF:-1 group-title="Rusya" tvg-id="vijuPlusMegahit.ru@HD",Rusya - viju+ Megahit HD
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+#EXTINF:-1 group-title="Rusya" tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
 http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+#EXTINF:-1 group-title="Rusya" tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Astrahan24.ru@SD",Rusya - Астрахань 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Astrahan24.ru@SD",Rusya - Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD",Rusya - Астрахань.Ru Sport
+#EXTINF:-1 group-title="Rusya" tvg-id="AstrahanRuSport.ru@SD",Rusya - Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-id="Belgorod24.ru@SD",Rusya - Белгород 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Belgorod24.ru@SD",Rusya - Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 tvg-id="BST.ru@SD",Rusya - БСТ 24
+#EXTINF:-1 group-title="Rusya" tvg-id="BST.ru@SD",Rusya - БСТ 24
 http://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:-1 tvg-id="Vera24.ru@SD",Rusya - Вера 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Vera24.ru@SD",Rusya - Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="Volgograd24.ru@SD",Rusya - Волгоград 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Volgograd24.ru@SD",Rusya - Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru@SD",Rusya - Крым 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Crimea24.ru@SD",Rusya - Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="Legendarnyy24.ru@SD",Rusya - Легендарный 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Legendarnyy24.ru@SD",Rusya - Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 tvg-id="Mir24.ru@SD",Rusya - Мир 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir24.ru@SD",Rusya - Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Simferopol24.ru@SD",Rusya - Симферополь 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Simferopol24.ru@SD",Rusya - Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
-#EXTINF:-1 tvg-id="Sochi24.ru@SD",Rusya - Сочи 24 HD
+#EXTINF:-1 group-title="Rusya" tvg-id="Sochi24.ru@SD",Rusya - Сочи 24 HD
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVK.ru@SD",Rusya - ТВК 24
+#EXTINF:-1 group-title="Rusya" tvg-id="TVK.ru@SD",Rusya - ТВК 24
 https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+#EXTINF:-1 group-title="Rusya" tvg-id="RENTV.ru@SD",Rusya - REN TV
 http://185.23.80.23:8080/REN/index.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
 http://45.145.32.13:20440/moskva24/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Rusya - Channel One
+#EXTINF:-1 group-title="Rusya" tvg-id="ChannelOne.ru@SD",Rusya - Channel One
 http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
-#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+#EXTINF:-1 group-title="Rusya" tvg-id="RENTV.ru@SD",Rusya - REN TV
 http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
-#EXTINF:-1 tvg-id="RENTVInternational.ru@SD",Rusya - REN TV International
+#EXTINF:-1 group-title="Rusya" tvg-id="RENTVInternational.ru@SD",Rusya - REN TV International
 http://178.134.1.158:8081/RENTV/index.m3u8
-#EXTINF:-1 tvg-id="NTVHit.ru@SD",Rusya - NTV-Hit
+#EXTINF:-1 group-title="Rusya" tvg-id="NTVHit.ru@SD",Rusya - NTV-Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+#EXTINF:-1 group-title="Rusya" tvg-id="RENTV.ru@SD",Rusya - REN TV
 http://flussonic.linkintel.ru/ren_tv/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD",Rusya - NTV HD
+#EXTINF:-1 group-title="Rusya" tvg-id="NTV.ru@HD",Rusya - NTV HD
 http://flussonic.linkintel.ru/ntv/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD",Rusya - Telecafe
+#EXTINF:-1 group-title="Rusya" tvg-id="Telecafe.ru@SD",Rusya - Telecafe
 http://stream.mcquack.net/314/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
+#EXTINF:-1 group-title="Rusya" tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 tvg-id="FONMusic.ru@SD",Rusya - FON Music
+#EXTINF:-1 group-title="Rusya" tvg-id="FONMusic.ru@SD",Rusya - FON Music
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@SD",Rusya - 1HD Music Television
+#EXTINF:-1 group-title="Rusya" tvg-id="1HDMusicTelevision.ru@SD",Rusya - 1HD Music Television
 https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TNT4International.ru@SD",Rusya - TNT4 International
+#EXTINF:-1 group-title="Rusya" tvg-id="TNT4International.ru@SD",Rusya - TNT4 International
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="T24.ru@SD",Rusya - T24
+#EXTINF:-1 group-title="Rusya" tvg-id="T24.ru@SD",Rusya - T24
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
+#EXTINF:-1 group-title="Rusya" tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD",Rusya - National Geographic Wild
+#EXTINF:-1 group-title="Rusya" tvg-id="NationalGeographicWild.ru@SD",Rusya - National Geographic Wild
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Avto24.ru@SD",Rusya - Avto24
+#EXTINF:-1 group-title="Rusya" tvg-id="Avto24.ru@SD",Rusya - Avto24
 https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Domkino.ru@International",Rusya - Dom kino International
+#EXTINF:-1 group-title="Rusya" tvg-id="Domkino.ru@International",Rusya - Dom kino International
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+#EXTINF:-1 group-title="Rusya" tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
 https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir.ru@SD",Rusya - Mir
 https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Telecafe.ru@SD",Rusya - Telecafe
+#EXTINF:-1 group-title="Rusya" tvg-id="Telecafe.ru@SD",Rusya - Telecafe
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
+#EXTINF:-1 group-title="Rusya" tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
 https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="CarouselInternational.ru@SD",Rusya - Carousel International
+#EXTINF:-1 group-title="Rusya" tvg-id="CarouselInternational.ru@SD",Rusya - Carousel International
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Mult.ru@International",Rusya - Mult International
+#EXTINF:-1 group-title="Rusya" tvg-id="Mult.ru@International",Rusya - Mult International
 https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+#EXTINF:-1 group-title="Rusya" tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD",Rusya - Extreme Sports Channel
+#EXTINF:-1 group-title="Rusya" tvg-id="ExtremeSportsChannel.ru@SD",Rusya - Extreme Sports Channel
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Channel5International.ru@SD",Rusya - Channel 5 International
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel5International.ru@SD",Rusya - Channel 5 International
 https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
+#EXTINF:-1 group-title="Rusya" tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
+#EXTINF:-1 group-title="Rusya" tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
 http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
-#EXTINF:-1 tvg-id="FashionTV.ru@SD",Rusya - FashionTV
+#EXTINF:-1 group-title="Rusya" tvg-id="FashionTV.ru@SD",Rusya - FashionTV
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD",Rusya - TV Centr International
+#EXTINF:-1 group-title="Rusya" tvg-id="TVCentrInternational.ru@SD",Rusya - TV Centr International
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD",Rusya - Channel One CIS
+#EXTINF:-1 group-title="Rusya" tvg-id="ChannelOneCIS.ru@SD",Rusya - Channel One CIS
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="FridayInternational.ru@Kazakhstan",Rusya - Friday! International Kazakhstan
+#EXTINF:-1 group-title="Rusya" tvg-id="FridayInternational.ru@Kazakhstan",Rusya - Friday! International Kazakhstan
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD",Rusya - 1HD Music Television
+#EXTINF:-1 group-title="Rusya" tvg-id="1HDMusicTelevision.ru@HD",Rusya - 1HD Music Television
 http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV
+#EXTINF:-1 group-title="Rusya" tvg-id="NTV.ru@SD",Rusya - NTV
 http://176.118.197.101/NTV/index.m3u8
-#EXTINF:-1 tvg-id="MirSeriala.ru@SD",Rusya - Mir Seriala
+#EXTINF:-1 group-title="Rusya" tvg-id="MirSeriala.ru@SD",Rusya - Mir Seriala
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+#EXTINF:-1 group-title="Rusya" tvg-id="Russia24.ru@SD",Rusya - Russia-24
 http://176.118.197.101/Rossiya24/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD",Rusya - Telecafe
+#EXTINF:-1 group-title="Rusya" tvg-id="Telecafe.ru@SD",Rusya - Telecafe
 http://88.212.15.17/live/test_telecafe_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+#EXTINF:-1 group-title="Rusya" tvg-id="Russia24.ru@SD",Rusya - Russia-24
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
-#EXTINF:-1 tvg-id="TNTInternational.ru@Belarus",Rusya - TNT International Belarus
+#EXTINF:-1 group-title="Rusya" tvg-id="TNTInternational.ru@Belarus",Rusya - TNT International Belarus
 http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
-#EXTINF:-1 tvg-id="TNTInternational.ru@Europe",Rusya - TNT International
+#EXTINF:-1 group-title="Rusya" tvg-id="TNTInternational.ru@Europe",Rusya - TNT International
 http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Rusya - Channel One
+#EXTINF:-1 group-title="Rusya" tvg-id="ChannelOne.ru@SD",Rusya - Channel One
 http://31.148.5.241/kanal_1/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV
+#EXTINF:-1 group-title="Rusya" tvg-id="NTV.ru@SD",Rusya - NTV
 http://31.148.5.241/kanal_4/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.ru@SD",Rusya - Channel 5
+#EXTINF:-1 group-title="Rusya" tvg-id="Channel5.ru@SD",Rusya - Channel 5
 http://31.148.5.241/kanal_5/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+#EXTINF:-1 group-title="Rusya" tvg-id="Russia24.ru@SD",Rusya - Russia-24
 http://31.148.5.241/kanal_7/index.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+#EXTINF:-1 group-title="Rusya" tvg-id="RENTV.ru@SD",Rusya - REN TV
 http://31.148.5.241/kanal_11/index.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+#EXTINF:-1 group-title="Rusya" tvg-id="Mir.ru@SD",Rusya - Mir
 http://31.148.5.241/kanal_18/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+#EXTINF:-1 group-title="Rusya" tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
 http://31.148.5.241/Viasat_Sport/index.m3u8
-#EXTINF:-1 tvg-id="Gorodskoytelekanal.ru@SD",Rusya - Gorodskoy telekanal
+#EXTINF:-1 group-title="Rusya" tvg-id="Gorodskoytelekanal.ru@SD",Rusya - Gorodskoy telekanal
 https://gtk.tv/hls/gtyar.m3u8
-#EXTINF:-1 tvg-id="TV21International.ru@SD",Rusya - TV 21 International
+#EXTINF:-1 group-title="Rusya" tvg-id="TV21International.ru@SD",Rusya - TV 21 International
 http://46.53.200.153:7777/play/TV-21M/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusMegahit.ru@HD",Rusya - viju+ Megahit HD
+#EXTINF:-1 group-title="Rusya" tvg-id="vijuPlusMegahit.ru@HD",Rusya - viju+ Megahit HD
 http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
-#EXTINF:-1 tvg-id="LiveMusicChannel.ru@HD",Rusya - Live Music Channel HD
+#EXTINF:-1 group-title="Rusya" tvg-id="LiveMusicChannel.ru@HD",Rusya - Live Music Channel HD
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@HD",Rusya - viju+ Sport HD
+#EXTINF:-1 group-title="Rusya" tvg-id="vijuPlusSport.ru@HD",Rusya - viju+ Sport HD
 http://46.53.200.153:7777/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+#EXTINF:-1 group-title="Rusya" tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
 http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru@HD",Rusya - National Geographic Wild HD
+#EXTINF:-1 group-title="Rusya" tvg-id="NationalGeographicWild.ru@HD",Rusya - National Geographic Wild HD
 http://178.76.68.60:7442/50/mpegts
-#EXTINF:-1 tvg-id="DiscoveryChannel.ru@SD",Rusya - Discovery Channel
+#EXTINF:-1 group-title="Rusya" tvg-id="DiscoveryChannel.ru@SD",Rusya - Discovery Channel
 http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.ru@SD",Rusya - Travel Channel
+#EXTINF:-1 group-title="Rusya" tvg-id="TravelChannel.ru@SD",Rusya - Travel Channel
 http://stream.mcquack.net/231/index.m3u8
-#EXTINF:-1 tvg-id="O.ru@International",Rusya - O! International
+#EXTINF:-1 group-title="Rusya" tvg-id="O.ru@International",Rusya - O! International
 http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
-#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD",Belarus - First Music Channel Russia
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannelRussia.by@SD",Belarus - First Music Channel Russia
 http://hls127.freeott.top:8080/1muz_HD/video.m3u8
-#EXTINF:-1 tvg-id="RadioMir.by@SD",Belarus - Radio Mir
+#EXTINF:-1 group-title="Belarus" tvg-id="RadioMir.by@SD",Belarus - Radio Mir
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SportTV.by@SD",Belarus - Sport TV
+#EXTINF:-1 group-title="Belarus" tvg-id="SportTV.by@SD",Belarus - Sport TV
 http://178.124.179.122:8080/SportTV/mpegts
-#EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Belarus - First Music Channel
+#EXTINF:-1 group-title="Belarus" tvg-id="FirstMusicChannel.by@SD",Belarus - First Music Channel
 http://hls127.freeott.top:8080/1mus_HD/video.m3u8
-#EXTINF:-1 tvg-id="SportTV.by@SD",Belarus - Sport TV
+#EXTINF:-1 group-title="Belarus" tvg-id="SportTV.by@SD",Belarus - Sport TV
 http://media1.skifnet.by/sporttv/index.m3u8
-#EXTINF:-1 tvg-id="VoyenTV.by@SD",Belarus - VoyenTV
+#EXTINF:-1 group-title="Belarus" tvg-id="VoyenTV.by@SD",Belarus - VoyenTV
 http://media1.skifnet.by/voentv/index.m3u8
-#EXTINF:-1 tvg-id="PROTVChisinau.md@SD",Moldova - PRO TV Chisinau
+#EXTINF:-1 group-title="Moldova" tvg-id="PROTVChisinau.md@SD",Moldova - PRO TV Chisinau
 http://178.76.68.60:7442/15/mpegts
-#EXTINF:-1 tvg-id="BalapanInternational.kz@SD",Kazakistan - Balapan International
+#EXTINF:-1 group-title="Kazakistan" tvg-id="BalapanInternational.kz@SD",Kazakistan - Balapan International
 https://live-3.otcnet.ru/Balapan/index.m3u8
-#EXTINF:-1 tvg-id="Ontustik.kz@SD",Kazakistan - Ontústik
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Ontustik.kz@SD",Kazakistan - Ontústik
 https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1 tvg-id="Qazaqstan.kz@HD",Kazakistan - Qazaqstan HD
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qazaqstan.kz@HD",Kazakistan - Qazaqstan HD
 http://stream.mcquack.net/71/index.m3u8
-#EXTINF:-1 tvg-id="QazaqstanInternational.kz@SD",Kazakistan - Qazaqstan International
+#EXTINF:-1 group-title="Kazakistan" tvg-id="QazaqstanInternational.kz@SD",Kazakistan - Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
 https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="QazSport.kz@SD",Kazakistan - QazSport
+#EXTINF:-1 group-title="Kazakistan" tvg-id="QazSport.kz@SD",Kazakistan - QazSport
 https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="AstanaTV.kz@SD",Kazakistan - Astana TV
+#EXTINF:-1 group-title="Kazakistan" tvg-id="AstanaTV.kz@SD",Kazakistan - Astana TV
 https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="KTK.kz@SD",Kazakistan - KTK
+#EXTINF:-1 group-title="Kazakistan" tvg-id="KTK.kz@SD",Kazakistan - KTK
 https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="24KZ.kz@SD",Kazakistan - 24KZ
+#EXTINF:-1 group-title="Kazakistan" tvg-id="24KZ.kz@SD",Kazakistan - 24KZ
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Channel7.kz@SD",Kazakistan - Channel 7
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Channel7.kz@SD",Kazakistan - Channel 7
 https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Qazaqstan.kz@SD",Kazakistan - Qazaqstan
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qazaqstan.kz@SD",Kazakistan - Qazaqstan
 https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="31Kanal.kz@SD",Kazakistan - 31 Kanal
+#EXTINF:-1 group-title="Kazakistan" tvg-id="31Kanal.kz@SD",Kazakistan - 31 Kanal
 https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ChannelOneEurasia.kz@SD",Kazakistan - Channel One Eurasia
+#EXTINF:-1 group-title="Kazakistan" tvg-id="ChannelOneEurasia.kz@SD",Kazakistan - Channel One Eurasia
 https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Mirovoekino.kz@SD",Kazakistan - Mirovoe kino
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Mirovoekino.kz@SD",Kazakistan - Mirovoe kino
 https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
 http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="Qazaqstan.kz@SD",Kazakistan - Qazaqstan
+#EXTINF:-1 group-title="Kazakistan" tvg-id="Qazaqstan.kz@SD",Kazakistan - Qazaqstan
 http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="Kanal35.az@SD",Azerbaycan - Kanal 35
+#EXTINF:-1 group-title="Azerbaycan" tvg-id="Kanal35.az@SD",Azerbaycan - Kanal 35
 https://str2.yodacdn.net/kanal35/index.m3u8
-#EXTINF:-1 tvg-id="KanalS.az@SD",Azerbaycan - Kanal S
+#EXTINF:-1 group-title="Azerbaycan" tvg-id="KanalS.az@SD",Azerbaycan - Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1 tvg-id="KNMusicTV.az@SD",Azerbaycan - KN Music TV
+#EXTINF:-1 group-title="Azerbaycan" tvg-id="KNMusicTV.az@SD",Azerbaycan - KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FirstChannelNews.am@SD",Ermenistan - First Channel News
+#EXTINF:-1 group-title="Ermenistan" tvg-id="FirstChannelNews.am@SD",Ermenistan - First Channel News
 https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="1TV.ge@SD",Gürcistan - 1TV
+#EXTINF:-1 group-title="Gürcistan" tvg-id="1TV.ge@SD",Gürcistan - 1TV
 http://nue01-edge01.itdc.ge/gpb/mpegts
-#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD",Gürcistan - Ertsulovneba
+#EXTINF:-1 group-title="Gürcistan" tvg-id="Ertsulovneba.ge@SD",Gürcistan - Ertsulovneba
 https://stream.sstv.ge/live/sstv/playlist.m3u8
-#EXTINF:-1 tvg-id="Formula.ge@SD",Gürcistan - Formula
+#EXTINF:-1 group-title="Gürcistan" tvg-id="Formula.ge@SD",Gürcistan - Formula
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
-#EXTINF:-1 tvg-id="ImediTV.ge@SD",Gürcistan - Imedi TV
+#EXTINF:-1 group-title="Gürcistan" tvg-id="ImediTV.ge@SD",Gürcistan - Imedi TV
 http://nue01-edge01.itdc.ge/imedihd/mpegts
-#EXTINF:-1 tvg-id="MtavariArkhi.ge@SD",Gürcistan - Mtavari Arkhi
+#EXTINF:-1 group-title="Gürcistan" tvg-id="MtavariArkhi.ge@SD",Gürcistan - Mtavari Arkhi
 https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
-#EXTINF:-1 tvg-id="Rustavi2.ge@SD",Gürcistan - Rustavi 2
+#EXTINF:-1 group-title="Gürcistan" tvg-id="Rustavi2.ge@SD",Gürcistan - Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
-#EXTINF:-1 tvg-id="Sat7Arabic.cy@SD",Kıbrıs - Sat 7 Arabic
+#EXTINF:-1 group-title="Kıbrıs" tvg-id="Sat7Arabic.cy@SD",Kıbrıs - Sat 7 Arabic
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ERTCosmosCyprus.cy@HD",Kıbrıs - ERT Cosmos Cyprus
+#EXTINF:-1 group-title="Kıbrıs" tvg-id="ERTCosmosCyprus.cy@HD",Kıbrıs - ERT Cosmos Cyprus
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
-#EXTINF:-1 tvg-id="ATV.hu@SD",Macaristan - ATV
+#EXTINF:-1 group-title="Macaristan" tvg-id="ATV.hu@SD",Macaristan - ATV
 https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVSpirit.hu@SD",Macaristan - ATV Spirit
+#EXTINF:-1 group-title="Macaristan" tvg-id="ATVSpirit.hu@SD",Macaristan - ATV Spirit
 https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="BudapestEuropaTelevizio.hu@SD",Macaristan - Budapest Európa Televízió
+#EXTINF:-1 group-title="Macaristan" tvg-id="BudapestEuropaTelevizio.hu@SD",Macaristan - Budapest Európa Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DSTV.hu@SD",Macaristan - DSTV
+#EXTINF:-1 group-title="Macaristan" tvg-id="DSTV.hu@SD",Macaristan - DSTV
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTV.hu@SD",Macaristan - ESTV
+#EXTINF:-1 group-title="Macaristan" tvg-id="ESTV.hu@SD",Macaristan - ESTV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTV.hu@SD",Macaristan - ESTV
+#EXTINF:-1 group-title="Macaristan" tvg-id="ESTV.hu@SD",Macaristan - ESTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HtMusicChannel.hu@SD",Macaristan - H!T Music Channel
+#EXTINF:-1 group-title="Macaristan" tvg-id="HtMusicChannel.hu@SD",Macaristan - H!T Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 tvg-id="KomaromiTelevizio.hu@SD",Macaristan - Komáromi Televízió
+#EXTINF:-1 group-title="Macaristan" tvg-id="KomaromiTelevizio.hu@SD",Macaristan - Komáromi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="M4Sport.hu@SD",Macaristan - M4 Sport
+#EXTINF:-1 group-title="Macaristan" tvg-id="M4Sport.hu@SD",Macaristan - M4 Sport
 http://88.212.15.17/live/m4_hun/index.m3u8
-#EXTINF:-1 tvg-id="MezokovesdiTelevizio.hu@SD",Macaristan - Mezőkövesdi Televízió
+#EXTINF:-1 group-title="Macaristan" tvg-id="MezokovesdiTelevizio.hu@SD",Macaristan - Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu@SD",Macaristan - Oroszlányi Városi Televízió
+#EXTINF:-1 group-title="Macaristan" tvg-id="OroszlanyiVarosiTelevizio.hu@SD",Macaristan - Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="OxygenMusic.hu@HD",Macaristan - Oxygen Music
+#EXTINF:-1 group-title="Macaristan" tvg-id="OxygenMusic.hu@HD",Macaristan - Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-id="RTLGold.hu@SD",Macaristan - RTL Gold
+#EXTINF:-1 group-title="Macaristan" tvg-id="RTLGold.hu@SD",Macaristan - RTL Gold
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu@SD",Macaristan - Soltvadkerti Televízió
+#EXTINF:-1 group-title="Macaristan" tvg-id="SoltvadkertiTelevizio.hu@SD",Macaristan - Soltvadkerti Televízió
 http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="TelePaks.hu@SD",Macaristan - TelePaks
+#EXTINF:-1 group-title="Macaristan" tvg-id="TelePaks.hu@SD",Macaristan - TelePaks
 https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD",Macaristan - The Fishing & Hunting Channel
+#EXTINF:-1 group-title="Macaristan" tvg-id="TheFishingHuntingChannel.hu@SD",Macaristan - The Fishing & Hunting Channel
 http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
-#EXTINF:-1 tvg-id="VasarhelyiTelevizio.hu@SD",Macaristan - Vásárhelyi Televízió
+#EXTINF:-1 group-title="Macaristan" tvg-id="VasarhelyiTelevizio.hu@SD",Macaristan - Vásárhelyi Televízió
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.hu@SD",Macaristan - Discovery Channel
+#EXTINF:-1 group-title="Macaristan" tvg-id="DiscoveryChannel.hu@SD",Macaristan - Discovery Channel
 http://88.212.15.17/live/discovery_hungary/index.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.hu@SD",Macaristan - Travel Channel
+#EXTINF:-1 group-title="Macaristan" tvg-id="TravelChannel.hu@SD",Macaristan - Travel Channel
 http://88.212.15.17/live/travel_hun/index.m3u8
-#EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD",Birleşik Krallık - Afghanistan International
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="AfghanistanInternational.uk@SD",Birleşik Krallık - Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Czechia",Birleşik Krallık - BBC Earth Czechia
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCEarth.uk@Czechia",Birleşik Krallık - BBC Earth Czechia
 http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific",Birleşik Krallık - BBC News Asia Pacific
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCNews.uk@AsiaPacific",Birleşik Krallık - BBC News Asia Pacific
 https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe",Birleşik Krallık - BBC News Europe
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCNews.uk@Europe",Birleşik Krallık - BBC News Europe
 http://46.32.176.50/bbcworld/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe",Birleşik Krallık - BBC News Europe
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCNews.uk@Europe",Birleşik Krallık - BBC News Europe
 http://stream.mcquack.net/85/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD",Birleşik Krallık - BBC One London HD
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCOne.uk@LondonHD",Birleşik Krallık - BBC One London HD
 http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:-1 tvg-id="ChannelS.uk@SD",Birleşik Krallık - Channel S
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="ChannelS.uk@SD",Birleşik Krallık - Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EmanChannel.uk@SD",Birleşik Krallık - Eman Channel
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="EmanChannel.uk@SD",Birleşik Krallık - Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 tvg-id="ENTChannel.uk@HD",Birleşik Krallık - ENT Channel
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="ENTChannel.uk@HD",Birleşik Krallık - ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk@SD",Birleşik Krallık - GB News
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="GBNews.uk@SD",Birleşik Krallık - GB News
 https://live-gbnews-ssai-test.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk@SD",Birleşik Krallık - GB News
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="GBNews.uk@SD",Birleşik Krallık - GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk@SD",Birleşik Krallık - GB News
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="GBNews.uk@SD",Birleşik Krallık - GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
 https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
 https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="IranInternational.uk@SD",Birleşik Krallık - Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD",Birleşik Krallık - Sky News Weather
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="SkyNewsWeather.uk@SD",Birleşik Krallık - Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="talkSPORT.uk@SD",Birleşik Krallık - talkSPORT
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="talkSPORT.uk@SD",Birleşik Krallık - talkSPORT
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="talkSPORT.uk@SD",Birleşik Krallık - talkSPORT
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="talkSPORT.uk@SD",Birleşik Krallık - talkSPORT
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8
-#EXTINF:-1 tvg-id="Totalmusic.uk@HD",Birleşik Krallık - Totalmusic
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="Totalmusic.uk@HD",Birleşik Krallık - Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD",Birleşik Krallık - Totalmusic 80s
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="Totalmusic80s.uk@HD",Birleşik Krallık - Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD",Birleşik Krallık - Totalmusic 2000s
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="Totalmusic2000s.uk@HD",Birleşik Krallık - Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD",Birleşik Krallık - Totalmusic Concerts
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="TotalmusicConcerts.uk@HD",Birleşik Krallık - Totalmusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD",Birleşik Krallık - Totalmusic Dance
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="TotalmusicDance.uk@HD",Birleşik Krallık - Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="BBCUHD4.uk@SD",Birleşik Krallık - BBC UHD 4
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCUHD4.uk@SD",Birleşik Krallık - BBC UHD 4
 http://45.14.84.37/bbc4/index.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk@SD",Birleşik Krallık - GB News
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="GBNews.uk@SD",Birleşik Krallık - GB News
 https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",Birleşik Krallık - BBC News North America
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCNews.uk@NorthAmerica",Birleşik Krallık - BBC News North America
 https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
-#EXTINF:-1 tvg-id="MTVGlobal.uk@SD",Birleşik Krallık - MTV Global
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="MTVGlobal.uk@SD",Birleşik Krallık - MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
-#EXTINF:-1 tvg-id="IraneFardaTV.uk@SD",Birleşik Krallık - IraneFarda TV
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="IraneFardaTV.uk@SD",Birleşik Krallık - IraneFarda TV
 https://iranefardalive.com/stream/live.m3u8
-#EXTINF:-1 tvg-id="MUTV.uk@SD",Birleşik Krallık - MUTV
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="MUTV.uk@SD",Birleşik Krallık - MUTV
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@SouthAsia",Birleşik Krallık - BBC News South Asia
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCNews.uk@SouthAsia",Birleşik Krallık - BBC News South Asia
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD",Birleşik Krallık - BBC Earth Romania HD
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCEarth.uk@RomaniaHD",Birleşik Krallık - BBC Earth Romania HD
 http://hls127.freeott.top:8080/BG_The_World/video.m3u8
-#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Ukraine",Birleşik Krallık - Viasat Epic Drama Ukraine
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="ViasatEpicDrama.uk@Ukraine",Birleşik Krallık - Viasat Epic Drama Ukraine
 http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 tvg-id="CBBC.uk@HD",Birleşik Krallık - CBBC HD
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="CBBC.uk@HD",Birleşik Krallık - CBBC HD
 https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCAlba.uk@SD",Birleşik Krallık - BBC Alba
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCAlba.uk@SD",Birleşik Krallık - BBC Alba
 https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCScotland.uk@SD",Birleşik Krallık - BBC Scotland
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCScotland.uk@SD",Birleşik Krallık - BBC Scotland
 https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD",Birleşik Krallık - BBC Two HD
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCTwo.uk@HD",Birleşik Krallık - BBC Two HD
 https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCEarth.uk@Poland",Birleşik Krallık - BBC Earth
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCEarth.uk@Poland",Birleşik Krallık - BBC Earth
 http://57.128.231.171:8080/307/index.m3u8
-#EXTINF:-1 tvg-id="BBCBrit.uk@Poland",Birleşik Krallık - BBC Brit
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCBrit.uk@Poland",Birleşik Krallık - BBC Brit
 http://57.128.231.171:8080/309/index.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland",Birleşik Krallık - BBC Lifestyle Poland
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCLifestyle.uk@Poland",Birleşik Krallık - BBC Lifestyle Poland
 http://57.128.231.171:8080/305/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific",Birleşik Krallık - BBC News Asia Pacific
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCNews.uk@AsiaPacific",Birleşik Krallık - BBC News Asia Pacific
 http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
-#EXTINF:-1 tvg-id="ITV2.uk@SD",Birleşik Krallık - ITV2
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="ITV2.uk@SD",Birleşik Krallık - ITV2
 https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV3.uk@SD",Birleşik Krallık - ITV3
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="ITV3.uk@SD",Birleşik Krallık - ITV3
 https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV4.uk@SD",Birleşik Krallık - ITV4
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="ITV4.uk@SD",Birleşik Krallık - ITV4
 https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Ukraine",Birleşik Krallık - Cartoon Network CEE Ukraine
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="CartoonNetworkCEE.uk@Ukraine",Birleşik Krallık - Cartoon Network CEE Ukraine
 http://45.132.87.69:8080/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@CzechRepublic",Birleşik Krallık - Cartoon Network CEE Czech Republic
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="CartoonNetworkCEE.uk@CzechRepublic",Birleşik Krallık - Cartoon Network CEE Czech Republic
 http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCFirst.uk@Poland",Birleşik Krallık - BBC First
+#EXTINF:-1 group-title="Birleşik Krallık" tvg-id="BBCFirst.uk@Poland",Birleşik Krallık - BBC First
 http://57.128.231.171:8080/306/index.m3u8
