@@ -1,26 +1,23 @@
 # Avrupa TV Kanalları
 
-## Hangi kanalın hangi ülkeye ait olduğunu görmek için
+## Ülke isimleriyle hazırlanmış birleşik liste
 
-**Ülkelere göre düzenlenmiş TV listesi (M3U):**  
-https://iptv-org.github.io/iptv/index.country.m3u
+**M3U dosyası (VLC, IPTV oynatıcılar):**  
+https://raw.githubusercontent.com/muratgulkazar/ETS2-Europe-Radio/main/Europe-55-TV.m3u
 
-Bu listede kanallar ülke gruplarına ayrılır. VLC gibi bir oynatıcıda **Oynatma Listesi** panelini açıp grup/ülke adına göre gezebilirsin. Not: Bu bağlantı yalnızca Avrupa'yı değil, dünya genelindeki kanalları içerir.
+Bu dosya IPTV-org'un ülke bazlı açık yayın listelerinden birleştirildi. Şu an **4.356 benzersiz yayın bağlantısı** içeriyor ve kanal adlarının başına ülke adı eklendi; ayrıca oynatıcı destekliyorsa ülkeye göre grup başlığıyla ayrılıyor.
 
-**Sadece Avrupa bölgesi listesi:**  
-https://iptv-org.github.io/iptv/regions/eur.m3u
-
-Avrupa listesi bölgeye göre filtrelidir; kanal adlarında ülke adı her zaman yazmadığından ülkeyi kesin görmek için yukarıdaki ülke gruplu liste daha uygundur.
+**Önemli kapsam notu:** Hedeflenen 55 ülke/bölgeden kaynakta kanal yayını bulunan 51 grup çıktı. Cebelitarık ve Man Adası için kaynak dosyası bulunamadı; Lihtenştayn ve Grönland için de kullanılabilir kanal kaydı çıkmadı. Bu nedenle bu dört yer için çalışan yayın varmış gibi sahte kanal eklemedim.
 
 ## VLC'de açma
 
-1. VLC Media Player'ı aç.
-2. **Medya → Ağ akışını aç** seçeneğine gir.
-3. Yukarıdaki M3U bağlantısını yapıştır.
-4. **Oynat**'a bas; ardından **Görünüm → Oynatma Listesi** bölümünü açarak kanalları ve grupları incele.
+1. Yukarıdaki M3U bağlantısını açıp dosyayı `Europe-55-TV.m3u` adıyla kaydet.
+2. VLC Media Player'ı aç.
+3. **Medya → Dosya Aç** yolundan kaydettiğin dosyayı seç.
+4. **Görünüm → Oynatma Listesi** bölümünde kanalları gör. Kanal adları ülke adıyla başlayacak; destekleyen oynatıcılarda ülke grupları da görünecek.
 
 ## Bilinmesi gerekenler
 
-- Bu bağlantılar IPTV-org'un herkese açık kanal listelerini kullanır.
-- Her yayın sürekli çalışmayabilir; bazı kanallar bölgesel kısıtlamalara tabi olabilir veya zamanla erişilemez hâle gelebilir.
-- Bu rehber akışları yeniden barındırmaz; doğrudan kaynak listeye yönlendirir.
+- Kaynak liste herkese açık yayın bağlantılarını derler; kanal sahipliği veya yayın hakkı sağlamaz.
+- 4.356 bağlantının hepsi her an çalışıyor olmayabilir. Bazı yayınlar kapanabilir, coğrafi kısıtlamaya tabi olabilir veya HLS desteği gerektirebilir.
+- Listeyi güncel tutmak için kaynak proje zaman içinde yenilendikçe dosyanın tekrar oluşturulması gerekir.
