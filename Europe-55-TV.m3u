@@ -1161,3 +1161,105 @@ https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
 https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-id="beINSportsHaber.tr@SD",Türkiye - beIN Sports Haber
 https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
+#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD",Bulgaristan - Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RMTV.bg@SD",Bulgaristan - RMTV
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="BNT1.bg@SD",Bulgaristan - BNT 1
+http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
+#EXTINF:-1 tvg-id="BNT2.bg@SD",Bulgaristan - BNT 2
+http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="BNT3.bg@SD",Bulgaristan - BNT 3
+http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
+#EXTINF:-1 tvg-id="BNT4.bg@SD",Bulgaristan - BNT 4
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD",Bulgaristan - Max Sport 1
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD",Bulgaristan - Max Sport 2
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport3.bg@SD",Bulgaristan - Max Sport 3
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport4.bg@SD",Bulgaristan - Max Sport 4
+http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
+#EXTINF:-1 tvg-id="VivacomArena.bg@SD",Bulgaristan - Vivacom Arena
+http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
+#EXTINF:-1 tvg-id="StarChannel.bg@SD",Bulgaristan - Star Channel
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.bg@SD",Bulgaristan - National Geographic
+http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD",Bulgaristan - National Geographic Wild
+http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.cz@SD",Çekya - Disney Channel
+http://88.212.15.17/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.cz@SD",Çekya - Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz@SD",Çekya - Jihočeská televize
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxClassic.cz@SD",Çekya - Music Box Classic
+http://88.212.15.17/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxDance.cz@SD",Çekya - Music Box Dance
+http://88.212.15.17/live/mb_dance/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxHits.cz@SD",Çekya - Music Box Hits
+http://88.212.15.17/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxSexy.cz@SD",Çekya - Music Box Sexy
+http://88.212.15.17/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="Prima.cz@SD",Çekya - Prima
+http://88.212.15.17/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaCool.cz@SD",Çekya - Prima Cool
+http://88.212.15.17/live/prima_cool_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaLove.cz@SD",Çekya - Prima Love
+http://88.212.15.17/live/prima_love_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaShow.cz@SD",Çekya - Prima Show
+http://88.212.15.17/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaStar.cz@SD",Çekya - Prima Star
+http://88.212.15.17/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaZoom.cz@SD",Çekya - Prima Zoom
+http://88.212.15.17/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",Çekya - Retro Music Television
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",Çekya - Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",Çekya - RetroMusicTV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportyTV.cz@SD",Çekya - Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-id="TelevizeSeznam.cz@SD",Çekya - Televize Seznam
+http://88.212.15.17/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBox80s.cz@SD",Çekya - Music Box 80s
+http://57.128.231.171:8080/229/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD",Çekya - Discovery Channel
+http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.cz@SD",Çekya - Travel Channel
+http://88.212.15.17/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD",Çekya - Prima Sport Czechia
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
+#EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD",Slovakya - Prima Cool SK
+http://88.212.15.17/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD",Slovakya - Televízia Močenok
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk@SD",Slovakya - Televízia OSEM
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk@SD",Slovakya - Televízia OSEM
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD",Slovakya - Canal+ Sport 2 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD",Slovakya - Canal+ Sport 3 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD",Slovakya - Canal+ Sport 4 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD",Slovakya - Canal+ Sport 5 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk@SD",Slovakya - Canal+ Sport 6 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk@SD",Slovakya - Canal+ Sport 7 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD",Slovakya - Canal+ Sport 8 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Omega.is@SD",İzlanda - Omega
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8
+#EXTINF:-1 tvg-id="RTL9.lu@SD",Lüksemburg - RTL9
+http://145.239.5.177/308/index.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu@SD",Lüksemburg - RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD",Lüksemburg - RTL Radio Web TV
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
