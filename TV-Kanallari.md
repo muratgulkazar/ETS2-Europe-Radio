@@ -1,22 +1,23 @@
-# Avrupa TV Kanalları — Ana Akım Seçki
+# Avrupa TV Kanalları — Geniş Ülke Listesi
 
-## Önerilen liste
+## M3U oynatma listesi
 
-**M3U dosyası (VLC ve uyumlu IPTV oynatıcılar):**  
+**İndir / VLC'de aç:**  
 https://raw.githubusercontent.com/muratgulkazar/ETS2-Europe-Radio/main/Europe-55-TV.m3u
 
-Liste, ülke bazlı açık yayın listelerinden ulusal genel yayın, haber ve spor kanalları eklenerek **998 yayın bağlantısına** genişletildi. Ana akım ulusal kanallar, kamu yayıncıları, haber kanalları ve mevcut kaynakta bulunabilen spor kanalları öne alındı. Kanal adlarının başında ülke adı bulunur ve oynatıcı destekliyorsa ülke grubuna göre de ayrılır.
+Bu sürüm, önceki daraltılmış seçkinin yerine ülke bazlı açık IPTV kaynaklarındaki yayınları geniş şekilde birleştirir. Şu anda **4390 yayın kaydı** ve **53 ülke/bölge grubu** içerir. Kanal adlarının başında ülke/bölge adı bulunur; M3U'da ülke grupları da tanımlıdır.
 
 ## VLC'de açma
 
-1. Yukarıdaki bağlantıya sağ tıkla ve dosyayı `Europe-55-TV.m3u` adıyla kaydet.
+1. M3U bağlantısını açıp dosyayı kaydet.
 2. VLC Media Player'ı aç.
-3. **Medya → Dosya Aç** yolundan dosyayı seç.
-4. **Görünüm → Oynatma Listesi** bölümünde ülke adıyla başlayan kanalları görebilirsin.
+3. **Medya → Dosya Aç** bölümünden M3U dosyasını seç.
+4. **Görünüm → Oynatma Listesi** bölümünde ülke gruplarını kullan.
 
-## Yayınların çalışması hakkında
+## Önemli notlar
 
-- Kaynakta açık yayın bağlantısı bulunan **49 ülke/bölge** için seçilmiş kanal çıktı. Hedeflenen 55 yerin tamamında kullanılabilir, herkese açık kanal yayını bulunmadığı için eksik yerlere sahte bağlantı eklenmedi.
-- Kaynakta `Geo-blocked` veya `Not 24/7` olarak işaretlenen bağlantılar seçkiye alınmadı. Buna rağmen her bağlantının şu anda çalıştığını garanti edemem; yayın adresleri değişebilir ve bazı kanallar ülkeye göre erişimi sınırlayabilir.
-- Ücretli spor yayınlarının korsan bağlantılarını özellikle listeye eklemek yerine, kaynakta bulunan erişilebilir ulusal ve spor kanalları tercih edildi.
-- Bu liste resmi izlenme sıralaması değildir; ana akım kanal seçkisi olarak düzenlenmiştir.
+- Liste, açık kaynakta bulunan yayınları olabildiğince geniş tutmak için hazırlanmıştır; her bağlantı canlı olarak test edilmemiştir.
+- Kaynaklarda yer alan bazı yayınlar coğrafi kısıtlamalı olabilir, 7/24 yayın yapmayabilir veya zamanla kapanabilir. Listeye çok sayıda bağlantı eklemek her birinin çalışacağı anlamına gelmez.
+- Cebelitarık ve Lihtenştayn için kaynakta ülke bazlı yayın listesi bulunamadı. KKTC için de ayrı bir ülke listesi bulunmadığından, çalışmayan/uydurma bağlantı eklemedim.
+- İngiltere, Galler, İskoçya ve Kuzey İrlanda kayıtları mevcut Birleşik Krallık kaynak listesinden kanal adına göre bölümlere ayrıldı; bu ayrım kaynakta her zaman eksiksiz olmayabilir.
+- Bu liste resmi izlenme sıralaması değildir; mevcut açık yayın bağlantılarının geniş derlemesidir.
