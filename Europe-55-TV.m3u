@@ -1453,3 +1453,387 @@ https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania",Romanya - Bollywood Classic Romania
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee@HD",Estonya - Vantage Classic
+https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee@HD",Estonya - Vantage Classic
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="",Letonya - Latvijas Radio 3 Klasika
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@HD",Letonya - LTV7
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD",Letonya - Vidusdaugavas Televīzija
+https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@SD",Letonya - LTV7
+http://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="LRTKlasika.lt@SD",Litvanya - LRT Klasika
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 tvg-id="LRTOpus.lt@SD",Litvanya - LRT Opus
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 tvg-id="LRTRadijas.lt@SD",Litvanya - LRT Radijas
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 tvg-id="1Plus1International.ua@HD",Ukrayna - 1+1 International HD
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel24.ua@SD",Ukrayna - 24 Канал
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua@SD",Ukrayna - 100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD",Ukrayna - Channel 7 Ukraine
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD",Ukrayna - Channel 7 Ukraine
+https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="DiviSport.ua@SD",Ukrayna - DiviSport
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD",Ukrayna - Freedom
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 tvg-id="InterPlus.ua@SD",Ukrayna - Inter+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV.ua@SD",Ukrayna - ITV
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV.ua@SD",Ukrayna - ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RAZ3International.ua@SD",Ukrayna - RAZ 3 International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaincastCybersport.ua@SD",Ukrayna - Maincast Cybersport
+http://stream.mcquack.net/487/index.m3u8
+#EXTINF:-1 tvg-id="Mega.ua@SD",Ukrayna - Mega
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="NASHEMusic.ua@SD",Ukrayna - NASHE Music
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD",Ukrayna - Telekanal RAI
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD",Ukrayna - Telekanal RAI
+http://92.253.233.136/uploads/playlist.m3u8
+#EXTINF:-1 tvg-id="Televsesvit.ua@SD",Ukrayna - Televsesvit
+https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="TV7Plus.ua@SD",Ukrayna - TV7+
+https://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 tvg-id="4everMusic.ua@SD",Ukrayna - 4ever Music
+http://stream.mcquack.net/257/index.m3u8
+#EXTINF:-1 tvg-id="EUMusic.ua@SD",Ukrayna - EU Music
+http://stream.mcquack.net/261/index.m3u8
+#EXTINF:-1 tvg-id="UAMusic.ua@HD",Ukrayna - UA Music
+http://stream.mcquack.net/281/index.m3u8
+#EXTINF:-1 tvg-id="Mega.ua@SD",Ukrayna - Mega
+http://stream.mcquack.net/325/index.m3u8
+#EXTINF:-1 tvg-id="M1.ua@SD",Ukrayna - M1
+http://dtv.vol.net.ua/M1-HD/index.m3u8
+#EXTINF:-1 tvg-id="Mega.ua@SD",Ukrayna - Mega
+http://dtv.vol.net.ua/MEGA_HD/index.m3u8
+#EXTINF:-1 tvg-id="HistoryUkraine.ua@SD",Ukrayna - History Ukraine
+http://dtv.vol.net.ua/History_HD/index.m3u8
+#EXTINF:-1 tvg-id="History2Ukraine.ua@SD",Ukrayna - History2 Ukraine
+http://dtv.vol.net.ua/H2-HD/index.m3u8
+#EXTINF:-1 tvg-id="HollywoodUkraine.ua@SD",Ukrayna - Hollywood Ukraine
+http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ua@SD",Ukrayna - National Geographic Wild
+http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
+#EXTINF:-1 tvg-id="Afontovo.ru@SD",Rusya - Afontovo
+https://stream.afontovo.ru/hd.m3u8
+#EXTINF:-1 tvg-id="Avto24.ru@SD",Rusya - Avto24
+http://stream.mcquack.net/78/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 tvg-id="Channel5International.ru@SD",Rusya - Channel 5 International
+http://178.134.1.158:8081/5channel/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+http://hls127.freeott.top:8080/8_KANAL/video.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+http://tshift-1.telecoma.tv/8channel/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+http://v4.proofix.ru/okino-tv/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD",Rusya - Channel 8
+https://v4.proofix.ru/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-id="Channel10.ru@SD",Rusya - Channel 10
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Rusya - Channel One
+http://45.153.24.78/1TV/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Rusya - Channel One
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@HD",Rusya - Channel One HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="ClassicMusic.ru@SD",Rusya - Classic Music
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD",Rusya - Extreme Sports Channel
+http://46.32.176.50/extremesport/index.m3u8
+#EXTINF:-1 tvg-id="",Rusya - Fon Music
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+#EXTINF:-1 tvg-id="",Rusya - Fon Music
+http://stream.mcquack.net/317/index.m3u8
+#EXTINF:-1 tvg-id="Kino24.ru@SD",Rusya - Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+http://45.153.24.78/MIR/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@SD",Rusya - Mir 24
+http://5.188.159.128:8070/mir_24/index.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@SD",Rusya - Mir 24
+https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@Kazakhstan",Rusya - Mir Kazakhstan
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Moymir.ru@SD",Rusya - Moy mir
+https://moymir.ru/hls/onair.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD",Rusya - National Geographic Wild
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD",Rusya - NTV HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1 tvg-id="NTV.ru@HD",Rusya - NTV HD
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD",Rusya - NTV Law
+http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru@SD",Rusya - NTV Mir
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV SD
+http://45.153.24.78/NTV/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV SD
+https://cdn.ntv.ru/ntv-spb/index.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD",Rusya - NTV Series
+http://stream.mcquack.net/301/index.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD",Rusya - NTV Style
+http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+#EXTINF:-1 tvg-id="NTVVitrina.ru@SD",Rusya - NTV Vitrina
+https://cdn.ntv.ru/vitrina/index.m3u8
+#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD",Rusya - Okko Prajm Sport
+http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1 tvg-id="PeretzInternational.ru@SD",Rusya - Peretz International
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1 tvg-id="Perviyotdel.ru@SD",Rusya - Perviy otdel
+https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+http://31.148.48.15/REN-TV/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussianMusicBox.ru@SD",Rusya - Russian MusicBox
+http://stream.mcquack.net/319/index.m3u8
+#EXTINF:-1 tvg-id="Sportivnyy.ru@SD",Rusya - Sportivnyy
+https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-id="STSInternational.ru@SD",Rusya - STS International
+http://178.134.1.158:8081/CTC/index.m3u8
+#EXTINF:-1 tvg-id="T24.ru@SD",Rusya - T24
+http://178.134.1.158:8081/t24/index.m3u8
+#EXTINF:-1 tvg-id="T24.ru@SD",Rusya - T24
+http://stream.mcquack.net/209/index.m3u8
+#EXTINF:-1 tvg-id="T24.ru@SD",Rusya - T24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD",Rusya - Telecafe
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TeleDom.ru@SD",Rusya - TeleDom
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="TV21International.ru@SD",Rusya - TV 21 International
+http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1 tvg-id="Vmirezhivotnykh.ru@SD",Rusya - V mire zhivotnykh
+http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru@HD",Rusya - viju+ Megahit HD
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru@SD",Rusya - Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD",Rusya - Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="Belgorod24.ru@SD",Rusya - Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-id="BST.ru@SD",Rusya - БСТ 24
+http://bst.bratsk.ru/hls/bst2/index.m3u8
+#EXTINF:-1 tvg-id="Vera24.ru@SD",Rusya - Вера 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd24.ru@SD",Rusya - Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Crimea24.ru@SD",Rusya - Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-id="Legendarnyy24.ru@SD",Rusya - Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@SD",Rusya - Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Simferopol24.ru@SD",Rusya - Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:-1 tvg-id="Sochi24.ru@SD",Rusya - Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK.ru@SD",Rusya - ТВК 24
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+http://185.23.80.23:8080/REN/index.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+http://45.145.32.13:20440/moskva24/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Rusya - Channel One
+http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
+#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD",Rusya - REN TV International
+http://178.134.1.158:8081/RENTV/index.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru@SD",Rusya - NTV-Hit
+http://178.134.1.158:8081/ntvhit/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+http://flussonic.linkintel.ru/ren_tv/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD",Rusya - NTV HD
+http://flussonic.linkintel.ru/ntv/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD",Rusya - Telecafe
+http://stream.mcquack.net/314/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="FONMusic.ru@SD",Rusya - FON Music
+https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@SD",Rusya - 1HD Music Television
+https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TNT4International.ru@SD",Rusya - TNT4 International
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="T24.ru@SD",Rusya - T24
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD",Rusya - National Geographic Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Avto24.ru@SD",Rusya - Avto24
+https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Domkino.ru@International",Rusya - Dom kino International
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Moskva24.ru@SD",Rusya - Moskva 24
+https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Telecafe.ru@SD",Rusya - Telecafe
+https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",Rusya - BRIDGE Classic
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="CarouselInternational.ru@SD",Rusya - Carousel International
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Mult.ru@International",Rusya - Mult International
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD",Rusya - Extreme Sports Channel
+https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Channel5International.ru@SD",Rusya - Channel 5 International
+https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Russia24.ru@HD",Rusya - Russia-24 HD
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",Rusya - National Geographic
+http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+#EXTINF:-1 tvg-id="FashionTV.ru@SD",Rusya - FashionTV
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD",Rusya - TV Centr International
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD",Rusya - Channel One CIS
+https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="FridayInternational.ru@Kazakhstan",Rusya - Friday! International Kazakhstan
+https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD",Rusya - 1HD Music Television
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1 tvg-id="MirSeriala.ru@SD",Rusya - Mir Seriala
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+http://176.118.197.101/Rossiya24/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD",Rusya - Telecafe
+http://88.212.15.17/live/test_telecafe_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru@Belarus",Rusya - TNT International Belarus
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru@Europe",Rusya - TNT International
+http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Rusya - Channel One
+http://31.148.5.241/kanal_1/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD",Rusya - NTV
+http://31.148.5.241/kanal_4/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.ru@SD",Rusya - Channel 5
+http://31.148.5.241/kanal_5/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Rusya - Russia-24
+http://31.148.5.241/kanal_7/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD",Rusya - REN TV
+http://31.148.5.241/kanal_11/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD",Rusya - Mir
+http://31.148.5.241/kanal_18/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+http://31.148.5.241/Viasat_Sport/index.m3u8
+#EXTINF:-1 tvg-id="Gorodskoytelekanal.ru@SD",Rusya - Gorodskoy telekanal
+https://gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-id="TV21International.ru@SD",Rusya - TV 21 International
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru@HD",Rusya - viju+ Megahit HD
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1 tvg-id="LiveMusicChannel.ru@HD",Rusya - Live Music Channel HD
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@HD",Rusya - viju+ Sport HD
+http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",Rusya - viju+ Sport
+http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@HD",Rusya - National Geographic Wild HD
+http://178.76.68.60:7442/50/mpegts
+#EXTINF:-1 tvg-id="DiscoveryChannel.ru@SD",Rusya - Discovery Channel
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.ru@SD",Rusya - Travel Channel
+http://stream.mcquack.net/231/index.m3u8
+#EXTINF:-1 tvg-id="O.ru@International",Rusya - O! International
+http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD",Belarus - First Music Channel Russia
+http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+#EXTINF:-1 tvg-id="RadioMir.by@SD",Belarus - Radio Mir
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SportTV.by@SD",Belarus - Sport TV
+http://178.124.179.122:8080/SportTV/mpegts
+#EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Belarus - First Music Channel
+http://hls127.freeott.top:8080/1mus_HD/video.m3u8
+#EXTINF:-1 tvg-id="SportTV.by@SD",Belarus - Sport TV
+http://media1.skifnet.by/sporttv/index.m3u8
+#EXTINF:-1 tvg-id="VoyenTV.by@SD",Belarus - VoyenTV
+http://media1.skifnet.by/voentv/index.m3u8
+#EXTINF:-1 tvg-id="PROTVChisinau.md@SD",Moldova - PRO TV Chisinau
+http://178.76.68.60:7442/15/mpegts
+#EXTINF:-1 tvg-id="BalapanInternational.kz@SD",Kazakistan - Balapan International
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-id="Ontustik.kz@SD",Kazakistan - Ontústik
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz@HD",Kazakistan - Qazaqstan HD
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz@SD",Kazakistan - Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="QazSport.kz@SD",Kazakistan - QazSport
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="AstanaTV.kz@SD",Kazakistan - Astana TV
+https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KTK.kz@SD",Kazakistan - KTK
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="24KZ.kz@SD",Kazakistan - 24KZ
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Channel7.kz@SD",Kazakistan - Channel 7
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Qazaqstan.kz@SD",Kazakistan - Qazaqstan
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="31Kanal.kz@SD",Kazakistan - 31 Kanal
+https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz@SD",Kazakistan - Channel One Eurasia
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Mirovoekino.kz@SD",Kazakistan - Mirovoe kino
+https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD",Kazakistan - Novoe televidenie
+http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="Qazaqstan.kz@SD",Kazakistan - Qazaqstan
+http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
