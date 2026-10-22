@@ -2711,3 +2711,581 @@ https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NickJr.hr@SD" group-title="Hırvatistan",Hırvatistan - Nick Jr. (540p)
 http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me@SD" group-title="Karadağ",Karadağ - Radio televizija Rožaje (614p) [Not 24/7]
+https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
+#EXTINF:-1 tvg-id="TVNiksic.me@SD" group-title="Karadağ",Karadağ - TV Niksic (720p)
+https://tv.rtv-niksic.me/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVTeuta.me@SD" group-title="Karadağ",Karadağ - TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVCG1.me@SD" group-title="Karadağ",Karadağ - TVCG 1 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG2.me@SD" group-title="Karadağ",Karadağ - TVCG 2 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG3.me@SD" group-title="Karadağ",Karadağ - TVCG 3 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me@SD" group-title="Karadağ",Karadağ - TVCG MNE (1080p)
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:-1 tvg-id="Kohavision.xk@SD" group-title="Kosova",Kosova - Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk@SD" group-title="Kosova",Kosova - RTK 3 (1080p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk@SD" group-title="Kosova",Kosova - RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="T7.xk@SD" group-title="Kosova",Kosova - T7 (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk@SD" group-title="Kosova",Kosova - TV Arbëria 3 Fëmijë (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberia4Muzike.xk@SD" group-title="Kosova",Kosova - TV Arbëria 4 Muzikë (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberiaRetroHits.xk@SD" group-title="Kosova",Kosova - TV Arbëria Retro Hits (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk@SD" group-title="Kosova",Kosova - TV Arta (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="TVDielli.xk@SD" group-title="Kosova",Kosova - TV Dielli (720p) [Not 24/7]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVOpoja.xk@SD" group-title="Kosova",Kosova - TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk@SD" group-title="Kosova",Kosova - TV Syri (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:-1 tvg-id="Alsat.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Alsat [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 tvg-id="CoolTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Cool TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-id="FolkKlubTV.au@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Folk Klub (720p)
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 tvg-id="FolkTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Folk TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-id="INTVAustralia.au@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - INTV Australia (720p)
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 tvg-id="JazzTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Jazz TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-id="Kanal5.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Kanal 5 (360p)
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Love TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="MNetHD.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - M-Net HD (720p)
+http://ares.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-id="MNetHD.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - M-Net HD
+https://live.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-id="MNetInfo.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-id="MNetKids.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - M-Net Kids (720p)
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - M-Net Sport
+https://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="MRT2.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - MRT 2 [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1 tvg-id="MRTSobraniskikanal.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - MRT Sobraniski kanal [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 tvg-id="MTM.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - MTM 1 [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1 tvg-id="NasaTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Naša TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="RockTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Rock TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="Sitel.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Sitel (480p)
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sitel.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Sitel (480p)
+https://teve.mk/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Sky Folk TV (720p) [Not 24/7]
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Sky Folk TV (720p) [Not 24/7]
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="StarPlusTelevizija.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Star Plus Music (1080p) [Not 24/7]
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 tvg-id="SutelTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Sutel TV [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1 tvg-id="TopEstradaTV.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - TopEstrada TV (720p)
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="TV21.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - TV21 [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 tvg-id="TVERA.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - TV ERA [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:-1 tvg-id="TVNOVA12.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - TV NOVA 12 (576p) [Not 24/7]
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-id="TVShenja.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - TV Shenja [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+#EXTINF:-1 tvg-id="TVZdravkin.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - TV Zdravkin (400p)
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Arena Sport Premium M1
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
+#EXTINF:-1 tvg-id="ArenaSportPremiumM2.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Arena Sport Premium M2
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4
+#EXTINF:-1 tvg-id="ArenaSportPremiumM3.mk@SD" group-title="Kuzey Makedonya",Kuzey Makedonya - Arena Sport Premium M3
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
+#EXTINF:-1 tvg-id="AdaTV.cy@SD" group-title="Kıbrıs",Kıbrıs - Ada TV
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaSport.cy@SD" group-title="Kıbrıs",Kıbrıs - Alfa Sport (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" group-title="Kıbrıs",Kıbrıs - ANT1 Cyprus (1080p)
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="CityChannel.cy@SD" group-title="Kıbrıs",Kıbrıs - City Channel (720p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-id="MiddleEastTV.cy@SD" group-title="Kıbrıs",Kıbrıs - Middle East TV (1080p)
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+#EXTINF:-1 tvg-id="RIK1.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK 1
+http://213.7.216.229:8888/udp/239.23.0.1:1234
+#EXTINF:-1 tvg-id="RIK2.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK 2
+http://213.7.216.229:8888/udp/239.23.0.2:1234
+#EXTINF:-1 tvg-id="RIKHD.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK HD
+http://213.7.216.229:8888/udp/239.23.0.5:1234
+#EXTINF:-1 tvg-id="RIKSat.cy@SD" group-title="Kıbrıs",Kıbrıs - RΙΚ Sat (CYBC S) (720p) [Not 24/7]
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Arabic.cy@SD" group-title="Kıbrıs",Kıbrıs - Sat 7 Arabic (240p)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Sat7Kids.cy@SD" group-title="Kıbrıs",Kıbrıs - Sat 7 Kids (1080p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Sat7Turk.cy@SD" group-title="Kıbrıs",Kıbrıs - Sat 7 Türk (720p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="SigmaTV.cy@SD" group-title="Kıbrıs",Kıbrıs - Sigma TV (576p) [Not 24/7]
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="VouliTV.cy@SD" group-title="Kıbrıs",Kıbrıs - Vouli TV (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-id="RIKSat.cy@SD" group-title="Kıbrıs",Kıbrıs - ΡΙΚ Sat (720p) [Not 24/7]
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="OmegaChannel.cy@SD" group-title="Kıbrıs",Kıbrıs - Omega Channel (576i)
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 tvg-id="RIK1.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK 1 (576i) [Geo-blocked]
+https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 tvg-id="RIK2.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK 2 (576i) [Geo-blocked]
+https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 tvg-id="RIKHD.cy@SD" group-title="Kıbrıs",Kıbrıs - RIK HD (576i) [Geo-blocked]
+https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 tvg-id="ERTCosmosCyprus.cy@HD" group-title="Kıbrıs",Kıbrıs - ERT Cosmos Cyprus (1080p)
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Letonya",Letonya - Duo 6 [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/18018/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Letonya",Letonya - Latvijas Radio 3 Klasika (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV1.lv@SD" group-title="Letonya",Letonya - LTV1 (1080p)
+http://stream.mcquack.net/34/index.m3u8
+#EXTINF:-1 tvg-id="LTV1.lv@HD" group-title="Letonya",Letonya - LTV1 (720p)
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@SD" group-title="Letonya",Letonya - LTV7 (1080p)
+http://stream.mcquack.net/371/index.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@HD" group-title="Letonya",Letonya - LTV7 (720p)
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MovifyKino.lv@SD" group-title="Letonya",Letonya - Movify Kino (576p)
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="Pingviins.lv@SD" group-title="Letonya",Letonya - Pingvīns (576p) [Geo-blocked]
+https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
+#EXTINF:-1 tvg-id="RadioSWHTV.lv@SD" group-title="Letonya",Letonya - Radio SWH TV (1080p)
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ReTV.lv@SD" group-title="Letonya",Letonya - Re TV (1080p)
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3Life.lv@SD" group-title="Letonya",Letonya - TV3 Life (1080p)
+http://stream.mcquack.net/373/index.m3u8
+#EXTINF:-1 tvg-id="TVJurmala.lv@SD" group-title="Letonya",Letonya - TV Jūrmala (1080p)
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Letonya",Letonya - TV XXI (1080p)
+http://31.148.48.15/TV_XXI/index.m3u8
+#EXTINF:-1 tvg-id="TVNET.lv@SD" group-title="Letonya",Letonya - TVNET (360p)
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD" group-title="Letonya",Letonya - Vidusdaugavas Televīzija (576p)
+https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 tvg-id="Pingviins.lv@SD" group-title="Letonya",Letonya - Пингвин (720p)
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:-1 tvg-id="Gribuvisuzinat.lv@SD" group-title="Letonya",Letonya - Хочу всё знать (576p)
+https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="SeaTV.lv@SD" group-title="Letonya",Letonya - Sea TV (360p)
+http://dtv.vol.net.ua/Sea_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="LTV1.lv@SD" group-title="Letonya",Letonya - LTV1 (1080p)
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@SD" group-title="Letonya",Letonya - LTV7 (1080p)
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@SD" group-title="Letonya",Letonya - LTV7
+http://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="BalticumTV.lt@SD" group-title="Litvanya",Litvanya - Balticum TV (576p)
+http://stream.mcquack.net/376/index.m3u8
+#EXTINF:-1 tvg-id="BTV.lt@SD" group-title="Litvanya",Litvanya - BTV (576p)
+http://stream.mcquack.net/35/index.m3u8
+#EXTINF:-1 tvg-id="DelfiTV.lt@SD" group-title="Litvanya",Litvanya - Delfi TV
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt@SD" group-title="Litvanya",Litvanya - Lietuvos Rytas TV (1080p)
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTINF:-1 tvg-id="LNK.lt@SD" group-title="Litvanya",Litvanya - LNK (1080p)
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-id="LRTKlasika.lt@SD" group-title="Litvanya",Litvanya - LRT Klasika (1080p)
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 tvg-id="LRTLituanica.lt@SD" group-title="Litvanya",Litvanya - LRT Lituanica (1080p) [Geo-blocked]
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 tvg-id="LRTOpus.lt@SD" group-title="Litvanya",Litvanya - LRT Opus (1080p)
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" group-title="Litvanya",Litvanya - LRT Plius (1080p) [Geo-blocked]
+https://stream-live.lrt.lt/plius/master.m3u8
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" group-title="Litvanya",Litvanya - LRT Plius (1080p)
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 tvg-id="LRTRadijas.lt@SD" group-title="Litvanya",Litvanya - LRT Radijas (1080p)
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 tvg-id="LRTTV.lt@SD" group-title="Litvanya",Litvanya - LRT TV (1080p) [Geo-blocked]
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+#EXTINF:-1 tvg-id="LRTTV.lt@SD" group-title="Litvanya",Litvanya - LRT TV (1080p)
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 tvg-id="M1.lt@SD" group-title="Litvanya",Litvanya - M-1 (480p)
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerHitRadio.lt@SD" group-title="Litvanya",Litvanya - Power Hit Radio (576p)
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+#EXTINF:-1 tvg-id="TV3.lt@SD" group-title="Litvanya",Litvanya - TV3 (1080p)
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 tvg-id="TV6.lt@SD" group-title="Litvanya",Litvanya - TV6 (576p)
+http://stream.mcquack.net/375/index.m3u8
+#EXTINF:-1 tvg-id="TV8.lt@SD" group-title="Litvanya",Litvanya - TV8 (576p)
+http://stream.mcquack.net/374/index.m3u8
+#EXTINF:-1 tvg-id="TV1.lt@SD" group-title="Litvanya",Litvanya - TV1 (1080p)
+https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd
+#EXTINF:-1 tvg-id="apartTV.lu@SD" group-title="Lüksemburg",Lüksemburg - apart TV (1080p)
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DudelangeTV.lu@SD" group-title="Lüksemburg",Lüksemburg - Dudelange TV (720p)
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 tvg-id="eldoTV.lu@SD" group-title="Lüksemburg",Lüksemburg - eldo.TV (1080p)
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu@SD" group-title="Lüksemburg",Lüksemburg - Luxe TV (1080p)
+http://103.154.3.101:5001/live/1736.m3u8
+#EXTINF:-1 tvg-id="RTL9.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL9 (720p)
+http://145.239.5.177/308/index.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Gold (1080p)
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Radio Web TV (1080p)
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Télé Lëtzebuerg (1080p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Today Radio (720p)
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwee.lu@SD" group-title="Lüksemburg",Lüksemburg - RTL Zwee (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu@SD" group-title="Lüksemburg",Lüksemburg - Luxe TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+#EXTINF:-1 tvg-id="MierschTV.lu@SD" group-title="Lüksemburg",Lüksemburg - MierschTV
+https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxembourgGlobalRadioTV.lu@HD" group-title="Lüksemburg",Lüksemburg - Luxembourg Global Radio TV (1080p)
+https://stream.globalradio.lu/lgr/index.m3u8
+#EXTINF:-1 tvg-id="16tvBudapest.hu@SD" group-title="Macaristan",Macaristan - 16tv Budapest (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfoldTV.hu@SD" group-title="Macaristan",Macaristan - Alföld TV (1080p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ApostolTV.hu@SD" group-title="Macaristan",Macaristan - Apostol TV (576p)
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.hu@SD" group-title="Macaristan",Macaristan - ATV (360p) [Not 24/7]
+https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.hu@SD" group-title="Macaristan",Macaristan - ATV (160p)
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.hu@SD" group-title="Macaristan",Macaristan - ATV
+http://88.212.15.17/live/test_atv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSpirit.hu@SD" group-title="Macaristan",Macaristan - ATV Spirit (360p)
+https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSpirit.hu@SD" group-title="Macaristan",Macaristan - ATV Spirit
+http://88.212.15.17/live/test_atv_spirit/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV.hu@SD" group-title="Macaristan",Macaristan - Bábolnai TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BajaiTV.hu@SD" group-title="Macaristan",Macaristan - Bajai TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BalatonTV.hu@SD" group-title="Macaristan",Macaristan - Balaton TV (432p)
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-id="BerenteTV.hu@SD" group-title="Macaristan",Macaristan - Berente TV (1080p)
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:-1 tvg-id="BudapestEuropaTelevizio.hu@SD" group-title="Macaristan",Macaristan - Budapest Európa Televízió (576p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTV.hu@SD" group-title="Macaristan",Macaristan - City TV
+https://citytv.hu/playlist.m3u8
+#EXTINF:-1 tvg-id="CsurgoTV.hu@SD" group-title="Macaristan",Macaristan - Csurgo TV (720p)
+https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CsurgoTV.hu@SD" group-title="Macaristan",Macaristan - Csurgó TV (720p)
+http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
+#EXTINF:-1 tvg-id="CsurgoTV.hu@SD" group-title="Macaristan",Macaristan - Csurgó TV (720p)
+https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8
+#EXTINF:-1 tvg-id="DaruTV.hu@SD" group-title="Macaristan",Macaristan - Daru TV (720p)
+https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="DikhTV.hu@SD" group-title="Macaristan",Macaristan - Dikh TV
+http://88.212.15.17/live/dikh/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.hu@SD" group-title="Macaristan",Macaristan - Disney Channel
+http://88.212.15.17/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-id="DSTV.hu@SD" group-title="Macaristan",Macaristan - DSTV (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="DTV.hu@SD" group-title="Macaristan",Macaristan - DTV (720p) [Not 24/7]
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-id="Duna.hu@SD" group-title="Macaristan",Macaristan - Duna
+http://88.212.15.17/live/duna_hun/index.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu@SD" group-title="Macaristan",Macaristan - Duna World
+http://88.212.15.17/live/duna_world_hun/index.m3u8
+#EXTINF:-1 tvg-id="EgykerTV.hu@SD" group-title="Macaristan",Macaristan - Elsö Kerület TV (1080p)
+https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
+#EXTINF:-1 tvg-id="ESTV.hu@SD" group-title="Macaristan",Macaristan - ESTV (420p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ESTV.hu@SD" group-title="Macaristan",Macaristan - ESTV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNBonumTV.hu@SD" group-title="Macaristan",Macaristan - EWTN/Bonum TV
+https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
+#EXTINF:-1 tvg-id="FehervarTV.hu@SD" group-title="Macaristan",Macaristan - Fehérvár TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FEM3.hu@SD" group-title="Macaristan",Macaristan - FEM3
+http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Film4.hu@SD" group-title="Macaristan",Macaristan - Film4
+http://88.212.15.17/live/film4_hun/index.m3u8
+#EXTINF:-1 tvg-id="FilmCafe.hu@Hungary" group-title="Macaristan",Macaristan - Film Cafe
+http://88.212.15.17/live/film_cafe/index.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.hu@SD" group-title="Macaristan",Macaristan - Film+
+http://88.212.15.17/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1 tvg-id="FIXTV.hu@SD" group-title="Macaristan",Macaristan - Fix TV (720p) [Not 24/7]
+https://fixhd.tv:8082/fix/1080i/playlist.m3u8
+#EXTINF:-1 tvg-id="Galaxy4.hu@SD" group-title="Macaristan",Macaristan - Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="GloboTV.hu@SD" group-title="Macaristan",Macaristan - Globo TV (720p) [Geo-blocked]
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+#EXTINF:-1 tvg-id="GolyaTV.hu@SD" group-title="Macaristan",Macaristan - Gólya TV (480p) [Geo-blocked]
+https://stream.streaming4u.hu/GolyaTV/index.m3u8
+#EXTINF:-1 tvg-id="GranTV.hu@SD" group-title="Macaristan",Macaristan - Gran TV (720p)
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="GyongyosiTV.hu@SD" group-title="Macaristan",Macaristan - Gyongyosi TV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GyongyosiTV.hu@SD" group-title="Macaristan",Macaristan - Gyöngyösi TV (576p)
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HtMusicChannel.hu@SD" group-title="Macaristan",Macaristan - H!T Music Channel (480p)
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-id="HangulatTV.hu@SD" group-title="Macaristan",Macaristan - Hangulat TV (720p)
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
+#EXTINF:-1 tvg-id="HegyvidekTV.hu@SD" group-title="Macaristan",Macaristan - Hegyvidek TV
+https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8
+#EXTINF:-1 tvg-id="HegyvidekTV.hu@SD" group-title="Macaristan",Macaristan - Hegyvidek Tv Budapest (576p) [Not 24/7]
+https://tv.hegyvidek.hu/stream_mpeg.flv
+#EXTINF:-1 tvg-id="HeviziTV.hu@SD" group-title="Macaristan",Macaristan - Hévízi TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="History.hu@SD" group-title="Macaristan",Macaristan - History
+http://88.212.15.17/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-id="IzauraTV.hu@SD" group-title="Macaristan",Macaristan - Izaura TV (1080p)
+http://88.212.15.17/live/izaura/index.m3u8
+#EXTINF:-1 tvg-id="JaszsagiTersegiTV.hu@SD" group-title="Macaristan",Macaristan - Jászsági Térségi TV (440p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JockyTV.hu@SD" group-title="Macaristan",Macaristan - Jocky TV
+http://88.212.15.17/live/jocky/index.m3u8
+#EXTINF:-1 tvg-id="KanizsaTV.hu@SD" group-title="Macaristan",Macaristan - Kanizsa TV (400p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KaposTV.hu@SD" group-title="Macaristan",Macaristan - Kapos TV (1080p)
+https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KarcagTV.hu@SD" group-title="Macaristan",Macaristan - Karcag TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KecskemetiTV.hu@SD" group-title="Macaristan",Macaristan - Kecskemeti TV (416p) [Not 24/7]
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 tvg-id="KecskemetiTV.hu@SD" group-title="Macaristan",Macaristan - Kecskemeti TV (416p) [Not 24/7]
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:-1 tvg-id="KiskorosTV.hu@SD" group-title="Macaristan",Macaristan - Kiskőrös TV (720p)
+https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Kolyokklub.hu@SD" group-title="Macaristan",Macaristan - Kolyokklub
+http://88.212.15.17/live/kolyokklub_atk/index.m3u8
+#EXTINF:-1 tvg-id="KomaromiTelevizio.hu@SD" group-title="Macaristan",Macaristan - Komáromi Televízió (400p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KomlosTV.hu@SD" group-title="Macaristan",Macaristan - Komlós TV (1080p) [Not 24/7]
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LiceumTV.hu@SD" group-title="Macaristan",Macaristan - Liceum TV (576p)
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-id="LifeTV.hu@SD" group-title="Macaristan",Macaristan - Life TV
+http://88.212.15.17/live/lifetv/index.m3u8
+#EXTINF:-1 tvg-id="Loversenykozvetites.hu@SD" group-title="Macaristan",Macaristan - Lóverseny közvetítés (420p)
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="M1.hu@HD" group-title="Macaristan",Macaristan - M1 HD
+http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="M2.hu@SD" group-title="Macaristan",Macaristan - M2 (1080p)
+http://88.212.15.17/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-id="M4Sport.hu@SD" group-title="Macaristan",Macaristan - M4 Sport
+http://88.212.15.17/live/m4_hun/index.m3u8
+#EXTINF:-1 tvg-id="M5.hu@SD" group-title="Macaristan",Macaristan - M5 (1080p)
+http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="MagyarMoziTV.hu@SD" group-title="Macaristan",Macaristan - Magyar Mozi TV
+http://88.212.15.17/live/mozi/index.m3u8
+#EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu@SD" group-title="Macaristan",Macaristan - Makói Városi (576p)
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:-1 tvg-id="MezokovesdiTelevizio.hu@SD" group-title="Macaristan",Macaristan - Mezőkövesdi Televízió (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Minimax.hu@SD" group-title="Macaristan",Macaristan - Minimax
+http://88.212.15.17/live/minimax_hun/index.m3u8
+#EXTINF:-1 tvg-id="MoraNetTV.hu@SD" group-title="Macaristan",Macaristan - Móra-Net TV (576p)
+https://stream.moranettv.hu/live/index.m3u8
+#EXTINF:-1 tvg-id="MoziPlus.hu@SD" group-title="Macaristan",Macaristan - Mozi+
+http://88.212.15.17/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-id="Moziklub.hu@SD" group-title="Macaristan",Macaristan - Moziklub
+http://88.212.15.17/live/moziklub_atk/index.m3u8
+#EXTINF:-1 tvg-id="Moziverzum.hu@SD" group-title="Macaristan",Macaristan - Moziverzum
+http://88.212.15.17/live/moziverzum/index.m3u8
+#EXTINF:-1 tvg-id="MuzsikaTV.hu@SD" group-title="Macaristan",Macaristan - Muzsika TV
+http://88.212.15.17/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hu@SD" group-title="Macaristan",Macaristan - National Geographic
+http://88.212.15.17/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu@SD" group-title="Macaristan",Macaristan - National Geographic Wild
+http://88.212.15.17/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.hu@SD" group-title="Macaristan",Macaristan - Nick Jr.
+http://88.212.15.17/live/nick_junior_hun/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hu@SD" group-title="Macaristan",Macaristan - Nickelodeon
+http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.hu@SD" group-title="Macaristan",Macaristan - Nicktoons
+http://88.212.15.17/live/nicktoons_hungary/index.m3u8
+#EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu@SD" group-title="Macaristan",Macaristan - Oroszlányi Városi Televízió (720p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu@SD" group-title="Macaristan",Macaristan - Országgyűlés (Plenáris) (720p) [Not 24/7]
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu@SD" group-title="Macaristan",Macaristan - Országgyűlés (Plenáris) (720p) [Not 24/7]
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu@SD" group-title="Macaristan",Macaristan - Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]
+http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu@SD" group-title="Macaristan",Macaristan - Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OxygenMusic.hu@HD" group-title="Macaristan",Macaristan - Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-id="OzdiVarosiTV.hu@SD" group-title="Macaristan",Macaristan - Ózdi Városi TV (720p) [Not 24/7]
+http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:-1 tvg-id="OzoneTV.hu@SD" group-title="Macaristan",Macaristan - Ozone TV
+http://88.212.15.17/live/ozone/index.m3u8
+#EXTINF:-1 tvg-id="PannonTV.rs@SD" group-title="Macaristan",Macaristan - Pannon RTV (648p)
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-id="PilisTV.hu@SD" group-title="Macaristan",Macaristan - PilisTV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1 tvg-id="Prime.hu@SD" group-title="Macaristan",Macaristan - Prime
+http://88.212.15.17/live/prime/index.m3u8
+#EXTINF:-1 tvg-id="PVTV.hu@SD" group-title="Macaristan",Macaristan - Putnok Városi TV (720p)
+http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
+#EXTINF:-1 tvg-id="RakosmenteTV.hu@SD" group-title="Macaristan",Macaristan - Rákosmente TV (720p)
+http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+#EXTINF:-1 tvg-id="RegioPluszTV.hu@SD" group-title="Macaristan",Macaristan - RégióPlusz TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+#EXTINF:-1 tvg-id="RTL.hu@SD" group-title="Macaristan",Macaristan - RTL
+http://88.212.15.17/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLGold.hu@SD" group-title="Macaristan",Macaristan - RTL Gold
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLHarom.hu@SD" group-title="Macaristan",Macaristan - RTL Harom
+http://88.212.15.17/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKetto.hu@SD" group-title="Macaristan",Macaristan - RTL Ketto
+http://88.212.15.17/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLOtthon.hu@SD" group-title="Macaristan",Macaristan - RTL Otthon
+http://88.212.15.17/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1 tvg-id="SIXOTV.hu@SD" group-title="Macaristan",Macaristan - SIXO TV (360p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SlagerTV.hu@SD" group-title="Macaristan",Macaristan - Slager TV
+http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu@SD" group-title="Macaristan",Macaristan - Soltvadkerti Televízió (720p)
+http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="SorozatPlus.hu@SD" group-title="Macaristan",Macaristan - Sorozat+
+http://88.212.15.17/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Sorozatklub.hu@SD" group-title="Macaristan",Macaristan - Sorozatklub
+http://88.212.15.17/live/sorozatklub_atk/index.m3u8
+#EXTINF:-1 tvg-id="Spektrum.hu@SD" group-title="Macaristan",Macaristan - Spektrum
+http://88.212.15.17/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.hu@SD" group-title="Macaristan",Macaristan - Spektrum Home
+http://88.212.15.17/live/spektrum_home_hun/index.m3u8
+#EXTINF:-1 tvg-id="Spiler1.hu@SD" group-title="Macaristan",Macaristan - Spiler 1
+http://88.212.15.17/live/spiler1/index.m3u8
+#EXTINF:-1 tvg-id="Spiler2.hu@SD" group-title="Macaristan",Macaristan - Spiler 2
+http://88.212.15.17/live/spiler2/index.m3u8
+#EXTINF:-1 tvg-id="Sport1.hu@SD" group-title="Macaristan",Macaristan - Sport 1
+http://88.212.15.17/live/sport1_hun/index.m3u8
+#EXTINF:-1 tvg-id="Sport2.hu@SD" group-title="Macaristan",Macaristan - Sport 2
+http://88.212.15.17/live/sport2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Story4.hu@SD" group-title="Macaristan",Macaristan - Story4
+http://88.212.15.17/live/test_story_4_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTV2.hu@SD" group-title="Macaristan",Macaristan - Super TV2
+http://88.212.15.17/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="SzecsenyTV.hu@SD" group-title="Macaristan",Macaristan - Szécsény TV (720p)
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
+#EXTINF:-1 tvg-id="SzolnokTV.hu@SD" group-title="Macaristan",Macaristan - Szolnok TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TataiTV.hu@SD" group-title="Macaristan",Macaristan - Tatai TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TelePaks.hu@SD" group-title="Macaristan",Macaristan - TelePaks (396p)
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD" group-title="Macaristan",Macaristan - The Fishing & Hunting Channel
+http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 tvg-id="TiszaTV.hu@SD" group-title="Macaristan",Macaristan - Tisza TV (576p) [Not 24/7]
+https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1 tvg-id="TrimedioTV.hu@SD" group-title="Macaristan",Macaristan - Trimedio TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 tvg-id="TV2.hu@SD" group-title="Macaristan",Macaristan - TV2
+http://88.212.15.17/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2Comedy.hu@SD" group-title="Macaristan",Macaristan - TV2 Comedy
+http://88.212.15.17/live/tv2_comedy/index.m3u8
+#EXTINF:-1 tvg-id="TV2Kids.hu@SD" group-title="Macaristan",Macaristan - TV2 Kids
+http://88.212.15.17/live/tv2_kids/index.m3u8
+#EXTINF:-1 tvg-id="TV2Sef.hu@SD" group-title="Macaristan",Macaristan - TV2 Sef
+http://88.212.15.17/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.hu@SD" group-title="Macaristan",Macaristan - TV4
+http://88.212.15.17/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="7TV.hu@SD" group-title="Macaristan",Macaristan - TV7 Bekescsaba (360p)
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-id="TVBudakalasz.hu@SD" group-title="Macaristan",Macaristan - TV Budakalasz (1080p) [Not 24/7]
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVEger.hu@SD" group-title="Macaristan",Macaristan - TV Eger (1080p)
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-id="TVKeszthely.hu@SD" group-title="Macaristan",Macaristan - TV Keszthely (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSzentendre.hu@SD" group-title="Macaristan",Macaristan - TV Szentendre (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+#EXTINF:-1 tvg-id="VasarhelyiTelevizio.hu@SD" group-title="Macaristan",Macaristan - Vásárhelyi Televízió (576p)
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+#EXTINF:-1 tvg-id="Viasat2.hu@SD" group-title="Macaristan",Macaristan - Viasat2
+http://88.212.15.17/live/viasat2/index.m3u8
+#EXTINF:-1 tvg-id="Viasat3.hu@SD" group-title="Macaristan",Macaristan - Viasat 3
+http://88.212.15.17/live/viasat3/index.m3u8
+#EXTINF:-1 tvg-id="Viasat6.hu@SD" group-title="Macaristan",Macaristan - Viasat 6
+http://88.212.15.17/live/viasat6/index.m3u8
+#EXTINF:-1 tvg-id="AXNCrime.us@SD" group-title="Macaristan",Macaristan - AXN Crime
+http://88.212.15.17/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="VolgyhidTV.hu@SD" group-title="Macaristan",Macaristan - Völgyhíd TV (540p)
+https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
+#EXTINF:-1 tvg-id="VTVFuzesabony.hu@SD" group-title="Macaristan",Macaristan - VTV Füzesabony (720p) [Not 24/7]
+https://stream.nmih.hu:7962/live.m3u8
+#EXTINF:-1 tvg-id="VTVMor.hu@SD" group-title="Macaristan",Macaristan - VTV Mór (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WilliamsTV.hu@SD" group-title="Macaristan",Macaristan - Williams TV (480p)
+http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
+#EXTINF:-1 tvg-id="XVTV.hu@SD" group-title="Macaristan",Macaristan - XV TV (480p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ZalaegerszegiTV.hu@SD" group-title="Macaristan",Macaristan - Zalaegerszegi TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Zenebutik.hu@SD" group-title="Macaristan",Macaristan - Zenebutik
+http://88.212.15.17/live/zenebutik/index.m3u8
+#EXTINF:-1 tvg-id="ZugloTV.hu@SD" group-title="Macaristan",Macaristan - Zuglo TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@HD" group-title="Macaristan",Macaristan - The Fishing & Hunting Channel HD
+http://88.212.15.17/live/fishing_hun/index.m3u8
+#EXTINF:-1 tvg-id="M4Sport.hu@SD" group-title="Macaristan",Macaristan - M4 Sport (1080p)
+http://88.212.15.17/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.hu@SD" group-title="Macaristan",Macaristan - TV Paprika
+http://88.212.15.17/live/parpika_hun/index.m3u8
+#EXTINF:-1 tvg-id="JimJam.hu@SD" group-title="Macaristan",Macaristan - JimJam
+http://88.212.15.17/live/jim_jam_hun/index.m3u8
+#EXTINF:-1 tvg-id="Story4.hu@Czechia" group-title="Macaristan",Macaristan - Story4 Czechia
+http://88.212.15.17/live/story_4_cze_atk/index.m3u8
+#EXTINF:-1 tvg-id="AXNSpin.hu@SD" group-title="Macaristan",Macaristan - AXN Spin
+https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+#EXTINF:-1 tvg-id="FilmCafe.hu@Romania" group-title="Macaristan",Macaristan - Film Cafe Romania
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+#EXTINF:-1 tvg-id="AXNSpin.hu@Poland" group-title="Macaristan",Macaristan - AXN Spin Poland
+https://polska.hach.workers.dev/14847.m3u8
+#EXTINF:-1 tvg-id="MAX4.hu@SD" group-title="Macaristan",Macaristan - MAX4 (1080p)
+http://141.94.193.53:80/MAX4_HD/index.m3u8
+#EXTINF:-1 tvg-id="Match4.hu@SD" group-title="Macaristan",Macaristan - Match4 (1080p)
+http://141.94.193.53:80/Match4_HD/index.m3u8
+#EXTINF:-1 tvg-id="Arena4.hu@SD" group-title="Macaristan",Macaristan - Arena4
+http://88.212.15.17/live/arena4/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu@SD" group-title="Macaristan",Macaristan - Investigation Discovery
+http://88.212.15.17/live/id_hun/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.hu@SD" group-title="Macaristan",Macaristan - Discovery Channel
+http://88.212.15.17/live/discovery_hungary/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.hu@SD" group-title="Macaristan",Macaristan - HGTV
+http://88.212.15.17/live/hgtv_hun/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.hu@SD" group-title="Macaristan",Macaristan - Animal Planet
+http://88.212.15.17/live/animal_hun/index.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.hu@SD" group-title="Macaristan",Macaristan - Travel Channel
+http://88.212.15.17/live/travel_hun/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.hu@SD" group-title="Macaristan",Macaristan - Food Network
+http://88.212.15.17/live/fn_hungary/index.m3u8
+#EXTINF:-1 tvg-id="TLC.hu@SD" group-title="Macaristan",Macaristan - TLC
+http://88.212.15.17/live/tlc_hungary/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxCentralEurope.hu@Poland" group-title="Macaristan",Macaristan - Cinemax Central Europe Poland (1080p)
+http://57.128.231.171:8080/287/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu@Poland" group-title="Macaristan",Macaristan - Cinemax 2 Central Europe Poland (1080p)
+http://57.128.231.171:8080/288/index.m3u8
+#EXTINF:-1 tvg-id="One.mt@SD" group-title="Malta",Malta - One
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="SmashTV.mt@SD" group-title="Malta",Malta - Smash TV (720p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
+#EXTINF:-1 tvg-id="MedTV.mt@SD" group-title="Malta",Malta - Med.TV (720p)
+https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
