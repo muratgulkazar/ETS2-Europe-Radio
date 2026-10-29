@@ -1,0 +1,98 @@
+#EXTM3U
+#FALLBACK-BATCH|1
+#COUNTRY-FALLBACK-AUDIT|az|Azerbaijan|19
+#EXTINF:-1 tvg-id="AlvinChannelTV.az@SD" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Alvin Channel TV (360p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="AnewZTV.az@SD" tvg-logo="https://i.imgur.com/Lwgdbuu.png" group-title="News" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="News" x-source-check="upstream-only",AnewZ TV [SOURCE NOT DAILY-VALIDATED]
+https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="News" x-source-check="upstream-only",APA Tv (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-id="AyazTV.az@SD" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Ayaz TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Az TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-id="AzadTV.az@SD" tvg-logo="https://i.imgur.com/rDYSoRL.png" http-referrer="No response" http-user-agent="No response" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Azad TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=No response
+#EXTVLCOPT:http-user-agent=No response
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az@SD" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="News" x-source-check="upstream-only",Baku.TV [SOURCE NOT DAILY-VALIDATED]
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-id="ELTV.az@SD" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",EL TV [SOURCE NOT DAILY-VALIDATED]
+https://live.eltv.az/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Ictimai TV [SOURCE NOT DAILY-VALIDATED]
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-id="Kanal35.az@SD" tvg-logo="https://live.ntv.az/kanal35.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Kanal 35 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://str2.yodacdn.net/kanal35/index.m3u8
+#EXTINF:-1 tvg-id="KanalS.az@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Kanal S [SOURCE NOT DAILY-VALIDATED]
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 tvg-id="KapazTV.az@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="News" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="News" x-source-check="upstream-only",Kapaz TV [SOURCE NOT DAILY-VALIDATED]
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Music" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="Music" x-source-check="upstream-only",KN Music TV [SOURCE NOT DAILY-VALIDATED]
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az@SD" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="Culture" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="Culture" x-source-check="upstream-only",Medeniyyet TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-id="NaxcivanTV.az@SD" tvg-logo="https://i.imgur.com/8yLFkdE.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Naxcivan TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 tvg-id="VilayetTV.az@SD" tvg-logo="https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Vilayet TV [SOURCE NOT DAILY-VALIDATED]
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az@SD" tvg-logo="" group-title="General" x-country-code="az" x-country-name="🇦🇿 Azerbaijan" x-original-group="General" x-source-check="upstream-only",Xezer TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://www.xezerxeber.az/stream/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|bs|Bahamas|4
+#EXTINF:-1 tvg-id="GuardianTalkRadio.bs@SD" tvg-logo="https://i.imgur.com/o3cWUwL.png" group-title="News" x-country-code="bs" x-country-name="🇧🇸 Bahamas" x-original-group="News" x-source-check="upstream-only",Guardian Talk Radio (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
+#EXTINF:-1 tvg-id="IslandLuckTV.bs@SD" tvg-logo="https://i.imgur.com/P0gDN5n.png" group-title="Entertainment" x-country-code="bs" x-country-name="🇧🇸 Bahamas" x-original-group="Entertainment" x-source-check="upstream-only",Island Luck TV [SOURCE NOT DAILY-VALIDATED]
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TheParliamentaryChannel.bs@SD" tvg-logo="https://i.imgur.com/ZQagV0x.png" group-title="Legislative" x-country-code="bs" x-country-name="🇧🇸 Bahamas" x-original-group="Legislative" x-source-check="upstream-only",The Parliamentary Channel (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
+#EXTINF:-1 tvg-id="ZNSTV.bs@SD" tvg-logo="https://i.imgur.com/h6nC8fe.png" group-title="General" x-country-code="bs" x-country-name="🇧🇸 Bahamas" x-original-group="General" x-source-check="upstream-only",ZNS-TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|bh|Bahrain|4
+#EXTINF:-1 tvg-id="BahrainQuran.bh@SD" tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Religious" x-country-code="bh" x-country-name="🇧🇭 Bahrain" x-original-group="Religious" x-source-check="upstream-only",Bahrain Quran (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports" x-country-code="bh" x-country-name="🇧🇭 Bahrain" x-original-group="Sports" x-source-check="upstream-only",Bahrain Sports 1 (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports" x-country-code="bh" x-country-name="🇧🇭 Bahrain" x-original-group="Sports" x-source-check="upstream-only",Bahrain Sports 2 (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="General" x-country-code="bh" x-country-name="🇧🇭 Bahrain" x-original-group="General" x-source-check="upstream-only",Bahrain TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|bb|Barbados|1
+#EXTINF:-1 tvg-id="CBCTV8.bb@SD" tvg-logo="https://i.imgur.com/WsD83lq.png" group-title="General" x-country-code="bb" x-country-name="🇧🇧 Barbados" x-original-group="General" x-source-check="upstream-only",CBC TV8 (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|bz|Belize|2
+#EXTINF:-1 tvg-id="FlexStudioRadioTV.bz@SD" tvg-logo="https://i.imgur.com/tZjqtxd.png" group-title="Music" x-country-code="bz" x-country-name="🇧🇿 Belize" x-original-group="Music" x-source-check="upstream-only",Flex Studio Radio TV [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="GuadalupeMedia.bz@SD" tvg-logo="https://i.imgur.com/EfaOwRE.png" group-title="Religious" x-country-code="bz" x-country-name="🇧🇿 Belize" x-original-group="Religious" x-source-check="upstream-only",Guadalupe Media (720p) [SOURCE NOT DAILY-VALIDATED]
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|bj|Benin|9
+#EXTINF:-1 tvg-id="ADOTV.bj@SD" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Kids;Sports" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="Kids;Sports" x-source-check="upstream-only",ADO TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="BeninWebTV.bj@SD" tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="News" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="News" x-source-check="upstream-only",Benin Web TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.beninwebtv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="EdenTV.bj@SD" tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="General" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="General" x-source-check="upstream-only",Eden TV (540p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HC2TV.bj@SD" tvg-logo="https://i.imgur.com/CV38429.jpeg" group-title="News" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="News" x-source-check="upstream-only",HC2 TV [SOURCE NOT DAILY-VALIDATED]
+https://stream.hc2tv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="ICONETV.bj@SD" tvg-logo="https://i.imgur.com/Aws11wj.jpeg" group-title="News" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="News" x-source-check="upstream-only",ICONE TV [SOURCE NOT DAILY-VALIDATED]
+https://lecteur.iconetv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KassouaTV.bj@SD" tvg-logo="https://i.imgur.com/EfX3HNG.png" group-title="General" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="General" x-source-check="upstream-only",KassouaTV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://playtv4k.live/live/kassouatv/index.m3u8
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj@SD" tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" group-title="Business" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="Business" x-source-check="upstream-only",Le Nouveau Manager TV [SOURCE NOT DAILY-VALIDATED]
+https://lnmlive.com/live/lnmtv.m3u8
+#EXTINF:-1 tvg-id="SpeedlineTV.bj@SD" tvg-logo="https://i.imgur.com/1lXShsh.png" group-title="General" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="General" x-source-check="upstream-only",Speedline TV [SOURCE NOT DAILY-VALIDATED]
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+#EXTINF:-1 tvg-id="TVCBenin.bj@SD" tvg-logo="https://i.imgur.com/oUnEYl5.png" group-title="General" x-country-code="bj" x-country-name="🇧🇯 Benin" x-original-group="General" x-source-check="upstream-only",TVC Benin (720p) [SOURCE NOT DAILY-VALIDATED]
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|bt|Bhutan|1
+#COUNTRY-FALLBACK-AUDIT|bq|Bonaire|6
+#EXTINF:-1 tvg-id="Bonairetv.bq@SD" tvg-logo="https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png" group-title="Culture" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-original-group="Culture" x-source-check="upstream-only",Bonaire.tv (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
+#EXTINF:-1 tvg-id="EnergiaTV.bq@SD" tvg-logo="https://i.imgur.com/GVKjI5c.jpeg" group-title="General" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-original-group="General" x-source-check="upstream-only",Energia TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
+#EXTINF:-1 tvg-id="Live99FM.bq@SD" tvg-logo="https://i.imgur.com/U43UrQT.png" group-title="Music" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-original-group="Music" x-source-check="upstream-only",Live99FM (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="NosTVBonaire2.bq@SD" tvg-logo="https://i.imgur.com/9pQdGw1.png" group-title="General" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-original-group="General" x-source-check="upstream-only",NosTV Bonaire 2 [SOURCE NOT DAILY-VALIDATED]
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="NosTVBonaire.bq@SD" tvg-logo="https://i.imgur.com/GINI6oP.png" group-title="General" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-original-group="General" x-source-check="upstream-only",NosTV Bonaire (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://streaming.flamingotv.net/nostv/live.m3u8
+#EXTINF:-1 tvg-id="VozDiBonaireTV.bq@SD" tvg-logo="https://i.imgur.com/WOokQmj.png" group-title="Entertainment" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-original-group="Entertainment" x-source-check="upstream-only",Voz Di Bonaire TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
