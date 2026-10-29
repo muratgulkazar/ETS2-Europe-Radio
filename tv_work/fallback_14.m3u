@@ -1,0 +1,194 @@
+#EXTM3U
+#FALLBACK-BATCH|14
+#COUNTRY-FALLBACK-AUDIT|sy|10
+#EXTINF:-1 tvg-id="AlSouriyaTV.sy@HD" tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Family" x-country-code="sy" x-original-group="Family" x-source-check="upstream-only",Al-Souriya TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+#EXTINF:-1 tvg-id="AlalamNewsChannelSyria.sy@SD" tvg-logo="https://i.imgur.com/WQKYPKD.png" group-title="News" x-country-code="sy" x-original-group="News" x-source-check="upstream-only",Alalam News Channel Syria (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="News" x-country-code="sy" x-original-group="News" x-source-check="upstream-only",Alikhbaria Syria (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://185.9.2.18/chid_423/index.m3u8
+#EXTINF:-1 tvg-id="Althania.sy@SD" tvg-logo="https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg" group-title="General" x-country-code="sy" x-original-group="General" x-source-check="upstream-only",Althania (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HalabTodayTV.sy@SD" tvg-logo="https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png" group-title="News" x-country-code="sy" x-original-group="News" x-source-check="upstream-only",Halab Today TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Prime.sy@HD" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" group-title="General;Sports" x-country-code="sy" x-original-group="General;Sports" x-source-check="upstream-only",Prime (Syria) (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.bestream.io/prime/prime.m3u8
+#EXTINF:-1 tvg-id="RojavaTV.sy@SD" tvg-logo="https://i.imgur.com/42noysO.png" group-title="General" x-country-code="sy" x-original-group="General" x-source-check="upstream-only",Rojava TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 tvg-id="RonahiTV.sy@SD" tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="Undefined" x-country-code="sy" x-original-group="Undefined" x-source-check="upstream-only",Ronahi TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="News" x-country-code="sy" x-original-group="News" x-source-check="upstream-only",Syria TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="WelatTV.sy@HD" tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" group-title="News" x-country-code="sy" x-original-group="News" x-source-check="upstream-only",Welat TV (1080i) [SOURCE NOT DAILY-VALIDATED]
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|tg|11
+#EXTINF:-1 tvg-id="ACTV.tg@SD" tvg-logo="https://i.imgur.com/SYugK7Y.png" group-title="Religious" x-country-code="tg" x-original-group="Religious" x-source-check="upstream-only",AC TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChandelTV.tg@SD" tvg-logo="https://i.imgur.com/jQO7dVE.png" group-title="Entertainment" x-country-code="tg" x-original-group="Entertainment" x-source-check="upstream-only",Chandel TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
+#EXTINF:-1 tvg-id="DynamicGospelTV.tg@SD" tvg-logo="https://i.imgur.com/e36BNNK.jpg" group-title="Religious" x-country-code="tg" x-original-group="Religious" x-source-check="upstream-only",Dynamic Gospel TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
+#EXTINF:-1 tvg-id="NWEconomie.tg@SD" tvg-logo="https://i.imgur.com/OmlFQa8.png" group-title="Business" x-country-code="tg" x-original-group="Business" x-source-check="upstream-only",NW Economie (576p) [SOURCE NOT DAILY-VALIDATED]
+https://hls.newworldtv.com/nw-economie/video/live.m3u8
+#EXTINF:-1 tvg-id="NWInfo2.tg@SD" tvg-logo="https://i.imgur.com/0W4GqFD.png" group-title="News" x-country-code="tg" x-original-group="News" x-source-check="upstream-only",NW Info 2 (576p) [SOURCE NOT DAILY-VALIDATED]
+https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+#EXTINF:-1 tvg-id="NWInfo.tg@SD" tvg-logo="https://i.imgur.com/UDEY91v.png" group-title="News" x-country-code="tg" x-original-group="News" x-source-check="upstream-only",NW Info (576p) [SOURCE NOT DAILY-VALIDATED]
+https://hls.newworldtv.com/nw-info/video/live.m3u8
+#EXTINF:-1 tvg-id="NWMagazine.tg@SD" tvg-logo="https://i.imgur.com/RZNJZYN.png" group-title="Entertainment" x-country-code="tg" x-original-group="Entertainment" x-source-check="upstream-only",NW Magazine (576p) [SOURCE NOT DAILY-VALIDATED]
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8
+#EXTINF:-1 tvg-id="RTJVA.tg@SD" tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" group-title="Religious" x-country-code="tg" x-original-group="Religious" x-source-check="upstream-only",RT JVA (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 tvg-id="SOSDocteurTV.tg@SD" tvg-logo="https://i.imgur.com/wQpooHw.png" group-title="Lifestyle" x-country-code="tg" x-original-group="Lifestyle" x-source-check="upstream-only",SOS Docteur TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionEspoir47.tg@SD" tvg-logo="https://i.imgur.com/utBh0xL.png" group-title="General" x-country-code="tg" x-original-group="General" x-source-check="upstream-only",Television Espoir 47 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
+#EXTINF:-1 tvg-id="TVT.tg@SD" tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="General" x-country-code="tg" x-original-group="General" x-source-check="upstream-only",TVT (Togo) (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://69.64.57.208/tvt/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|tj|14
+#EXTINF:-1 tvg-id="Badakhshon.tj@SD" tvg-logo="https://i.imgur.com/iK6AmkZ.png" group-title="General" x-country-code="tj" x-original-group="General" x-source-check="upstream-only",Badakhshon (576p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-id="DushanbeHD.tj@SD" tvg-logo="https://i.imgur.com/WWPIziG.png" group-title="General" x-country-code="tj" x-original-group="General" x-source-check="upstream-only",Dushanbe HD (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Sports" x-country-code="tj" x-original-group="Sports" x-source-check="upstream-only",Futbol (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj@SD" tvg-logo="https://i.imgur.com/MDULX7X.png" group-title="Science" x-country-code="tj" x-original-group="Science" x-source-check="upstream-only",Ilm va Tabiat (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="Jahonnamo.tj@SD" tvg-logo="https://i.imgur.com/ffqdD8W.png" group-title="General" x-country-code="tj" x-original-group="General" x-source-check="upstream-only",Jahonnamo (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-id="Khatlon.tj@SD" tvg-logo="https://i.imgur.com/X4xVpBj.png" group-title="General" x-country-code="tj" x-original-group="General" x-source-check="upstream-only",Khatlon (576p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-id="TMT.tj@SD" tvg-logo="https://i.imgur.com/Dg0UkNR.png" group-title="General" x-country-code="tj" x-original-group="General" x-source-check="upstream-only",TMT (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-id="Tojikiston.tj@SD" tvg-logo="https://i.imgur.com/sEXCFNk.png" group-title="General" x-country-code="tj" x-original-group="General" x-source-check="upstream-only",Tojikiston (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-id="TVBahoriston.tj@SD" tvg-logo="https://i.imgur.com/Dacai5z.png" group-title="Kids" x-country-code="tj" x-original-group="Kids" x-source-check="upstream-only",TV Bahoriston (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-id="TVKulob.tj@SD" tvg-logo="https://i.imgur.com/AFgEYFp.png" group-title="General" x-country-code="tj" x-original-group="General" x-source-check="upstream-only",TV Kulob (576p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-id="TVSafina.tj@SD" tvg-logo="https://i.imgur.com/Ho2vKZJ.png" group-title="Undefined" x-country-code="tj" x-original-group="Undefined" x-source-check="upstream-only",TV Safina (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-id="TVSayohi.tj@SD" tvg-logo="https://i.imgur.com/lAkMrtr.png" group-title="Travel" x-country-code="tj" x-original-group="Travel" x-source-check="upstream-only",TV Sayohi (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-id="TVSinamo.tj@SD" tvg-logo="https://i.imgur.com/W2qz5a4.png" group-title="Undefined" x-country-code="tj" x-original-group="Undefined" x-source-check="upstream-only",TV Sinamo (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 tvg-id="TVSugd.tj@SD" tvg-logo="https://i.imgur.com/YzkwTHb.png" group-title="General" x-country-code="tj" x-original-group="General" x-source-check="upstream-only",TV Sugd (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.teleradiocom.tj/14/3m.m3u8
+#COUNTRY-FALLBACK-AUDIT|tm|8
+#EXTINF:-1 tvg-id="AltynAsyr.tm@SD" tvg-logo="https://i.imgur.com/D7RBtZ2.png" group-title="General" x-country-code="tm" x-original-group="General" x-source-check="upstream-only",Altyn Asyr (406p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 tvg-id="ArkadagTV.tm@SD" tvg-logo="https://i.imgur.com/JdEb4Ug.png" group-title="General" x-country-code="tm" x-original-group="General" x-source-check="upstream-only",Arkadag TV (406p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://alpha.tv.online.tm/hls/ch000.m3u8
+#EXTINF:-1 tvg-id="Asgabat.tm@SD" tvg-logo="https://i.imgur.com/EzjR1vo.png" group-title="General" x-country-code="tm" x-original-group="General" x-source-check="upstream-only",Asgabat (406p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-id="Miras.tm@SD" tvg-logo="https://i.imgur.com/pWbJzr9.png" group-title="Culture" x-country-code="tm" x-original-group="Culture" x-source-check="upstream-only",Miras (406p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm@SD" tvg-logo="https://i.imgur.com/Ap7l2jC.png" group-title="Music" x-country-code="tm" x-original-group="Music" x-source-check="upstream-only",Turkmen Owazy (406p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 tvg-id="Turkmenistan.tm@SD" tvg-logo="https://i.imgur.com/iBBpBx4.png" group-title="General" x-country-code="tm" x-original-group="General" x-source-check="upstream-only",Turkmenistan (406p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm@SD" tvg-logo="https://i.imgur.com/n6vITLu.png" group-title="Sports" x-country-code="tm" x-original-group="Sports" x-source-check="upstream-only",Turkmenistan Sport (406p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm@SD" tvg-logo="https://i.imgur.com/QVWBNGM.png" group-title="Education" x-country-code="tm" x-original-group="Education" x-source-check="upstream-only",Yaslyk (406p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#COUNTRY-FALLBACK-AUDIT|tn|4
+#EXTINF:-1 tvg-id="ElWatania1.tn@SD" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="General" x-country-code="tn" x-original-group="General" x-source-check="upstream-only",El Watania 1 (1080i) [SOURCE NOT DAILY-VALIDATED]
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
+#EXTINF:-1 tvg-id="ElWatania2.tn@SD" tvg-logo="https://i.imgur.com/kgkrD3V.png" group-title="General" x-country-code="tn" x-original-group="General" x-source-check="upstream-only",El Watania 2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="MosaiqueFM.tn@SD" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music" x-country-code="tn" x-original-group="Music" x-source-check="upstream-only",Mosaique FM (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="StoryChannelTV.ma@SD" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture" x-country-code="tn" x-original-group="Culture" x-source-check="upstream-only",StoryChannel TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://136044159.r.cdnsun.net/storychannel.m3u8
+#COUNTRY-FALLBACK-AUDIT|tt|6
+#EXTINF:-1 tvg-id="BizzTV.tt@SD" tvg-logo="https://i.imgur.com/UxHaJNR.png" group-title="Lifestyle" x-country-code="tt" x-original-group="Lifestyle" x-source-check="upstream-only",Bizz TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.bizzmedia.biz/bizz_tv/index.m3u8
+#EXTINF:-1 tvg-id="RiddimHopeTV.tt@SD" tvg-logo="https://i.imgur.com/c27k0Bd.png" group-title="Religious" x-country-code="tt" x-original-group="Religious" x-source-check="upstream-only",Riddim & Hope TV [SOURCE NOT DAILY-VALIDATED]
+https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SankhyaTV.tt@SD" tvg-logo="https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png" group-title="Religious" x-country-code="tt" x-original-group="Religious" x-source-check="upstream-only",Sankhya TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ScorchTV.tt@SD" tvg-logo="https://i.imgur.com/CNszwj1.png" group-title="Music" x-country-code="tt" x-original-group="Music" x-source-check="upstream-only",Scorch TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TheIslamicNetwork.tt@SD" tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="Religious" x-country-code="tt" x-original-group="Religious" x-source-check="upstream-only",The Islamic Network [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
+#EXTINF:-1 tvg-id="TrinityTV.tt@SD" tvg-logo="https://i.imgur.com/69igLlk.png" group-title="Religious" x-country-code="tt" x-original-group="Religious" x-source-check="upstream-only",Trinity TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|tw|31
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="Animation" x-country-code="tw" x-original-group="Animation" x-source-check="upstream-only",Animax Asia Taiwan [SOURCE NOT DAILY-VALIDATED]
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies;Series" x-country-code="tw" x-original-group="Movies;Series" x-source-check="upstream-only",AXN Asia Taiwan (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious" x-country-code="tw" x-original-group="Religious" x-source-check="upstream-only",Beautiful Life TV [SOURCE NOT DAILY-VALIDATED]
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="Religious" x-country-code="tw" x-original-group="Religious" x-source-check="upstream-only",CGNTV Chinese (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="CTiVariety.tw@SD" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="General" x-country-code="tw" x-original-group="General" x-source-check="upstream-only",CTi Variety (720p) [SOURCE NOT DAILY-VALIDATED]
+http://23.237.10.66:16372
+#EXTINF:-1 tvg-id="CTSNews.tw@SD" tvg-logo="https://i.imgur.com/V1EVtRm.png" group-title="News" x-country-code="tw" x-original-group="News" x-source-check="upstream-only",CTS News [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="DaAi1.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General" x-country-code="tw" x-original-group="General" x-source-check="upstream-only",DaAi 1 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General" x-country-code="tw" x-original-group="General" x-source-check="upstream-only",DaAi 2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+#EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="General" x-country-code="tw" x-original-group="General" x-source-check="upstream-only",Dali TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Entertainment" x-country-code="tw" x-original-group="Entertainment" x-source-check="upstream-only",Discovery Asia Taiwan (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="News" x-country-code="tw" x-original-group="News" x-source-check="upstream-only",EBC Financial News (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw@SD" tvg-logo="https://i.imgur.com/oUhYdea.png" group-title="Movies" x-country-code="tw" x-original-group="Movies" x-source-check="upstream-only",EBC Foreign Movie [SOURCE NOT DAILY-VALIDATED]
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="EBCNews.tw@SD" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="News" x-country-code="tw" x-original-group="News" x-source-check="upstream-only",EBC News (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="FTV.tw@SD" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General" x-country-code="tw" x-original-group="General" x-source-check="upstream-only",FTV (Taiwan) (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="FTVOne.tw@SD" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General" x-country-code="tw" x-original-group="General" x-source-check="upstream-only",FTV One (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="Good2.tw@SD" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Religious" x-country-code="tw" x-original-group="Religious" x-source-check="upstream-only",Good 2 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="GoodTV.tw@SD" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Religious" x-country-code="tw" x-original-group="Religious" x-source-check="upstream-only",Good TV (Taiwan) (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="Culture" x-country-code="tw" x-original-group="Culture" x-source-check="upstream-only",Hakka TV [SOURCE NOT DAILY-VALIDATED]
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies" x-country-code="tw" x-original-group="Movies" x-source-check="upstream-only",HBO Asia Taiwan (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-id="IndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/vmk4F9u.png" group-title="Culture" x-country-code="tw" x-original-group="Culture" x-source-check="upstream-only",Indigenous TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MOMOTV.tw@SD" tvg-logo="https://m.momoshop.com.tw/img/message.png" group-title="Shop" x-country-code="tw" x-original-group="Shop" x-source-check="upstream-only",MOMO TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us@SD" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="General" x-country-code="tw" x-original-group="General" x-source-check="upstream-only",NTD TV Asia-Pacific [SOURCE NOT DAILY-VALIDATED]
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-id="PTS3.tw@SD" tvg-logo="https://i.imgur.com/I6sVDDt.png" group-title="Undefined" x-country-code="tw" x-original-group="Undefined" x-source-check="upstream-only",PTS 3 [SOURCE NOT DAILY-VALIDATED]
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="SETNews.tw@SD" tvg-logo="https://i.imgur.com/EGVbAvJ.png" group-title="News" x-country-code="tw" x-original-group="News" x-source-check="upstream-only",SET News (1080p) [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="SJTV.tw@SD" tvg-logo="https://i.imgur.com/PTsFn9B.png" group-title="Undefined" x-country-code="tw" x-original-group="Undefined" x-source-check="upstream-only",SJTV [SOURCE NOT DAILY-VALIDATED]
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="Undefined" x-country-code="tw" x-original-group="Undefined" x-source-check="upstream-only",Supreme Master TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General" x-country-code="tw" x-original-group="General" x-source-check="upstream-only",Taiwan Indigenous TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="TTV.tw@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png" group-title="Undefined" x-country-code="tw" x-original-group="Undefined" x-source-check="upstream-only",TTV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://162.19.247.76:22222/live/taishi/index.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw@SD" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="News" x-country-code="tw" x-original-group="News" x-source-check="upstream-only",TVBS News [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Entertainment" x-country-code="tw" x-original-group="Entertainment" x-source-check="upstream-only",TVBS-Asia (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="WXTV.tw@SD" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="Religious" x-country-code="tw" x-original-group="Religious" x-source-check="upstream-only",WXTV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#COUNTRY-FALLBACK-AUDIT|tz|8
+#EXTINF:-1 tvg-id="DodomaTV.tz@SD" tvg-logo="https://i.imgur.com/bLq9eFa.png" group-title="General" x-country-code="tz" x-original-group="General" x-source-check="upstream-only",Dodoma TV (360p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+#EXTINF:-1 tvg-id="IBNTV.tz@SD" tvg-logo="https://i.imgur.com/hkV51ij.png" group-title="Religious" x-country-code="tz" x-original-group="Religious" x-source-check="upstream-only",IBN TV (480p) [SOURCE NOT DAILY-VALIDATED]
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+#EXTINF:-1 tvg-id="IBNTVAfrica.tz@SD" tvg-logo="https://i.imgur.com/eKy2ocd.png" group-title="Religious" x-country-code="tz" x-original-group="Religious" x-source-check="upstream-only",IBN TV Africa (720p) [SOURCE NOT DAILY-VALIDATED]
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+#EXTINF:-1 tvg-id="MahaasinTV.tz@SD" tvg-logo="https://i.imgur.com/wdfdKvC.png" group-title="Religious" x-country-code="tz" x-original-group="Religious" x-source-check="upstream-only",Mahaasin TV [SOURCE NOT DAILY-VALIDATED]
+https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
+#EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz@SD" tvg-logo="https://i.imgur.com/fcLFYhn.png" group-title="Travel" x-country-code="tz" x-original-group="Travel" x-source-check="upstream-only",Tanzania Safari Channel (576p) [SOURCE NOT DAILY-VALIDATED]
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
+#EXTINF:-1 tvg-id="TBC1.tz@SD" tvg-logo="https://i.imgur.com/OmiVZ1u.png" group-title="General" x-country-code="tz" x-original-group="General" x-source-check="upstream-only",TBC1 [SOURCE NOT DAILY-VALIDATED]
+https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8
+#EXTINF:-1 tvg-id="TBC2.tz@SD" tvg-logo="https://i.imgur.com/VkUJt2q.png" group-title="Entertainment" x-country-code="tz" x-original-group="Entertainment" x-source-check="upstream-only",TBC2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8
+#EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke@SD" tvg-logo="https://i.imgur.com/u7xDXEt.jpg" group-title="Religious" x-country-code="tz" x-original-group="Religious" x-source-check="upstream-only",Urejesho TV Africa (360p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
