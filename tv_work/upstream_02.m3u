@@ -1,0 +1,1423 @@
+#EXTM3U
+#STAGE|upstream_02|source=iptv-org/iptv/streams
+#UPSTREAM-COUNTRY|bz|Belize|🇧🇿|2
+#EXTINF:-1 tvg-id="FlexStudioRadioTV.bz@SD" group-title="Belize" x-country-code="bz" x-country-name="🇧🇿 Belize" x-health="source-only" x-original-group="",Flex Studio Radio TV [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="GuadalupeMedia.bz@SD" group-title="Belize" x-country-code="bz" x-country-name="🇧🇿 Belize" x-health="source-only" x-original-group="",Guadalupe Media (720p)
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
+#UPSTREAM-COUNTRY|bj|Benin|🇧🇯|10
+#EXTINF:-1 tvg-id="ADOTV.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="BeninWebTV.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",Bénin Web TV (720p)
+https://stream.beninwebtv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="EdenTV.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",Eden TV (540p) [Not 24/7]
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HC2TV.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",HC2 TV
+https://stream.hc2tv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="ICONETV.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",ICONE TV
+https://lecteur.iconetv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KassouaTV.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",KassouaTV (720p)
+https://playtv4k.live/live/kassouatv/index.m3u8
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",Le Nouveau Manager TV
+https://lnmlive.com/live/lnmtv.m3u8
+#EXTINF:-1 tvg-id="ORTBTV.bj@HD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",ORTB TV (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="SpeedlineTV.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",Speedline TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+#EXTINF:-1 tvg-id="TVCBenin.bj@SD" group-title="Benin" x-country-code="bj" x-country-name="🇧🇯 Benin" x-health="source-only" x-original-group="",TVC Bénin (720p)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#UPSTREAM-COUNTRY|bt|Bhutan|🇧🇹|0
+#UPSTREAM-COUNTRY|bo|Bolivia|🇧🇴|110
+#EXTINF:-1 tvg-id="AbyaYalaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Abya Yala TV (720p)
+http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8
+#EXTINF:-1 tvg-id="AbyaYalaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Abya Yala TV
+https://seo.tv.bo/live.php?ch=abyayala_sd&token=seotv2026
+#EXTINF:-1 tvg-id="AlegriaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Alegria TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AmitelTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Amitel TV (720p)
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AsContenidos.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",As Contenidos (720p)
+https://master.tucableip.com/ascontenido/index.m3u8
+#EXTINF:-1 tvg-id="ATBLaPaz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",ATB La Paz (1080p)
+http://15.204.246.24:8080/ATBHD/index.m3u8
+#EXTINF:-1 tvg-id="ATBLaPaz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",ATB La Paz (614p) [Not 24/7]
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="ATBLaPaz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",ATB La Paz
+https://stream.atb.com.bo/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="Audiokiss.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Audiokiss (1080p)
+https://master.tucableip.com/audiokisstv/index.m3u8
+#EXTINF:-1 tvg-id="AYNITV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",AYNI TV (1080p)
+http://15.204.246.24:8080/AyniTVHD/index.m3u8
+#EXTINF:-1 tvg-id="AYNITV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",AYNI TV
+https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bolivision.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Bolivision (1080p)
+http://15.204.246.24:8080/BolivisionHD/index.m3u8
+#EXTINF:-1 tvg-id="Bolivision.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Bolivision (1080p)
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="BolivisionSantaCruz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Bolivision Santa Cruz (720p)
+https://d1mws3umreue1g.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="CadenaA.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Cadena A (720p) [Not 24/7]
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-id="CadenaA.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Cadena A (576p)
+http://15.204.246.24:8080/CadenaAHD/index.m3u8
+#EXTINF:-1 tvg-id="Canal15Teleor.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Canal 15 Teleor (720p)
+https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal56QuieroTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Canal 56 Quiero TV (720p)
+http://45.5.118.152:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="CEACOMTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",CEACOM TV (1080p) [Not 24/7]
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1 tvg-id="CineramaTelevision.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Cinerama Television (720p)
+https://live.cineramatvbo.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CoralTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Coral TV (720p)
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-id="CTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",CTV (1080p)
+http://15.204.246.24:8080/CTVHD/index.m3u8
+#EXTINF:-1 tvg-id="CTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",CTV (720p)
+https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+#EXTINF:-1 tvg-id="CTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",CTV
+https://live.ctvbolivia.com/hls/ctv.m3u8
+#EXTINF:-1 tvg-id="CVC.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",CVC (1080p)
+http://15.204.246.24:8080/CVCHD/index.m3u8
+#EXTINF:-1 tvg-id="DeltaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Delta TV
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="DmodaChannel.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Dmoda Channel (1080p)
+https://master.tucableip.com/dmoda/index.m3u8
+#EXTINF:-1 tvg-id="ELDEBER.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",EL DEBER (1080p)
+https://master.tucableip.com/eldebertv/index.m3u8
+#EXTINF:-1 tvg-id="F10HD.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",F10 HD (720p)
+http://15.204.246.24:8080/F10HD/index.m3u8
+#EXTINF:-1 tvg-id="F10HD.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",F10 HD [Geo-blocked]
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="FAPTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",FAP TV (720p)
+https://edge.enhdtv.com/faptv/index.m3u8
+#EXTINF:-1 tvg-id="FAPTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",FAP TV (480p)
+https://nd106.republicaservers.com/hls/c7284/index.m3u8
+#EXTINF:-1 tvg-id="FTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",FTV (720p)
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 tvg-id="Gigavision.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Gigavision (720p)
+https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="Gigavision.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Gigavision
+https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
+#EXTINF:-1 tvg-id="ImperialTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Imperial TV (720p)
+https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
+#EXTINF:-1 tvg-id="InteractivoTelevision.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Interactivo Television (720p)
+https://mist01.homestream.fun/hls/interactivotv2/index.m3u8
+#EXTINF:-1 tvg-id="InteractivoTelevision.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Interactivo Television (720p)
+https://mist01.homestream.fun/hls/interactivotv/index.m3u8
+#EXTINF:-1 tvg-id="PalenqueTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Palenque TV (576p)
+http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
+#EXTINF:-1 tvg-id="PalenqueTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+#EXTINF:-1 tvg-id="PATLaPaz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",PAT La Paz (576p)
+http://15.204.246.24:8080/PATSD/index.m3u8
+#EXTINF:-1 tvg-id="PlusTLT.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Plus TLT (720p)
+http://15.204.246.24:8080/PlusTLTHD/index.m3u8
+#EXTINF:-1 tvg-id="PoderdeDiosTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Poder de Dios TV (1080p)
+http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8
+#EXTINF:-1 tvg-id="PoderdeDiosTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Poder de Dios TV (720p)
+https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
+#EXTINF:-1 tvg-id="PTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",PTV (720p)
+https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCentro.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Radio Centro (720p)
+https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioClasicaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Radio Clasica TV (720p)
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioKollasuyo.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Radio Kollasuyo (720p)
+https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
+#EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Radio Mega TV Amazonia (720p)
+https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Radio Universitaria San Andres (720p)
+https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-id="RedADvenirTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red ADvenir TV (360p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-id="RedAmericaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red America TV (1080p)
+https://edge.enhdtv.com/redamerica/index.m3u8
+#EXTINF:-1 tvg-id="RedCCTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red CCTV (480p)
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedCCTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red CCTV
+https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedDTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red DTV (1080p)
+http://15.204.246.24:8080/DTVHD/index.m3u8
+#EXTINF:-1 tvg-id="RedRubi.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red Rubi (720p)
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="RedTVShop.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red TV Shop (720p)
+https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red Uno (720p)
+http://190.181.18.82:4111/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red Uno (720p)
+https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
+#EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red Uno Santa Cruz (1080p)
+http://190.181.18.82:4111/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",RTP (576p)
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",RTP (480p)
+https://rtp.noxun.net/hls480/stream2.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",RTP
+https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SolTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Sol TV (720p)
+http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SPCCanal15.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",SPC Canal 15 (720p)
+https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
+#EXTINF:-1 tvg-id="SucremantaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Sucremanta TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
+#EXTINF:-1 tvg-id="TDTMultimedia.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TDT Multimedia (720p)
+https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-id="TDTMultimedia.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TDT Multimedia (720p)
+https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-id="TELE6.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TELE 6 (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleFeBolivia.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Tele Fe Bolivia (720p)
+https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Tigo Sports (720p) [Geo-blocked]
+https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
+#EXTINF:-1 tvg-id="TLEstrella.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TL Estrella (720p)
+https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-id="TransMedia.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TransMedia (720p)
+https://edge.enhdtv.com/8064/index.m3u8
+#EXTINF:-1 tvg-id="TVCulturas.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TV Culturas (576p)
+http://15.204.246.24:8080/TVCulturasSD/index.m3u8
+#EXTINF:-1 tvg-id="TVLatina.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TV Latina (1080p)
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+#EXTINF:-1 tvg-id="TVLatina.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TV Latina (1080p)
+https://master.tucableip.com/tvlatina/index.m3u8
+#EXTINF:-1 tvg-id="TVOFF.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TV OFF (1080p)
+https://edge.enhdtv.com/tvoff/index.m3u8
+#EXTINF:-1 tvg-id="TVUSucre.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",TVU Sucre (720p)
+https://edge.enhdtv.com/8214/index.m3u8
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",UMSA TVU Internacional (720p)
+https://edge.enhdtv.com/8026/index.m3u8
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",UMSA TVU Internacional (720p)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="UMSATVULP.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",UMSA TVU LP (720p)
+https://edge.enhdtv.com/8190/index.m3u8
+#EXTINF:-1 tvg-id="UMSATVULP.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",UMSA TVU LP (720p)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Unifranz.bo@HD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Unifranz (720p)
+https://edge.enhdtv.com/8192/index.m3u8
+#EXTINF:-1 tvg-id="Unifranz.bo@HD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Unifranz (720p)
+https://live.enhdtv.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="UnitelCochabamba.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Unitel Cochabamba (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
+#EXTINF:-1 tvg-id="UnitelCochabamba.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Unitel Cochabamba (720p)
+https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
+#EXTINF:-1 tvg-id="UnitelLaPaz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Unitel La Paz (720p)
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
+#EXTINF:-1 tvg-id="UnitelLaPaz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Unitel La Paz (576p)
+http://190.60.39.195:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Unitel Santa Cruz (720p)
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+#EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Univalle Televisión (1080p)
+https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",UniversidadMayordeSanAndres (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/index.m3u8
+#EXTINF:-1 tvg-id="UPEATV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",UPEA TV (720p)
+#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",UPP TV/Bolivisión SCZ (720p) [Not 24/7]
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="VosTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Vos TV (720p)
+http://15.204.246.24:8080/VOSTVHD/index.m3u8
+#EXTINF:-1 tvg-id="VosTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Vos TV
+https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
+#EXTINF:-1 tvg-id="VTVCanal17.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",VTV Canal 17 (720p) [Not 24/7]
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+#EXTINF:-1 tvg-id="XTOTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",XTOTV (1280p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
+http://190.104.15.135/0.ts
+#EXTINF:-1 tvg-id="XTOTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",XTOTV (720p)
+https://www.sccbolivia.com/dash/720p.mpd
+#EXTINF:-1 tvg-id="ZuracaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Zuraca TV (720p)
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red Uno (1080p) [Geo-blocked]
+http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@LaPaz" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red Uno La Paz (1080p) [Geo-blocked]
+http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",RTP (576p) [Geo-blocked]
+http://15.204.246.24:8080/RTPSD/index.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Bolivia TV (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/boliviatv.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Bolivia TV (1080p)
+http://190.181.61.93:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@LaPaz" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red Uno La Paz (1080p)
+http://190.181.61.93:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Red Uno (1080p)
+http://190.181.61.93:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Unitel (1080p)
+http://190.181.61.93:8000/play/1909/index.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",RTP (1080p)
+http://190.181.61.93:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="PAT.bo@SantaCruz" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",PAT (1080p)
+http://158.172.155.130:8000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="Gigavision.bo@SantaCruz" group-title="Bolivia" x-country-code="bo" x-country-name="🇧🇴 Bolivia" x-health="source-only" x-original-group="",Gigavision (1080p)
+http://158.172.155.130:8000/play/a0e7/index.m3u8
+#UPSTREAM-COUNTRY|bq|Bonaire|🇧🇶|6
+#EXTINF:-1 tvg-id="Bonairetv.bq@SD" group-title="Bonaire" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-health="source-only" x-original-group="",Bonaire.tv (1080p) [Not 24/7]
+https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
+#EXTINF:-1 tvg-id="EnergiaTV.bq@SD" group-title="Bonaire" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-health="source-only" x-original-group="",Energia TV (720p) [Not 24/7]
+https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
+#EXTINF:-1 tvg-id="Live99FM.bq@SD" group-title="Bonaire" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-health="source-only" x-original-group="",Live99FM (1080p)
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="NosTVBonaire.bq@SD" group-title="Bonaire" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-health="source-only" x-original-group="",Nos TV Bonaire (1080p)
+http://streaming.flamingotv.net/nostv/live.m3u8
+#EXTINF:-1 tvg-id="NosTVBonaire2.bq@SD" group-title="Bonaire" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-health="source-only" x-original-group="",NosTV Bonaire 2
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="VozDiBonaireTV.bq@SD" group-title="Bonaire" x-country-code="bq" x-country-name="🇧🇶 Bonaire" x-health="source-only" x-original-group="",Voz Di Bonaire TV (720p)
+https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
+#UPSTREAM-COUNTRY|ba|Bosnia and Herzegovina|🇧🇦|18
+#EXTINF:-1 tvg-id="BHRT.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",BHRT (270p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHT1.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",BHT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",Federalna televizija (720p)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-id="Kanal6.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",Kanal 6 (288p)
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",Malta (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",María+Visión Medjugorje (720p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",Newsmax Balkans (1080p)
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+#EXTINF:-1 tvg-id="RTRSplus.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",RTRS Plus (576p) [Not 24/7]
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",RTRS TV (576p) [Not 24/7]
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",RTV Glas Drine (404p) [Not 24/7]
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVHB.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",RTV Herceg-Bosne (576p) [Not 24/7]
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",RTV Zenica (720p)
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",Super TV Media (720p)
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",Televizija 5 (576p)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",Televizija M (1080p)
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",TNT Kids (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="TVSlonExtra.ba@SD" group-title="Bosnia and Herzegovina" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-health="source-only" x-original-group="",TV Slon Extra (1080p) [Not 24/7]
+http://31.47.0.130:8082
+#UPSTREAM-COUNTRY|br|Brazil|🇧🇷|452
+#EXTINF:-1 tvg-id="1001Noites.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroBrasil TV (720p) [Not 24/7]
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroCanal (720p)
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroCanal (720p)
+http://168.197.104.22/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroCanal (720p)
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroCanal (720p)
+http://186.219.52.187/agro_canal/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroCanal
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroMais (720p)
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroMais (720p)
+http://45.177.114.115/agromais/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroMais (720p)
+http://45.177.114.115/AGROMAIS_HD/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroMais (720p)
+http://168.197.104.22/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AgroMais (720p)
+http://170.83.16.50/AGRO_MAIS/index.m3u8
+#EXTINF:-1 tvg-id="AlphaChannel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Alpha Channel (720p)
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Amazon Sat (1080p)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="ArarunaTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AratuOn.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Arte 1 (720p)
+http://45.162.64.114/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Arte 1 (720p)
+http://45.177.114.115/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Arte 1 (720p)
+http://168.197.104.22/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Arte 1 (720p)
+http://170.83.16.50/ARTE_1/index.m3u8
+#EXTINF:-1 tvg-id="AugeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Auge TV (720p)
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
+#EXTINF:-1 tvg-id="AWTV.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AWTV (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://awtv.com.br
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AXN (720p)
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",AXN (720p)
+http://170.83.49.66:8083/AXNHD/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Band (720p)
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Band (576p)
+https://media.cdntvms.com.br/band_sat/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Band Sports (1080p)
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Band Sports (720p)
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Band Sports (720p)
+http://170.83.16.50/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Band Sports (720p)
+http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",BandNews (1080p)
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",BandNews (720p)
+http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",BandNews (720p)
+http://45.177.114.115/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",BandNews (720p)
+http://168.197.104.22/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",BandNews (720p)
+http://170.83.16.50/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",BandNews (720p)
+http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="BemMelhor.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Bem Melhor (720p)
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 tvg-id="Blitstv.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Blitstv
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Boas Novas (1080p)
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="BoxKidsTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Box Kids TV (720p)
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="BR8TV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CaboFrioTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Cabo Frio TV (720p)
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal 25 Jundiai (720p)
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal 25 Jundiaí (404p) [Not 24/7]
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal38.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal do Boi (720p)
+http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal do Boi (720p)
+http://168.197.104.22/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal do Boi (720p)
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal do Boi (720p)
+http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal do Boi (720p)
+http://186.219.52.187/canal_do_boi/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoCriador.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal do Criador (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoInter.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Educacao (720p)
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Educacao (720p)
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Educacao (720p)
+http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Educação (720p)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalFDR.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Futura (720p)
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Futura (720p)
+http://170.83.16.50/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Futura (720p)
+http://186.219.52.187/futura/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Gov (720p)
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Gov (720p)
+http://168.197.104.22/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalLibras.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Libras (720p)
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalOff.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Off (1080p)
+http://170.82.202.31/OFF/index.m3u8
+#EXTINF:-1 tvg-id="CanalRicos.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Ricos (480p)
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Rural (720p)
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Rural (720p)
+http://186.219.52.187/canal_rural/index.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Saúde (720p) [Not 24/7]
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSete.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSTART.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal START (720p)
+https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalUOL.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Canal UOL (1080p)
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="Catve2.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Catve2 (720p)
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:-1 tvg-id="CatveFM.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CatveMasterTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Catve Master TV (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChefTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Chef TV (720p)
+http://168.197.104.22/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-id="ChromaTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Chroma TV (480p)
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="CINDIETV.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",CINDIE TV (1080p)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="CINDIETV.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",CINDIE TV (1080p)
+https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi
+#EXTINF:-1 tvg-id="CinturaoVerde.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Classique TV (360p)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="COMBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",COM Brasil (1080p) [Not 24/7]
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="COMBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",COM Brasil (720p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-id="Combate.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Combate (720p)
+http://143.14.134.107/167/index.m3u8
+#EXTINF:-1 tvg-id="ConectaMaisTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Conecta Mais TV (720p)
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+#EXTINF:-1 tvg-id="ConectaMaisTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Conecta+ TV (720p)
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ConecTVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ConecTV Brasil (720p)
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="ConexaoTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Conexão TV (720p)
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CulturaFast.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Cultura Fast (720p)
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-id="CulturaPara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Cultura Para (720p)
+http://170.84.165.204/CANAL_21_HD/index.m3u8
+#EXTINF:-1 tvg-id="CulturaPara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Cultura Pará (480p) [Not 24/7]
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="DemaisTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Demais TV (720p)
+https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="DemaisTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Demais TV (720p)
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="DespertarTV.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Despertar TV (720p)
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",DumDum (720p)
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",DumDum (720p)
+http://168.197.104.22/ZOOMOO/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",DumDum (720p)
+http://186.219.52.187/zoomoo/index.m3u8
+#EXTINF:-1 tvg-id="ElementalChannel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Elemental Channel (1080p)
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="ElementalChannel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Elemental Channel
+https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
+#EXTINF:-1 tvg-id="ElyTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ElyTV (360p)
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ESPN (720p)
+http://190.83.2.182:8090/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ESPN 3 (720p)
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="EUTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",EUTV (720p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="EUTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",EUTV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+#EXTINF:-1 tvg-id="FalaLitoral.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Fala Litoral (480p)
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Fish TV (720p)
+http://45.162.64.114/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Fish TV (720p)
+http://168.197.104.22/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Fish TV (720p)
+http://170.83.16.50/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Fonte TV (1080p) [Not 24/7]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+#EXTINF:-1 tvg-id="ForaTedioTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Fora Tedio TV (720p)
+#EXTVLCOPT:http-referrer=https://www.foratedio.com
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-id="Futura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Futura (720p)
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
+#EXTINF:-1 tvg-id="geFast.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ge Fast (1080p)
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="geFast.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ge Fast (1080p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="Geekdot.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Geekdot (720p)
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GhostTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Ghost TV (712p) [Not 24/7]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Globoplay Novelas (1080p)
+http://170.82.202.31/Viva/index.m3u8
+#EXTINF:-1 tvg-id="Gloob.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Gloob (576p)
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:-1 tvg-id="GloobWeb.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Gloob Web [Not 24/7]
+https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+#EXTINF:-1 tvg-id="GNT.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",GNT (1080p)
+http://170.82.202.31/GNT/index.m3u8
+#EXTINF:-1 tvg-id="GospelCartoon.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="GospelMovieTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",History (720p)
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",History (720p)
+http://170.83.16.50/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="IMPDTVWorldwide.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",IMPD TV Worldwide (1080p)
+#EXTVLCOPT:http-referrer=https://igrejamundial.nuvemplay.live
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ISTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",ISTV (720p) [Not 24/7]
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="J3NEWSTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Jovem Pan News (720p)
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Jovem Pan News (720p)
+http://186.219.52.187/jp_news/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Jovem Pan News (JP News) (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",KpopTV Play (576p)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lke.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",L!ke (1080p)
+https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:-1 tvg-id="LaboralTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Laboral TV (360p)
+https://tv.laboralsst.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="LiderTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Lider TV (720p)
+https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8
+#EXTINF:-1 tvg-id="Loading.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Loading (720p)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCBrasilTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
+#EXTINF:-1 tvg-id="MKKWebTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",MKK Web TV (720p) [Not 24/7]
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Music Box Brazil (720p)
+http://168.197.104.22/MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Music Box Brazil (720p)
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="NSports.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",N Sports (1080p)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1 tvg-id="NickOnline.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",NickOnline HD (720p)
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Nickelodeon (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaEraTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Nova Era TV (1080p) [Not 24/7]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Novo Tempo (720p)
+http://45.162.64.114/NOVO_TEMPO/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Novo Tempo (720p)
+http://168.197.104.22/NOVO_TEMPO/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Novo Tempo (720p)
+http://186.219.52.187/novo_tempo/index.m3u8
+#EXTINF:-1 tvg-id="NTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",NTV (720p)
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ODiaTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",O Dia TV
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-id="PetloversTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Play TV (720p)
+http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Play TV (720p)
+http://45.177.114.115/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Play TV (720p)
+http://168.197.104.22/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Play TV (720p)
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="PlenaTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Plena TV (720p)
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="PlenitudeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimerTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Primer TV (1080p)
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="RBATV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RBATV (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RCTV Brasil
+https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record (720p)
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record (576p)
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p) [Geo-blocked]
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p)
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p)
+http://45.177.114.115/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p)
+http://168.197.104.22/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p)
+http://170.83.16.50/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p)
+http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p)
+http://170.84.165.204/Record_news/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p)
+http://186.219.52.187/record_news/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 tvg-id="RecordTVBelem.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record TV Belem (720p) [Geo-blocked]
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVBrasilia.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record TV Brasilia (720p) [Geo-blocked]
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVGoias.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record TV Goias (720p) [Geo-blocked]
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVItapoan.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record TV Itapoan (720p) [Geo-blocked]
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="RecordTVRio.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record TV Rio (720p) [Geo-blocked]
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordRS.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record TV RS (720p) [Geo-blocked]
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RecordTV Interior SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 tvg-id="RedeBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Brasil (1080p)
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Brasil (720p)
+http://170.84.165.204/REDEBRASIL/index.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Brasil (720p)
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede CNT Rio de Janeiro (720p)
+http://45.162.64.114/CNT/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede CNT Rio de Janeiro (720p)
+http://168.197.104.22/CNT/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede CNT Rio de Janeiro (720p)
+http://170.83.49.66:8083/REDECNTHD/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede CNT Rio de Janeiro (720p)
+http://170.84.165.204/CNT_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede CNT Rio de Janeiro (720p)
+http://186.219.52.187/cnt/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTSalvador.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede CNT Salvador (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+http://168.205.87.198:8555/live/1368/123456/150.m3u8
+#EXTINF:-1 tvg-id="RedeFamilia.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Familia (720p)
+http://168.197.104.22/REDE_FAMILIA/index.m3u8
+#EXTINF:-1 tvg-id="RedeFamilia.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Familia (720p)
+http://186.219.52.187/rede_familia/index.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Globo (720p)
+https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Gospel (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Gospel (1080p)
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Gospel (720p)
+http://45.177.114.115/REDE_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Gospel (720p)
+http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
+#EXTINF:-1 tvg-id="RedeMeioNorte.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Meio Norte (720p)
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="RedeMetropole.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Metropole (720p)
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
+#EXTINF:-1 tvg-id="RedeMinas.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Minas (1080p) [Not 24/7]
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 tvg-id="RedeMinas.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Minas (720p)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeNGT.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede NGT (1080p)
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="RedeNGT.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede NGT (720p)
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/ngt/index.m3u8
+#EXTINF:-1 tvg-id="RedePremiumTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Premium TV (720p)
+https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeRC.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede RC (720p) [Not 24/7]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Seculo 21 (720p)
+http://45.162.64.114/REDE_SECULO_21/index.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Seculo 21 (720p)
+http://186.219.52.187/seculo21/index.m3u8
+#EXTINF:-1 tvg-id="RedeSPTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede SPTV (360p)
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede TV! (720p)
+http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede TV! (720p)
+http://168.197.104.22/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede TV! (720p)
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede TV! (720p)
+http://170.83.49.66:8083/REDETVHD/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede TV! (720p)
+http://186.219.52.187/rede_tv/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVMais.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede TV! SP (720p) [Not 24/7]
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Vida (720p)
+http://168.197.104.22/REDE_VIDA/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Vida (720p)
+http://170.84.165.204/REDEVIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Vida (720p)
+http://186.219.52.187/rede_vida/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Vida (576p)
+https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVParana.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RedeTV! Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="RITTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RIT TV (1080p)
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="RITTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RIT TV (720p)
+http://45.177.114.115/RIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="RITTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RIT TV (720p)
+http://170.83.49.66:8083/RITHD/index.m3u8
+#EXTINF:-1 tvg-id="RITTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RIT TV (720p)
+http://170.84.165.204/RIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="RITTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",RIT TV (720p)
+https://cdn-5.nxplay.com.br/RIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Santa Cecilia TV (1080p) [Not 24/7]
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Santa Cecilia TV (1080p)
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTCuiaba.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTKids.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT Kids (1080p) [Geo-blocked]
+https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT Nacional (720p)
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT Nacional (576p)
+https://media.cdntvms.com.br/sbt_sat/index.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT News (720p)
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT Nova Mutum
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTRondonopolis.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT Rondonopolis
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 tvg-id="SeriesClassic.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Series Classic (720p)
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="SertaoTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Sertão TV (720p)
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SESC TV (1080p)
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SESC TV (720p)
+http://45.162.64.114/SESC_TV/index.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SESC TV (720p)
+http://170.83.49.66:8083/SESCTVHD/index.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SESC TV (720p)
+http://186.219.52.187/sesc_tv/index.m3u8
+#EXTINF:-1 tvg-id="ShowdoMilhao.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Show do Milhao (1080p) [Geo-blocked]
+https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
+#EXTINF:-1 tvg-id="SICTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SIC TV (720p)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Slime (576p) [Not 24/7]
+https://slime.x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Sony Channel (720p)
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Sony Channel (720p)
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Sony Movies (720p)
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Sony Movies (720p)
+http://45.177.114.115/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Sony Movies (720p)
+http://168.197.104.22/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Sony Movies (720p)
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SOUTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SporTV 3 (720p)
+http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+#EXTINF:-1 tvg-id="STZTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",STZ TV (1080p)
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TCM10HD.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Terra Viva (720p)
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Terra Viva (720p)
+http://45.177.114.115/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Terra Viva (720p)
+http://168.197.104.22/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Terra Viva (720p)
+http://170.83.16.50/TERRA_VIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Terra Viva (720p)
+http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Terra Viva (720p)
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="TikTokRadioBrasil.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TikTok Radio Brasil (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+#EXTINF:-1 tvg-id="TimesBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Times Brasil (720p)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Travel Box Brazil (720p)
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Travel Box Brazil (720p)
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+#EXTINF:-1 tvg-id="TV3Curitiba.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV 3 Curitiba (720p)
+https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVACritica.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV A Critica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAFolha.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV A Folha (720p)
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAdorar.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Adorar (720p)
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
+#EXTINF:-1 tvg-id="TVAldeia.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Aldeia (720p)
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAliancaCatarinense.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Aliança Catarinense (720p)
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlternativa.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Alternativa (410p)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Aparecida (1080p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Aparecida (720p)
+http://45.162.64.114/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Aparecida (720p)
+http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Aparecida (720p)
+http://168.197.104.22/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Aparecida (720p)
+http://170.83.16.50/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Aparecida (720p)
+http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
+#EXTINF:-1 tvg-id="TVArapuan.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Arapuan (720p)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaCeara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Assembléia Ceará (720p)
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Assembleia Piaui
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBahia.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Bahia (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="TVBirigui.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Birigui (640p)
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBirigui.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Birigui (320p)
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-id="TVBirigui.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Birigui (320p)
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brasil (720p)
+http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brasil (720p)
+http://45.177.114.115/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brasil (720p)
+http://168.197.104.22/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brasil (720p)
+http://170.83.49.66:8083/TVBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brasil (720p)
+http://170.84.165.204/TVBRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brasil (720p)
+http://186.219.52.187/tv_brasil/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brasil (720p)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brasil Oeste (720p)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrusque.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Brusque (720p)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Camara (720p)
+http://45.162.64.114/TV_CAMARA/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Camara (720p)
+http://168.197.104.22/TV_CAMARA/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Camara (720p)
+http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Camara (720p)
+http://186.219.52.187/tv_camara/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamara2.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Câmara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamaraSalvador.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Câmara Salvador (288p) [Not 24/7]
+https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cancao Nova (720p)
+http://45.162.64.114/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cancao Nova (720p)
+http://168.197.104.22/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cancao Nova (720p)
+http://170.83.16.50/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cancao Nova (720p)
+http://186.219.52.187/cancao_nova/index.m3u8
+#EXTINF:-1 tvg-id="TVCarioca.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Carioca (720p)
+https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadedePetropolis.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cidade de Petrópolis (1080p) [Not 24/7]
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cidade Verde Cuiaba
+#EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-id="TVClube.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Clube (720p)
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura (720p)
+http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura (720p)
+http://45.177.114.115/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura (720p)
+http://168.197.104.22/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura (720p)
+http://170.83.16.50/CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura (720p)
+http://170.84.165.204/CULTURA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura (720p)
+http://186.219.52.187/cultura/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura (720p)
+https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura (480p)
+https://cdn-5.nxplay.com.br/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TVCuruca.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Curuça (360p)
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVdasArtes.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV das Artes (360p)
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDestak.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Destak (360p)
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 tvg-id="TVDestak.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Destak (360p)
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDestak.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Destak (320p)
+https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDiarioMacapa.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Diário Macapá (1080p) [Not 24/7]
+https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDifusao.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Difusao (720p)
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDifusoraLeste.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Difusora Leste (1080p)
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-id="TVDigitalBirigui.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Digital Biriguí (640p)
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEmpire.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Empire Magazine (720p)
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEncontrodasAguas.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Encontro das Aguas
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Evangelizar (720p)
+http://45.162.64.114/EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Evangelizar (720p)
+http://168.197.104.22/EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Evangelizar (720p)
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Evangelizar (720p)
+http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Evangelizar (720p)
+http://186.219.52.187/tv_evangelizar/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Evangelizar (720p)
+https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Evangelizar (480p)
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFronteira.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Fronteira (480i)
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+#EXTINF:-1 tvg-id="TVFuturo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Futuro (1080p)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Gazeta (720p)
+http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Gazeta (720p)
+http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Gazeta (720p)
+https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
+#EXTINF:-1 tvg-id="TVGazin.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Gazin (720p)
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGideoes.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Gideoes (1080p) [Not 24/7]
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Globo Sao Paulo (720p)
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Globo Sao Paulo (720p)
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Grande Natal (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVGraoPara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Grao Pará (720p)
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Guará (720p) [Not 24/7]
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="TVInterlagos.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Interlagos (360p)
+https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Justica (720p)
+http://45.162.64.114/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Justica (720p)
+http://168.197.104.22/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Justica (720p)
+http://170.83.16.50/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Justica (720p)
+http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Justica (720p)
+http://186.219.52.187/tv_justica/index.m3u8
+#EXTINF:-1 tvg-id="TVLiberdade.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Liberdade (720p) [Not 24/7]
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLifeAmerica.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Life America (720p)
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="TVLitoralRN.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Litoral RN (720p)
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMackenzie.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Mackenzie (480p)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaisMarica.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Mais Maricá (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarajoara.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Marajoara (720p)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMeio.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Meio (720p)
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="TVMetropole.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Metropole (720p) [Not 24/7]
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMon.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Mon (720p)
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNatal.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Natal (1080p)
+http://185.228.163.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="TVPadreCicero.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Padre Cicero (720p)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Pai Eterno (720p)
+http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Pai Eterno (720p)
+http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Pai Eterno (720p)
+http://186.219.52.187/pai_eterno/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Pai Eterno (720p)
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPantanalMS.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Pantanal MS (360p) [Not 24/7]
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParaense.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Paraense (720p)
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:-1 tvg-id="TVParanaTurismo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Paraná Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="TVPassoFundo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Passo Fundo (720p)
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPetropolis.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Petropolis (720p)
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1 tvg-id="TVProfissao.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Profissao
+https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Ra Tim Bum (720p)
+http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Ra Tim Bum (720p)
+http://168.197.104.22/RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Ra Tim Bum (720p)
+http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Ra Tim Bum (720p)
+http://186.219.52.187/ratimbum/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Ra Tim Bum (576p)
+http://45.162.64.114/RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="TVSaoRaimundo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV São Raimundo (268p)
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Senado (720p)
+http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Senado (720p)
+http://168.197.104.22/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Senado (720p)
+http://170.83.16.50/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Senado (720p)
+http://170.83.49.66:8083/TVSENADOHD/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Senado (720p)
+http://186.219.52.187/tv_senado/index.m3u8
+#EXTINF:-1 tvg-id="TVSeries.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Series 1 As Panteras (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVShowFortaleza.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Show Fortaleza (720p)
+https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Sim São Mateus (720p)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSolComunidade.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Sol Comunidade (480p) [Not 24/7]
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSuldeMinas.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Sul de Minas (720p)
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Terceiro Anjo (360p)
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVThathi.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Thathi (720p) [Not 24/7]
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFG.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV UFG (720p) [Not 24/7]
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV UFOP (1080p)
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="TVUniversal.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Universal (480p)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVicosa.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Viçosa (480p)
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Vila Real (720p)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZoom.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Zoom (720p)
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlusPet.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCRio.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVC-Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="TVComunitaria.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVCOM DF (360p)
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="TVCOMMaceio.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVCOM Maceió (480p)
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVE RS (1080p) [Not 24/7]
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVE RS (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVídeoNews (720p) [Not 24/7]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="TVitape.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVitapé (720p)
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="TVLatinaSat.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVLatinaSat (720p)
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVMaticComedy.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVMatic Comedy (720p)
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:-1 tvg-id="TVMaticCrafts.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVMatic Crafts (720p)
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:-1 tvg-id="TVMaticFacebook.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVMatic Facebook (720p)
+http://cdn.tvmatic.net/facebook.m3u8
+#EXTINF:-1 tvg-id="TVMaticFight.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVMatic Fight (720p)
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 tvg-id="TVMaticFunny.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVMatic Funny (720p)
+http://cdn.tvmatic.net/funny.m3u8
+#EXTINF:-1 tvg-id="TVMaticTikTok.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVMatic TikTok (720p)
+http://cdn.tvmatic.net/tiktok.m3u8
+#EXTINF:-1 tvg-id="TVNBN.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TVNBN (720p)
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-id="UMATV.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="UnisulTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",UNISUL TV (720p)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",UniTV Porto Alegre (480p)
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",VEJA+ TV (1080p)
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-id="VRTChannel.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",VRT Channel (720p)
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",WooHoo (720p)
+http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",WooHoo (720p)
+http://168.197.104.22/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",WooHoo (720p)
+http://170.83.16.50/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",WooHoo (720p)
+http://186.219.52.187/woohoo/index.m3u8
+#EXTINF:-1 tvg-id="LamoreRockShowWebTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Lamore Rock Show WebTV (720p)
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 tvg-id="BemMaisTV.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Bem Mais TV (1080p)
+#EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Globo (1080p)
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Globoplay Novelas (1080p)
+http://79.127.238.228:14455
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Telecine Action (1080p)
+http://46.151.196.223:14326/
+#EXTINF:-1 tvg-id="GloboNews.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",GloboNews (1080p)
+http://79.127.238.228:14093
+#EXTINF:-1 tvg-id="SporTV2.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SporTV 2 (1080p)
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SporTV 3 (1080p)
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Fish TV (1080p)
+http://190.128.214.97:64333/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",SBT Nacional (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Comedy Central Brasil (480p)
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuarapari.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Guarapari (720p)
+#EXTVLCOPT:http-referrer=https://tvguarapari.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",CNN Brasil (1080p)
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="PlusMaisUm.br@HD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Rede Vida (720p)
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="RetroCartoon.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",Retro Cartoon (720p)
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",CazeTV
+http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br@SD" group-title="Brazil" x-country-code="br" x-country-name="🇧🇷 Brazil" x-health="source-only" x-original-group="",TV Globo Brasilia (1080p)
+http://79.127.238.228:14173/
+#UPSTREAM-COUNTRY|vg|British Virgin Islands|🇻🇬|2
+#EXTINF:-1 tvg-id="CBNGospel.vg@SD" group-title="British Virgin Islands" x-country-code="vg" x-country-name="🇻🇬 British Virgin Islands" x-health="source-only" x-original-group="",CBN Gospel (720p)
+https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
+#EXTINF:-1 tvg-id="CBNTV.vg@SD" group-title="British Virgin Islands" x-country-code="vg" x-country-name="🇻🇬 British Virgin Islands" x-health="source-only" x-original-group="",CBN TV (720p)
+https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
+#UPSTREAM-COUNTRY|bn|Brunei|🇧🇳|2
+#EXTINF:-1 tvg-id="RTBGo.bn@SD" group-title="Brunei" x-country-code="bn" x-country-name="🇧🇳 Brunei" x-health="source-only" x-original-group="",RTB Go (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn@SD" group-title="Brunei" x-country-code="bn" x-country-name="🇧🇳 Brunei" x-health="source-only" x-original-group="",RTB Sukmaindera (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#UPSTREAM-COUNTRY|bg|Bulgaria|🇧🇬|73
+#EXTINF:-1 tvg-id="78TV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",7/8 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cn
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",100% Auto Moto TV (406p) [Not 24/7]
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Agro TV (480p)
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="BloombergTVBulgaria.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Bloomberg TV Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04m
+#EXTINF:-1 tvg-id="BNT1.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BNT 1 (1080p)
+https://shift03.isp.bg/BNT1_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT1.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BNT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a046
+#EXTINF:-1 tvg-id="BNT2.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BNT 2 (1080p)
+https://shift03.isp.bg/BNT2_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT2.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a049
+#EXTINF:-1 tvg-id="BNT3.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BNT 3 (1080p)
+https://shift03.isp.bg/BNT3_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT3.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03x
+#EXTINF:-1 tvg-id="BNT4.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BNT 4 (1080p)
+https://shift03.isp.bg/BNT4_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT4.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BNT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04u
+#EXTINF:-1 tvg-id="BOXTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",BOX TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0an
+#EXTINF:-1 tvg-id="bTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",bTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03w
+#EXTINF:-1 tvg-id="bTVAction.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",bTV Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04n
+#EXTINF:-1 tvg-id="bTVCinema.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",bTV Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04i
+#EXTINF:-1 tvg-id="bTVComedy.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",bTV Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04k
+#EXTINF:-1 tvg-id="bTVLady.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",bTV Lady
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05i
+#EXTINF:-1 tvg-id="BulgariaOnAir.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Bulgaria On Air
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05x
+#EXTINF:-1 tvg-id="cinebox.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",cine.box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://212.70.131.37:8000/play/a08b
+#EXTINF:-1 tvg-id="CineStar1Bulgaria.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",CineStar 1 Bulgaria
+http://213.91.179.28:8000/play/a05h
+#EXTINF:-1 tvg-id="CityTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",City TV (576p) [Not 24/7]
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="CodeFashionTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Code Fashion TV (1080p)
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 tvg-id="CodeHealthTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Code Health TV (1080p)
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-id="Diema.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Diema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a045
+#EXTINF:-1 tvg-id="DiemaFamily.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Diema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a047
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a059
+#EXTINF:-1 tvg-id="DSTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",DSTV (614p) [Not 24/7]
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-id="EKids.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",EKids (576p)
+http://78.108.244.134:8899/ekids
+#EXTINF:-1 tvg-id="EuronewsBulgaria.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Euronews Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05e
+#EXTINF:-1 tvg-id="Eurocom.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Evrokom (360p)
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="H2.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 tvg-id="History.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 tvg-id="HitMixMusic.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Hit Mix Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cl
+#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ID.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",ID
+http://213.91.179.28:8000/play/a0cf
+#EXTINF:-1 tvg-id="KinoNova.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Kino Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a041
+#EXTINF:-1 tvg-id="LightChannel.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Light Channel (480p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Magic TV (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Max Sport 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
+http://213.91.179.28:8000/play/a0as
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Max Sport 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0at
+#EXTINF:-1 tvg-id="MaxSport3.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Max Sport 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0ar
+#EXTINF:-1 tvg-id="MaxSport4.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Max Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05n
+#EXTINF:-1 tvg-id="MovieStar.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Movie Star (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 tvg-id="MovieStar.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Movie Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.160:5000
+#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cu
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a056
+#EXTINF:-1 tvg-id="Nostalgia.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Nostalgia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03q
+#EXTINF:-1 tvg-id="Nova.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03l
+#EXTINF:-1 tvg-id="NovaNews.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Nova News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a063
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Plovdivska Pravoslavna TV (1080p)
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RING.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",RING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 tvg-id="RMTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",RMTV (288p)
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="StarChannel.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c9
+#EXTINF:-1 tvg-id="StarCrime.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Star Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cs
+#EXTINF:-1 tvg-id="StarLife.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Star Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 tvg-id="TheVoice.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",The Voice TV (720p)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",This is Bulgaria HD (1080p)
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="TiankovFolk.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Tiankov Folk (576p)
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Tiankov Orient Folk (576p)
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-id="TravelTV.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-id="TV1000.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",TV1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.100:5000
+#EXTINF:-1 tvg-id="TVRodina.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",TV Rodina (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RodinaTV/index.m3u8
+#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",TV Spravedliva Bulgariya
+https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 tvg-id="TVZagora.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",TV Zagora (576p)
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Viasat Explore (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Viasat History (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Viasat Nature (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTINF:-1 tvg-id="VivacomArena.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Vivacom Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a053
+#EXTINF:-1 tvg-id="TV1000.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",TV1000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Disney Channel (576i)
+http://87.120.179.187:8000/play/a010
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="Bulgaria" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-health="source-only" x-original-group="",Nickelodeon
+http://87.120.179.187:8000/play/a00x
