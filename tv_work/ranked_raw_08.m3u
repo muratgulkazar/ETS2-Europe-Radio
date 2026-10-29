@@ -1,0 +1,212 @@
+#EXTM3U
+#STAGE|world-tv-source-batch|08
+#COUNTRY-AUDIT|gp|Guadeloupe|🇬🇵|5|daily
+#EXTINF:-1 tvg-id="ETV.gp@SD" tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="General" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-original-group="General" x-source-check="daily",ETV (1080p)
+https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:-1 tvg-id="RadioTVBasseTerre.gp@SD" tvg-logo="https://i.imgur.com/OvnRplq.png" group-title="General" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-original-group="General" x-source-check="daily",Radio TV Basse-Terre (720p)
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+#EXTINF:-1 tvg-id="MadrasFMTV.gp@SD" tvg-logo="https://i.imgur.com/spGg1CZ.png" group-title="Music" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-original-group="Music" x-source-check="daily",Madras FM TV (1080p)
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-id="RHTGuadeloupe.gp@SD" tvg-logo="https://i.imgur.com/hQ0Q6nE.png" group-title="Music" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-original-group="Music" x-source-check="daily",RHT Guadeloupe (720p)
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-id="TMA.gp@SD" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="Music" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-original-group="Music" x-source-check="daily",TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8
+#COUNTRY-AUDIT|gu|Guam|🇬🇺|1|daily
+#EXTINF:-1 tvg-id="Star101FM.gu@SD" tvg-logo="https://star101.gu/images/fb_icon.jpg" group-title="Music" x-country-code="gu" x-country-name="🇬🇺 Guam" x-original-group="Music" x-source-check="daily",Star 101 FM (KNUT Guam) [Not 24/7]
+https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
+#COUNTRY-AUDIT|gt|Guatemala|🇬🇹|34|daily
+#EXTINF:-1 tvg-id="TVSRetro.gt@SD" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Classic" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Classic" x-source-check="daily",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="TVMaya.gt@SD" tvg-logo="https://i.imgur.com/BGFa4OO.png" group-title="Education" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Education" x-source-check="daily",TV Maya (480p)
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxivisionTV.gt@SD" tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="Entertainment" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Entertainment" x-source-check="daily",Maxivisión TV (720p)
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.gt@SD" tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Canal 11 (720p)
+http://179.60.224.196:8000/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="Canal13.gt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_13_Guatemala_Logo.svg" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Canal 13 (720p)
+http://190.61.101.11:7050/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="Canal13Esquipulas.gt@SD" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Canal 13 Esquipulas (720p)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1 tvg-id="Canal3.gt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Canal3Guatemala%282022Logo%29.webp/1280px-Canal3Guatemala%282022Logo%29.webp.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Canal 3 (720p)
+http://181.119.177.253:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="Canal7.gt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal_7_Guatemala_2022.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Canal 7 (720p)
+http://181.119.177.253:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="BarbeTV.gt@SD" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Canal 9 Barbe TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Multivisión Canal 3 (720p) [Not 24/7]
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1 tvg-id="NuestraImagenTV.gt@SD" tvg-logo="https://i.imgur.com/sknLXZI.jpeg" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Nuestra Imagen TV
+https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCoatanCanal21.gt@SD" tvg-logo="https://i.imgur.com/569xc5o.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Radio Coatan Canal 21
+https://s2.tvdatta.com:3112/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="SILTV.gt@SD" tvg-logo="https://i.imgur.com/tWZXRVu.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",SIL TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+#EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",Sol TV (720p)
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 tvg-id="TVFlorencia.gt@SD" tvg-logo="https://i.imgur.com/jsbwnRb.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",TV Florencia (720p)
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1 tvg-id="WorldTVGuatemala.gt@HD" tvg-logo="https://i.ibb.co/G4cTmRgz/World-Tv-Guatemala.png" group-title="General" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="General" x-source-check="daily",World TV Guatemala (720p)
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Movies" x-source-check="daily",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt@SD" tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="News" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="News" x-source-check="daily",Guatevision (1080p)
+http://200.115.120.1:8000/play/ca066/index.m3u8
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Amigos TV Chiquimula (480p)
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Canal 30 TV Bethel (720p) [Not 24/7]
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+#EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt@SD" tvg-logo="https://i.imgur.com/kORStT1.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Canal TV Radio Maya TGBA (480p)
+https://s.emisoras.tv:8081/radiomaya/index.m3u8
+#EXTINF:-1 tvg-id="ConectadosconDios.gt@SD" tvg-logo="https://i.imgur.com/Drn8nql.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Conectados con Dios
+https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="IglesiaDelCamino.gt@SD" tvg-logo="https://i.imgur.com/vHfb3Z4.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Iglesia Del Camino (480p) [Not 24/7]
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Júbilo TV (720p)
+http://173.249.60.54/hls/jubilotv.m3u8
+#EXTINF:-1 tvg-id="MCNTelevision.gt@SD" tvg-logo="https://i.imgur.com/SNUaCCw.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",MCN Television (720p)
+https://eu1.servers10.com:8081/8338/index.m3u8
+#EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Peniel Kids & Young (480p)
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+#EXTINF:-1 tvg-id="PenielMusical.gt@SD" tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Peniel Musical (480p)
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
+#EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt@SD" tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Peniel TV Biblia Abierta (480p)
+https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Religious" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Religious" x-source-check="daily",Rhema TV (1080p)
+http://45.171.64.30:6060/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.gt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Sports" x-source-check="daily",Tigo Sports (1080p)
+http://168.196.127.137:6001/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-id="Canal100Chinique.gt@SD" tvg-logo="https://i.imgur.com/ygNKJXx.png" group-title="Undefined" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Undefined" x-source-check="daily",Canal 100 Chinique (1080p)
+https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecosta.gt@SD" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Undefined" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Undefined" x-source-check="daily",Telecosta (720p)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id="VeaCanal.gt@SD" tvg-logo="https://i.imgur.com/oPJlbNf.png" group-title="Undefined" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Undefined" x-source-check="daily",Vea Canal (720p)
+http://181.78.106.127:5000/play/ca090/index.m3u8
+#EXTINF:-1 tvg-id="VisionTV.gt@SD" tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="Undefined" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-original-group="Undefined" x-source-check="daily",Visión TV (720p)
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#COUNTRY-AUDIT|gg|Guernsey|🇬🇬|0|none
+#COUNTRY-AUDIT|gn|Guinea|🇬🇳|3|daily
+#EXTINF:-1 tvg-id="KalacTV.gn@SD" tvg-logo="https://i.imgur.com/FgKJiHZ.png" group-title="General" x-country-code="gn" x-country-name="🇬🇳 Guinea" x-original-group="General" x-source-check="daily",Kalac TV (1080p)
+https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
+#EXTINF:-1 tvg-id="AfrikInfoTV.gn@SD" tvg-logo="https://i.imgur.com/hz2LOD8.jpeg" group-title="News" x-country-code="gn" x-country-name="🇬🇳 Guinea" x-original-group="News" x-source-check="daily",Afrik Info TV
+https://kali.vdopanel.com:3119/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="EspaceTV.gn@SD" tvg-logo="https://i.imgur.com/R5tbzFI.png" group-title="News" x-country-code="gn" x-country-name="🇬🇳 Guinea" x-original-group="News" x-source-check="daily",Espace TV (1080p)
+https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#COUNTRY-AUDIT|gy|Guyana|🇬🇾|1|daily
+#EXTINF:-1 tvg-id="IgniteTelevision.gy@SD" tvg-logo="https://i.imgur.com/aQI9tsg.jpeg" group-title="General" x-country-code="gy" x-country-name="🇬🇾 Guyana" x-original-group="General" x-source-check="daily",Ignite Television (1080p) [Not 24/7]
+https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8
+#COUNTRY-AUDIT|ht|Haiti|🇭🇹|8|daily
+#EXTINF:-1 tvg-id="RadioTeleGinen.ht@SD" tvg-logo="https://i.imgur.com/ESlt16G.png" group-title="General" x-country-code="ht" x-country-name="🇭🇹 Haiti" x-original-group="General" x-source-check="daily",Radio Tele Ginen
+http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht@SD" tvg-logo="https://i.imgur.com/ddb4lsa.png" group-title="General" x-country-code="ht" x-country-name="🇭🇹 Haiti" x-original-group="General" x-source-check="daily",Radio Tele Planet Compas (720p) [Not 24/7]
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPanou.ht@SD" tvg-logo="https://i.imgur.com/zee6sWn.png" group-title="General" x-country-code="ht" x-country-name="🇭🇹 Haiti" x-original-group="General" x-source-check="daily",TV Panou (720p) [Not 24/7]
+http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTeleHit.ht@SD" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" group-title="Music" x-country-code="ht" x-country-name="🇭🇹 Haiti" x-original-group="Music" x-source-check="daily",Radio Télé Hit (480p)
+https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+#EXTINF:-1 tvg-id="HaitiNewsChannel.ht@SD" tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png" group-title="News" x-country-code="ht" x-country-name="🇭🇹 Haiti" x-original-group="News" x-source-check="daily",Haiti News Channel (1080p) [Not 24/7]
+https://cdn.haititivi.com/website/haitinews/index.m3u8
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht@SD" tvg-logo="https://i.imgur.com/WbwIp9y.jpeg" group-title="Religious" x-country-code="ht" x-country-name="🇭🇹 Haiti" x-original-group="Religious" x-source-check="daily",Radio Tele Full Gospel
+https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTele4VEH.ht@SD" tvg-logo="https://i.imgur.com/AnOjqaS.png" group-title="Religious" x-country-code="ht" x-country-name="🇭🇹 Haiti" x-original-group="Religious" x-source-check="daily",Radio Télé 4VEH (720p)
+https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleLouange.ht@SD" tvg-logo="https://i.imgur.com/DjnMUuL.png" group-title="Religious" x-country-code="ht" x-country-name="🇭🇹 Haiti" x-original-group="Religious" x-source-check="daily",Tele Louange (1080p)
+https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
+#COUNTRY-AUDIT|hn|Honduras|🇭🇳|49|daily
+#EXTINF:-1 tvg-id="CampusTV.hn@SD" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="Education" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Education" x-source-check="daily",Campus TV (480p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-id="STVETelebasica.hn@SD" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Education" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Education" x-source-check="daily",STVE Telebasica (1080p)
+https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-id="EDNTV.hn@SD" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Entertainment" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Entertainment" x-source-check="daily",EDN TV (1080p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-id="GirasolTV.hn@SD" tvg-logo="https://i.imgur.com/2t7A2yg.png" group-title="Entertainment" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Entertainment" x-source-check="daily",Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.hn@SD" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="Entertainment" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Entertainment" x-source-check="daily",Metro TV (720p)
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1 tvg-id="RSVHonduras.hn@SD" tvg-logo="https://i.imgur.com/yr7Ellh.jpg" group-title="Entertainment" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Entertainment" x-source-check="daily",RSV Honduras (720p)
+https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+#EXTINF:-1 tvg-id="Telerayo.hn@SD" tvg-logo="https://i.imgur.com/jLQsU1u.png" group-title="Entertainment" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Entertainment" x-source-check="daily",Telerayo (1080p)
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-id="TVCentro272HD.hn@SD" tvg-logo="https://i.imgur.com/Wo2scQf.jpg" group-title="Entertainment" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Entertainment" x-source-check="daily",TV Centro 27.2 HD (720p)
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Alsacias Televisión (ATV | Canal 28) (720p)
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-id="AZATVHD.hn@SD" tvg-logo="https://i.imgur.com/Jytpy32.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",AZA TV HD (1080p)
+https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AztecaHonduras.hn@SD" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Azteca Honduras (720p)
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Canal 11 (1080p) [Not 24/7]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7TalangaVision.hn@SD" tvg-logo="https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Canal 7 Talanga Vision (720p)
+https://amixtv.com:8081/talangavision/index.m3u8
+#EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",CHTV (1080p)
+https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GuayapeTV.hn@SD" tvg-logo="https://i.imgur.com/cteBdAJ.jpg" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Guayape TV
+https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+#EXTINF:-1 tvg-id="PuringlaTV.hn@SD" tvg-logo="https://i.imgur.com/CGyjxPO.jpg" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Puringla TV
+https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1 tvg-id="SulaTV.hn@SD" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Sula TV (1080p)
+https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemas.hn@SD" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Telemas (1080p)
+https://s.emisoras.tv:8081/telemas/index.m3u8
+#EXTINF:-1 tvg-id="TelevisionMetropolis191.hn@SD" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionMetropolis192.hn@SD" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",Televisión Metrópolis 19.2 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentroHD.hn@SD" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="General" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="General" x-source-check="daily",TV Centro HD (720p)
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTop1029.hn@SD" tvg-logo="https://i.imgur.com/ZqwLPag.jpg" group-title="Music" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Music" x-source-check="daily",La Top 102.9 (720p)
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTop1077.hn@SD" tvg-logo="https://i.imgur.com/vgHhh1W.jpg" group-title="Music" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Music" x-source-check="daily",La Top 107.7 (720p)
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioIdeal.hn@SD" tvg-logo="https://i.imgur.com/chPfoOs.png" group-title="Music" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Music" x-source-check="daily",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
+https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="ImagenFM1051.hn@SD" tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg" group-title="Music" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Music" x-source-check="daily",Radio Imagen 105.1 FM (720p) [Not 24/7]
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BuendiaTV.hn@SD" tvg-logo="https://i.imgur.com/m5hNyNE.png" group-title="News" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="News" x-source-check="daily",Buendia TV
+https://servilive.com:3508/stream/play.m3u8
+#EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="News" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="News" x-source-check="daily",HCH (720p)
+http://45.228.234.9:8000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="ICNDigital.hn@SD" tvg-logo="https://i.imgur.com/UCZVQgj.png" group-title="News" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="News" x-source-check="daily",ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 tvg-id="LencaTV.hn@SD" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="News" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="News" x-source-check="daily",Lenca Television Canal 40 (720p) [Not 24/7]
+https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="News" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="News" x-source-check="daily",RCV TV (712p)
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 tvg-id="TSi.hn@SD" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="News" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="News" x-source-check="daily",TSi (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+#EXTINF:-1 tvg-id="UNETV.hn@SD" tvg-logo="https://unetvhn.com/wp-content/uploads/2022/09/logo-1.png" group-title="News" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="News" x-source-check="daily",UNE TV (720p)
+https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CCIChannel.hn@SD" tvg-logo="https://i.imgur.com/c6hm03f.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",CCI Channel (1080p)
+https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-id="CholutecaTV.hn@SD" tvg-logo="https://i.imgur.com/mpc4Isd.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",Choluteca TV (1080p)
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+#EXTINF:-1 tvg-id="DiosTeVe.hn@SD" tvg-logo="https://i.imgur.com/7hNwUV2.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",Dios Te Ve (720p)
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-id="DiosTvTalanga.hn@SD" tvg-logo="https://i.ibb.co/mb8F7R1/Db52f621d30793337de1cdcfc4f02be1.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",Dios Tv Talanga (1080p)
+https://tv.webmedialive.com/unciontv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EbenezerTV.hn@SD" tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",Ebenezer TV (1080p)
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:-1 tvg-id="JBNTV.hn@SD" tvg-logo="https://i.imgur.com/4EbHIvf.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",JBN TV (1080p)
+https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
+#EXTINF:-1 tvg-id="KerussoTV.hn@SD" tvg-logo="https://i.imgur.com/S79uof0.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",Kerusso TV (720p)
+https://s.emisoras.tv:8081/kerussotv/index.m3u8
+#EXTINF:-1 tvg-id="RadioFiestadeMilagrosTV.hn@SD" tvg-logo="https://i.imgur.com/hqYPAYL.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",Radio Fiesta de Milagros TV (1080p)
+https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SuyapaTV.hn@SD" tvg-logo="https://i.imgur.com/I7GuToz.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",Suyapa TV (1080p)
+https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEstrella.hn@SD" tvg-logo="https://i.imgur.com/QqSR7l7.png" group-title="Religious" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious" x-source-check="daily",TV Estrella (720p)
+https://s.emisoras.tv:8081/tve/index.m3u8
+#EXTINF:-1 tvg-id="DiosTeVeKids.hn@SD" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Religious;Kids" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Religious;Kids" x-source-check="daily",Dios Te Ve Kids (720p)
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Sports" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Sports" x-source-check="daily",Deportes TVC (720p)
+http://190.61.101.11:7050/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Sports" x-source-check="daily",Tigo Sports (1080p)
+http://168.196.127.137:6001/play/a0ay/index.m3u8
+#EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Undefined" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Undefined" x-source-check="daily",Teleceiba (720p)
+https://teleceiba.com/stream/tlcb720.m3u8
+#EXTINF:-1 tvg-id="TeleDanli.hn@SD" tvg-logo="https://i.imgur.com/BACuUSc.png" group-title="Undefined" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Undefined" x-source-check="daily",TeleDanli [Not 24/7]
+https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
+#EXTINF:-1 tvg-id="TVCopan.hn@SD" tvg-logo="https://i.imgur.com/JiPmRFr.png" group-title="Undefined" x-country-code="hn" x-country-name="🇭🇳 Honduras" x-original-group="Undefined" x-source-check="daily",TV Copán (720p) [Not 24/7]
+https://s.emisoras.tv:8081/tvcopan/index.m3u8
