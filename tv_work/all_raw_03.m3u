@@ -1,0 +1,1067 @@
+#EXTM3U
+#INTERMEDIATE|3
+#STAGE|world-tv-source-batch|12
+#COUNTRY-AUDIT|lt|Lithuania|🇱🇹|18|daily
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" group-title="Culture;Sports" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Culture;Sports" x-source-check="daily",LRT Plius (1080p)
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt@SD" tvg-logo="https://i.imgur.com/5wpxVI0.png" group-title="Entertainment" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Entertainment" x-source-check="daily",Lietuvos Rytas TV (1080p)
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTINF:-1 tvg-id="DelfiTV.lt@SD" tvg-logo="https://i.imgur.com/IFoHP5M.png" group-title="General" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="General" x-source-check="daily",Delfi TV
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 tvg-id="LNK.lt@SD" tvg-logo="https://i.imgur.com/arCZ56g.png" group-title="General" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="General" x-source-check="daily",LNK (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-id="LRTTV.lt@SD" tvg-logo="https://i.imgur.com/FL2ZuGC.png" group-title="General" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="General" x-source-check="daily",LRT TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 tvg-id="2TV.lt@SD" tvg-logo="https://i.imgur.com/sZUIhGc.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",2TV (1080p)
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+#EXTINF:-1 tvg-id="LRTKlasika.lt@SD" tvg-logo="https://i.imgur.com/Fa8Vhu0.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",LRT Klasika (1080p)
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-logo="https://i.imgur.com/oLuZTMH.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",LRT Opus (1080p)
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 tvg-id="M1.lt@SD" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",M-1 (480p)
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerHitRadio.lt@SD" tvg-logo="https://i.imgur.com/GOlQbfC.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",Power Hit Radio (576p)
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+#EXTINF:-1 tvg-id="InfoTV.lt@SD" tvg-logo="https://i.imgur.com/EjQtIpM.png" group-title="News" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="News" x-source-check="daily",Info TV (1080p)
+https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
+#EXTINF:-1 tvg-id="LRTRadijas.lt@SD" tvg-logo="https://i.imgur.com/gYoaqju.png" group-title="News" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="News" x-source-check="daily",LRT Radijas (1080p)
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 tvg-id="BalticumTV.lt@SD" tvg-logo="https://i.imgur.com/35tm57M.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",Balticum TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/376/index.m3u8
+#EXTINF:-1 tvg-id="BTV.lt@SD" tvg-logo="https://i.imgur.com/AeplGsP.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",BTV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/35/index.m3u8
+#EXTINF:-1 tvg-id="TV1.lt@SD" tvg-logo="https://i.imgur.com/KLWDcFy.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",TV1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd
+#EXTINF:-1 tvg-id="TV3.lt@SD" tvg-logo="https://i.imgur.com/7nipq0y.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",TV3 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 tvg-id="TV8.lt@SD" tvg-logo="https://i.imgur.com/9g3wknl.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",TV8 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/374/index.m3u8
+#COUNTRY-AUDIT|lu|Luxembourg|🇱🇺|10|daily
+#EXTINF:-1 tvg-id="eldoTV.lu@SD" tvg-logo="https://i.imgur.com/vCMQLlt.png" group-title="Entertainment" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Entertainment" x-source-check="daily",eldo.TV (1080p)
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 tvg-id="DudelangeTV.lu@SD" tvg-logo="https://i.imgur.com/2dLYZsc.png" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",Dudelange TV (720p)
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MierschTV.lu@SD" tvg-logo="https://i.imgur.com/Vdc1GYP.jpg" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",MierschTV
+https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD" tvg-logo="https://i.imgur.com/qyc8LsE.png" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",RTL Radio Web TV (1080p)
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu@SD" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",RTL Télé Lëtzebuerg (1080p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwee.lu@SD" tvg-logo="https://i.imgur.com/7SmCtyy.png" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",RTL Zwee (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxembourgGlobalRadioTV.lu@HD" tvg-logo="https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10" group-title="Lifestyle" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Lifestyle" x-source-check="daily",Luxembourg Global Radio TV (1080p)
+https://stream.globalradio.lu/lgr/index.m3u8
+#EXTINF:-1 tvg-id="apartTV.lu@SD" tvg-logo="https://i.imgur.com/IBcMIcZ.png" group-title="Lifestyle;Business;Culture" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Lifestyle;Business;Culture" x-source-check="daily",apart TV (1080p)
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu@SD" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="Music" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Music" x-source-check="daily",RTL Gold (1080p)
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu@SD" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="Music" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Music" x-source-check="daily",RTL Today Radio (720p)
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#COUNTRY-AUDIT|mo|Macao|🇲🇴|1|daily
+#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="General" x-country-code="mo" x-country-name="🇲🇴 Macao" x-original-group="General" x-source-check="daily",Lotus Macau HD 720p (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#COUNTRY-AUDIT|mg|Madagascar|🇲🇬|0|none
+#COUNTRY-AUDIT|my|Malaysia|🇲🇾|5|daily
+#EXTINF:-1 tvg-id="MaahTV.my@SD" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Movies" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="Movies" x-source-check="daily",Maah TV (720p)
+https://hls.maahtv.live/hls/stream.m3u8
+#COUNTRY-AUDIT|mv|Maldives|🇲🇻|5|daily
+#EXTINF:-1 tvg-id="Channel13.mv@SD" tvg-logo="https://i.imgur.com/lR5jUSU.jpeg" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="daily",Channel 13
+https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8
+#EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-logo="https://i.imgur.com/21tpl5b.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="daily",MMTV (1080p)
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-id="NTV.mv@SD" tvg-logo="https://i.imgur.com/jnXpcwV.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="daily",NTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
+#EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="https://i.imgur.com/QxdkiCZ.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="daily",Raajje TV
+https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
+#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="News" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="News" x-source-check="daily",VTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
+#COUNTRY-AUDIT|ml|Mali|🇲🇱|1|daily
+#EXTINF:-1 tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="Entertainment" x-country-code="ml" x-country-name="🇲🇱 Mali" x-original-group="Entertainment" x-source-check="daily",D3 TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+#COUNTRY-AUDIT|mt|Malta|🇲🇹|2|daily
+#EXTINF:-1 tvg-id="MedTV.mt@SD" tvg-logo="https://i.imgur.com/ejGeXPD.png" group-title="Culture" x-country-code="mt" x-country-name="🇲🇹 Malta" x-original-group="Culture" x-source-check="daily",Med.TV (720p)
+https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+#EXTINF:-1 tvg-id="One.mt@SD" tvg-logo="https://i.imgur.com/UPlfzFx.png" group-title="General" x-country-code="mt" x-country-name="🇲🇹 Malta" x-original-group="General" x-source-check="daily",One
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#STAGE|world-tv-source-batch|13
+#COUNTRY-AUDIT|mq|Martinique|🇲🇶|5|daily
+#EXTINF:-1 tvg-id="TVFamille.mq@SD" tvg-logo="https://i.imgur.com/Kbfihk5.png" group-title="Family;Religious" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="Family;Religious" x-source-check="daily",TV Famille (720p)
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id="ZitataTV.mq@SD" tvg-logo="https://i.imgur.com/KJmefse.png" group-title="General" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="General" x-source-check="daily",Zitata TV
+https://live.zitata.tv/direct-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FUSIONTV.mq@SD" tvg-logo="https://i.imgur.com/WMrYEgH.png" group-title="Music" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="Music" x-source-check="daily",FUSION TV (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq@SD" tvg-logo="https://i.imgur.com/Atsf6Cd.png" group-title="Music" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="Music" x-source-check="daily",Identité Télé Caraïbes (548p)
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+#EXTINF:-1 tvg-id="TeleZoukla.mq@SD" tvg-logo="https://i.imgur.com/lWYKgPC.png" group-title="Music" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="Music" x-source-check="daily",Tele Zoukla
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+#COUNTRY-AUDIT|mr|Mauritania|🇲🇷|1|daily
+#EXTINF:-1 tvg-id="Sahara24.mr@HD" tvg-logo="https://i.imgur.com/pnzWYwT.png" group-title="News" x-country-code="mr" x-country-name="🇲🇷 Mauritania" x-original-group="News" x-source-check="daily",Sahara 24 (1080p)
+https://live.saharamedias.net:3317/live/shara24live.m3u8
+#COUNTRY-AUDIT|mu|Mauritius|🇲🇺|0|none
+#COUNTRY-AUDIT|mx|Mexico|🇲🇽|115|daily
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Comedy" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Comedy" x-source-check="daily",Distrito Comedia (1080p)
+http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Culture" x-source-check="daily",Presumiendo México (720p)
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Culture;Animation;Entertainment" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Culture;Animation;Entertainment" x-source-check="daily",GikTVMX (720p)
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Culture;Education" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Culture;Education" x-source-check="daily",Jalisco TV (720p)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Culture;Entertainment" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Culture;Entertainment" x-source-check="daily",Capital 21 (1080p) [Not 24/7]
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Documentary" x-source-check="daily",National Geographic (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Education" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Education" x-source-check="daily",Canal 15 ILCE Summa Sabres (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-id="XHUNESTDT.mx@SD" tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Education" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Education" x-source-check="daily",Señal España (XHUNES-TDT) (720p)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Entertainment" x-source-check="daily",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD" tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="Entertainment" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Entertainment" x-source-check="daily",IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="Entertainment" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Entertainment" x-source-check="daily",Teleplay Sureste (720p)
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 tvg-id="VBMediaTV.mx@SD" tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Entertainment" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Entertainment" x-source-check="daily",VB Media TV (1080p)
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-id="PSN.mx@SD" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="Entertainment;News" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Entertainment;News" x-source-check="daily",PSN (288p)
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Entertainment;Sports" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Entertainment;Sports" x-source-check="daily",ITV Deportes (720p)
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
+#EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",8NTV (1080p)
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaTV.mx@SD" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Azteca 7 (1080p)
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-id="B15Fresnillo.mx@SD" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",B15 Fresnillo (1080p)
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-1 tvg-id="B15Zacatecas.mx@SD" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",B15 Zacatecas (1080p)
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-id="XHTTGTDT.mx@SD" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Canal 10 Chiapas (720p)
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-id="XHIJTDT.mx@SD" tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Canal 44 Ciudad Juárez (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Canal 5 (1080p)
+http://45.189.151.7:8000/play/a05s
+#EXTINF:-1 tvg-id="Canal5TVCozumel.mx@SD" tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Canal 5 TV Cozumel (1080p)
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Canal 5 XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="CBTVMichoacan.mx@SD" tvg-logo="https://i.imgur.com/oFeCIeD.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",CB TV Michoacan
+https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
+#EXTINF:-1 tvg-id="CreaLaTV.mx@SD" tvg-logo="https://i.imgur.com/Bnjj29f.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",CreaLaTV (1080p)
+https://stream.crealatv.com/live.m3u8
+#EXTINF:-1 tvg-id="ExpresaTV.mx@SD" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Expresa TV (720p)
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="XHBZCTDT.mx@SD" tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",IERTBCS Canal 8 La Paz (1080p) [Not 24/7]
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Las Estrellas (1080p)
+http://45.189.151.7:8000/play/a07s
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Las Estrellas Latin America (1080p)
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+#EXTINF:-1 tvg-id="MC.mx@SD" tvg-logo="https://i.imgur.com/TAjbaml.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",MC (1080p)
+http://168.196.127.137:6001/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx@SD" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Mexiquense TV (720p)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="NayaritComunica.mx@SD" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Nayarit Comunica (1080p)
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-id="XHFGLTDT.mx@SD" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Notigram TV (XHFGL-TDT) (1080p)
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Nueve TV San Luís Potosí (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1 tvg-id="RalyTV.mx@SD" tvg-logo="https://i.imgur.com/W8a1dIa.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",Raly TV (720p)
+https://cloudvideo.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 tvg-id="SIPSETV81.mx@SD" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",SIPSE TV 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 tvg-id="SIPSETVCUN81.mx@SD" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-id="XHZHZTDT.mx@SD" tvg-logo="https://i.imgur.com/RxhABeK.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",SIZART Canal 24 (XHZHZ-TDT) (720p)
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCuatro41.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TV Cuatro 4.1 (1080p)
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TV Mar La Paz (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarLosCabos.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TV Mar Los Cabos (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TV Mar Puerto Vallarta (1080p)
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMigrante.mx@SD" tvg-logo="https://i.imgur.com/tVgkiJF.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TV Migrante (720p)
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPCuliacan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TVP Culiacán (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPLosMochis.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TVP Los Mochis (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPMazatlan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TVP Mazatlán (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPObregon.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General" x-source-check="daily",TVP Obregón (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33Tijuana.mx@SD" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="General;News" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="General;News" x-source-check="daily",Canal 33 Tijuana (720p)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Kids" x-source-check="daily",El Chavo TV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx@SD" tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Legislative" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Legislative" x-source-check="daily",Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IcrtvColima.mx@SD" tvg-logo="https://i.imgur.com/iUks0ot.png" group-title="Legislative" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Legislative" x-source-check="daily",ICRTV Colima (1080p)
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Legislative" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Legislative" x-source-check="daily",Justicia TV (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",Az Cinema (1080p)
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",CineLatino (720p)
+http://168.196.127.137:6001/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="ClaroCinema.mx@SD" tvg-logo="https://i.imgur.com/SOLGQxQ.jpg" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",Claro Cinema (1080p)
+http://45.171.64.30:6060/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",De Pelicula Latin America (1080p)
+http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx@SD" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",De Pelicula Plus (1080p)
+http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx@SD" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",Golden Premier (1080p)
+http://200.57.28.141:8540/play/a0ln
+#EXTINF:-1 tvg-id="GoldenPremier2.mx@SD" tvg-logo="https://i.imgur.com/GBlvQBI.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",Golden Premier 2 (1080p)
+http://200.57.28.141:8540/play/a0lo
+#EXTINF:-1 tvg-id="MultiPremier.mx@SD" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",MultiPremier (1080p)
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",MyTime Movie Network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Movies" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Movies" x-source-check="daily",Popcorn Central (1080p)
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Music" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Music" x-source-check="daily",Bandamax (1080p)
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Music" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Music" x-source-check="daily",Conecta TV (720p)
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-id="ExaTV.mx@SD" tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Music" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Music" x-source-check="daily",Exa TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-id="LoboTV.mx@SD" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Music" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Music" x-source-check="daily",Lobo TV (720p)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Music" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Music" x-source-check="daily",TeleHit (1080p)
+http://190.61.47.54:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="VisionTelevision.mx@SD" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Music" x-source-check="daily",Visión Televisión (720p)
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 tvg-id="AcustikTV.mx@SD" tvg-logo="https://i.imgur.com/dhiNIng.png" group-title="News" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="News" x-source-check="daily",Acustik TV
+https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="News" x-source-check="daily",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="News" x-source-check="daily",AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="News" x-source-check="daily",Milenio Televisión (720p)
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-id="PSNCanal452.mx@SD" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="News" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="News" x-source-check="daily",PSN Canal 45.2 (288p)
+https://srspsn2.live/live/livestream.m3u8
+#EXTINF:-1 tvg-id="AlcanceTV.mx@SD" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="Religious" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Religious" x-source-check="daily",Alcance TV (720p)
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-id="BAMOSTV.mx@SD" tvg-logo="https://i.imgur.com/ntK4D64.png" group-title="Religious" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Religious" x-source-check="daily",BAMOS TV (1080p) [Not 24/7]
+https://video2.getstreamhosting.com:19360/8092/8092.m3u8
+#EXTINF:-1 tvg-id="MariaVision.mx@SD" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Religious" x-source-check="daily",María Visión Mexico (360p) [Not 24/7]
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="MonteMaria.mx@SD" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religious" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Religious" x-source-check="daily",Monte Maria (1080p)
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Series" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Series" x-source-check="daily",Az Corazon (720p)
+http://200.115.120.1:8000/play/ca020/index.m3u8
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Series" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Series" x-source-check="daily",Tlnovelas Latin America (1080p)
+http://138.121.15.230:9002/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Series" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Series" x-source-check="daily",Tlnovelas Mexico (1080p)
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-id="AyMSports.mx@SD" tvg-logo="https://i.imgur.com/yu3Bpbd.png" group-title="Sports" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Sports" x-source-check="daily",AyM Sports (1080p)
+http://168.196.127.137:6001/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Sports" x-source-check="daily",Azteca Deportes Network (720p)
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Sports" x-source-check="daily",Claro Sports (1080p)
+http://45.228.234.9:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Sports" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Sports" x-source-check="daily",Sky Sports 1 (1080p)
+http://45.228.234.9:8000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="TuristikTV.mx@SD" tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Travel" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Travel" x-source-check="daily",Turistik TV (720p)
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-id="AzMundo.mx@SD" tvg-logo="https://i.imgur.com/a7Ejid0.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Az Mundo (1080p)
+http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
+#EXTINF:-1 tvg-id="Canal26.mx@SD" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Canal 26 Aguascalientes (1080p)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal44.mx@SD" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Canal 44 Chihuahua (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Canal Once (1080p)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Golden (1080p)
+http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Golden Edge (1080p)
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Golden Plus (1080p)
+http://45.5.118.152:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="Panico.mx@SD" tvg-logo="https://i.imgur.com/XOJzlfS.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Panico (576p)
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-id="RCGTV.mx@SD" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",RTQ Querétaro (1080p)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-id="SICOMTelevision.mx@XHPBZCTDT" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",SET Televisión Canal 26.1 (720p) [Not 24/7]
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+#EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx@SD" tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Sistema Michoacano de TV (1080p) [Not 24/7]
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",TeleFórmula
+https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
+#EXTINF:-1 tvg-id="Telemax.mx@XEWHTDT" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Telemax (XEWH-TDT) (1080p)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="TlaxcalaTV.mx@SD" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Tlaxcala Televisión (360p) [Not 24/7]
+https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
+#EXTINF:-1 tvg-id="TRCTV.mx@SD" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",TRC Televisión (720p)
+https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",TUDN (576p)
+http://45.5.118.152:8000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="TVLobo.mx@SD" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",TV Lobo Durango (720p)
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-id="XHGVTDT.mx@SD" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="UltraTVPuebla.mx@SD" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Ultra TV Puebla (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UMTV.mx@SD" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",UMTV (1080p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Univision Latin America (1080p)
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Undefined" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Undefined" x-source-check="daily",Univision Latin America (1080p)
+http://15.204.246.24:8080/UnivisionHD/index.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.mx@SD" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather" x-country-code="mx" x-country-name="🇲🇽 Mexico" x-original-group="Weather" x-source-check="daily",WeatherSpy (720p)
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
+#COUNTRY-AUDIT|md|Moldova|🇲🇩|16|daily
+#EXTINF:-1 tvg-id="RadioMoldovaTineret.md@SD" tvg-logo="https://i.imgur.com/h2oZuyc.png" group-title="Entertainment" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="Entertainment" x-source-check="daily",Radio Moldova Tineret (1080p)
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
+#EXTINF:-1 tvg-id="Moldova1.md@SD" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="General" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="General" x-source-check="daily",Moldova 1 (1080p)
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 tvg-id="Moldova2.md@SD" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="General" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="General" x-source-check="daily",Moldova 2 (1080p)
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="General" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="General" x-source-check="daily",Moldova TV (1080p)
+https://moldovatv.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-id="RadioMoldova.md@SD" tvg-logo="https://i.imgur.com/wNifDCo.png" group-title="General" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="General" x-source-check="daily",Radio Moldova
+https://radiolive.trm.md/hls_rma/actualitati.m3u8
+#EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="General" x-source-check="daily",Sor TV (720p)
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 tvg-id="TSV.md@SD" tvg-logo="https://i.imgur.com/6p4weSK.png" group-title="General" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="General" x-source-check="daily",TSV (1080p)
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md@HD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="General" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="General" x-source-check="daily",TVR Moldova HD (1440p)
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="Legislative" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="Legislative" x-source-check="daily",Privesc.Eu TV (2160p)
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="Music" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="Music" x-source-check="daily",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NorocTV.md@SD" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="Music" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="Music" x-source-check="daily",Noroc TV
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1 tvg-id="RadioChisinau.md@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg" group-title="Music" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="Music" x-source-check="daily",Radio Chisinau (576p)
+#EXTVLCOPT:http-referrer=https://radiochisinau.md/
+https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1 tvg-id="RadioMoldovaMuzical.md@SD" tvg-logo="https://i.imgur.com/ZFHWst4.png" group-title="Music" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="Music" x-source-check="daily",Radio Moldova Muzical
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
+#EXTINF:-1 tvg-id="TezaurTV.md@SD" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="Music" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="Music" x-source-check="daily",Tezaur TV (576i)
+https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="News" x-source-check="daily",Rlive TV (406p)
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="Undefined" x-country-code="md" x-country-name="🇲🇩 Moldova" x-original-group="Undefined" x-source-check="daily",Vocea Basarabiei TV
+https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
+#COUNTRY-AUDIT|mc|Monaco|🇲🇨|3|daily
+#EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png" group-title="General" x-country-code="mc" x-country-name="🇲🇨 Monaco" x-original-group="General" x-source-check="daily",TV Monaco (1080p)
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Lifestyle" x-country-code="mc" x-country-name="🇲🇨 Monaco" x-original-group="Lifestyle" x-source-check="daily",Superyacht TV (1080p)
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MonacoInfo.mc@SD" tvg-logo="https://i.imgur.com/dIrKYH7.png" group-title="News" x-country-code="mc" x-country-name="🇲🇨 Monaco" x-original-group="News" x-source-check="daily",Monaco Info (1080p)
+https://webtv.monacoinfo.com/live/prod/index.m3u8
+#COUNTRY-AUDIT|mn|Mongolia|🇲🇳|36|daily
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Business" x-source-check="daily",Bloomberg TV Mongolia HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+#EXTINF:-1 tvg-id="MalchinTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/12.png" group-title="Culture" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Culture" x-source-check="daily",Malchin TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
+#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/8.png" group-title="Education;Entertainment" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Education;Entertainment" x-source-check="daily",Education (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+#EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/910.png" group-title="Entertainment" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Entertainment" x-source-check="daily",AsianBox (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
+#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/701.png" group-title="Entertainment" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Entertainment" x-source-check="daily",Dream TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
+#EXTINF:-1 tvg-id="C1.mn@SD" tvg-logo="https://i.imgur.com/v1mHG5x.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",C1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
+#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/7.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",Central TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
+#EXTINF:-1 tvg-id="Channel11.mn@SD" tvg-logo="https://i.imgur.com/GztOajC.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",Channel 11 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
+#EXTINF:-1 tvg-id="TV25.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/5.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",MN25 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
+#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-logo="https://i.imgur.com/RdRd0to.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",MNB (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",MNB World (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-logo="https://i.imgur.com/2JbqbPY.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",NTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+#EXTINF:-1 tvg-id="ONTV.mn@SD" tvg-logo="https://i.imgur.com/EzODUBO.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",ONTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+#EXTINF:-1 tvg-id="SBN.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/14.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",SBN (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
+#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/15.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",Star TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
+#EXTINF:-1 tvg-id="TenGerTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/17.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",TenGer TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
+#EXTINF:-1 tvg-id="TMTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/19.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",TM TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
+#EXTINF:-1 tvg-id="TV5.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/6.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",TV5 HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
+#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/18.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",TV8 HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
+#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/9.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",TV9 HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
+#EXTINF:-1 tvg-id="UBS.mn@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/UBS_Logo_2022.jpg" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",UBS (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+#EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn@SD" tvg-logo="https://i.imgur.com/iBZVvtW.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",Соён Гэгээрүүлэгч (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
+#EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/28.png" group-title="General" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="General" x-source-check="daily",Өлзий ТВ (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
+#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" group-title="Legislative" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Legislative" x-source-check="daily",Parliament TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/914.png" group-title="Movies" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Movies" x-source-check="daily",Cinema (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
+#EXTINF:-1 tvg-id="MNPlus.mn@SD" tvg-logo="https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg" group-title="Movies" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Movies" x-source-check="daily",MN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 tvg-id="MovieBox.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/909.png" group-title="Movies" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Movies" x-source-check="daily",MovieBox (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
+#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" group-title="News" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="News" x-source-check="daily",Eagle News HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
+#EXTINF:-1 tvg-id="ETV.mn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" group-title="News" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="News" x-source-check="daily",ETV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/25.png" group-title="News" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="News" x-source-check="daily",MNC (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
+#EXTINF:-1 tvg-id="CNBCMongolia.mn@SD" tvg-logo="https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75" group-title="News;Business" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="News;Business" x-source-check="daily",CNBC Mongolia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Sports" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Sports" x-source-check="daily",MNB Sport (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 tvg-id="GTV.mn@SD" tvg-logo="https://i.imgur.com/z18PSIo.png" group-title="Undefined" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Undefined" x-source-check="daily",Gandan TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
+#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" group-title="Undefined" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Undefined" x-source-check="daily",Global TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/21.png" group-title="Undefined" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Undefined" x-source-check="daily",MNB Монголын Мэдээ (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
+#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/20.png" group-title="Undefined" x-country-code="mn" x-country-name="🇲🇳 Mongolia" x-original-group="Undefined" x-source-check="daily",Suld TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
+#COUNTRY-AUDIT|me|Montenegro|🇲🇪|3|daily
+#EXTINF:-1 tvg-id="TVTeuta.me@SD" tvg-logo="https://i.imgur.com/sWVqBuW.png" group-title="General" x-country-code="me" x-country-name="🇲🇪 Montenegro" x-original-group="General" x-source-check="daily",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVNiksic.me@SD" tvg-logo="https://i.imgur.com/51fGwzn.png" group-title="Undefined" x-country-code="me" x-country-name="🇲🇪 Montenegro" x-original-group="Undefined" x-source-check="daily",TV Niksic (720p)
+https://tv.rtv-niksic.me/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="Undefined" x-country-code="me" x-country-name="🇲🇪 Montenegro" x-original-group="Undefined" x-source-check="daily",TVCG MNE (1080p)
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#STAGE|world-tv-source-batch|14
+#COUNTRY-AUDIT|ma|Morocco|🇲🇦|10|daily
+#EXTINF:-1 tvg-id="StoryChannelTV.ma@SD" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="Culture" x-source-check="daily",StoryChannel TV (720p)
+https://136044159.r.cdnsun.net/storychannel.m3u8
+#EXTINF:-1 tvg-id="2M.ma@SD" tvg-logo="https://i.imgur.com/PJYTfHi.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="daily",2M
+http://185.9.2.18/chid_218/index.m3u8
+#EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="daily",2M Monde (360p)
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="daily",2M Monde +1 (1080p)
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma@SD" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="daily",Al Maghribia (1080p)
+http://185.9.2.18/chid_205/index.m3u8
+#EXTINF:-1 tvg-id="ChadaTV.ma@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="daily",Chada TV (720p)
+https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="News" x-source-check="daily",Medi 1 TV Arabic (1080p) (DVR) (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="News" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="News" x-source-check="daily",Medi 1 TV Maghreb (1080p) (DVR) (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="News" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="News" x-source-check="daily",Medi1TV Afrique (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="Sports" x-source-check="daily",Arryadia (720p)
+http://149.100.11.252:8000/play/a065/index.m3u8
+#COUNTRY-AUDIT|mz|Mozambique|🇲🇿|4|daily
+#EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" group-title="Business" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="Business" x-source-check="daily",MNTV
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="General" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="General" x-source-check="daily",TVM
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
+#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-logo="https://i.imgur.com/oAygpDw.png" group-title="Kids" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="Kids" x-source-check="daily",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 tvg-id="TVManaMocambique.mz@SD" tvg-logo="https://i.imgur.com/R5YrV5s.png" group-title="Religious" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="Religious" x-source-check="daily",TV Maná Moçambique (1080p)
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#COUNTRY-AUDIT|mm|Myanmar|🇲🇲|14|daily
+#EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Culture" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Culture" x-source-check="daily",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary;Lifestyle" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Documentary;Lifestyle" x-source-check="daily",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-id="FortuneTV.mm@SD" tvg-logo="https://i.imgur.com/MM5evnD.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="daily",FORTUNE TV (720p)
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm@SD" tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="daily",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="daily",MWD Variety (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="General" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="General" x-source-check="daily",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 tvg-id="MWD.mm@SD" tvg-logo="https://i.imgur.com/zyTQG9F.png" group-title="General" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="General" x-source-check="daily",MWD (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm@SD" tvg-logo="https://i.imgur.com/ClmWqE5.png" group-title="General" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="General" x-source-check="daily",Myanmar International TV
+https://mrtvott.com/cache/MITV/master.m3u8
+#EXTINF:-1 tvg-id="HluttawSD.mm@SD" tvg-logo="https://i.imgur.com/Gffq8ks.png" group-title="Legislative" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Legislative" x-source-check="daily",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-logo="https://i.imgur.com/5KRsqeF.png" group-title="Movies" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Movies" x-source-check="daily",MWD Movies [Not 24/7]
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm@SD" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="News" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="News" x-source-check="daily",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Sports" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Sports" x-source-check="daily",MRTV Sports [Not 24/7]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#COUNTRY-AUDIT|na|Namibia|🇳🇦|1|daily
+#EXTINF:-1 tvg-id="TjilTV.na@SD" tvg-logo="https://i.imgur.com/iBbawJ0.png" group-title="Music" x-country-code="na" x-country-name="🇳🇦 Namibia" x-original-group="Music" x-source-check="daily",Tjil TV (720p)
+https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
+#COUNTRY-AUDIT|np|Nepal|🇳🇵|6|daily
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np@SD" tvg-logo="https://i.ibb.co/Gf9VH1VN/TV-Today-Janakpur.png" group-title="Entertainment;General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Entertainment;General" x-source-check="daily",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@HD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="daily",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="daily",Kantipur TV (1080p)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="daily",Mithila Nepal TV (1080p)
+http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" group-title="Religious" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Religious" x-source-check="daily",Divya Darshan TV (720p)
+http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@HD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" group-title="Religious" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Religious" x-source-check="daily",Divya Darshan TV HD (1080p)
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+#COUNTRY-AUDIT|nl|Netherlands|🇳🇱|129|daily
+#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/7bf139cc-e5c4-4bca-bef2-ad07687f239f/InTrouble_landscapeOrange.png" group-title="Auto;Sports;Outdoor" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Auto;Sports;Outdoor" x-source-check="daily",INTROUBLE (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TMF.nl@HDFAST" tvg-logo="https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png" group-title="Classic;Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Classic;Music" x-source-check="daily",TMF (1080p)
+https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
+#EXTINF:-1 tvg-id="JinTV.nl@SD" tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="Culture" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Culture" x-source-check="daily",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="Salto2.nl@SD" tvg-logo="https://i.imgur.com/6H3ycdL.png" group-title="Culture" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Culture" x-source-check="daily",Salto 2 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Documentary" x-source-check="daily",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Documentary" x-source-check="daily",INWILD (1080p)
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Gametoon.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment" x-source-check="daily",Gametoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/gametoon.m3u8
+#EXTINF:-1 tvg-id="MagicPowerRadio.nl@SD" tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment" x-source-check="daily",Magic PowerRadio (288p) [Not 24/7]
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioToppers.nl@SD" tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment" x-source-check="daily",RadioToppers (720p)
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-id="Salto1.nl@SD" tvg-logo="https://i.imgur.com/hyubvS5.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment" x-source-check="daily",Salto 1 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
+#EXTINF:-1 tvg-id="MaLive.nl@SD" tvg-logo="https://i.imgur.com/0Vzg2OR.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment" x-source-check="daily",Salto MaLive (1080p)
+https://live.salto.nl/hls/malive_high.m3u8
+#EXTINF:-1 tvg-id="1AlmereTV.nl@SD" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",1Almere TV (720p)
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl@SD" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",1Twente TV (1080p)
+https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+#EXTINF:-1 tvg-id="A1TV.nl@SD" tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",A1 TV (1080p) [Not 24/7]
+https://www.a1mediagroep.nl/hls/a1tv.m3u8
+#EXTINF:-1 tvg-id="AssenTV.nl@SD" tvg-logo="https://i.imgur.com/upik15D.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Assen TV (720p)
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
+#EXTINF:-1 tvg-id="AT5.nl@SD" tvg-logo="https://i.imgur.com/iAiSlEL.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DitisHelmond.nl@SD" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Dit is Helmond (480p)
+https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DTVDenBosch.nl@SD" tvg-logo="https://i.imgur.com/aFBNbsy.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",DTV Den Bosch (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVMaashorst.nl@SD" tvg-logo="https://i.imgur.com/5WaCCAC.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",DTV Maashorst (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVOssBernheze.nl@SD" tvg-logo="https://i.imgur.com/JL1f9Tx.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",DTV Oss & Bernheze (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="Haarlem105TV.nl@SD" tvg-logo="https://i.imgur.com/xyOVVZ0.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Haarlem105 RTV (720p)
+https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
+#EXTINF:-1 tvg-id="KempenTV.nl@SD" tvg-logo="https://i.imgur.com/ZiPL9ar.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",KempenTV (480p)
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LangstraatTV.nl@SD" tvg-logo="https://i.imgur.com/xchUfks.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Langstraat TV (720p)
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
+#EXTINF:-1 tvg-id="LansingerlandTV.nl@SD" tvg-logo="https://i.imgur.com/1r7IZ7Q.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Lansingerland TV (720p)
+https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LEOMiddelseTV.nl@SD" tvg-logo="https://i.imgur.com/wF3FFZv.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",LEO Middelsé TV (480p)
+https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MerweTV.nl@SD" tvg-logo="https://i.imgur.com/JjB7U1q.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Merwe TV (720p)
+https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
+#EXTINF:-1 tvg-id="NOOSTV.nl@SD" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",NOOS TV (720p)
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabant.nl@SD" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Brabant (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabantRadio.nl@SD" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Brabant Radio (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-id="OmroepDommelland.nl@SD" tvg-logo="https://i.imgur.com/6Tkd9Pv.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Dommelland (720p)
+https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
+#EXTINF:-1 tvg-id="OmroepFlevoland.nl@SD" tvg-logo="https://i.imgur.com/rF4MTYD.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Flevoland (720p) [Not 24/7]
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepGelderland.nl@HD" tvg-logo="https://i.imgur.com/G08hKit.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Gelderland HD (1080p)
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl@SD" tvg-logo="https://i.imgur.com/pgMwNGV.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Hoeksche Waard (480p)
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepLandvanCuijk.nl@SD" tvg-logo="https://i.imgur.com/Pt2gXJ1.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Land van Cuijk (720p)
+https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Lingewaard (720p)
+https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepPeelrand.nl@SD" tvg-logo="https://i.imgur.com/K4AhATP.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Peelrand (720p)
+https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepSudwest.nl@SD" tvg-logo="https://i.imgur.com/XtKLmQS.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Súdwest (720p)
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+#EXTINF:-1 tvg-id="OmroepTilburg.nl@SD" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Tilburg TV (480p)
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepVenlo.nl@SD" tvg-logo="https://i.imgur.com/zjDZdmM.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Venlo (720p)
+https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+#EXTINF:-1 tvg-id="OmroepVenray.nl@SD" tvg-logo="https://i.imgur.com/uVqTbi2.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Venray (720p)
+https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+#EXTINF:-1 tvg-id="OmroepZeeland.nl@SD" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omroep Zeeland (1080p)
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmropFryslan.nl@SD" tvg-logo="https://i.imgur.com/khacDTU.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Omrop Fryslân (1080p) [Not 24/7]
+https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
+#EXTINF:-1 tvg-id="OOGTV.nl@SD" tvg-logo="https://i.imgur.com/WzxY0PL.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",OOG TV (720p)
+https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
+#EXTINF:-1 tvg-id="OPENRotterdamTV.nl@SD" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Open Rotterdam (480p) [Not 24/7]
+https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTSTV.nl@SD" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",ORTS (480p) [Not 24/7]
+https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RPLWoerden.nl@SD" tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",RPL TV Woerden (720p)
+https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+#EXTINF:-1 tvg-id="RTVLOVE.nl@SD" tvg-logo="https://i.imgur.com/hucwX6v.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",RTV LOVE (720p)
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+#EXTINF:-1 tvg-id="RTVMeppel.nl@SD" tvg-logo="https://i.imgur.com/RosyQkb.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",RTV Meppel (720p)
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmondExtra.nl@SD" tvg-logo="https://i.imgur.com/mlrd5ia.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",RTV Rijnmond Extra (1080p)
+http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVZulthe.nl@SD" tvg-logo="https://i.imgur.com/Z3zUUsJ.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",RTV Zulthe (720p)
+http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SleutelstadTV.nl@SD" tvg-logo="https://i.imgur.com/ljVGMWV.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Sleutelstad TV (720p)
+https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
+#EXTINF:-1 tvg-id="SRCTV.nl@SD" tvg-logo="https://i.imgur.com/VSSbjrM.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",SRC TV (720p)
+http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
+#EXTINF:-1 tvg-id="StreekstadCentral.nl@SD" tvg-logo="https://i.imgur.com/9gM6rPb.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Streekstad Alkmaar Centraal (1080p)
+https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8
+#EXTINF:-1 tvg-id="Studio040TV.nl@SD" tvg-logo="https://i.imgur.com/NBludRL.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",Studio040 TV (720p)
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+#EXTINF:-1 tvg-id="WeertFMTV.nl@SD" tvg-logo="https://i.imgur.com/8bt6xt2.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General" x-source-check="daily",WeertFM TV (720p)
+https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NH.nl@SD" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="General;News" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General;News" x-source-check="daily",NH Niews (1080p)
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Enquetezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerMaxvanderStoelzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative" x-source-check="daily",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Lifestyle" x-source-check="daily",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="INFAST.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/42ab0c78-fd11-4b3c-88cb-64d9dd642f23/InFast_landscape-red.png" group-title="Lifestyle" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Lifestyle" x-source-check="daily",INFAST (1080p)
+https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="360TuneBox.nl@SD" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",360TuneBox (1080p)
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="DanceTelevision.nl@SD" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",Dance Television (1080p)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="GigantFM.nl@SD" tvg-logo="https://i.imgur.com/LwEHfjD.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",Gigant FM (720p)
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl@SD" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",Hype Visual Radio (1080p)
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Qmusic.nl@SD" tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",Qmusic (720p)
+https://stream.qmusic.nl/qmusic/videohls.m3u8
+#EXTINF:-1 tvg-id="RadioJND.nl@SD" tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",Radio JND (1080p)
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioNLTV.nl@SD" tvg-logo="https://i.imgur.com/TVaMJYB.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",RadioNL TV (1080p) [Not 24/7]
+https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE.nl@SD" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",XITE (720p)
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITEClassicCountry.nl@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",XITE Classic Country (720p)
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@NL" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",XITE Hits (1080p)
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@Germany" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",XITE Hits Germany (1080p)
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",XITE Hits UK (1080p)
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="XITEJustChill.nl@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",XITE Just Chill (1080p)
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",XITE Reggae Vibes (1080p)
+https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+#EXTINF:-1 tvg-id="XITERockxMetal.nl@US" tvg-logo="https://i.imgur.com/szDM09P.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music" x-source-check="daily",XITE Rock x Metal (1080p)
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-id="BEATTV.nl@SD" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Music;Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music;Entertainment" x-source-check="daily",BE@TTV (1080p)
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-id="FomixTV.nl@HD" tvg-logo="https://i.imgur.com/7SLYEMG.png" group-title="Music;Public;General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music;Public;General" x-source-check="daily",FomixTV (1080p)
+#EXTVLCOPT:http-referrer=https://www.fomix.nl
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+#EXTINF:-1 tvg-id="FunBoxUHD.nl@SD" tvg-logo="https://i.imgur.com/9FJct9o.png" group-title="Relax" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Relax" x-source-check="daily",FunBox UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/4b12c878-0f30-47e1-9ca8-d5828e81e18e/InWonder_landscape-white.png" group-title="Science" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Science" x-source-check="daily",InWonder (1080p)
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+#EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Sports" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Sports" x-source-check="daily",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Sports" x-source-check="daily",FightBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Sports" x-source-check="daily",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@Poland" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Sports" x-source-check="daily",FightBox Poland (576i)
+http://92.114.85.87:8003/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-logo="https://cdn.uc.assets.prezly.com/731574b6-2dab-4d87-85cf-fa48648b845a/INTRAVELLandscapeColor.png" group-title="Travel" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Travel" x-source-check="daily",INTRAVEL (1080p)
+https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8
+#EXTINF:-1 tvg-id="AltenaTV.nl@SD" tvg-logo="https://i.imgur.com/0wblu0I.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Altena TV (720p)
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 tvg-id="LONTV.nl@SD" tvg-logo="https://i.imgur.com/bH4XSGw.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",LON TV (720p)
+https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8
+#EXTINF:-1 tvg-id="OmroepWest.nl@HD" tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Omroep West (1080p) [Not 24/7]
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+#EXTINF:-1 tvg-id="PodiumTV.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Podium.TV (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV2.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Podium.TV 2 (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV3.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Podium.TV 3 (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="Radio10.nl@SD" tvg-logo="https://i.imgur.com/2oGtj7r.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Radio 10 (720p)
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
+#EXTINF:-1 tvg-id="Radio350.nl@SD" tvg-logo="https://i.imgur.com/3nkzXup.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Radio 350 (360p) [Not 24/7]
+https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 tvg-id="Radio538.nl@SD" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Radio 538 (270p)
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl@SD" tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Radio Aalsmeer TV (720p) [Not 24/7]
+https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 tvg-id="Regio90TV.nl@SD" tvg-logo="https://i.imgur.com/UGnm1jd.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Regio90 TV (720p)
+https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RN7.nl@SD" tvg-logo="https://i.imgur.com/dYBTrLc.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RN7 TV (1080p)
+https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+#EXTINF:-1 tvg-id="RTV1.nl@SD" tvg-logo="https://i.imgur.com/lRCsPWT.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV 1 (720p)
+https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
+#EXTINF:-1 tvg-id="RTVDrenthe.nl@SD" tvg-logo="https://i.imgur.com/UBQCjnG.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Drenthe (1080p)
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVHorizon.nl@SD" tvg-logo="https://i.imgur.com/wnRsI8B.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Horizon (720p)
+https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
+#EXTINF:-1 tvg-id="RTVMaastricht.nl@SD" tvg-logo="https://i.imgur.com/nYl8H2e.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Maastricht (720p) [Not 24/7]
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoord.nl@SD" tvg-logo="https://i.imgur.com/l92Cb6H.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Noord (720p) [Not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoordExtra.nl@SD" tvg-logo="https://i.imgur.com/T0UvltB.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Noord Extra (1080p) [Not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVOost.nl@SD" tvg-logo="https://i.imgur.com/nTR6q9H.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Oost (720p)
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVPurmerend.nl@SD" tvg-logo="https://i.imgur.com/dLKSpqz.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Purmerend (720p)
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmond.nl@SD" tvg-logo="https://i.imgur.com/fJTs9xH.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Rijnmond (1080p)
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVRijnstreekTV.nl@SD" tvg-logo="https://i.imgur.com/uM5sJJs.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Rijnstreek TV (720p) [Not 24/7]
+https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVSLOS.nl@SD" tvg-logo="https://i.imgur.com/xdzrT9A.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV SLOS (720p)
+https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8
+#EXTINF:-1 tvg-id="RTVUtrecht.nl@SD" tvg-logo="https://i.imgur.com/nrvs30l.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Utrecht (1080p)
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-id="RTVVeluwezoomTV.nl@SD" tvg-logo="https://i.imgur.com/KeHbJTM.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Veluwezoom (720p)
+https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
+#EXTINF:-1 tvg-id="RTVWesterwolde.nl@SD" tvg-logo="https://i.imgur.com/002YXP6.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",RTV Westerwolde (432p)
+https://media.rtvwesterwolde.nl/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="SchieTV.nl@SD" tvg-logo="https://i.imgur.com/kt4Aqvq.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Schie TV (576i)
+https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
+#EXTINF:-1 tvg-id="StreekTV.nl@SD" tvg-logo="https://i.imgur.com/48lkh57.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Streek TV (720p) [Not 24/7]
+http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 tvg-id="StudioRheden.nl@SD" tvg-logo="https://i.imgur.com/swfxaac.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Studio Rheden (1080p)
+https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
+#EXTINF:-1 tvg-id="TVEllef.nl@SD" tvg-logo="https://i.imgur.com/FaCd2QY.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",TV Ellef (1080p)
+http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerKlompezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Tweede Kamer: Klompezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="UStad.nl@SD" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",UStad (1080p)
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 tvg-id="VechtdalTV.nl@SD" tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",Vechtdal TV (480p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WOS.nl@SD" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",WOS TV (1080p)
+https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZO34.nl@SD" tvg-logo="https://i.imgur.com/yiihDg6.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined" x-source-check="daily",ZO!34 (720p)
+https://video.uitzending.tv:19360/zo34/zo34.m3u8
+#COUNTRY-AUDIT|nc|New Caledonia|🇳🇨|1|daily
+#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc@SD" tvg-logo="https://i.imgur.com/BJgNq21.png" group-title="General" x-country-code="nc" x-country-name="🇳🇨 New Caledonia" x-original-group="General" x-source-check="daily",Nouvelle Caledonie 1ere (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
+#COUNTRY-AUDIT|nz|New Zealand|🇳🇿|7|daily
+#EXTINF:-1 tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="Legislative" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Legislative" x-source-check="daily",Parliament TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.nz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Lifestyle" x-source-check="daily",HGTV (1080p)
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-id="Firstlight.nz@SD" tvg-logo="https://i.imgur.com/gtDROeT.png" group-title="Religious" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Religious" x-source-check="daily",Firstlight (576p)
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KordiaTV.nz@SD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined" x-source-check="daily",Kordia TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="TeReo.nz@SD" tvg-logo="https://i.imgur.com/3CNvYUN.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined" x-source-check="daily",Te Reo (1080p)
+https://i.mjh.nz/.r/te-reo.m3u8
+#EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined" x-source-check="daily",Wairarapa TV (1080p) [Not 24/7]
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
+#EXTINF:-1 tvg-id="WhakaataMaori.nz@SD" tvg-logo="https://i.imgur.com/oT3PrHZ.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined" x-source-check="daily",Whakaata Maori (1080p)
+https://i.mjh.nz/.r/maori-tv.m3u8
+#STAGE|world-tv-source-batch|15
+#COUNTRY-AUDIT|ni|Nicaragua|🇳🇮|6|daily
+#EXTINF:-1 tvg-id="WTVCanal20.ni@SD" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entertainment" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Entertainment" x-source-check="daily",WTV Canal 20 (1080p)
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10.ni@SD" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="daily",Canal 10
+https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
+#EXTINF:-1 tvg-id="Canal12.ni@SD" tvg-logo="https://i.imgur.com/UhEW8cj.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="daily",Canal 12 (576p)
+http://45.228.234.9:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="TN8.ni@SD" tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="daily",TN8 (1080p)
+https://streamingcws30.com/tn8/videotn8/playlist.m3u8
+#EXTINF:-1 tvg-id="EscuchameRadioTV.ni@SD" tvg-logo="https://i.imgur.com/gt6UvG8.png" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious" x-source-check="daily",Escúchame Radio TV (720p) [Not 24/7]
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+#EXTINF:-1 tvg-id="OlamMetroTV.ni@SD" tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious" x-source-check="daily",Olam Metro TV (720p)
+https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
+#COUNTRY-AUDIT|ne|Niger|🇳🇪|2|daily
+#EXTINF:-1 tvg-id="TalTV.ne@SD" tvg-logo="https://i.imgur.com/KWMP0t1.png" group-title="Entertainment" x-country-code="ne" x-country-name="🇳🇪 Niger" x-original-group="Entertainment" x-source-check="daily",Tal TV (1080p)
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD" tvg-logo="https://i.imgur.com/vboq428.png" group-title="General" x-country-code="ne" x-country-name="🇳🇪 Niger" x-original-group="General" x-source-check="daily",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#COUNTRY-AUDIT|ng|Nigeria|🇳🇬|31|daily
+#EXTINF:-1 tvg-id="Nigbati.ng@SD" group-title="Culture" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Culture" x-source-check="daily",Nigbati (720p) [Not 24/7]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="QausainTV.ng@SD" tvg-logo="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" group-title="Culture" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Culture" x-source-check="daily",Qausain TV (720p)
+https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperscreenTV.ng@SD" tvg-logo="https://i.imgur.com/uTNmSWE.png" group-title="Culture;Family" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Culture;Family" x-source-check="daily",Superscreen TV (412p)
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-id="BCSStarCrossTV.ng@SD" tvg-logo="https://i.imgur.com/VKv1Y6p.png" group-title="General" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="General" x-source-check="daily",BCS StarCross TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FortisTV.ng@SD" tvg-logo="https://i.imgur.com/HoO9Urd.jpg" group-title="General" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="General" x-source-check="daily",Fortis TV
+https://stream.fortistv.com/hls/fortis-news/index.m3u8
+#EXTINF:-1 tvg-id="RapidTV.ng@SD" tvg-logo="https://i.imgur.com/FkMNcj1.jpeg" group-title="General" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="General" x-source-check="daily",Rapid TV (480p)
+https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
+#EXTINF:-1 tvg-id="TeleRegencyTV.ng@SD" tvg-logo="https://teleregency.tv/logo-white.png" group-title="General" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="General" x-source-check="daily",Tele Regency TV (576p)
+https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
+#EXTINF:-1 tvg-id="TVWEST.ng@HD" tvg-logo="https://tvwest.ng/wp-content/uploads/2026/07/cropped-TW.jpg" group-title="General" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="General" x-source-check="daily",TV-WEST (720p) [Not 24/7]
+https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ApprovalTV.ng@HD" tvg-logo="https://storage.approvaltv.com/2026/03/approvallogo.png" group-title="General;Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="General;Religious" x-source-check="daily",Approval TV (720p)
+#EXTVLCOPT:http-referrer=https://live.approvaltv.com/
+https://live.approvaltv.com/approvaltv/index.m3u8
+#EXTINF:-1 tvg-id="ItageTV.ng@SD" tvg-logo="https://i.imgur.com/FP1aUPw.jpg" group-title="Movies" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Movies" x-source-check="daily",Itage TV (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AMusicChannel.ng@SD" tvg-logo="https://i.imgur.com/06zuf64.png" group-title="Music" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Music" x-source-check="daily",AMusic Channel (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HMTV.ng@SD" tvg-logo="https://watchhmtv.com/hmtv_logo.svg" group-title="Music" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Music" x-source-check="daily",HMTV (720p)
+https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8
+#EXTINF:-1 tvg-id="NewsCentral.ng@SD" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="News" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="News" x-source-check="daily",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SilverbirdNews24.ng@SD" tvg-logo="https://i.imgur.com/9jcV9oG.png" group-title="News" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="News" x-source-check="daily",Silverbird News 24 (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ACNN.ng@SD" tvg-logo="https://i.imgur.com/91JLpxr.png" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",ACNN (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChosenTVEnglish.ng@SD" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",Chosen TV English (360p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CozaTV.ng@SD" tvg-logo="https://i.imgur.com/QVBdpuF.png" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",Coza TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FlameTV.ng@SD" tvg-logo="https://i.imgur.com/ORKcnzr.png" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",Flame TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldArabic.ng@SD" tvg-logo="https://i.imgur.com/KYMjRjK.png" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",LoveWorld Arabic (360p)
+https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldPersia.ng@SD" tvg-logo="https://i.imgur.com/Vd2xPxh.png" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",LoveWorld Persia (720p)
+https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldUK.ng@SD" tvg-logo="https://i.imgur.com/JgHbDmF.png" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",Loveworld UK (1080p) [Not 24/7]
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldUSA.ng@SD" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",LoveWorld USA (720p)
+https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="Religious" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Religious" x-source-check="daily",LoveworldSAT (1080p)
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+#EXTINF:-1 tvg-id="BrideTV.ng@SD" tvg-logo="https://i.imgur.com/snZMucg.png" group-title="Undefined" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Undefined" x-source-check="daily",Bride TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RaveTV.ng@SD" tvg-logo="https://i.imgur.com/pXKQE0G.png" group-title="Undefined" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Undefined" x-source-check="daily",Rave TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SalvationTV.ng@SD" tvg-logo="https://i.imgur.com/Nb08dfK.png" group-title="Undefined" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Undefined" x-source-check="daily",Salvation TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SunnaTV.ng@SD" tvg-logo="https://i.imgur.com/K2Snk2T.png" group-title="Undefined" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Undefined" x-source-check="daily",Sunna TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SynagogueTV.ng@SD" tvg-logo="https://i.imgur.com/MOaBr9M.png" group-title="Undefined" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Undefined" x-source-check="daily",Synagogue TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVC.ng@SD" tvg-logo="https://i.imgur.com/ReV8R5S.png" group-title="Undefined" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Undefined" x-source-check="daily",TVC (720p)
+http://212.5.144.156:8080/tvc/index.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng@SD" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="Undefined" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Undefined" x-source-check="daily",Wazobia Max TV Nigeria (720p)
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng@SD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="Undefined" x-country-code="ng" x-country-name="🇳🇬 Nigeria" x-original-group="Undefined" x-source-check="daily",Wazobia Max TV Port Harcourt (720p)
+https://wazobia.live:8333/channel/wmaxph.m3u8
+#COUNTRY-AUDIT|kp|North Korea|🇰🇵|4|daily
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" tvg-logo="https://i.imgur.com/1BHJjY4.png" group-title="Education" x-country-code="kp" x-country-name="🇰🇵 North Korea" x-original-group="Education" x-source-check="daily",Ryongnamsan Television SD (720p) [Not 24/7]
+https://live.koryocdn.org/ryongnamsan/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="General" x-country-code="kp" x-country-name="🇰🇵 North Korea" x-original-group="General" x-source-check="daily",Korean Central Television (1080p) [Not 24/7]
+https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="General" x-country-code="kp" x-country-name="🇰🇵 North Korea" x-original-group="General" x-source-check="daily",Korean Central Television (KCTV) (576p)
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36
+https://streamer.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="Sports" x-country-code="kp" x-country-name="🇰🇵 North Korea" x-original-group="Sports" x-source-check="daily",Sports Television (720p) [Not 24/7]
+https://live.koryocdn.org/sports/index.m3u8
+#COUNTRY-AUDIT|mk|North Macedonia|🇲🇰|9|daily
+#EXTINF:-1 tvg-id="CoolTV.mk@SD" tvg-logo="https://i.imgur.com/2tFrjUz.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="daily",Cool TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-id="NasaTV.mk@SD" tvg-logo="https://i.imgur.com/9rB4VZy.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="daily",Naša TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="TVNOVA12.mk@SD" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="daily",TV NOVA 12 (576p) [Not 24/7]
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-id="TVZdravkin.mk@SD" tvg-logo="https://i.imgur.com/w4rRUNQ.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="daily",TV Zdravkin (400p)
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-id="FolkTV.mk@SD" tvg-logo="https://i.imgur.com/4b9aZ9P.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="daily",Folk TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-id="LoveTV.mk@SD" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="daily",Love TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" tvg-logo="https://i.imgur.com/ya5xpUL.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="daily",Sky Folk TV (720p) [Not 24/7]
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="TopEstradaTV.mk@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5Regf9pPTMfNnFdU23otlXsvGzUmjsuHxfYaTdrWwA&s" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="daily",TopEstrada TV (720p)
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="Sitel.mk@SD" tvg-logo="https://i.imgur.com/pdobwKt.png" group-title="Undefined" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Undefined" x-source-check="daily",Sitel (480p)
+https://teve.mk/tvstanici/s1/playlist.m3u8
+#COUNTRY-AUDIT|no|Norway|🇳🇴|4|daily
+#EXTINF:-1 tvg-id="CanalMotor.no@SD" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-title="Auto" x-country-code="no" x-country-name="🇳🇴 Norway" x-original-group="Auto" x-source-check="daily",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+#EXTINF:-1 tvg-id="Frikanalen.no@SD" tvg-logo="https://i.imgur.com/rY3Owxl.png" group-title="General" x-country-code="no" x-country-name="🇳🇴 Norway" x-original-group="General" x-source-check="daily",Frikanalen (720p)
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVModum.no@SD" tvg-logo="https://i.imgur.com/kljua5X.png" group-title="General" x-country-code="no" x-country-name="🇳🇴 Norway" x-original-group="General" x-source-check="daily",TV Modum (720p)
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
+#EXTINF:-1 tvg-id="TVOstfold.no@SD" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="General" x-country-code="no" x-country-name="🇳🇴 Norway" x-original-group="General" x-source-check="daily",TV Østfold (1080p)
+https://streamnorge.com:8088/hls/tvo.m3u8
+#COUNTRY-AUDIT|om|Oman|🇴🇲|4|daily
+#EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Culture" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="Culture" x-source-check="daily",Oman Althakafia (1080p)
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="General" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="General" x-source-check="daily",Oman TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="News" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="News" x-source-check="daily",Oman Mubashir (1080p)
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlistiqamaTV.om@SD" tvg-logo="https://i.imgur.com/2FPtYZr.png" group-title="Religious" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="Religious" x-source-check="daily",Alistiqama TV (576p)
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#COUNTRY-AUDIT|pk|Pakistan|🇵🇰|47|daily
+#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Animation;Kids" x-source-check="daily",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+#EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="Cooking" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Cooking" x-source-check="daily",Masala TV
+https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
+#EXTINF:-1 tvg-id="APlusTV.pk@SD" tvg-logo="https://i.imgur.com/uu0UJme.png" group-title="Entertainment" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Entertainment" x-source-check="daily",A-Plus TV
+https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+#EXTINF:-1 tvg-id="BolEntertainment.pk@HD" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Entertainment" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Entertainment" x-source-check="daily",Bol Entertainment HD
+https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+#EXTINF:-1 tvg-id="FalakTV.pk@SD" tvg-logo="https://i.imgur.com/2TqlNsI.png" group-title="Entertainment" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Entertainment" x-source-check="daily",Falak TV
+https://falak.rst.ae/index.m3u8
+#EXTINF:-1 tvg-id="HumTV.pk@HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Entertainment" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Entertainment" x-source-check="daily",Hum TV (720p)
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="HumTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Entertainment" x-source-check="daily",Hum TV SD
+https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
+#EXTINF:-1 tvg-id="aurLifeHD.pk@SD" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="General" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="General" x-source-check="daily",aurLife HD (614p)
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="JeremiahTV.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" group-title="General" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="General" x-source-check="daily",Jeremiah TV
+https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8
+#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Kids" x-source-check="daily",Minimax (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Kids;Religious" x-source-check="daily",God Stands Kids Club TV Arabic
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Kids;Religious" x-source-check="daily",God Stands Kids Club TV Chinese
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Kids;Religious" x-source-check="daily",God Stands Kids Club TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Kids;Religious" x-source-check="daily",God Stands Kids Club TV Urdu
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1 tvg-id="8XM.pk@HD" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" group-title="Music" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Music" x-source-check="daily",8XM HD
+https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
+#EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-logo="https://i.imgur.com/HWb5Iat.png" group-title="Music" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Music" x-source-check="daily",Jalwa TV
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
+#EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Music" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Music" x-source-check="daily",JooMusic (720p)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="24NewsHD.pk@SD" tvg-logo="https://i.imgur.com/IH6AaWm.jpeg" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",24 News HD
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+#EXTINF:-1 tvg-id="365News.pk@SD" tvg-logo="https://i.imgur.com/8I6PWof.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",365 News
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
+#EXTINF:-1 tvg-id="ABNNews.pk@SD" tvg-logo="https://i.imgur.com/R7BThkR.jpeg" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",ABN News (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+#EXTINF:-1 tvg-id="CapitalTV.pk@SD" tvg-logo="https://i.imgur.com/UxAE5O4.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",Capital TV
+https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+#EXTINF:-1 tvg-id="DunyaNews.pk@SD" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",Dunya News (INT Feed) (720p) [Not 24/7]
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="KTNNews.pk@SD" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",KTN News (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
+#EXTINF:-1 tvg-id="LahoreNews.pk@SD" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",Lahore News (720p) [Not 24/7]
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MNews.pk@SD" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",M News (1080p)
+https://cdn.rabta.stream/M-News/index.m3u8
+#EXTINF:-1 tvg-id="NeoNews.pk@SD" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",Neo News (1080p)
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsOne.pk@SD" tvg-logo="https://i.imgur.com/2N45SPQ.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",News One (720p)
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",Sky News Urdu (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+#EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="News" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="News" x-source-check="daily",Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",Fazal TV (1080p)
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Arabic" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",God Stands TV Arabic
+https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk@English" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",God Stands TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Punjabi" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",God Stands TV Punjabi
+https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Tagalog" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",God Stands TV Tagalog
+https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
+#EXTINF:-1 tvg-id="GraceNetwork.pk@SD" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",Grace Network (720p)
+https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaacTV.pk@SD" tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",Isaac TV (720p)
+https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JoshuaTV.pk@SD" tvg-logo="https://i.imgur.com/x9xPR2h.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",Joshua TV (720p)
+https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KingTV.pk@SD" tvg-logo="https://i.imgur.com/dujrwRE.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",King TV (720p) [Not 24/7]
+https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk@SD" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",Madani Channel English (720p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk@SD" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious" x-source-check="daily",Madani Channel Urdu (720p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 tvg-id="PaighanTV.pk@SD" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="Religious;Education" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Religious;Education" x-source-check="daily",Paighan TV
+https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+#EXTINF:-1 tvg-id="MSports.pk@SD" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Sports" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Sports" x-source-check="daily",M Sports (1080p)
+https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Travel" x-source-check="daily",Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="PMITV.pk@SD" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Undefined" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Undefined" x-source-check="daily",PMI TV (720p) [Not 24/7]
+https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PraiseTV.pk@SD" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Undefined" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Undefined" x-source-check="daily",Praise TV (720p)
+https://livecdn.live247stream.com/praise/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SamaaTV.pk@SD" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="Undefined" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Undefined" x-source-check="daily",Samaa TV (576p)
+https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+#EXTINF:-1 tvg-id="ZindagiTV.pk@SD" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined" x-country-code="pk" x-country-name="🇵🇰 Pakistan" x-original-group="Undefined" x-source-check="daily",Zindagi TV (576p) [Not 24/7]
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
