@@ -1,0 +1,1405 @@
+{
+  "priority": {
+    "af": [
+      "RTA",
+      "TOLO TV",
+      "TOLOnews",
+      "Ariana TV",
+      "Shamshad TV",
+      "Lemar TV",
+      "1TV Afghanistan"
+    ],
+    "al": [
+      "Top Channel",
+      "TV Klan",
+      "RTSH",
+      "Vizion Plus",
+      "Klan News"
+    ],
+    "dz": [
+      "EPTV",
+      "TV1",
+      "TV2",
+      "TV3",
+      "TV4",
+      "TV5",
+      "TV6",
+      "Echorouk",
+      "El-Heddaf TV",
+      "El Bilad",
+      "Ennahar",
+      "Elwatania TV",
+      "AL24 News"
+    ],
+    "ad": [
+      "Andorra TV",
+      "ATV"
+    ],
+    "ao": [
+      "TPA 1",
+      "TPA1",
+      "TPA 2",
+      "TPA2",
+      "TV Zimbo",
+      "ZAP Viva",
+      "KK TV Angola"
+    ],
+    "ag": [
+      "ABS TV",
+      "Pointe TV"
+    ],
+    "ar": [
+      "Telefe",
+      "El Trece",
+      "América TV",
+      "America TV",
+      "TV Pública",
+      "TV Publica",
+      "TN",
+      "Canal 9",
+      "C5N",
+      "Televisión Pública"
+    ],
+    "am": [
+      "Armenia 1",
+      "Armenia TV",
+      "Shant",
+      "Kentron",
+      "5TV"
+    ],
+    "au": [
+      "ABC TV",
+      "ABC News",
+      "Seven",
+      "9 Network",
+      "Nine",
+      "Network 10",
+      "SBS",
+      "Sky News Australia"
+    ],
+    "at": [
+      "ORF 1",
+      "ORF 2",
+      "ServusTV",
+      "ATV",
+      "Puls 4"
+    ],
+    "az": [
+      "AzTV",
+      "İctimai",
+      "Ictimai",
+      "ATV Azerbaijan",
+      "Xəzər",
+      "Khazar",
+      "CBC Azerbaijan",
+      "ARB 24"
+    ],
+    "bs": [
+      "ZNS-TV",
+      "ZNS",
+      "Our TV"
+    ],
+    "bh": [
+      "Bahrain TV",
+      "Bahrain International",
+      "Bahrain Sports"
+    ],
+    "bd": [
+      "BTV",
+      "Channel i",
+      "NTV",
+      "Somoy TV",
+      "Jamuna TV",
+      "Independent TV",
+      "Channel 24",
+      "RTV",
+      "Maasranga",
+      "ATN Bangla"
+    ],
+    "bb": [
+      "CBC TV8",
+      "CBC"
+    ],
+    "by": [
+      "Belarus 1",
+      "ONT",
+      "STV",
+      "Belarus 24"
+    ],
+    "be": [
+      "VRT 1",
+      "VRT1",
+      "VTM",
+      "RTBF",
+      "La Une",
+      "RTL-TVI",
+      "LN24"
+    ],
+    "bz": [
+      "Great Belize Television",
+      "Channel 5 Belize",
+      "GBTV"
+    ],
+    "bj": [
+      "ORTB",
+      "Eden TV",
+      "Canal 3",
+      "TVC Bénin"
+    ],
+    "bt": [
+      "BBS",
+      "Bhutan Broadcasting",
+      "BBS TV"
+    ],
+    "bo": [
+      "Unitel",
+      "Red Uno",
+      "Bolivia TV",
+      "ATB",
+      "Bolivisión",
+      "Bolivision",
+      "PAT"
+    ],
+    "ba": [
+      "BHRT",
+      "FTV",
+      "RTRS",
+      "Hayat TV",
+      "N1",
+      "Face TV"
+    ],
+    "bw": [
+      "BTV",
+      "Botswana Television"
+    ],
+    "br": [
+      "TV Globo",
+      "Globo",
+      "Record TV",
+      "SBT",
+      "Band",
+      "RedeTV",
+      "TV Brasil",
+      "GloboNews"
+    ],
+    "bn": [
+      "RTB Perdana",
+      "RTB Aneka",
+      "RTB Sukmaindera",
+      "RTB"
+    ],
+    "bg": [
+      "BNT",
+      "bTV",
+      "Nova TV",
+      "Bulgaria ON AIR",
+      "Bulgaria 24"
+    ],
+    "bf": [
+      "RTB",
+      "BF1",
+      "Savane TV",
+      "Burkina Info"
+    ],
+    "bi": [
+      "RTNB",
+      "Burundi National Television"
+    ],
+    "kh": [
+      "TVK",
+      "CNC",
+      "Bayon TV",
+      "PNN",
+      "CTN",
+      "EAC News",
+      "Fresh News"
+    ],
+    "cm": [
+      "CRTV",
+      "Canal 2 International",
+      "Equinoxe",
+      "STV Cameroon"
+    ],
+    "ca": [
+      "CBC",
+      "CTV",
+      "Global",
+      "Citytv",
+      "TVA",
+      "Radio Canada",
+      "CBC News",
+      "CP24"
+    ],
+    "cv": [
+      "TCV",
+      "RTC",
+      "Record Cabo Verde"
+    ],
+    "td": [
+      "Télé Tchad",
+      "Tele Tchad"
+    ],
+    "cl": [
+      "Mega",
+      "Chilevisión",
+      "Chilevision",
+      "Canal 13",
+      "TVN",
+      "24 Horas",
+      "CNN Chile"
+    ],
+    "cn": [
+      "CCTV-1",
+      "CCTV 1",
+      "CCTV-13",
+      "CCTV News",
+      "CGTN",
+      "Hunan TV",
+      "Dragon TV",
+      "Zhejiang TV",
+      "Beijing TV",
+      "Shanghai TV"
+    ],
+    "co": [
+      "Caracol",
+      "RCN",
+      "Canal 1",
+      "Señal Colombia",
+      "Senal Colombia",
+      "Citytv",
+      "NTN24"
+    ],
+    "km": [
+      "ORTC",
+      "Comores TV"
+    ],
+    "cg": [
+      "Télé Congo",
+      "Tele Congo",
+      "DRTV",
+      "VoxTV"
+    ],
+    "cd": [
+      "RTNC",
+      "Digital Congo",
+      "Télé 50",
+      "Tele 50",
+      "Molière TV",
+      "Moliere TV",
+      "Antenne A"
+    ],
+    "cr": [
+      "Teletica",
+      "Repretel",
+      "SINART",
+      "Canal 13"
+    ],
+    "ci": [
+      "RTI 1",
+      "RTI 2",
+      "NCI",
+      "Life TV",
+      "7info",
+      "A+ Ivoire"
+    ],
+    "hr": [
+      "HRT 1",
+      "HRT1",
+      "HRT 2",
+      "Nova TV",
+      "RTL",
+      "Doma TV"
+    ],
+    "cu": [
+      "Cubavision",
+      "CubaVision",
+      "Tele Rebelde",
+      "Canal Caribe",
+      "Cubavision Internacional"
+    ],
+    "cy": [
+      "RIK 1",
+      "RIK 2",
+      "RIK HD",
+      "Sigma TV",
+      "ANT1 Cyprus",
+      "Omega Channel",
+      "Alpha TV"
+    ],
+    "cz": [
+      "ČT1",
+      "CT1",
+      "ČT2",
+      "CT2",
+      "Nova",
+      "Prima",
+      "CNN Prima News"
+    ],
+    "dk": [
+      "DR1",
+      "TV 2",
+      "TV2",
+      "DR2",
+      "TV 2 News"
+    ],
+    "dj": [
+      "RTD"
+    ],
+    "dm": [
+      "DBS TV",
+      "Marpin TV"
+    ],
+    "do": [
+      "Telesistema",
+      "Color Visión",
+      "Color Vision",
+      "Telemicro",
+      "Antena 7",
+      "CDN"
+    ],
+    "ec": [
+      "Ecuavisa",
+      "Teleamazonas",
+      "TC Televisión",
+      "TC Television",
+      "Ecuador TV",
+      "RTS"
+    ],
+    "eg": [
+      "ON TV",
+      "CBC Egypt",
+      "DMC",
+      "Al Hayat",
+      "Nile TV",
+      "Extra News"
+    ],
+    "sv": [
+      "TCS",
+      "Canal 2",
+      "Canal 4",
+      "Canal 6",
+      "Canal 10",
+      "Megavisión",
+      "Megavision"
+    ],
+    "gq": [
+      "TVGE",
+      "Asonga TV"
+    ],
+    "er": [
+      "ERI-TV",
+      "ERi-TV"
+    ],
+    "ee": [
+      "ETV",
+      "Kanal 2",
+      "TV3",
+      "Duo 4"
+    ],
+    "et": [
+      "EBC",
+      "ETV",
+      "Fana TV",
+      "Walta TV",
+      "Amhara TV"
+    ],
+    "fj": [
+      "FBC TV",
+      "Fiji One",
+      "Fiji TV"
+    ],
+    "fi": [
+      "Yle TV1",
+      "Yle TV2",
+      "MTV3",
+      "Nelonen"
+    ],
+    "fr": [
+      "TF1",
+      "France 2",
+      "France 3",
+      "M6",
+      "BFM TV",
+      "France 24",
+      "Arte"
+    ],
+    "ga": [
+      "Gabon 1ère",
+      "Gabon 24",
+      "Télé Africa"
+    ],
+    "gm": [
+      "GRTS",
+      "QTV",
+      "Paradise TV"
+    ],
+    "ge": [
+      "Imedi",
+      "Rustavi 2",
+      "TV Pirveli",
+      "1TV",
+      "Formula"
+    ],
+    "de": [
+      "Das Erste",
+      "ZDF",
+      "RTL",
+      "Sat.1",
+      "ProSieben",
+      "RTL Zwei",
+      "n-tv",
+      "WELT",
+      "Kabel Eins"
+    ],
+    "gh": [
+      "TV3",
+      "GTV",
+      "UTV",
+      "Joy News",
+      "Metro TV",
+      "Adom TV"
+    ],
+    "gr": [
+      "MEGA",
+      "ANT1",
+      "Alpha",
+      "Star Channel",
+      "SKAI",
+      "ERT1",
+      "ERT News"
+    ],
+    "gt": [
+      "Canal 3",
+      "Guatevisión",
+      "Guatevision",
+      "Azteca Guatemala",
+      "TV Maya",
+      "TN23"
+    ],
+    "gn": [
+      "RTG",
+      "Espace TV",
+      "Evasion TV",
+      "Kalac TV"
+    ],
+    "gw": [
+      "TGB",
+      "TV Guiné-Bissau",
+      "TV Guine-Bissau"
+    ],
+    "gy": [
+      "NCN",
+      "HGPTV",
+      "Guyana Chronicle TV",
+      "GTN"
+    ],
+    "ht": [
+      "TNH",
+      "Télé Haïti",
+      "Tele Haiti",
+      "Radio Télé Ginen",
+      "Radio Tele Ginen",
+      "Canal 11",
+      "Télé Caraïbes"
+    ],
+    "hn": [
+      "Televicentro",
+      "Canal 5",
+      "HCH",
+      "Telecadena 7/4"
+    ],
+    "hu": [
+      "M1",
+      "Duna",
+      "RTL",
+      "TV2",
+      "ATV"
+    ],
+    "is": [
+      "RÚV",
+      "RUV",
+      "Stöð 2",
+      "Stod 2",
+      "N4"
+    ],
+    "in": [
+      "DD National",
+      "STAR Maa",
+      "Star Maa",
+      "Star Utsav",
+      "Sun TV",
+      "SONY SAB",
+      "Sony SAB",
+      "Zee Telugu",
+      "Zee TV",
+      "Dangal",
+      "Goldmines",
+      "STAR Plus",
+      "Star Plus",
+      "Sony Pal",
+      "Aaj Tak",
+      "NDTV",
+      "ABP News"
+    ],
+    "id": [
+      "RCTI",
+      "SCTV",
+      "Indosiar",
+      "TV One",
+      "Metro TV",
+      "Kompas TV",
+      "Trans TV",
+      "TVRI",
+      "MNCTV",
+      "GTV",
+      "ANTV"
+    ],
+    "ir": [
+      "IRIB TV1",
+      "IRIB TV3",
+      "IRINN",
+      "Press TV",
+      "Sahar",
+      "iFilm"
+    ],
+    "iq": [
+      "Al Iraqiya",
+      "Al Sharqiya",
+      "NRT",
+      "Rudaw",
+      "Al Sumaria",
+      "Iraqia News"
+    ],
+    "ie": [
+      "RTÉ One",
+      "RTE One",
+      "Virgin Media One",
+      "TG4",
+      "RTÉ News"
+    ],
+    "il": [
+      "Keshet 12",
+      "Reshet 13",
+      "Kan 11",
+      "i24NEWS"
+    ],
+    "it": [
+      "Rai 1",
+      "Canale 5",
+      "Rai 2",
+      "Italia 1",
+      "Rete 4",
+      "La7",
+      "Rai News24"
+    ],
+    "jm": [
+      "TVJ",
+      "CVM TV",
+      "PBCJ",
+      "Jamaica TV"
+    ],
+    "jp": [
+      "NHK General",
+      "NHK General TV",
+      "NHK World-Japan",
+      "Nippon TV",
+      "TV Asahi",
+      "TBS",
+      "Fuji TV",
+      "TV Tokyo"
+    ],
+    "jo": [
+      "Roya TV",
+      "Jordan TV",
+      "AlMamlaka",
+      "JRTV",
+      "Amman TV"
+    ],
+    "kz": [
+      "Qazaqstan",
+      "Khabar",
+      "31 Kanal",
+      "Astana TV",
+      "KTK",
+      "Qazsport"
+    ],
+    "ke": [
+      "Citizen TV",
+      "NTV Kenya",
+      "KTN",
+      "KBC",
+      "K24",
+      "Inooro TV"
+    ],
+    "ki": [
+      "KiriTibati",
+      "Kiribati TV"
+    ],
+    "kp": [
+      "Korean Central Television",
+      "KCTV",
+      "Mansudae",
+      "Ryongnamsan"
+    ],
+    "kr": [
+      "KBS",
+      "MBC",
+      "SBS",
+      "JTBC",
+      "TV Chosun",
+      "YTN",
+      "Arirang"
+    ],
+    "kw": [
+      "KTV 1",
+      "KTV1",
+      "KTV News",
+      "KTV Sport",
+      "Al Rai"
+    ],
+    "kg": [
+      "KTRK",
+      "ELTR",
+      "NTS",
+      "Piramida",
+      "7 Channel"
+    ],
+    "la": [
+      "Lao National TV",
+      "Lao Star",
+      "VTE9",
+      "Champa"
+    ],
+    "lv": [
+      "LTV1",
+      "LTV7",
+      "TV3 Latvia",
+      "TV24"
+    ],
+    "lb": [
+      "LBCI",
+      "MTV Lebanon",
+      "Al Jadeed",
+      "OTV",
+      "NBN",
+      "Tele Liban"
+    ],
+    "ly": [
+      "Libya Al Wataniya",
+      "Libya Al Ahrar",
+      "Alwasat",
+      "Libya 218",
+      "Almasar"
+    ],
+    "lt": [
+      "LRT Televizija",
+      "TV3",
+      "LNK",
+      "Info TV"
+    ],
+    "lu": [
+      "RTL Télé Lëtzebuerg",
+      "RTL Tele Lëtzebuerg",
+      "RTL Zwee",
+      "Eldo"
+    ],
+    "mg": [
+      "TVM",
+      "Kolo TV",
+      "Viva TV",
+      "Real TV"
+    ],
+    "mw": [
+      "MBC Malawi",
+      "Times TV",
+      "Zodiak TV",
+      "Mibawa TV"
+    ],
+    "my": [
+      "TV3",
+      "8TV",
+      "TV9",
+      "TV1",
+      "TV2",
+      "NTV7",
+      "Astro Awani",
+      "Bernama TV",
+      "TV Okey",
+      "RTM ASEAN",
+      "DidikTV"
+    ],
+    "mv": [
+      "PSM",
+      "MNBC One",
+      "Raajje TV",
+      "VTV",
+      "DhiTV"
+    ],
+    "ml": [
+      "ORTM",
+      "Joliba TV News",
+      "Renouveau TV",
+      "Africable"
+    ],
+    "mt": [
+      "TVM",
+      "ONE",
+      "NET"
+    ],
+    "mr": [
+      "TVM",
+      "Al Mouritaniya",
+      "Al-Mouritaniya",
+      "Sahara 24"
+    ],
+    "mu": [
+      "MBC1",
+      "MBC2",
+      "MBC Digital 4",
+      "MBC3"
+    ],
+    "mx": [
+      "Las Estrellas",
+      "Canal 5",
+      "Azteca Uno",
+      "Azteca 7",
+      "Imagen TV",
+      "ADN40",
+      "Multimedios"
+    ],
+    "fm": [
+      "FSM TV"
+    ],
+    "mc": [
+      "TV Monaco",
+      "Monaco Info"
+    ],
+    "mn": [
+      "MNB",
+      "UBS",
+      "NTV Mongolia",
+      "TV9 Mongolia",
+      "TV5"
+    ],
+    "me": [
+      "RTCG",
+      "TVCG",
+      "Vijesti TV",
+      "Prva"
+    ],
+    "ma": [
+      "Al Aoula",
+      "2M",
+      "Arryadia",
+      "Medi1 TV",
+      "Al Maghribia",
+      "Tamazight"
+    ],
+    "mz": [
+      "TVM",
+      "STV",
+      "Miramar",
+      "Soico TV",
+      "TV Sucesso"
+    ],
+    "mm": [
+      "MRTV",
+      "MRTV News",
+      "Channel 7",
+      "MNTV",
+      "DVB"
+    ],
+    "na": [
+      "NBC Namibia",
+      "One Africa TV",
+      "Tjil TV"
+    ],
+    "nr": [
+      "Nauru TV"
+    ],
+    "np": [
+      "Kantipur TV",
+      "AP1",
+      "Himalaya TV",
+      "Image Channel",
+      "NTV",
+      "News24",
+      "ABC TV"
+    ],
+    "nl": [
+      "NPO 1",
+      "RTL 4",
+      "SBS6",
+      "NPO 2",
+      "NPO 3",
+      "RTL 7",
+      "NOS"
+    ],
+    "nz": [
+      "TVNZ 1",
+      "TVNZ1",
+      "TVNZ 2",
+      "Three",
+      "Māori TV",
+      "Maori TV",
+      "Sky Open"
+    ],
+    "ni": [
+      "Canal 2",
+      "Canal 10",
+      "Canal 4",
+      "100% Noticias"
+    ],
+    "ne": [
+      "Télé Sahel",
+      "Tele Sahel",
+      "RTN",
+      "Tal TV"
+    ],
+    "ng": [
+      "Channels TV",
+      "AIT",
+      "NTA",
+      "TVC",
+      "Arise News",
+      "News Central",
+      "Silverbird",
+      "Wazobia Max"
+    ],
+    "mk": [
+      "MRT 1",
+      "MRT1",
+      "Sitel",
+      "Kanal 5",
+      "Telma",
+      "Alsat",
+      "Alfa"
+    ],
+    "no": [
+      "NRK1",
+      "NRK 1",
+      "TV 2",
+      "TV2",
+      "TVNorge",
+      "NRK2",
+      "TV3"
+    ],
+    "om": [
+      "Oman TV",
+      "Oman Mubasher",
+      "Oman Cultural",
+      "Oman Sports"
+    ],
+    "pk": [
+      "PTV Home",
+      "Geo News",
+      "ARY News",
+      "Hum News",
+      "Dunya",
+      "Samaa",
+      "Express News",
+      "Dawn News",
+      "PTV Sports"
+    ],
+    "pw": [
+      "Palau TV",
+      "Palau Wave"
+    ],
+    "pa": [
+      "TVN",
+      "RPC",
+      "Telemetro",
+      "TV MAX",
+      "SERTV",
+      "Nex"
+    ],
+    "pg": [
+      "EMTV",
+      "NBC TV",
+      "NBC Papua New Guinea"
+    ],
+    "py": [
+      "SNT",
+      "Telefuturo",
+      "Trece",
+      "Paraguay TV",
+      "NPY"
+    ],
+    "pe": [
+      "América Televisión",
+      "America Television",
+      "Latina",
+      "Panamericana",
+      "ATV",
+      "TV Perú",
+      "TV Peru",
+      "Willax",
+      "RPP TV"
+    ],
+    "ph": [
+      "GMA",
+      "TV5",
+      "ABS-CBN",
+      "A2Z",
+      "PTV",
+      "ANC",
+      "GTV"
+    ],
+    "pl": [
+      "TVP1",
+      "TVP2",
+      "Polsat",
+      "TVN",
+      "TV4",
+      "TVP Info",
+      "Republika"
+    ],
+    "pt": [
+      "RTP1",
+      "SIC",
+      "TVI",
+      "CMTV",
+      "RTP3",
+      "CNN Portugal"
+    ],
+    "qa": [
+      "Qatar TV",
+      "Al Jazeera",
+      "Alkass"
+    ],
+    "ro": [
+      "Pro TV",
+      "Antena 1",
+      "Kanal D",
+      "TVR1",
+      "Digi24",
+      "Antena 3",
+      "B1"
+    ],
+    "ru": [
+      "Channel One",
+      "Russia 1",
+      "NTV",
+      "REN TV",
+      "5 Kanal",
+      "TV Centre",
+      "RT",
+      "RBC"
+    ],
+    "rw": [
+      "RwandaTV",
+      "TV10",
+      "BTN TV",
+      "Isango",
+      "RBA"
+    ],
+    "kn": [
+      "ZIZ TV",
+      "Nevis TV",
+      "Caribbean TV"
+    ],
+    "lc": [
+      "DBS TV",
+      "HTS Channel 4",
+      "MBC TV"
+    ],
+    "vc": [
+      "SVG TV",
+      "VC3 TV"
+    ],
+    "ws": [
+      "TV1 Samoa",
+      "TV Samoa"
+    ],
+    "sm": [
+      "San Marino RTV",
+      "RTV San Marino"
+    ],
+    "st": [
+      "TVS Sao Tome",
+      "TV São Tomé",
+      "TV Sao Tome"
+    ],
+    "sa": [
+      "Al Saudiya",
+      "Al Ekhbariya",
+      "SBC",
+      "MBC",
+      "Rotana",
+      "Al Arabiya",
+      "Asharq News"
+    ],
+    "sn": [
+      "RTS1",
+      "TFM",
+      "2STV",
+      "Walf TV",
+      "Sen TV",
+      "7TV"
+    ],
+    "rs": [
+      "RTS1",
+      "RTS 1",
+      "Pink",
+      "Prva",
+      "B92",
+      "N1",
+      "Nova S",
+      "Happy"
+    ],
+    "sc": [
+      "SBC",
+      "Seychelles Broadcasting"
+    ],
+    "sl": [
+      "SLBC",
+      "AYV",
+      "Star TV Sierra Leone"
+    ],
+    "sg": [
+      "Channel 5",
+      "Channel 8",
+      "CNA",
+      "Suria",
+      "Vasantham",
+      "Mediacorp"
+    ],
+    "sk": [
+      "Jednotka",
+      "Dvojka",
+      "Markíza",
+      "Markiza",
+      "JOJ",
+      "TA3"
+    ],
+    "si": [
+      "RTV SLO 1",
+      "RTV Slovenia",
+      "POP TV",
+      "Kanal A",
+      "Planet TV"
+    ],
+    "sb": [
+      "Solomon Islands Broadcasting",
+      "SIBC"
+    ],
+    "so": [
+      "Somali National TV",
+      "SNTV",
+      "Horn Cable TV",
+      "Universal TV",
+      "SBC TV",
+      "Puntland TV"
+    ],
+    "za": [
+      "SABC 1",
+      "SABC 2",
+      "SABC 3",
+      "e.tv",
+      "Newzroom Afrika",
+      "eNCA",
+      "kykNET",
+      "WildEarth"
+    ],
+    "ss": [
+      "SSBC",
+      "South Sudan Broadcasting"
+    ],
+    "es": [
+      "La 1",
+      "Antena 3",
+      "Telecinco",
+      "Cuatro",
+      "La Sexta",
+      "TV3",
+      "24h",
+      "RTVE"
+    ],
+    "lk": [
+      "Sirasa",
+      "Hiru",
+      "Derana",
+      "ITN",
+      "Rupavahini",
+      "Swarnavahini",
+      "TV1"
+    ],
+    "sd": [
+      "Sudan TV",
+      "Blue Nile TV",
+      "Ashorooq TV",
+      "Sudan Bukra"
+    ],
+    "sr": [
+      "STVS",
+      "ATV Suriname",
+      "Apintie TV",
+      "SCCN",
+      "Garuda TV"
+    ],
+    "se": [
+      "SVT1",
+      "SVT2",
+      "TV4",
+      "TV3",
+      "Kanal 5",
+      "TV6"
+    ],
+    "ch": [
+      "SRF 1",
+      "SRF zwei",
+      "RTS 1",
+      "RSI LA 1",
+      "3+",
+      "TeleZüri"
+    ],
+    "sy": [
+      "Alikhbaria Syria",
+      "Syria TV",
+      "Al-Souriya",
+      "Sham FM"
+    ],
+    "tj": [
+      "TV Tojikiston",
+      "Safina",
+      "Jahonnamo",
+      "Bahoriston",
+      "Sinamo"
+    ],
+    "tz": [
+      "ITV Tanzania",
+      "TBC1",
+      "Azam TV",
+      "Clouds TV",
+      "Star TV",
+      "Channel Ten"
+    ],
+    "th": [
+      "Channel 3",
+      "Channel 7",
+      "Thai PBS",
+      "One 31",
+      "Workpoint",
+      "Thairath TV",
+      "Amarin"
+    ],
+    "tl": [
+      "RTTL",
+      "TV Edukasaun"
+    ],
+    "tg": [
+      "TVT",
+      "New World TV",
+      "Television Espoir",
+      "LCF"
+    ],
+    "to": [
+      "TBC Tonga"
+    ],
+    "tt": [
+      "CNC3",
+      "TV6",
+      "TTT",
+      "Gayelle",
+      "Now TV"
+    ],
+    "tn": [
+      "Wataniya 1",
+      "Wataniya 2",
+      "Hannibal",
+      "Nessma",
+      "Mosaïque",
+      "El Hiwar"
+    ],
+    "tm": [
+      "Altyn Asyr",
+      "Türkmen Owazy",
+      "Miras",
+      "Ýaşlyk",
+      "Türkmenistan Sport"
+    ],
+    "tv": [
+      "Tuvalu TV"
+    ],
+    "ug": [
+      "NTV Uganda",
+      "NBS TV",
+      "Bukedde",
+      "UBC",
+      "Pearl Magic"
+    ],
+    "ua": [
+      "1+1",
+      "ICTV",
+      "STB",
+      "Suspilne",
+      "24 Kanal",
+      "Espresso"
+    ],
+    "ae": [
+      "Dubai TV",
+      "Abu Dhabi TV",
+      "Sharjah TV",
+      "Al Arabiya",
+      "Sky News Arabia",
+      "Al Mashhad"
+    ],
+    "uk": [
+      "BBC One",
+      "ITV1",
+      "Channel 4",
+      "Channel 5",
+      "BBC News",
+      "Sky News",
+      "GB News",
+      "BBC Parliament",
+      "BBC Two"
+    ],
+    "us": [
+      "CBS",
+      "NBC",
+      "ABC",
+      "FOX",
+      "Fox News",
+      "ESPN",
+      "Univision",
+      "Telemundo",
+      "MS NOW",
+      "MSNBC",
+      "TNT",
+      "PBS",
+      "CNN",
+      "CNBC"
+    ],
+    "uy": [
+      "Canal 10",
+      "Teledoce",
+      "Monte Carlo TV",
+      "TV Ciudad",
+      "Canal 4",
+      "VTV"
+    ],
+    "uz": [
+      "Uzbekistan 24",
+      "O'zbekiston",
+      "Yoshlar",
+      "Milliy TV",
+      "Sevimli",
+      "MY5",
+      "Zo'r TV"
+    ],
+    "vu": [
+      "VBTC",
+      "TBN Vanuatu"
+    ],
+    "ve": [
+      "Venevisión",
+      "Venevision",
+      "Televen",
+      "VTV",
+      "Globovisión",
+      "Globovision",
+      "Telesur",
+      "Meridiano"
+    ],
+    "vn": [
+      "VTV1",
+      "VTV3",
+      "VTV4",
+      "HTV7",
+      "VTC1",
+      "THVL"
+    ],
+    "ye": [
+      "Yemen TV",
+      "Yemen Shabab",
+      "Al Masirah",
+      "Yemen Today"
+    ],
+    "zm": [
+      "ZNBC",
+      "Muvi TV",
+      "Diamond TV",
+      "Prime TV"
+    ],
+    "zw": [
+      "ZBC TV",
+      "ZTN",
+      "3K TV",
+      "Heritage TV"
+    ]
+  },
+  "aliases": {
+    "cy": [
+      "ANT1 Cyprus",
+      "Omega Channel",
+      "RIK 1",
+      "RIK 2"
+    ],
+    "xk": [
+      "RTK 1",
+      "RTK 2",
+      "RTK 3",
+      "Kohavision",
+      "RTV21"
+    ],
+    "eh": [
+      "RASD TV",
+      "SADR TV"
+    ],
+    "hk": [
+      "TVB Jade",
+      "Jade",
+      "TVB News",
+      "ViuTV",
+      "HOY TV"
+    ],
+    "mo": [
+      "TDM",
+      "TDM Macau",
+      "Macau Lotus"
+    ],
+    "fo": [
+      "Kringvarp Føroya",
+      "KVF"
+    ],
+    "gl": [
+      "KNR TV",
+      "KNR Greenland"
+    ],
+    "pr": [
+      "WIPR",
+      "WKAQ",
+      "Telemundo Puerto Rico",
+      "TeleOnce",
+      "WAPA"
+    ],
+    "cw": [
+      "TeleCuraçao",
+      "Nos Pais",
+      "TV Direct 13"
+    ],
+    "gf": [
+      "Guyane La Première",
+      "Télé Péyi",
+      "France 24"
+    ],
+    "nc": [
+      "NC la 1ère",
+      "Nouvelle-Calédonie la 1ère"
+    ],
+    "tw": [
+      "SET News",
+      "TVBS",
+      "CTS",
+      "TTV",
+      "FTV Taiwan",
+      "ETTV",
+      "Formosa TV"
+    ]
+  },
+  "meta": {
+    "prepared": "2026-10-29",
+    "rule": "country-specific order arrays are rank hints; otherwise national/public broadcaster and major-news patterns precede general content"
+  }
+}
