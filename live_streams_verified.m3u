@@ -1433,3 +1433,23 @@ http://sc.brtk.net:8000/
 http://yayin2.canliyayin.org:7052/;*.mp3
 #EXTINF:-1 group-title="Türkiye" tvg-name="Türkiye - Retro Turk",Türkiye - Retro Turk
 https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;
+#EXTINF:-1 group-title="Libya" tvg-name="Libya - Libyana Hits FM",Libya - Libyana Hits FM
+http://proxima.shoutca.st:8946/stream
+#EXTINF:-1 group-title="Libya" tvg-name="Libya - Radio Arts Tripoli",Libya - Radio Arts Tripoli
+https://stream.zeno.fm/z9wfrdpmgg0uv
+#EXTINF:-1 group-title="Libya" tvg-name="Libya - Hala Sabratha",Libya - Hala Sabratha
+http://stream.zeno.fm/1dy2395z3k8uv
+#EXTINF:-1 group-title="Libya" tvg-name="Libya - Radio Nour Al-Iman 105.7 FM",Libya - Radio Nour Al-Iman 105.7 FM
+https://stream.zeno.fm/r6eprdta6nhvv
+#EXTINF:-1 group-title="Libya" tvg-name="Libya - Almunir Radio - Tripoli",Libya - Almunir Radio - Tripoli
+https://live.munir.ly/proxy/almunirtip/stream
+#EXTINF:-1 group-title="Libya" tvg-name="Libya - Almunir Radio - Benghazi",Libya - Almunir Radio - Benghazi
+https://live.munir.ly/proxy/almunir/stream
+#EXTINF:-1 group-title="Türkmenistan" tvg-name="Türkmenistan - Radio Owaz",Türkmenistan - Radio Owaz
+https://radio.telecom.tm/listen/owaz/radio.mp3
+#EXTINF:-1 group-title="Türkmenistan" tvg-name="Türkmenistan - Radio Vatan",Türkmenistan - Radio Vatan
+https://radio.telecom.tm:8010/radio.mp3
+#EXTINF:-1 group-title="Türkmenistan" tvg-name="Türkmenistan - Radio Char Tarapdan",Türkmenistan - Radio Char Tarapdan
+https://radio.telecom.tm:8020/radio.mp3
+#EXTINF:-1 group-title="Türkmenistan" tvg-name="Türkmenistan - Radio Miras",Türkmenistan - Radio Miras
+https://radio.telecom.tm:8030/radio.mp3
