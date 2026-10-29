@@ -143,45 +143,45 @@ http://icecast.vrtcdn.be/mnm-high.mp3
 http://quincy.torontocast.com:1910/stream
 #EXTINF:-1 group-title="Belçika" tvg-name="Belçika - NRJ Belgie",Belçika - NRJ Belgie
 https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - BBC World Service",Birleşik Krallık - BBC World Service
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - BBC World Service",İngiltere - BBC World Service
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Classic FM UK",Birleşik Krallık - Classic FM UK
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Classic FM UK",İngiltere - Classic FM UK
 http://ice-the.musicradio.com/ClassicFMMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - LBC Radio",Birleşik Krallık - LBC Radio
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - LBC Radio",İngiltere - LBC Radio
 http://media-sov.musicradio.com/LBC973MP3Low
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Radio Caroline",Birleşik Krallık - Radio Caroline
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Radio Caroline",İngiltere - Radio Caroline
 http://78.129.202.200:8040/;
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Capital FM London",Birleşik Krallık - Capital FM London
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Capital FM London",İngiltere - Capital FM London
 http://media-ice.musicradio.com/CapitalMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Heart 80s",Birleşik Krallık - Heart 80s
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Heart 80s",İngiltere - Heart 80s
 https://media-ssl.musicradio.com/Heart80sMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Heart London 106.2 [MP3]",Birleşik Krallık - Heart London 106.2 [MP3]
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Heart London 106.2 [MP3]",İngiltere - Heart London 106.2 [MP3]
 http://ice-sov.musicradio.com/HeartLondonMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - TMM 1",Birleşik Krallık - TMM 1
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - TMM 1",İngiltere - TMM 1
 https://listen-msmn.sharp-stream.com/nme1.mp3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - LBC London (National stream)",Birleşik Krallık - LBC London (National stream)
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - LBC London (National stream)",İngiltere - LBC London (National stream)
 http://media-ice.musicradio.com/LBCUKMP3Low
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Gold",Birleşik Krallık - Gold
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Gold",İngiltere - Gold
 https://media-ssl.musicradio.com/GoldMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Heart 70s",Birleşik Krallık - Heart 70s
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Heart 70s",İngiltere - Heart 70s
 https://media-ssl.musicradio.com/Heart70sMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - BBC World Service",Birleşik Krallık - BBC World Service
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - BBC World Service",İngiltere - BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Classic FM",Birleşik Krallık - Classic FM
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Classic FM",İngiltere - Classic FM
 http://media-ice.musicradio.com/ClassicFMMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Smooth Chill",Birleşik Krallık - Smooth Chill
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Smooth Chill",İngiltere - Smooth Chill
 https://media-ssl.musicradio.com/ChillMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Heart Dance",Birleşik Krallık - Heart Dance
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Heart Dance",İngiltere - Heart Dance
 https://media-ssl.musicradio.com/HeartDanceMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Jazz London Radio",Birleşik Krallık - Jazz London Radio
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Jazz London Radio",İngiltere - Jazz London Radio
 http://radio.canstream.co.uk:8075/live.mp3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Heart 90s",Birleşik Krallık - Heart 90s
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Heart 90s",İngiltere - Heart 90s
 https://media-ssl.musicradio.com/Heart90sMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - TMM 2",Birleşik Krallık - TMM 2
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - TMM 2",İngiltere - TMM 2
 https://listen-msmn.sharp-stream.com/nme2.mp3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - RadioX UK",Birleşik Krallık - RadioX UK
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - RadioX UK",İngiltere - RadioX UK
 http://icecast.thisisdax.com/RadioXUKMP3
-#EXTINF:-1 group-title="Birleşik Krallık" tvg-name="Birleşik Krallık - Heart UK",Birleşik Krallık - Heart UK
+#EXTINF:-1 group-title="İngiltere" tvg-name="İngiltere - Heart UK",İngiltere - Heart UK
 http://media-ice.musicradio.com/HeartUKMP3
 #EXTINF:-1 group-title="Bosna-Hersek" tvg-name="Bosna-Hersek - Narodni Radio - Sarajevo",Bosna-Hersek - Narodni Radio - Sarajevo
 http://server1.tnt.ba:8010/
@@ -1453,3 +1453,17 @@ https://radio.telecom.tm:8010/radio.mp3
 https://radio.telecom.tm:8020/radio.mp3
 #EXTINF:-1 group-title="Türkmenistan" tvg-name="Türkmenistan - Radio Miras",Türkmenistan - Radio Miras
 https://radio.telecom.tm:8030/radio.mp3
+#EXTINF:-1 group-title="Kuzey İrlanda" tvg-name="Kuzey İrlanda - Q Radio Belfast",Kuzey İrlanda - Q Radio Belfast
+http://edge-audio-02-gos1.sharp-stream.com/qr967.mp3
+#EXTINF:-1 group-title="Kuzey İrlanda" tvg-name="Kuzey İrlanda - U105",Kuzey İrlanda - U105
+http://gbradio.cdn.tibus.net/U105?ref=rf
+#EXTINF:-1 group-title="İskoçya" tvg-name="İskoçya - Nation Radio Scotland",İskoçya - Nation Radio Scotland
+https://listen-nation.sharp-stream.com/nationscotland.mp3
+#EXTINF:-1 group-title="Galler" tvg-name="Galler - Nation Radio Wales",Galler - Nation Radio Wales
+https://listen-nation.sharp-stream.com/tcnation.mp3
+#EXTINF:-1 group-title="Galler" tvg-name="Galler - Bridge FM Radio",Galler - Bridge FM Radio
+https://listen-nation.sharp-stream.com/tcbridge.mp3
+#EXTINF:-1 group-title="Galler" tvg-name="Galler - Radio Carmarthenshire",Galler - Radio Carmarthenshire
+https://listen-nation.sharp-stream.com/tccarmarthenshire.mp3
+#EXTINF:-1 group-title="Galler" tvg-name="Galler - Radio Pembrokeshire",Galler - Radio Pembrokeshire
+https://listen-nation.sharp-stream.com/tcpembrokeshire.mp3
