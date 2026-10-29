@@ -1,0 +1,368 @@
+#EXTM3U
+#STAGE|tv_work/raw_03.m3u|source=AdeelWajid/iptv_validated_list
+#COUNTRY-AUDIT|bn|Brunei|🇧🇳|0|no validated country file
+#COUNTRY-AUDIT|bg|Bulgaria|🇧🇬|27|validated source available
+#EXTINF:-1 tvg-id="ViasatExplore.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" group-title="Documentary" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Documentary",Viasat Explore (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" group-title="Documentary" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Documentary",Viasat History (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Documentary" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Documentary",Viasat Nature (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entertainment" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Entertainment",This is Bulgaria HD (1080p)
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" group-title="General" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="General",BNT 1 (1080p)
+https://shift03.isp.bg/BNT1_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" group-title="General" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="General",BNT 3 (1080p)
+https://shift03.isp.bg/BNT3_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" group-title="General" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="General",BNT 4 (1080p)
+https://shift03.isp.bg/BNT4_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg@SD" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="General" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="General",TV Spravedliva Bulgariya
+https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 tvg-id="TVZagora.bg@SD" tvg-logo="https://i.imgur.com/DvBboqe.png" group-title="General" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="General",TV Zagora (576p)
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Kids",Disney Channel (576i)
+http://87.120.179.187:8000/play/a010
+#EXTINF:-1 tvg-id="EKids.bg@SD" group-title="Kids" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Kids",EKids (576p)
+http://78.108.244.134:8899/ekids
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Kids",Nickelodeon
+http://87.120.179.187:8000/play/a00x
+#EXTINF:-1 tvg-id="CodeFashionTV.bg@SD" tvg-logo="https://i.imgur.com/mVc2g64.png" group-title="Lifestyle" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Lifestyle",Code Fashion TV (1080p)
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 tvg-id="CodeHealthTV.bg@SD" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="Lifestyle" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Lifestyle",Code Health TV (1080p)
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-id="cinebox.bg@SD" group-title="Movies" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Movies",cine.box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://212.70.131.37:8000/play/a08b
+#EXTINF:-1 tvg-id="MovieStar.bg@SD" tvg-logo="https://i.imgur.com/DdZH49P.png" group-title="Movies" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Movies",Movie Star (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 tvg-id="TV1000.bg@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="Movies" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Movies",TV1000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="Music" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Music",City TV (576p) [Not 24/7]
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Music" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Music",DSTV (614p) [Not 24/7]
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="Music" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Music",Magic TV (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="Music" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Music",The Voice TV (720p)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="Music" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Music",Tiankov Folk (576p)
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" tvg-logo="https://i.imgur.com/33LexyP.png" group-title="Music" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Music",Tiankov Orient Folk (576p)
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-id="TVRodina.bg@SD" group-title="Music" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Music",TV Rodina (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RodinaTV/index.m3u8
+#EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Outdoor" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Outdoor",Agro TV (480p)
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" group-title="Religious" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Religious",Plovdivska Pravoslavna TV (1080p)
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelTV.bg@SD" tvg-logo="https://i.imgur.com/5xllfed.png" group-title="Travel" x-country-code="bg" x-country-name="🇧🇬 Bulgaria" x-original-group="Travel",Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#COUNTRY-AUDIT|bf|Burkina Faso|🇧🇫|3|validated source available
+#EXTINF:-1 tvg-id="RTB3.bf@SD" tvg-logo="https://i.imgur.com/OFZm8ic.png" group-title="Culture" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="Culture",RTB 3
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 tvg-id="SavaneTV.bf@SD" tvg-logo="https://i.imgur.com/mv3S1Zc.png" group-title="General" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="General",Savane TV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+#EXTINF:-1 tvg-id="RTB.bf@SD" tvg-logo="https://i.imgur.com/BFfLV0y.png" group-title="Undefined" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="Undefined",RTB (360p) [Not 24/7]
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#COUNTRY-AUDIT|bi|Burundi|🇧🇮|2|validated source available
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi@SD" tvg-logo="https://i.imgur.com/vNCVLuO.png" group-title="Entertainment" x-country-code="bi" x-country-name="🇧🇮 Burundi" x-original-group="Entertainment",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+#EXTINF:-1 tvg-id="RTNBTV.bi@SD" tvg-logo="https://i.imgur.com/xfR5P9F.png" group-title="General" x-country-code="bi" x-country-name="🇧🇮 Burundi" x-original-group="General",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
+#COUNTRY-AUDIT|kh|Cambodia|🇰🇭|13|validated source available
+#EXTINF:-1 tvg-id="EBCGeneralEducation.kh@SD" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" group-title="Education" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Education",EBC General Education (720p) [Not 24/7]
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh@SD" tvg-logo="https://i.imgur.com/wLzVdeT.png" group-title="Education" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Education",One TV E-School Cambodia (1080p)
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh@SD" tvg-logo="https://i.imgur.com/L36ptO2.png" group-title="Education" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Education",TVK 2 (720p)
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh@SD" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Education",WIKI TV (720p)
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="General" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="General",Bayon TV
+https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8
+#EXTINF:-1 tvg-id="TVK.kh@SD" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="General" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="General",TVK (720p)
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD" tvg-logo="https://i.imgur.com/EuYhS9Z.png" group-title="News" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="News",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 tvg-id="FreshNews.kh@SD" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="News",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ARDBTV.kh@SD" tvg-logo="https://i.imgur.com/yOncWla.png" group-title="Outdoor" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Outdoor",ARDB TV (1080p) [Not 24/7]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+#EXTINF:-1 tvg-id="SangkemTV.kh@SD" tvg-logo="https://i.imgur.com/728fAcC.png" group-title="Religious" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Religious",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
+#EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined",CTV 9 (1080p)
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+#EXTINF:-1 tvg-id="SEATV.kh@SD" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined",SEATV (1080p)
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh@SD" tvg-logo="https://i.imgur.com/9fUGvVG.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined",Town TV
+https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
+#COUNTRY-AUDIT|cm|Cameroon|🇨🇲|14|validated source available
+#EXTINF:-1 tvg-id="KemetTV.cm@SD" tvg-logo="https://i.imgur.com/NZ0YqOb.jpeg" group-title="Culture" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Culture",Kemet TV
+https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
+#EXTINF:-1 tvg-id="PLEXTV.cm@SD" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Entertainment" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Entertainment",PLEX TV
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
+#EXTINF:-1 tvg-id="TR24Television.cm@SD" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" group-title="Entertainment" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Entertainment",TR24 (720p)
+https://stream.it-innov.com/tr24/index.m3u8
+#EXTINF:-1 tvg-id="CAM10TV.cm@SD" tvg-logo="https://i.imgur.com/xspb9uY.png" group-title="General" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="General",CAM 10 TV (720p)
+https://stream.it-innov.com/cam10tv/index.m3u8
+#EXTINF:-1 tvg-id="CRTV.cm@SD" tvg-logo="https://i.imgur.com/cQWNh3L.png" group-title="General" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="General",CRTV
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm@SD" tvg-logo="https://i.imgur.com/zzG1S2n.png" group-title="General" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="General",Laura Dave Media TV (720p)
+https://streaming.lauradavemedia.com/ldm/index.m3u8
+#EXTINF:-1 tvg-id="AlloCine.cm@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" group-title="Movies" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Movies",Allo Cine (1080p)
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm@SD" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="Music" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Music",Play TV (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfriqueMedia.cm@SD" tvg-logo="https://i.imgur.com/spQgX7X.png" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News",Afrique Media (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com
+https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
+#EXTINF:-1 tvg-id="CRTVNews.cm@SD" tvg-logo="https://i.imgur.com/5CshVf9.png" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 tvg-id="ForYouTV.cm@SD" tvg-logo="https://i.imgur.com/1oMboXL.png" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News",For You TV
+https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm@SD" tvg-logo="https://i.imgur.com/wneSSYM.png" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News",Panafrican Media TV (480p)
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" tvg-logo="https://i.imgur.com/DiIei9F.png" group-title="Sports" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Sports",CRTV Sports and Entertainment (360p)
+#EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTVChannel.cm@SD" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Undefined" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Undefined",My TV Channel (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#COUNTRY-AUDIT|ca|Canada|🇨🇦|115|validated source available
+#EXTINF:-1 tvg-id="GustoTV.ca@Poland" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Cooking",Gusto TV (1080p)
+https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.ca@SD" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Cooking",Gusto TV (1080p)
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Culture" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture",C Malayalam TV (1080p)
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.imgur.com/8pR8Q4J.png" group-title="Culture" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+#EXTINF:-1 tvg-id="DukhNivaran.ca@SD" tvg-logo="https://i.imgur.com/Zh60l1x.png" group-title="Culture" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture",Dukh Nivaran (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/dncal/index.m3u8
+#EXTINF:-1 tvg-id="EawazTV.ca@SD" tvg-logo="https://i.imgur.com/vB4yzen.png" group-title="Culture" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture",Eawaz TV (720p) [Not 24/7]
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+#EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Culture" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture",EET TV (1080p) [Not 24/7]
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="HyderTV.ca@SD" tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Culture" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture",Hyder TV (720p)
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca@SD" tvg-logo="https://i.imgur.com/Y5YnUit.png" group-title="Culture" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture",Montreal Greek TV (480p)
+http://live.greektv.ca/hls1/greektv.m3u8
+#EXTINF:-1 tvg-id="PardesiTV.ca@SD" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Culture" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture",Pardesi TV (720p)
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PamirTV.ca@SD" tvg-logo="https://i.imgur.com/sCBbBOj.png" group-title="Culture;Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Culture;Music",Pamir TV (1080p) [Not 24/7]
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="LovePets.ca@US" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="Documentary" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Documentary",Love Pets (1080p)
+https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@ES" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Documentary",Nature Time (1080p)
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@France" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Documentary",Nature Time France (1080p)
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@AU" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Documentary",NatureTime (1080p)
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@UK" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Documentary",NatureTime (1080p)
+https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@LATAM" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Documentary",NatureTime (684p)
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Documentary",NatureTime Finland (1080p)
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TotalCrime.ca@CA" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png" group-title="Documentary" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Documentary",Total Crime (1080p)
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD" tvg-logo="https://i.imgur.com/VfofmZZ.png" group-title="Education;Kids" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Education;Kids",Knowledge Network (720p) [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-id="5AABTV.ca@SD" tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="Entertainment" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Entertainment",5AAB TV (720p) [Not 24/7]
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="Entertainment" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Entertainment",Apna Punjab TV (720p)
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 tvg-id="FEVATV.ca@SD" tvg-logo="https://i.imgur.com/QSi0YTS.png" group-title="Entertainment" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Entertainment",Feva TV (1080p)
+https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
+#EXTINF:-1 tvg-id="MHZ.ca@SD" tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="Entertainment" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Entertainment",MHZ
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Entertainment",Sooriyan TV (1080p)
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="General" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="General",Az Star TV (1080p)
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DesheBidesheTV.ca@SD" tvg-logo="https://i.imgur.com/Ek1Ohj6.png" group-title="General" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="General",DesheBideshe TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="General" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="General",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="GaundaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="General" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="General",Gaunda Punjab TV (720p)
+http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GTNCanada.ca@SD" tvg-logo="https://i.imgur.com/7bQPJOd.png" group-title="General" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="General",GTN Canada (1080i) [Geo-blocked]
+https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
+#EXTINF:-1 tvg-id="NACTV.ca@SD" tvg-logo="https://i.imgur.com/FzM95rH.png" group-title="General" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="General",NACTV
+https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
+#EXTINF:-1 tvg-id="NTV.ca@CJONDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="General" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="General",Newfoundland Television (480p)
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="SohailTV.ca@SD" tvg-logo="https://i.ibb.co/dtzjKfT/Sohail-TV.png" group-title="General" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="General",Sohail TV (1080p)
+https://iptv.sohailtv.com/sohail/playlist/index.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.ca@SD" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Kids",Kidoodle.TV (1080p)
+https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOKids.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" group-title="Kids" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Kids",TVOKids (720p)
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD" tvg-logo="https://i.imgur.com/xKXs6ER.png" group-title="Legislative" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Legislative",Ontario Parliamentary Network (720p)
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="CKNOFM.ca@SD" tvg-logo="https://i.imgur.com/sF2g7KE.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Now TV 102.3FM Edmonton (CKNO-FM) (616p)
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@Poland" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Qello Concerts by Stingray (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCityscapes.ca@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Cityscapes (1080p)
+https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Classic Rock (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCozyCafe.ca@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Cozy Cafe (1080p)
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca@SD" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Flashback 70s (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@Poland" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Greatest Hits (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+#EXTINF:-1 tvg-id="StingrayHitList.ca@SD" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Hit List (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca@Poland" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Hitlist (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca@SD" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Holiday Hits (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca@HD" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Holidayscapes (1080p)
+https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca@SD" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Hot Country (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayiConcerts.ca@HD" tvg-logo="https://i.imgur.com/GKc7RFz.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray iConcerts HD
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Jukebox Oldies (1080p)
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Karaoke (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="MovieMusicbyStingray.ca@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Movie Music (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@Poland" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Naturescape (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca@SD" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Nothin' But 90s (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca@SD" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca@SD" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Remember the 80s
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca@Poland" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Remember the 80s (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca@SD" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@SD" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Rock Alternative (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca@SD" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Smooth Jazz (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Soul Storm (1080p)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca@SD" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray The Spa (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTikTokRadio.ca@HD" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/12/tiktok-radio_logo-new2.svg" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray TikTok Radio (1080p)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Today's KPOP (1080p)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Music",Stingray Today's Latin Pop (1080p)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",CBC News (1080p)
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="CityNewsCalgary.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",CityNews Calgary (720p)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsEdmonton.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",CityNews Edmonton
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
+#EXTINF:-1 tvg-id="CityNewsToronto.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",CityNews Toronto (720p)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsVancouver.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",CityNews Vancouver (720p)
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-id="HamdardTV.ca@SD" tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",Hamdard TV (1080p)
+https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 tvg-id="IciRDI.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",Probashi TV News (1080p)
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-id="TVPunjab.ca@SD" tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="News" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="News",TV Punjab (720p) [Geo-blocked]
+https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Outdoor",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Outdoor",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@HD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Outdoor",Love Nature HD (1080p)
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+#EXTINF:-1 tvg-id="ZenLIFEbyStingray.ca@HD" tvg-logo="https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg" group-title="Relax" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Relax",Stingray ZenLIFE (1080p)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="3ABNCanada.ca@SD" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",3ABN Canada (720p)
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca@SD" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",Amazing Discoveries TV (720p)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AzanTV.ca@SD" tvg-logo="https://i.imgur.com/JlqS6I4.jpeg" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-id="ErfanHalghehTV.ca@SD" tvg-logo="https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",Erfan Halgheh TV (720p)
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GurSikhSabhaTV.ca@SD" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",GurSikh Sabha TV (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:-1 tvg-id="ICnet1.ca@SD" tvg-logo="https://i.imgur.com/aeS4Sjv.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",icnet 1
+https://icnet1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ICnet2.ca@SD" tvg-logo="https://i.imgur.com/Ke5xn4E.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",icnet 2
+https://icnet2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="icnet3.ca@SD" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",icnet 3
+https://ic3hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IIPCTV.ca@SD" tvg-logo="https://i.imgur.com/mIih39Y.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",IIPC TV (720p)
+https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
+#EXTINF:-1 tvg-id="QuoVadisTV.ca@SD" tvg-logo="https://i.imgur.com/pEqDDHl.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",Quo Vadis TV (720p)
+https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca@SD" tvg-logo="https://i.imgur.com/CL32kFA.png" group-title="Religious" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Religious",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-id="HauntTV.ca@SD" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" group-title="Series" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Series",Haunt TV (1080p)
+https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
+#EXTINF:-1 tvg-id="TSC.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png" group-title="Shop" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Shop",Today's Shopping Choice (TSC) (720p)
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:-1 tvg-id="GamePlus.ca@SD" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="Sports" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Sports",Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="HardKnocks.ca@SD" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="Sports" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Sports",Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Sports",TSN The Ocho (1080p)
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="CanadaOne.ca@SD" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Canada One (720p) [Not 24/7]
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Savoirmedia.ca@CFTUDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD" tvg-logo="https://i.imgur.com/xwntWOP.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Cowboy Channel (1080p)
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="Homeful.ca@US" tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Homeful (1080p)
+https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CFHDDT" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",ICI Montreal (720p)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="TLN.ca@KQSL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",KQSL Channel 8 (720p)
+https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVPlus.ca@SD" tvg-logo="https://i.imgur.com/YEUhPBv.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",NTV+
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="PrimeAsiaTV.ca@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Prime Asia TV (1080p)
+http://primeasia.selfip.net/Samsung/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",PTC Punjabi Canada (1080p)
+https://stream.ottlive.co.in/ptccanada/index.m3u8
+#EXTINF:-1 tvg-id="SardariTV.ca@SD" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Sardari TV (1080p) [Not 24/7]
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca@SD" tvg-logo="https://i.imgur.com/YKXoIsr.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Sikh Spiritual Centre Rexdale (720p)
+https://cdn12.henico.net:8443/live/ssct/index.m3u8
+#EXTINF:-1 tvg-id="TAGTV.ca@SD" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",TAG TV (1080p) [Not 24/7]
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",TamilVision-TV (1080p)
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
+#EXTINF:-1 tvg-id="Toronto360TV.ca@SD" tvg-logo="https://i.imgur.com/YJYdHKO.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Toronto 360 TV (720p) [Not 24/7]
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="WildTV.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png" group-title="Undefined" x-country-code="ca" x-country-name="🇨🇦 Canada" x-original-group="Undefined",Wild TV (1080p)
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#COUNTRY-AUDIT|cv|Cape Verde|🇨🇻|1|validated source available
+#EXTINF:-1 tvg-id="TVCidade.cv@SD" tvg-logo="https://i.imgur.com/gmSu21X.jpg" group-title="Music" x-country-code="cv" x-country-name="🇨🇻 Cape Verde" x-original-group="Music",TV Cidade
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
