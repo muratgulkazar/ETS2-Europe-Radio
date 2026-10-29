@@ -1,0 +1,231 @@
+#EXTM3U
+#FALLBACK-BATCH|6
+#COUNTRY-FALLBACK-AUDIT|is|Iceland|6
+#EXTINF:-1 tvg-id="Althingi.is@SD" tvg-logo="https://i.imgur.com/tKNPdea.png" group-title="Legislative" x-country-code="is" x-country-name="🇮🇸 Iceland" x-original-group="Legislative" x-source-check="upstream-only",Althingi (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
+#EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" group-title="Music" x-country-code="is" x-country-name="🇮🇸 Iceland" x-original-group="Music" x-source-check="upstream-only",K100 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF:-1 tvg-id="Omega.is@SD" tvg-logo="https://i.imgur.com/doybFbZ.png" group-title="Religious" x-country-code="is" x-country-name="🇮🇸 Iceland" x-original-group="Religious" x-source-check="upstream-only",Omega (720p) [SOURCE NOT DAILY-VALIDATED]
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8
+#EXTINF:-1 tvg-id="RUV2.is@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R%C3%9AV_2_2019_logo.svg/960px-R%C3%9AV_2_2019_logo.svg.png" group-title="General" x-country-code="is" x-country-name="🇮🇸 Iceland" x-original-group="General" x-source-check="upstream-only",RUV 2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 tvg-id="RUV.is@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/960px-R%C3%9AV_ohf_2019_logo.svg.png" group-title="General" x-country-code="is" x-country-name="🇮🇸 Iceland" x-original-group="General" x-source-check="upstream-only",RUV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-id="Visir.is@SD" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" group-title="News" x-country-code="is" x-country-name="🇮🇸 Iceland" x-original-group="News" x-source-check="upstream-only",Visir (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.visir.is/hls-live/visir.smil/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|ie|Ireland|59
+#EXTINF:-1 tvg-id="OireachtasTV.ie@SD" tvg-logo="https://i.imgur.com/aC4fsCI.png" group-title="Legislative" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Legislative" x-source-check="upstream-only",Oireachtas TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom1.ie@SD" tvg-logo="https://i.imgur.com/JLYqKC0.jpg" group-title="Legislative" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Legislative" x-source-check="upstream-only",Oireachtas TV Committee Room 1 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom2.ie@SD" tvg-logo="https://i.imgur.com/2Wxx2jK.jpg" group-title="Legislative" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Legislative" x-source-check="upstream-only",Oireachtas TV Committee Room 2 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom3.ie@SD" tvg-logo="https://i.imgur.com/EoAQeg5.jpg" group-title="Legislative" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Legislative" x-source-check="upstream-only",Oireachtas TV Committee Room 3 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom4.ie@SD" tvg-logo="https://i.imgur.com/U9U4rgs.jpg" group-title="Legislative" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Legislative" x-source-check="upstream-only",Oireachtas TV Committee Room 4 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVDailEireann.ie@SD" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Legislative" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Legislative" x-source-check="upstream-only",Oireachtas TV Dail Eireann (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVSeanadEireann.ie@SD" tvg-logo="https://i.imgur.com/c5TI2DT.jpg" group-title="Legislative" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Legislative" x-source-check="upstream-only",Oireachtas TV Seanad Eireann (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
+#EXTINF:-1 tvg-id="RTEjr.ie@SD" tvg-logo="https://i.imgur.com/E3jxqu9.png" http-referrer="https://www.rte.ie/" http-user-agent="Win64" group-title="Undefined" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Undefined" x-source-check="upstream-only",RTEjr [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://www.rte.ie/
+#EXTVLCOPT:http-user-agent=Win64
+http://etvhosts.site:55337/live/littlespiked/cam1gail2brian3/20641.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" tvg-logo="https://i.imgur.com/zlJK7ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1 Eurasia (1080p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 2 Eurasia (1080p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="TG4.ie@SD" tvg-logo="https://i.imgur.com/XiAKb4E.png" group-title="Undefined" x-country-code="ie" x-country-name="🇮🇪 Ireland" x-original-group="Undefined" x-source-check="upstream-only",TG4 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+#COUNTRY-FALLBACK-AUDIT|ci|Ivory Coast|19
+#EXTINF:-1 tvg-id="7Info.ci@SD" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="News" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="News" x-source-check="upstream-only",7 Info [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-id="A12TV.ci@SD" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="General" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="General" x-source-check="upstream-only",A12 TV [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci@SD" tvg-logo="https://i.imgur.com/yQzXErU.png" group-title="Culture" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Culture" x-source-check="upstream-only",Afro Magic Channel [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
+#EXTINF:-1 tvg-id="AfrocultureTV.ci@SD" tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Culture" x-source-check="upstream-only",Afroculture TV [SOURCE NOT DAILY-VALIDATED]
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:-1 tvg-id="BenieTV.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious" x-source-check="upstream-only",Benie TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://tv.voozmedia.fun/benietv/index.m3u8
+#EXTINF:-1 tvg-id="ChampionTV.ci@SD" tvg-logo="https://i.imgur.com/WjHSrHN.png" group-title="Business" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Business" x-source-check="upstream-only",Champion TV [SOURCE NOT DAILY-VALIDATED]
+https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
+#EXTINF:-1 tvg-id="EcclesiaTV.ci@SD" tvg-logo="https://i.imgur.com/mgabVFd.png" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious" x-source-check="upstream-only",Ecclesia TV (Ivory Coast) [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
+#EXTINF:-1 tvg-id="ExploitsTV.ci@SD" tvg-logo="https://i.imgur.com/3wC7tSG.jpeg" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious" x-source-check="upstream-only",Exploits TV [SOURCE NOT DAILY-VALIDATED]
+https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
+#EXTINF:-1 tvg-id="GuideLoveTV.ci@SD" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" group-title="Lifestyle" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Lifestyle" x-source-check="upstream-only",Guide Love TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Music" x-source-check="upstream-only",Ivoire Channel (720p) [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="LMTVFrench.ci@SD" tvg-logo="https://i.imgur.com/FVnq2cQ.png" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious" x-source-check="upstream-only",LM TV French (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci@SD" tvg-logo="https://i.imgur.com/AQ60OYO.png" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious" x-source-check="upstream-only",Miracle TV+ (720p) [SOURCE NOT DAILY-VALIDATED]
+https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="NovelaChannel.ci@SD" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" group-title="Series" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Series" x-source-check="upstream-only",Novela Channel (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ci@SD" tvg-logo="https://i.imgur.com/qqLXdHz.png" group-title="General" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="General" x-source-check="upstream-only",NTV (Ivory Coast) (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="RefletTV.ci@SD" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="General" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="General" x-source-check="upstream-only",Reflet TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci@SD" tvg-logo="https://i.imgur.com/TybQZQS.png" group-title="General" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="General" x-source-check="upstream-only",RTI 1 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-logo="https://i.imgur.com/oXuSkHz.png" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious" x-source-check="upstream-only",RTVC (720p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
+#EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Series" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Series" x-source-check="upstream-only",Serie Max [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|jm|Jamaica|7
+#EXTINF:-1 tvg-id="CaribbeanGospelTV.jm@SD" tvg-logo="https://i.imgur.com/lhgrqmA.png" group-title="Religious" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Religious" x-source-check="upstream-only",Caribbean Gospel TV [SOURCE NOT DAILY-VALIDATED]
+https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
+#EXTINF:-1 tvg-id="Fame95FM.jm@SD" tvg-logo="https://i.imgur.com/n3PUxes.png" group-title="Music" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Music" x-source-check="upstream-only",Fame95 FM (480p) [SOURCE NOT DAILY-VALIDATED]
+https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
+#EXTINF:-1 tvg-id="GNNTV.jm@SD" tvg-logo="https://i.imgur.com/itetPKw.png" group-title="Religious" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Religious" x-source-check="upstream-only",GNN TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
+#EXTINF:-1 tvg-id="JamaicaOnlineTV.jm@SD" tvg-logo="https://i.imgur.com/Aw9u4Ax.png" group-title="General" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="General" x-source-check="upstream-only",Jamaica Online TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
+#EXTINF:-1 tvg-id="JamaicaTravelChannel.jm@SD" tvg-logo="https://i.imgur.com/ewdPTh8.png" group-title="Travel" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Travel" x-source-check="upstream-only",Jamaica Travel Channel (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
+#EXTINF:-1 tvg-id="MercyandTruthMinistriesTelevision.jm@SD" tvg-logo="https://i.imgur.com/krcVhrx.png" group-title="Religious" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Religious" x-source-check="upstream-only",Mercy and Truth Ministries Television (720p) [SOURCE NOT DAILY-VALIDATED]
+https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
+#EXTINF:-1 tvg-id="TVJ.jm@SD" tvg-logo="https://i.imgur.com/R4PoC3L.png" group-title="General" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="General" x-source-check="upstream-only",TVJ (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
+#COUNTRY-FALLBACK-AUDIT|jp|Japan|7
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" http-referrer="http://japan.cgntv.net/HD_player_jp.html" group-title="Religious" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Religious" x-source-check="upstream-only",CGNTV Japan (1080p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Shop" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Shop" x-source-check="upstream-only",GSTV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp@JOJGDTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="General" x-source-check="upstream-only",NHK General TV JOJG-DTV (1080i) [SOURCE NOT DAILY-VALIDATED]
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Shop" x-source-check="upstream-only",QVC (Japan) (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Shop" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Shop" x-source-check="upstream-only",Shop Channel (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Weather" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Weather" x-source-check="upstream-only",Weathernews (720p) [SOURCE NOT DAILY-VALIDATED]
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|ke|Kenya|38
+#EXTINF:-1 tvg-id="3StonesTV.ke@SD" tvg-logo="https://i.imgur.com/im3g7T2.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",3 Stones TV (240p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
+#EXTINF:-1 tvg-id="AkiliKids.ke@SD" tvg-logo="https://i.imgur.com/xFm2co6.png" group-title="Kids" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Kids" x-source-check="upstream-only",Akili Kids! [SOURCE NOT DAILY-VALIDATED]
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AviationTV.ke@SD" tvg-logo="https://i.imgur.com/WOU9z5G.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Aviation TV (480p) [SOURCE NOT DAILY-VALIDATED]
+http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTLTV.ke@SD" tvg-logo="https://i.imgur.com/4r09woD.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",BTL TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
+#EXTINF:-1 tvg-id="CapuchinTV.ke@SD" tvg-logo="https://i.imgur.com/VCDSjX7.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Capuchin TV [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
+#EXTINF:-1 tvg-id="ClergyTV.ke@SD" tvg-logo="https://i.imgur.com/RcxBEUo.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Clergy TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
+#EXTINF:-1 tvg-id="CMTvKenya.ke@SD" tvg-logo="https://i.imgur.com/ewHBokK.jpg" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",CMTv Kenya (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
+#EXTINF:-1 tvg-id="DacwaTV.ke@SD" tvg-logo="https://i.imgur.com/rMqrLzV.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Dacwa TV (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1 tvg-id="EBNTV.ke@SD" tvg-logo="https://i.imgur.com/NvxqoEn.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",EBN TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8
+#EXTINF:-1 tvg-id="ElevateTV.ke@SD" tvg-logo="https://i.imgur.com/M7xaQ7o.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Elevate TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
+#EXTINF:-1 tvg-id="GBSTV.ke@SD" tvg-logo="https://i.imgur.com/2AP1xVg.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",GBS TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
+#EXTINF:-1 tvg-id="GreatCommissionTV.ke@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Great%20Commission%20TV.jpeg" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",Great Commission TV [SOURCE NOT DAILY-VALIDATED]
+https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
+#EXTINF:-1 tvg-id="GTNTV.ke@SD" tvg-logo="https://i.imgur.com/CSCZW6L.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",GTN TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
+#EXTINF:-1 tvg-id="HeavenBoundTV.ke@SD" tvg-logo="https://i.imgur.com/pwnesmW.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Heaven Bound TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
+#EXTINF:-1 tvg-id="HisGraceTV.ke@SD" tvg-logo="https://i.imgur.com/uIlU5im.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",His Grace TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
+#EXTINF:-1 tvg-id="HLCTV.ke@SD" tvg-logo="https://i.imgur.com/TPZoSXM.jpg" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",HLC TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
+#EXTINF:-1 tvg-id="ICTV.ke@SD" tvg-logo="https://i.imgur.com/0kMhqK3.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",ICTV (Kenya) (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
+#EXTINF:-1 tvg-id="InooroTV.ke@SD" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",Inooro TV [SOURCE NOT DAILY-VALIDATED]
+https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
+#EXTINF:-1 tvg-id="JCMTV.ke@SD" tvg-logo="https://i.imgur.com/28YB7dD.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",JCM TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8
+#EXTINF:-1 tvg-id="K24.ke@SD" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",K24 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
+#EXTINF:-1 tvg-id="KassTV.ke@SD" tvg-logo="https://i.imgur.com/MW8wZ5v.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",Kass TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
+#EXTINF:-1 tvg-id="LolweTV.ke@SD" tvg-logo="https://i.imgur.com/tjZ1cOP.png" group-title="News" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="News" x-source-check="upstream-only",Lolwe TV (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+#EXTINF:-1 tvg-id="LuyaaTV.ke@SD" tvg-logo="https://i.imgur.com/bnq7DNt.jpg" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",Luyaa TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8
+#EXTINF:-1 tvg-id="MasharikiTV.ke@SD" tvg-logo="https://i.imgur.com/5Qcwpg5.jpg" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",Mashariki TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
+#EXTINF:-1 tvg-id="MERUTV.ke@SD" tvg-logo="https://i.imgur.com/EPmWNfz.jpg" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",MERU TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
+#EXTINF:-1 tvg-id="MOFTV.ke@SD" tvg-logo="https://i.imgur.com/XVBNfaa.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",MOF TV [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
+#EXTINF:-1 tvg-id="MorningCloudTV.ke@SD" tvg-logo="https://i.imgur.com/Lxfd2ip.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Morning Cloud TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://livecdn.live247stream.com/mc/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MuugiTV.ke@SD" tvg-logo="https://i.imgur.com/7XCR2Wi.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Muugi TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8
+#EXTINF:-1 tvg-id="MwangazaTV.ke@SD" tvg-logo="https://i.imgur.com/GjXfuSh.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Mwangaza TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
+#EXTINF:-1 tvg-id="NdurumeniTV.ke@SD" tvg-logo="https://i.imgur.com/OvmySNw.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Ndurumeni TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8
+#EXTINF:-1 tvg-id="NiceTVKenya.ke@SD" tvg-logo="https://i.imgur.com/UawxLTW.jpg" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",Nice TV Kenya (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
+#EXTINF:-1 tvg-id="NjataTV.ke@SD" tvg-logo="https://i.imgur.com/246CBAW.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",Njata TV (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
+#EXTINF:-1 tvg-id="PillarTV.ke@SD" tvg-logo="https://i.imgur.com/9kCxFqj.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Pillar TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
+#EXTINF:-1 tvg-id="RaiaTV.ke@SD" tvg-logo="https://i.imgur.com/IyFULjw.png" group-title="Undefined" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Undefined" x-source-check="upstream-only",Raia TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
+#EXTINF:-1 tvg-id="SayareTV.ke@SD" tvg-logo="https://i.imgur.com/M2Fnxj7.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Sayare TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
+#EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke@SD" tvg-logo="https://i.imgur.com/u7xDXEt.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",Urejesho TV Africa (360p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
+#EXTINF:-1 tvg-id="UTV.ke@SD" tvg-logo="https://i.imgur.com/yN4e2up.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General" x-source-check="upstream-only",UTV (Kenya) (240p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8
+#EXTINF:-1 tvg-id="YOUNIBMediaTV.ke@SD" tvg-logo="https://i.imgur.com/LtiPOYG.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious" x-source-check="upstream-only",YOUNIB Media TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|xk|Kosovo|11
+#EXTINF:-1 tvg-id="Kohavision.xk@SD" tvg-logo="https://i.imgur.com/LOi9yma.png" group-title="News" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="News" x-source-check="upstream-only",Kohavision [SOURCE NOT DAILY-VALIDATED]
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk@SD" tvg-logo="https://i.imgur.com/Ut9VcT3.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined" x-source-check="upstream-only",RTK 3 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk@SD" tvg-logo="https://i.imgur.com/AqQltGh.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined" x-source-check="upstream-only",RTV21 [SOURCE NOT DAILY-VALIDATED]
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="T7.xk@SD" tvg-logo="https://i.imgur.com/b7FvSJj.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined" x-source-check="upstream-only",T7 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk@SD" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Kids" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Kids" x-source-check="upstream-only",TV Arberia 3 Femije (720p) [SOURCE NOT DAILY-VALIDATED]
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberia4Muzike.xk@SD" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Music" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Music" x-source-check="upstream-only",TV Arberia 4 Muzike (720p) [SOURCE NOT DAILY-VALIDATED]
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberiaRetroHits.xk@SD" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Music" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Music" x-source-check="upstream-only",TV Arberia Retro Hits (720p) [SOURCE NOT DAILY-VALIDATED]
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk@SD" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="News" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="News" x-source-check="upstream-only",TV Arta (720p) [SOURCE NOT DAILY-VALIDATED]
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="TVDielli.xk@SD" tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined" x-source-check="upstream-only",TV Dielli (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVOpoja.xk@SD" tvg-logo="https://i.imgur.com/hxi4Qiq.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined" x-source-check="upstream-only",TV Opoja (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk@SD" tvg-logo="https://i.imgur.com/ZQuFosn.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined" x-source-check="upstream-only",TV Syri (720p) [SOURCE NOT DAILY-VALIDATED]
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|kw|Kuwait|11
+#EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw@SD" tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="Religious" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Religious" x-source-check="upstream-only",Ch4Teen Documentary (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="General" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="General" x-source-check="upstream-only",KTV 1 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTV2.kw@SD" tvg-logo="https://i.imgur.com/hB57mNh.png" group-title="Culture;News" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Culture;News" x-source-check="upstream-only",KTV 2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVAlQurain.kw@SD" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="Religious" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Religious" x-source-check="upstream-only",KTV Al Qurain (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Culture" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Culture" x-source-check="upstream-only",KTV Arabe (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVEthraa.kw@SD" tvg-logo="https://i.imgur.com/hqEbc49.png" group-title="Religious" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Religious" x-source-check="upstream-only",KTV Ethraa (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-logo="https://i.imgur.com/erZ0Ol1.png" group-title="News" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="News" x-source-check="upstream-only",KTV News (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Sports" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Sports" x-source-check="upstream-only",KTV Sport (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="Sports" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Sports" x-source-check="upstream-only",KTV Sport Plus (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MarinaTV.kw@SD" tvg-logo="https://i.imgur.com/F2PzEaw.png" group-title="Music" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Music" x-source-check="upstream-only",Marina TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+#EXTINF:-1 tvg-id="RitmuTV.kw@SD" tvg-logo="https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10" group-title="Entertainment" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Entertainment" x-source-check="upstream-only",Ritmu TV [SOURCE NOT DAILY-VALIDATED]
+https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
