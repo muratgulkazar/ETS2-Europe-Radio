@@ -1,0 +1,189 @@
+#EXTM3U
+#STAGE|tv_work/raw_10.m3u
+#COUNTRY-AUDIT|ci|Ivory Coast|🇨🇮|10|validated source available
+#EXTINF:-1 tvg-id="ChampionTV.ci@SD" tvg-logo="https://i.imgur.com/WjHSrHN.png" group-title="Business" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Business",Champion TV
+https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
+#EXTINF:-1 tvg-id="AfrocultureTV.ci@SD" tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Culture",Afroculture TV
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:-1 tvg-id="NTV.ci@SD" tvg-logo="https://i.imgur.com/qqLXdHz.png" group-title="General" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="General",Blacsktream tv (1080p) [Not 24/7]
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="RefletTV.ci@SD" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="General" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="General",REFLET TV (1080p)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Music",Ivoire Channel (720p)
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="7Info.ci@SD" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="News" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="News",7 Info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-id="BenieTV.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious",Benie TV (720p)
+https://tv.voozmedia.fun/benietv/index.m3u8
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci@SD" tvg-logo="https://i.imgur.com/AQ60OYO.png" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious",Miracle TV+ (720p)
+https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-logo="https://i.imgur.com/oXuSkHz.png" group-title="Religious" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Religious",RTVC (720p)
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
+#EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Series" x-country-code="ci" x-country-name="🇨🇮 Ivory Coast" x-original-group="Series",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#COUNTRY-AUDIT|jm|Jamaica|🇯🇲|5|validated source available
+#EXTINF:-1 tvg-id="TVJ.jm@SD" tvg-logo="https://i.imgur.com/R4PoC3L.png" group-title="General" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="General",TVJ (720p) [Not 24/7]
+https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
+#EXTINF:-1 tvg-id="Fame95FM.jm@SD" tvg-logo="https://i.imgur.com/n3PUxes.png" group-title="Music" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Music",Fame95 FM
+https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="CaribbeanGospelTV.jm@SD" tvg-logo="https://i.imgur.com/lhgrqmA.png" group-title="Religious" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Religious",Caribbean Gospel TV
+https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
+#EXTINF:-1 tvg-id="GNNTV.jm@SD" tvg-logo="https://i.imgur.com/itetPKw.png" group-title="Religious" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Religious",GNN TV (1080p)
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
+#EXTINF:-1 tvg-id="MercyandTruthMinistriesTelevision.jm@SD" tvg-logo="https://i.imgur.com/krcVhrx.png" group-title="Religious" x-country-code="jm" x-country-name="🇯🇲 Jamaica" x-original-group="Religious",MTM TV (720p)
+https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
+#COUNTRY-AUDIT|jp|Japan|🇯🇵|9|validated source available
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Entertainment" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Entertainment",NHK World Premium (720p)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp@JOJGDTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="General",NHK General TV JOJG-DTV (1080i)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NHK_World_Transparent.png" group-title="News;Culture" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="News;Culture",NHK World-Japan (1080p)
+https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NHK_World_Transparent.png" group-title="News;Culture" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="News;Culture",NHK World-Japan HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Religious" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Religious",CGNTV Japan (1080p)
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Shop" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Shop",GSTV (720p)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Shop",QVC (1080p)
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Shop" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Shop",Shop Channel (1080p) [Not 24/7]
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Weather" x-country-code="jp" x-country-name="🇯🇵 Japan" x-original-group="Weather",Weathernews (720p)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#COUNTRY-AUDIT|jo|Jordan|🇯🇴|19|validated source available
+#EXTINF:-1 tvg-id="JordanComedy.jo@SD" tvg-logo="https://i.imgur.com/DuwwoO2.png" group-title="Comedy" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Comedy",Jordan Comedy (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" group-title="Cooking" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Cooking",Jordan Kitchen (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="General" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="General",Amman TV (720p)
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo@SD" tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo-3.c1d0dd22.png" group-title="General" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="General",Jordan Satellite Channel (1080p)
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="KaifaTV.jo@SD" tvg-logo="https://i.imgur.com/zGGeSQg.png" group-title="General" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="General",Kaifa TV (576p)
+http://82.212.74.2:8000/live/7311.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.jo@SD" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="General",Roya TV (1080p)
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanSongs.jo@SD" tvg-logo="https://i.imgur.com/1DE7Gmw.png" group-title="Music" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Music",Jordan Songs (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:-1 tvg-id="MelodyFM.jo@SD" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Music",Melody FM Jordan (720p) [Not 24/7]
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo@SD" group-title="News" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="News",Alhaqeqa Aldawlia (1080p) [Not 24/7]
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 tvg-id="AltaghierTV.jo@SD" tvg-logo="https://i.imgur.com/YTyCBvB.png" group-title="News" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="News",Altaghier TV (1080p)
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
+#EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo@SD" tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="Religious" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Religious",Alerth Alnabawi Channel (576p)
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 tvg-id="JordanSport.jo@SD" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Sports" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Sports",Jordan Sport (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="JordanArchive.jo@SD" tvg-logo="https://i.imgur.com/8UrCl4k.png" group-title="Undefined" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Undefined",Jordan Archive (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanDrama.jo@SD" tvg-logo="https://i.imgur.com/gvIAEsJ.png" group-title="Undefined" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Undefined",Jordan Drama (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanTourism.jo@SD" tvg-logo="https://i.imgur.com/gpeIoU9.png" group-title="Undefined" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Undefined",Jordan Tourism (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo@SD" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="Undefined" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Undefined",Radio Fann Jordan Studio (1080p) [Not 24/7]
+http://45.63.116.205/hls2/stream1.m3u8
+#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="Undefined" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Undefined",Radio Yaqeen Jordan City View (1080p) [Not 24/7]
+http://45.63.116.205/hls4/stream1.m3u8
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Undefined" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Undefined",Rotana Radio Jordan Studio (1080p) [Not 24/7]
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Undefined" x-country-code="jo" x-country-name="🇯🇴 Jordan" x-original-group="Undefined",Rotana Tarab Jordan City View (720p) [Not 24/7]
+http://45.63.116.205/hls3/stream1.m3u8
+#COUNTRY-AUDIT|kz|Kazakhstan|🇰🇿|21|validated source available
+#EXTINF:-1 tvg-id="AbaiTV.kz@SD" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="Culture" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="Culture",Abai TV (720p)
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="31Kanal.kz@SD" tvg-logo="https://31.kz/noimage.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",31 Kanal (576p)
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 tvg-id="AstanaTV.kz@SD" tvg-logo="https://i.imgur.com/j4HfVK0.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Astana TV (576p)
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 tvg-id="Channel7.kz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Seven_Channel.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Channel 7 (576p)
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1 tvg-id="JibekJoly.kz@HD" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Jibek Joly HD (1080p)
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-id="KTK.kz@SD" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",KTK (576p)
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 tvg-id="KTK.kz@HD" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",KTK HD (720p) [Not 24/7]
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Novoe televidenie
+http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="NTK.kz@SD" tvg-logo="https://i.imgur.com/hHSCH4L.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",NTK (576p)
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz@SD" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Qazaqstan (1080p)
+#EXTVLCOPT:http-referrer=https://megogo.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz@HD" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Qazaqstan HD (1080p)
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz@SD" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RikaTV.kz@SD" tvg-logo="https://i.imgur.com/KJHWZ3B.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Rika TV (480p)
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SilkWay.kz@SD" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Silk Way (1080p)
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+#EXTINF:-1 tvg-id="Ulytau.kz@SD" tvg-logo="https://i.imgur.com/jTL6TvC.png" group-title="General" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="General",Ulytau
+https://ulytau.tv/hls/master.m3u8
+#EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kids" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="Kids",Balapan HD (1080p)
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BalapanInternational.kz@SD" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" group-title="Kids" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="Kids",Balapan International (1080p)
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="Kids",Nickelodeon CIS (1080p)
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 tvg-id="SilkWayCinema.kz@SD" tvg-logo="https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png" group-title="Movies" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="Movies",Silk Way Cinema (1080p) [Geo-blocked]
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+#EXTINF:-1 tvg-id="QazSport.kz@SD" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Sports" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="Sports",QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="TDK42.kz@SD" tvg-logo="https://i.imgur.com/iVhdcS7.png" group-title="Undefined" x-country-code="kz" x-country-name="🇰🇿 Kazakhstan" x-original-group="Undefined",TDK 42
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#COUNTRY-AUDIT|ke|Kenya|🇰🇪|7|validated source available
+#EXTINF:-1 tvg-id="GreatCommissionTV.ke@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Great%20Commission%20TV.jpeg" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General",Great Commission TV
+https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
+#EXTINF:-1 tvg-id="InooroTV.ke@SD" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General",Inooro TV
+https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
+#EXTINF:-1 tvg-id="K24.ke@SD" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="General" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="General",K24 (1080p)
+https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
+#EXTINF:-1 tvg-id="AkiliKids.ke@SD" tvg-logo="https://i.imgur.com/xFm2co6.png" group-title="Kids" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Kids",Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CapuchinTV.ke@SD" tvg-logo="https://i.imgur.com/VCDSjX7.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious",Capuchin TV
+https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
+#EXTINF:-1 tvg-id="MorningCloudTV.ke@SD" tvg-logo="https://i.imgur.com/Lxfd2ip.png" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious",Morning Cloud TV (720p)
+https://livecdn.live247stream.com/mc/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YOUNIBMediaTV.ke@SD" tvg-logo="https://i.imgur.com/LtiPOYG.jpg" group-title="Religious" x-country-code="ke" x-country-name="🇰🇪 Kenya" x-original-group="Religious",YOUNIB Media TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#COUNTRY-AUDIT|xk|Kosovo|🇽🇰|8|validated source available
+#EXTINF:-1 tvg-id="Kohavision.xk@SD" tvg-logo="https://i.imgur.com/LOi9yma.png" group-title="News" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="News",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk@SD" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="News" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="News",TV Arta (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk@SD" tvg-logo="https://i.imgur.com/Ut9VcT3.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined",RTK 3 (1080p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk@SD" tvg-logo="https://i.imgur.com/AqQltGh.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="T7.xk@SD" tvg-logo="https://i.imgur.com/b7FvSJj.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined",T7 (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-id="TVDielli.xk@SD" tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined",TV Dielli (720p) [Not 24/7]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVOpoja.xk@SD" tvg-logo="https://i.imgur.com/hxi4Qiq.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined",TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk@SD" tvg-logo="https://i.imgur.com/ZQuFosn.png" group-title="Undefined" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-original-group="Undefined",TV Syri (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#COUNTRY-AUDIT|kw|Kuwait|🇰🇼|9|validated source available
+#EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Culture" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Culture",KTV Arabe (1080p)
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTV2.kw@SD" tvg-logo="https://i.imgur.com/hB57mNh.png" group-title="Culture;News" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Culture;News",KTV 2 (1080p)
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="General" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="General",KTV 1 (1080p)
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-logo="https://i.imgur.com/erZ0Ol1.png" group-title="News" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="News",KTV News (1080p)
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw@SD" tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="Religious" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Religious",Ch4Teen Documentary (1080p)
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVAlQurain.kw@SD" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="Religious" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Religious",KTV Al Qurain (1080p)
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVEthraa.kw@SD" tvg-logo="https://i.imgur.com/hqEbc49.png" group-title="Religious" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Religious",KTV Ethraa (1080p)
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Sports" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Sports",KTV Sport (1080p)
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="Sports" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-original-group="Sports",KTV Sport Plus (1080p)
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
