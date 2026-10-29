@@ -1,0 +1,669 @@
+#EXTM3U
+#STAGE|world-tv-source-batch|05
+#COUNTRY-AUDIT|hr|Croatia|🇭🇷|13|daily
+#EXTINF:-1 tvg-id="ShiftTV.hr@SD" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Auto" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Auto" x-source-check="daily",Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Documentary" x-source-check="daily",National Geographic (1080p)
+http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="TVNova.hr@SD" tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Entertainment" x-source-check="daily",TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="DiadoraTV.hr@SD" tvg-logo="https://i.imgur.com/qZzsASl.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="daily",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTV.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="daily",Nova TV (1080p)
+http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 tvg-id="SBTV.hr@SD" tvg-logo="https://i.imgur.com/MIampxZ.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="daily",SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-id="STV.hr@SD" tvg-logo="https://i.imgur.com/Z3yRl17.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="daily",STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="NickJr.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Kids" x-source-check="daily",Nick Jr. (540p)
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Kids" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Kids" x-source-check="daily",Nickelodeon (1080p)
+http://176.61.157.250/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr@SD" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Music" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Music" x-source-check="daily",CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr@SD" tvg-logo="https://i.imgur.com/sKj3dgc.png" group-title="Music" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Music" x-source-check="daily",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="TVJadran.hr@SD" tvg-logo="https://i.imgur.com/UWMHnOG.png" group-title="News" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="News" x-source-check="daily",TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr@SD" tvg-logo="https://i.imgur.com/gCFgC5D.png" group-title="Undefined" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Undefined" x-source-check="daily",Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#COUNTRY-AUDIT|cu|Cuba|🇨🇺|4|daily
+#EXTINF:-1 tvg-id="Cubavision.cu@SD" tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="General" x-country-code="cu" x-country-name="🇨🇺 Cuba" x-original-group="General" x-source-check="daily",Cubavision
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-logo="https://i.imgur.com/0ZHm9f6.png" group-title="General" x-country-code="cu" x-country-name="🇨🇺 Cuba" x-original-group="General" x-source-check="daily",Cubavision Internacional (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCaribe.cu@SD" tvg-logo="https://i.imgur.com/CV5Rz35.png" group-title="News" x-country-code="cu" x-country-name="🇨🇺 Cuba" x-original-group="News" x-source-check="daily",Canal Caribe
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD" tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News" x-country-code="cu" x-country-name="🇨🇺 Cuba" x-original-group="News" x-source-check="daily",Prensa Latina TV (1080p)
+https://eu1.servers10.com:8081/8192/index.m3u8
+#COUNTRY-AUDIT|cw|Curacao|🇨🇼|3|daily
+#EXTINF:-1 tvg-id="BonceTV.cw@SD" tvg-logo="https://i.imgur.com/7cVkllH.png" group-title="Entertainment" x-country-code="cw" x-country-name="🇨🇼 Curacao" x-original-group="Entertainment" x-source-check="daily",Bonce TV (480p) [Not 24/7]
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 tvg-id="TVDirect13.cw@SD" tvg-logo="https://i.imgur.com/T2IbQqv.png" group-title="General" x-country-code="cw" x-country-name="🇨🇼 Curacao" x-original-group="General" x-source-check="daily",TV Direct 13 (480p) [Not 24/7]
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VAMTV.cw@SD" tvg-logo="https://i.imgur.com/CD1PffA.png" group-title="Music" x-country-code="cw" x-country-name="🇨🇼 Curacao" x-original-group="Music" x-source-check="daily",VAM Vid's & More (720p)
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
+#COUNTRY-AUDIT|cy|Cyprus|🇨🇾|10|daily
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="Entertainment" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Entertainment" x-source-check="daily",ANT1 Cyprus (1080p)
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ERTCosmosCyprus.cy@HD" tvg-logo="https://www.ert.gr/wp-content/uploads/2026/05/ert-cosmos-cyprus.svg" group-title="General" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="General" x-source-check="daily",ERT Cosmos Cyprus (1080p)
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
+#EXTINF:-1 tvg-id="OmegaChannel.cy@SD" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="General" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="General" x-source-check="daily",Omega Channel (576i)
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Kids.cy@SD" tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="Kids;Religious" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Kids;Religious" x-source-check="daily",Sat 7 Kids (1080p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="MiddleEastTV.cy@SD" tvg-logo="https://i.imgur.com/oKU5KeW.png" group-title="Religious" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Religious" x-source-check="daily",Middle East TV (1080p)
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD" tvg-logo="https://i.imgur.com/VTLQeul.png" group-title="Religious" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Religious" x-source-check="daily",Sat7 Pars
+https://sat7phls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Sat7Arabic.cy@SD" tvg-logo="https://i.imgur.com/BzDjQeQ.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="daily",Sat 7 Arabic (240p)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Sat7Turk.cy@SD" tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="daily",Sat7 Türk (1080p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SigmaTV.cy@SD" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="daily",Sigma TV (576p) [Not 24/7]
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="RIKSat.cy@SD" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="daily",ΡΙΚ Sat (720p) [Not 24/7]
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#COUNTRY-AUDIT|cz|Czech Republic|🇨🇿|83|daily
+#EXTINF:-1 tvg-id="History.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Documentary" x-source-check="daily",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.50/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Documentary" x-source-check="daily",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Documentary" x-source-check="daily",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="Spektrum.cz@SD" tvg-logo="https://i.imgur.com/F5Uosum.png" group-title="Documentary" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Documentary" x-source-check="daily",Spektrum
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.cz@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Documentary" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Documentary" x-source-check="daily",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.cz@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Documentary" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Documentary" x-source-check="daily",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.cz@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Documentary" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Documentary" x-source-check="daily",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CT2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="Documentary" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Documentary" x-source-check="daily",ČT 2
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.cz@SD" tvg-logo="https://i.imgur.com/VaVi65F.png" group-title="Entertainment" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Entertainment" x-source-check="daily",Spektrum Home
+http://88.212.15.50/live/test_home_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="BarrandovKrimi.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png" group-title="General" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="General" x-source-check="daily",Barrandov Krimi (1080p)
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz@SD" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="General" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="General" x-source-check="daily",Jihočeská televize (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 tvg-id="JC1.cz@SD" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="General" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="General" x-source-check="daily",JČ1 (1080p)
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 tvg-id="PlzenTV.cz@SD" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="General" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="General" x-source-check="daily",Plzeň TV (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-id="PolarTV.cz@SD" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="General" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="General" x-source-check="daily",Polar TV (1080p)
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrno1.cz@SD" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="General" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="General" x-source-check="daily",TV Brno 1 (1080p)
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CT1.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="General" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="General" x-source-check="daily",ČT 1
+http://88.212.15.50/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Kids" x-source-check="daily",Disney Channel
+http://88.212.15.50/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Kids" x-source-check="daily",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 tvg-id="MinimaxCEE.cz@SD" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="Kids" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Kids" x-source-check="daily",Minimax (576p) (576p)
+http://88.212.15.50/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.cz@SD" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Kids" x-source-check="daily",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_nick_jr/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.cz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Kids" x-source-check="daily",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Kids" x-source-check="daily",Nicktoons
+http://88.212.15.50/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="CTDecko.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" group-title="Kids" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Kids" x-source-check="daily",ČT:D/ČT art (1080p)
+http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="YachtingTV.cz@SD" tvg-logo="https://i.imgur.com/YxO60B1.png" group-title="Lifestyle" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Lifestyle" x-source-check="daily",Yachting TV (1080p)
+https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.cz@SD" tvg-logo="https://i.imgur.com/NSabYyT.png" group-title="Lifestyle;Travel" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Lifestyle;Travel" x-source-check="daily",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax.cz@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Movies" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Movies" x-source-check="daily",Cinemax
+http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.cz@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" group-title="Movies" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Movies" x-source-check="daily",Cinemax 2
+http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.cz@SD" tvg-logo="https://i.imgur.com/OBYuY3S.png" group-title="Movies" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Movies" x-source-check="daily",Film+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924" group-title="Movies" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Movies" x-source-check="daily",HBO
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="Movies" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Movies" x-source-check="daily",HBO 2
+http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO3.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" group-title="Movies" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Movies" x-source-check="daily",HBO 3
+http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoBarrandov.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png" group-title="Movies" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Movies" x-source-check="daily",Kino Barrandov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400" group-title="Movies" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Movies" x-source-check="daily",Warner TV
+http://88.212.15.50/live/warner_tv/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxClassic.cz@SD" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Music Box Classic
+http://88.212.15.50/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxDance.cz@SD" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Music Box Dance
+http://88.212.15.50/live/mb_dance/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxHits.cz@SD" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Music Box Hits
+http://88.212.15.50/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxSexy.cz@SD" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Music Box Sexy
+http://88.212.15.50/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="OckoBlack.cz@SD" tvg-logo="https://i.imgur.com/5rw9tWy.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoStar.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",RetroMusicTV (360p)
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SlagerMuzika.cz@SD" tvg-logo="https://i.imgur.com/hKdXwrW.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-id="SlagerOriginal.cz@SD" tvg-logo="https://i.imgur.com/0YjeWcq.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-id="Ocko.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Óčko (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoExpres.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Óčko Expres (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoGold.cz@SD" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="Music" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Music" x-source-check="daily",Óčko Gold (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="News" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="News" x-source-check="daily",CNN Prima News (1080p)
+http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-id="CT24.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png" group-title="News" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="News" x-source-check="daily",ČT24 (1080p)
+http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="News" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="News" x-source-check="daily",Настоящее Время (1080p)
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Sports" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Sports" x-source-check="daily",Eurosport 4K Czechia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Sports" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Sports" x-source-check="daily",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" group-title="Sports" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Sports" x-source-check="daily",Prima Sport Czechia
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Sport1.cz@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Sports" x-source-check="daily",Sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz@SD" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="Sports" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Sports" x-source-check="daily",Sport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SportyTV.cz@SD" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="Sports" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Sports" x-source-check="daily",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="Sports" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Sports" x-source-check="daily",ČT Sport (720p)
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Animal_Planet_2018_%28Vertical%29.svg/revision/latest?cb=20190715124953" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Animal Planet
+http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Ballcasterz.cz@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/59cd3407a28c122f4abbc7b01eff7a0c.svg" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Ballcasterz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Discovery_Channel_2019_symbol.svg/revision/latest?cb=20210804150956" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Discovery Channel
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="DVTVExtra.cz@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/615631fb7d93832cdf7a2d85be336c4e.svg" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",DVTV Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
+#EXTINF:-1 tvg-id="ElektrikaTV.cz@SD" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Elektrika TV (1080p)
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Food Network
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/HGTV_2015_Purple.svg/revision/latest?cb=20170704124303" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",HGTV
+http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="History2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",History2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_h2/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ID_%28Print%29.svg/revision/latest?cb=20210101125600" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Investigation Discovery
+http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="KVIFFTV.cz@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/0d824abdc4c21ab5d35cf946847cedee.svg" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",KVIFF TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
+#EXTINF:-1 tvg-id="MnauTV.cz@SD" tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Mňau TV (1080p)
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Prima (1080p)
+http://88.212.15.50/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaCool.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Prima Cool
+http://88.212.15.50/live/prima_cool_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaKrimi.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Prima Krimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_prima_krimi_cz/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaLove.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Prima Love
+http://88.212.15.50/live/prima_love_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaMax.cz@SD" tvg-logo="https://i.imgur.com/ePrdyLi.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Prima Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_prima_max_cz/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaShow.cz@SD" tvg-logo="https://i.imgur.com/XbwAwkp.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Prima Show (1080p)
+http://88.212.15.50/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaStar.cz@SD" tvg-logo="https://i.imgur.com/ppqgNDA.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Prima Star (1080p)
+http://88.212.15.50/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaZoom.cz@SD" tvg-logo="https://i.imgur.com/uNJqZ6p.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Prima Zoom (1080p)
+http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevizeSeznam.cz@SD" tvg-logo="https://i.imgur.com/TpQ8PRb.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Televize Seznam (1080p)
+http://88.212.15.50/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest?cb=20220703193228" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",TLC
+http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.cz@SD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/e4/Travel_Channel_International_%282017%29.svg/revision/latest?cb=20250820081027" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Travel Channel
+http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBarrandov.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",TV Barrandov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-id="UpNetwork.cz@SD" tvg-logo="https://i.imgur.com/cwlHDjh.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Up Network
+https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="VychodoceskaTV.cz@SD" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",Východočeská TV (1080p)
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cz@SD" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="Undefined" x-country-code="cz" x-country-name="🇨🇿 Czech Republic" x-original-group="Undefined" x-source-check="daily",ÚTV (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#COUNTRY-AUDIT|cd|Democratic Republic of the Congo|🇨🇩|1|daily
+#EXTINF:-1 tvg-id="EVITV.cd@SD" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="Entertainment" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="Entertainment" x-source-check="daily",EVI TV (720p)
+https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
+#COUNTRY-AUDIT|dk|Denmark|🇩🇰|5|daily
+#EXTINF:-1 tvg-id="DRTV.dk@SD" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" group-title="General" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="General" x-source-check="daily",DRTV (1080p)
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk@SD" tvg-logo="https://i.imgur.com/afujBQs.jpeg" group-title="General" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="General" x-source-check="daily",Kanal Hovedstaden (720p) [Not 24/7]
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TVMarineret.dk@SD" tvg-logo="https://i.imgur.com/r1Caske.jpg" group-title="General" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="General" x-source-check="daily",TVMarineret (1080p)
+http://sdream.info:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk@SD" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Legislative" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="Legislative" x-source-check="daily",Folketinget (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="TV2Bornholm.dk@SD" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="Undefined" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="Undefined" x-source-check="daily",TV 2/Bornholm (1080p) [Not 24/7]
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#COUNTRY-AUDIT|do|Dominican Republic|🇩🇴|203|daily
+#EXTINF:-1 tvg-id="TigueritoTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Animation;Kids" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Animation;Kids" x-source-check="daily",Tiguerito TV (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="Culture" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Culture" x-source-check="daily",Canal 17 RTVD (1080p)
+https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecovision.do@SD" tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="Documentary" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Documentary" x-source-check="daily",Ecovisión (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-id="AlegreTVRD.do@SD" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Alegre TV RD (720p) [Not 24/7]
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-id="Antena21.do@HD" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Antena 21 HD (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/021.m3u8
+#EXTINF:-1 tvg-id="Bellavision.do@SD" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Bellavision (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BonchesLatinosTV.do@SD" tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Bonches Latinos TV (720p)
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+#EXTINF:-1 tvg-id="CibaenaTV.do@SD" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Cibaeña TV (720p)
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 tvg-id="ClaroVisionTV.do@SD" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Claro Visión TV (720p)
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 tvg-id="COCOTV.do@SD" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",COCO TV (1080p) [Not 24/7]
+https://edge.essastream.com/canalcocotv/playlist.m3u8
+#EXTINF:-1 tvg-id="GalaxiATeVe.do@SD" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Galaxia TV (360p)
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:-1 tvg-id="GiTelevision.do@SD" tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Gi Television (720p) [Not 24/7]
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+#EXTINF:-1 tvg-id="NitidaTV.do@SD" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Nitida TV (720p) [Not 24/7]
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 tvg-id="PronemsTV.do@SD" tvg-logo="https://i.imgur.com/a9ORO1G.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Pronems TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+#EXTINF:-1 tvg-id="RETV.do@SD" tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",R&E TV (480p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-id="Super7FM.do@SD" tvg-logo="https://i.imgur.com/TJEqwZo.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Super7FM
+https://stream.haislin.com/super7fm/index.m3u8
+#EXTINF:-1 tvg-id="Telemax.do@SD" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Telemax (1080p) [Not 24/7]
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TurismoHD.do@HD" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 tvg-id="TVS.do@SD" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",TVS (540p) [Not 24/7]
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 tvg-id="VisionNDV.do@SD" tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Vision NDV (720p) [Not 24/7]
+https://soportedvb.click:3891/live/visionndvlive.m3u8
+#EXTINF:-1 tvg-id="Yunavision.do@SD" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="Entertainment" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Entertainment" x-source-check="daily",Yunavision (720p) [Not 24/7]
+https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
+#EXTINF:-1 tvg-id="A7TV.do@HD" tvg-logo="https://a7tvjarabacoa.netlify.app/IMG_1968.PNG" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",A7 TV (1080p)
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+#EXTINF:-1 tvg-id="AguilaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Aguila TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Ahora TV (1080p) [Not 24/7]
+https://stream.haislin.com/ahoratv/index.m3u8
+#EXTINF:-1 tvg-id="AIONTV.do@SD" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",AION TV (1080p) [Not 24/7]
+https://edge.essastream.com/aiontelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="AltantoTV.do@SD" tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Altanto TV (1080p) [Not 24/7]
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
+#EXTINF:-1 tvg-id="Ame47.do@SD" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Ame 47 (576p)
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena7.do@HD" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Antena 7 HD (1080p) [Not 24/7]
+https://hls.tvabierta.net/hls/007.m3u8
+#EXTINF:-1 tvg-id="BaniVision.do@HD" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Bani Vision (720p) [Not 24/7]
+https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
+#EXTINF:-1 tvg-id="BocaChicaTV.do@SD" tvg-logo="https://i.imgur.com/npiRBPC.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Boca Chica TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BonaoTV.do@SD" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Bonao TV (720p) [Not 24/7]
+https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
+#EXTINF:-1 tvg-id="CamuTV.do@SD" tvg-logo="https://i.imgur.com/3d8cLm9.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Camu TV (480p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaTVDigital.do@SD" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Cana TV Digital (720p) [Not 24/7]
+https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8
+#EXTINF:-1 tvg-id="Canal4RD.do@SD" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Canal 4 RD (1080p)
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Canal Catorce (1080p) [Not 24/7]
+https://stream.haislin.com/14tv/index.m3u8
+#EXTINF:-1 tvg-id="CanaldelSol.do@SD" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Canal del Sol (1080p) [Not 24/7]
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1 tvg-id="CanalDTV.do@SD" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Canal DTV (720p)
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-id="CanalMultivision.do@SD" tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Canal Multivision (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+#EXTINF:-1 tvg-id="Canalda26HD.do@HD" tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Canalda 26 HD [Not 24/7]
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 tvg-id="CanangaTV.do@SD" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Cananga TV (720p)
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:-1 tvg-id="CaobaTVRadio.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Caoba TV Radio (720p) [Not 24/7]
+https://host.streamingnation.live:3940/live/caobatvlive.m3u8
+#EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Cascara TV (720p)
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CDN.do@SD" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",CDN (576p)
+http://190.61.90.17:40000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Cenovision HD (720p)
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Cinevision Canal 19 (1080p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do@SD" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Claro Televisión Dominicana (360p)
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1 tvg-id="CNTMasTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",CNT Mas TV (720p) [Not 24/7]
+https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CodigoTV.do@HD" tvg-logo="https://imgur.com/DbjywI3.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Codigo TV (1080p) [Not 24/7]
+https://edge.essastream.com/codigotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ColomeTV.do@HD" tvg-logo="https://colometv.com/assets/images/logo.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Colome TV [Not 24/7]
+https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
+#EXTINF:-1 tvg-id="ConstanzaTV.do@SD" tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",ConstanzaTV (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Coral39.do@SD" tvg-logo="https://i.imgur.com/k6cv9A9.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Coral 39 (1080p) [Not 24/7]
+https://hls.tvabierta.net/hls/039.m3u8
+#EXTINF:-1 tvg-id="CotubanamaTV.do@SD" tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Cotubanama TV (1080p)
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="CromTV.do@SD" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",CromTV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CTTCanal49.do@SD" tvg-logo="https://i.imgur.com/jsi4qVb.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",CTT Canal 49 (1080p) [Not 24/7]
+https://cdnfox.hostlagarto.com/cct49/index.m3u8
+#EXTINF:-1 tvg-id="DelPuebloTV.do@HD" tvg-logo="https://imgur.com/Pw7ZUT1.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Del Pueblo TV [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="DeltaTVCanal50.do@SD" tvg-logo="https://imgur.com/Z1K1tyl.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Delta TV Canal 50 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Digital15.do@SD" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Digital 15 (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="EcosCanal57.do@HD" tvg-logo="https://imgur.com/ccFwraQ.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Ecos Canal 57 (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
+#EXTINF:-1 tvg-id="ElSeis6.do@SD" tvg-logo="https://elseis.do/wp-content/uploads/2025/02/logo-el-seis-horizontal.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",El Seis 6 (1080p) [Not 24/7]
+https://stream.elseis.do/canal6/live_1080.m3u8
+#EXTINF:-1 tvg-id="EliasPinaTV.do@SD" tvg-logo="https://i.imgur.com/VqxSsZD.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Elias Pina TV (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
+#EXTINF:-1 tvg-id="Enntivision.do@SD" tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Enntivision (1080p) [Not 24/7]
+https://edge.essastream.com/enntivision/playlist.m3u8
+#EXTINF:-1 tvg-id="entelevision.do@SD" tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",entelevision (1080p) [Not 24/7]
+https://stream.haislin.com/entelevision/index.m3u8
+#EXTINF:-1 tvg-id="EnterateRD.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Enterate RD [Not 24/7]
+https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
+#EXTINF:-1 tvg-id="EntunoTV.do@HD" tvg-logo="https://imgur.com/U9OsybQ.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Entuno TV (1080p) [Not 24/7]
+https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1 tvg-id="Extra86TV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Extra 86 TV (720p) [Not 24/7]
+https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
+#EXTINF:-1 tvg-id="Farovision.do@SD" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Farovision (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8
+#EXTINF:-1 tvg-id="FRATATV.do@SD" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",FRATA TV (1080p) [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GlobalSocialTV.do@SD" tvg-logo="https://imgur.com/sGN1NbR.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Global Social TV (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.do@SD" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Global TV (720p) [Not 24/7]
+https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="HainaVision.do@SD" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Haina Vision (720p)
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do@SD" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="InformeTV.do@HD" tvg-logo="https://imgur.com/TmJaXrO.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Informe TV (1080p) [Not 24/7]
+https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Junior Technologia TV (1080p) [Not 24/7]
+https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
+#EXTINF:-1 tvg-id="LaHoraTV.do@HD" tvg-logo="https://lahoratv.org/imagen/lahora.jpeg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",La Hora TV (720p) [Not 24/7]
+https://edge.enhdtv.com/8206/index.m3u8
+#EXTINF:-1 tvg-id="LaRutaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",La Ruta TV
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Laguna TV (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/lagutv/playlist.m3u8
+#EXTINF:-1 tvg-id="LarivisionTV.do@HD" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Larivision TV (720p) [Not 24/7]
+https://live.larivision.net/livelan/live.m3u8
+#EXTINF:-1 tvg-id="LatinaTVInternacional.do@SD" tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Latina TV Internacional (720p)
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="LenaTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Lena TV [Not 24/7]
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="LunaTVCanal53.do@SD" tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Luna TV Canal 53 (720p)
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 tvg-id="ManaclarTelevision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Manaclar Television [Not 24/7]
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1 tvg-id="ManielTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4060-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Maniel TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/manieltv/manieltv/playlist.m3u8
+#EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Marka TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MarlaVision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Marla Vision (576p) [Not 24/7]
+https://soportedvb.click:3877/live/merlavisionlive.m3u8
+#EXTINF:-1 tvg-id="MegaVisionTV.do@SD" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Megavisión TV (480p)
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 tvg-id="MITurnoTV.do@SD" tvg-logo="https://imgur.com/uODDaEY.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",MI Turno TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1 tvg-id="MiavisionTV.do@HD" tvg-logo="https://imgur.com/Bbcrjvs.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Miavision TV (1080p) [Not 24/7]
+https://edge.essastream.com/miavisiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="Microvision10.do@SD" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Microvision 10 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",MorroTV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Musavision.do@SD" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Musavision (1080p)
+https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NaranjaTV.do@SD" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Naranja TV (720p)
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:-1 tvg-id="NexxoTV.do@SD" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Nexxo TV
+https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaTV.do@SD" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Onda TV (720p)
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",ORBIT TV (1080p)
+https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1 tvg-id="PalmarTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Palmar TV [Not 24/7]
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 tvg-id="PuntaCanaTV.do@SD" tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Punta Cana TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
+#EXTINF:-1 tvg-id="PuntoTV.do@SD" tvg-logo="https://imgur.com/vfvN6ox.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Punto TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
+#EXTINF:-1 tvg-id="RTelevision.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",R Television [Not 24/7]
+https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ReadyTVCanal6.do@SD" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Ready TV Canal 6 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-id="RocavisionTV.do@SD" tvg-logo="https://imgur.com/FkHqqsi.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Rocavision TV [Not 24/7]
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do@SD" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Romana TV Canal 42 (480p)
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-id="Ruta66TV.do@SD" tvg-logo="https://i.imgur.com/oY4Xfvq.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Ruta 66 TV (1080p) [Not 24/7]
+https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
+#EXTINF:-1 tvg-id="SanIsidroTV.do@SD" tvg-logo="https://i.imgur.com/pwmJrsm.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",San Isidro TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8
+#EXTINF:-1 tvg-id="SantaCruzTV.do@HD" tvg-logo="https://santacruztv8.com/assets/images/logo.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Santa Cruz TV (1080p) [Not 24/7]
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="SantiagoTV.do@SD" tvg-logo="https://i.imgur.com/10SUxGZ.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Santiago TV (720p) [Not 24/7]
+https://edge.essastream.com/telemilenio/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalDigitalTV.do@HD" tvg-logo="https://imgur.com/KGqUu1X.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Senal Digital TV [Not 24/7]
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
+#EXTINF:-1 tvg-id="SiTV.do@SD" tvg-logo="https://i.imgur.com/f8bDccF.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",SiTV (1080p) [Not 24/7]
+http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+#EXTINF:-1 tvg-id="SurTV.do@SD" tvg-logo="https://i.imgur.com/oAyvK0N.jpeg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Sur TV (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Tele Antillas (1080p)
+http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
+#EXTINF:-1 tvg-id="TeleDajabonTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Tele Dajabon TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
+#EXTINF:-1 tvg-id="TelePoderTV.do@HD" tvg-logo="https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Tele Poder TV (720p) [Not 24/7]
+https://cdn.telepoder.online:3229/dash/stream.m3u8
+#EXTINF:-1 tvg-id="TeleProyectoTV.do@HD" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Tele Proyecto TV [Not 24/7]
+https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecanal12.do@SD" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telecanal 12 (720p) [Not 24/7]
+https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecanal28.do@SD" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telecanal 28 (1080p) [Not 24/7]
+https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecentro.do@SD" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telecentro (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/13tv/index_pc.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
+https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleCibaoHD.do@SD" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",TeleCibaoHD (720p) [Not 24/7]
+https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TelecomercioTV.do@SD" tvg-logo="https://imgur.com/FtV5TCs.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telecomercio TV (720p) [Not 24/7]
+https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
+#EXTINF:-1 tvg-id="Telecontacto.do@SD" tvg-logo="https://i.imgur.com/TMvV9dF.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+#EXTINF:-1 tvg-id="Teleimpacto.do@SD" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Teleimpacto (720p) [Not 24/7]
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="TelemediosCanal8.do@SD" tvg-logo="https://i.imgur.com/xhEAw7z.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telemedios Canal 8 (1080p) [Not 24/7]
+https://hls.tvabierta.net/hls/008.m3u8
+#EXTINF:-1 tvg-id="TelemetroTV.do@SD" tvg-logo="https://imgur.com/Ck2NL0t.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telemetro TV [Not 24/7]
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
+#EXTINF:-1 tvg-id="Telemicro.do@SD" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telemicro (480p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
+https://live2.telemicro.com.do/live/55/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord10.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telenord 10 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord12.do@SD" tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telenord 12 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telenord 8 (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleRadioNorte.do@SD" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",TeleRadioNorte (720p)
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+#EXTINF:-1 tvg-id="TELESIGLO.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",TELESIGLO (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telesistema11.do@SD" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telesistema 11 (1080p) [Not 24/7]
+https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
+#EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Teleunion (1080p)
+#EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
+http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleuniverso.do@SD" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Teleuniverso (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/029.m3u8
+#EXTINF:-1 tvg-id="Telever.do@SD" tvg-logo="https://imgur.com/ejKctXc.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Telever (1080p) [Not 24/7]
+https://soportedvb.click:3413/live/televerlive.m3u8
+#EXTINF:-1 tvg-id="ToraCanal69.do@HD" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Tora Canal 69
+https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
+#EXTINF:-1 tvg-id="TV10SanJuan.do@SD" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",TV 10 San Juan (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCotuiCanal31.do@SD" tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",TV Cotui Canal 31 (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHigueyDigital.do@SD" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",TV Higuey Digital (720p) [Not 24/7]
+https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
+#EXTINF:-1 tvg-id="TVN.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",TVN (1080p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+#EXTINF:-1 tvg-id="TVO.do@SD" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",TVO (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
+#EXTINF:-1 tvg-id="UVATV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3918-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",UVA TV (720p) [Not 24/7]
+https://www.uvatvhd.com/hls.php?file=live.m3u8
+#EXTINF:-1 tvg-id="ValleNuevoTV.do@SD" tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vallevision.do@SD" tvg-logo="https://i.imgur.com/lNpgFAU.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Vallevision Canal 10 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="VegaTeve.do@SD" tvg-logo="https://i.imgur.com/jiyMOZx.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Vega Teve (720p) [Not 24/7]
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
+#EXTINF:-1 tvg-id="VegavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/352jxnd.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Vegavision Canal 18 (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VTVCanal32.do@SD" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",VTV Canal 32 (1080p)
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-id="XtraTv.do@HD" tvg-logo="https://xtratvrd.com/logo512.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Xtra Tv (720p) [Not 24/7]
+https://edge.essastream.com/xtratv/index.m3u8
+#EXTINF:-1 tvg-id="ZincNombreTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Zinc Nombre TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="General" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General" x-source-check="daily",Zonavision TV [Not 24/7]
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+#EXTINF:-1 tvg-id="Telenovisa43.do@SD" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="General;Family" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="General;Family" x-source-check="daily",Telenovisa43 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Kids" x-source-check="daily",Chinola TV (480p)
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Kids" x-source-check="daily",Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalesTV.do@SD" tvg-logo="https://i.imgur.com/7Zr79F2.png" group-title="Lifestyle" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Lifestyle" x-source-check="daily",Senales TV
+https://live.dionelysterrero.com/senalestv/stream.m3u8
+#EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Movies" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Movies" x-source-check="daily",Boreal (720p) [Not 24/7]
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Movies" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Movies" x-source-check="daily",Mega Cine TV (1080p)
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.do@SD" tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",Fuego TV [Not 24/7]
+https://streamunoapp.com:3553/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-id="MaimonTVCanal3.do@SD" tvg-logo="https://i.imgur.com/twldaaC.png" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",Maimon TV Canal 3 (720p) [Not 24/7]
+https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
+#EXTINF:-1 tvg-id="MakaoTV.do@SD" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",Makao TV (1080i)
+https://live.obslivestream.com/makaomux/index.m3u8
+#EXTINF:-1 tvg-id="MontonesTV.do@HD" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",Montones TV (1080p)
+https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-id="SiembraTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",Siembra TV (720p)
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+#EXTINF:-1 tvg-id="TarimaTV.do@HD" tvg-logo="https://vercanalesdominicanos.com/wp-content/uploads/2026/03/tarima.png" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",Tarima TV (720p)
+http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8
+#EXTINF:-1 tvg-id="TeleDominicanaTV.do@SD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",Tele Dominicana TV (720p) [Not 24/7]
+https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TopicalMoonRD.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",Topical Moon RD (720p) [Not 24/7]
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
+#EXTINF:-1 tvg-id="TVExitos.do@SD" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="Music" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Music" x-source-check="daily",TV Éxitos (720p)
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 tvg-id="AcentoTV.do@SD" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",Acento TV
+#EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
+https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",Citrico TV (480p) [Not 24/7]
+https://edge.essastream.com/citricotv/playlist.m3u8
+#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do@SD" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",De Ultimo Minuto TV
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-id="ElNuevoDiarioTV.do@SD" tvg-logo="https://i.imgur.com/yjuTl6N.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",El Nuevo Diario TV (480p)
+#EXTVLCOPT:http-referrer=https://nuevodiario01.streamprolive.com/i/cp/hls/player.html
+https://nuevodiario01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="HermanasMirabalTV.do@SD" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",Hermanas Mirabal TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+#EXTINF:-1 tvg-id="LinierosTV.do@SD" tvg-logo="https://i.imgur.com/bLutjkf.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",Linieros TV (480p) [Not 24/7]
+https://soportedvb.click:3017/live/linierostvlive.m3u8
+#EXTINF:-1 tvg-id="Noticias16.do@SD" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",Noticias 16 (720p) [Not 24/7]
+https://edge.essastream.com/noticias16/playlist.m3u8
+#EXTINF:-1 tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",RDN (1080p) [Not 24/7]
+https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RNN.do@SD" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",RNN (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RNN.do@DOS" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",RNN DOS (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisiondelEste.do@SD" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",Television del Este (1080p) [Not 24/7]
+https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVN24.do@SD" tvg-logo="https://i.imgur.com/bu6bQMa.png" group-title="News" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="News" x-source-check="daily",TVN24 (720p) [Not 24/7]
+https://edge.essastream.com/vozzmedia/index.m3u8
+#EXTINF:-1 tvg-id="AdoramTV.do@SD" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",Adoram TV (720p)
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+#EXTINF:-1 tvg-id="CieloTV.do@SD" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",Cielo TV (1080p)
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElPuertoTV.do@SD" tvg-logo="https://i.imgur.com/FnshExB.jpg" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",El PuertoTV (720p)
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeJesusHD.do@HD" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",La Voz de Jesus HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeMaria.do@SD" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",La Voz de Maria (720p)
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+#EXTINF:-1 tvg-id="LuzDivinaTV.do@HD" tvg-logo="https://imgur.com/BHZw3PK.jpeg" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",Luz Divina TV [Not 24/7]
+https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
+#EXTINF:-1 tvg-id="MisionELTV.do@SD" tvg-logo="https://i.imgur.com/hwC1stN.png" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",Mision ELTV (720p)
+https://rd.tvabierta.net/live/misioneltv.m3u8
+#EXTINF:-1 tvg-id="TeleBendicion.do@SD" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",TeleBendicion (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-id="Televida.do@SD" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",Televida (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/televida/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLuz.do@SD" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="Religious" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Religious" x-source-check="daily",TV Luz (480p)
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+#EXTINF:-1 tvg-id="BajoTechoTV.do@SD" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Shop" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Shop" x-source-check="daily",Bajo Techo TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="Sports" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Sports" x-source-check="daily",CDN Deportes (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 tvg-id="ColimdoTV.do@SD" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="Sports" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Sports" x-source-check="daily",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 tvg-id="TourSpotTV.do@HD" tvg-logo="https://imgur.com/khj869k.png" group-title="Sports" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Sports" x-source-check="daily",Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="OEPMTV.do@SD" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="Travel" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Travel" x-source-check="daily",OEPM TV (720p)
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Travel" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Travel" x-source-check="daily",Teletur (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TurismoRDTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" group-title="Travel" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Travel" x-source-check="daily",Turismo RDTV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.do@SD" tvg-logo="https://i.imgur.com/AZBamNi.png" group-title="Undefined" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Undefined" x-source-check="daily",Super Canal (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
+#EXTINF:-1 tvg-id="TDNMedios.do@SD" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="Undefined" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Undefined" x-source-check="daily",TDN Medios (720p) [Not 24/7]
+https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
+#EXTINF:-1 tvg-id="TelemicroInternacional.do@SD" tvg-logo="https://i.imgur.com/507tvMY.png" group-title="Undefined" x-country-code="do" x-country-name="🇩🇴 Dominican Republic" x-original-group="Undefined" x-source-check="daily",Telemicro Internacional (720p)
+http://45.228.234.60:8880/play/a05f/index.m3u8
