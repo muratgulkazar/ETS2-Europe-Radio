@@ -1,0 +1,189 @@
+#EXTM3U
+#FALLBACK-BATCH|15
+#COUNTRY-FALLBACK-AUDIT|ug|21
+#EXTINF:-1 tvg-id="3ABNTVUganda.ug@SD" tvg-logo="https://i.imgur.com/mml9lI2.png" group-title="Religious" x-country-code="ug" x-original-group="Religious" x-source-check="upstream-only",3ABN TV Uganda (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8
+#EXTINF:-1 tvg-id="ACWUGTV.ug@SD" tvg-logo="https://i.imgur.com/8pzEmcJ.jpeg" group-title="General;Music" x-country-code="ug" x-original-group="General;Music" x-source-check="upstream-only",ACW UG TV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://live.acwugtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AlphaDigital.ug@SD" tvg-logo="https://i.imgur.com/sLt242H.png" group-title="Religious" x-country-code="ug" x-original-group="Religious" x-source-check="upstream-only",Alpha Digital (480p) [SOURCE NOT DAILY-VALIDATED]
+https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArkTV.ug@SD" tvg-logo="https://i.imgur.com/yCHNZXD.png" group-title="Religious" x-country-code="ug" x-original-group="Religious" x-source-check="upstream-only",Ark TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="BBSTV.ug@SD" tvg-logo="https://i.imgur.com/Hub1AXv.png" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",BBS TV (Uganda) [SOURCE NOT DAILY-VALIDATED]
+https://bbstv.ug/hls/ch01/index.m3u8
+#EXTINF:-1 tvg-id="BTMTV.ug@SD" tvg-logo="https://i.imgur.com/NUvA2jf.png" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",BTM TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://btmug.zerocdn.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BTV.ug@SD" tvg-logo="https://i.imgur.com/rcHZ1al.png" group-title="Entertainment" x-country-code="ug" x-original-group="Entertainment" x-source-check="upstream-only",BTV (Uganda) (480p) [SOURCE NOT DAILY-VALIDATED]
+https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV1.ug@SD" tvg-logo="https://i.imgur.com/HFq5QlJ.png" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",Bukedde TV 1 (576p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV2.ug@SD" tvg-logo="https://i.imgur.com/ukwPZeY.png" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",Bukedde TV 2 (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+#EXTINF:-1 tvg-id="DreamTV.ug@SD" tvg-logo="https://i.imgur.com/XRUDhqQ.png" group-title="Religious" x-country-code="ug" x-original-group="Religious" x-source-check="upstream-only",Dream TV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FarajaTelevision.ug@SD" tvg-logo="https://i.imgur.com/NmnOGHI.jpg" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",Faraja Television (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="FORTTV.ug@SD" tvg-logo="https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png" group-title="Entertainment" x-country-code="ug" x-original-group="Entertainment" x-source-check="upstream-only",FORT TV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
+#EXTINF:-1 tvg-id="GalaxyTV.ug@SD" tvg-logo="https://i.imgur.com/P5OABe5.png" http-referrer="https://player.castr.com/live_43351ad0f3b411ed81c78fcc31887c54" group-title="Music" x-country-code="ug" x-original-group="Music" x-source-check="upstream-only",Galaxy TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_43351ad0f3b411ed81c78fcc31887c54
+https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="GuguddeTV.ug@SD" tvg-logo="https://i.imgur.com/XEakc6Q.png" group-title="Religious" x-country-code="ug" x-original-group="Religious" x-source-check="upstream-only",Gugudde TV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="KRCTV.ug@SD" tvg-logo="https://i.imgur.com/8c9Uqks.jpeg" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",KRC TV [SOURCE NOT DAILY-VALIDATED]
+https://channels.ad-ug.com/live/ch03/index.m3u8
+#EXTINF:-1 tvg-id="KSTVUganda.ug@SD" tvg-logo="https://i.imgur.com/MMPzPSl.png" group-title="Religious" x-country-code="ug" x-original-group="Religious" x-source-check="upstream-only",KSTV Uganda [SOURCE NOT DAILY-VALIDATED]
+https://live.esteem.africa/kstv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="RwenzoriTV.ug@SD" tvg-logo="https://i.imgur.com/qo4QHfz.png" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",Rwenzori TV [SOURCE NOT DAILY-VALIDATED]
+https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8
+#EXTINF:-1 tvg-id="SaltTV.ug@SD" tvg-logo="https://i.imgur.com/AK9nE6Y.png" group-title="Religious" x-country-code="ug" x-original-group="Religious" x-source-check="upstream-only",Salt TV (Uganda) [SOURCE NOT DAILY-VALIDATED]
+https://stream.salttelevision.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TayariWestTV.ug@SD" tvg-logo="https://i.imgur.com/tbnOtUZ.jpeg" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",Tayari West TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+#EXTINF:-1 tvg-id="TVWest.ug@SD" tvg-logo="https://i.imgur.com/EiJzkIz.png" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",TV West (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="WanLuoTV.ug@SD" tvg-logo="https://i.imgur.com/4PUUp3E.png" group-title="General" x-country-code="ug" x-original-group="General" x-source-check="upstream-only",Wan Luo TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|uy|45
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment" x-country-code="uy" x-original-group="Entertainment" x-source-check="upstream-only",Adult Swim Latin America [SOURCE NOT DAILY-VALIDATED]
+http://170.244.209.30:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies" x-country-code="uy" x-original-group="Movies" x-source-check="upstream-only",AMC Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" group-title="Series" x-country-code="uy" x-original-group="Series" x-source-check="upstream-only",AMC Series Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="General" x-country-code="uy" x-original-group="General" x-source-check="upstream-only",Canal 5 (Uruguay) (720p) [SOURCE NOT DAILY-VALIDATED]
+https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-id="CanalALMA.uy@SD" tvg-logo="https://i.imgur.com/rB7iFUF.jpg" http-referrer="https://canalalma.tv" group-title="General" x-country-code="uy" x-original-group="General" x-source-check="upstream-only",Canal ALMA [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://canalalma.tv
+https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMas.uy@SD" tvg-logo="https://i.imgur.com/gs1L1mW.png" group-title="Religious" x-country-code="uy" x-original-group="Religious" x-source-check="upstream-only",Canal Mas (720p) [SOURCE NOT DAILY-VALIDATED]
+https://canalmasuruguay.com/hls/master-abr.m3u8
+#EXTINF:-1 tvg-id="CanalOncePlus.uy@SD" tvg-logo="https://i.imgur.com/TYiMGUD.png" http-referrer="https://canal11.uy" group-title="General" x-country-code="uy" x-original-group="General" x-source-check="upstream-only",Canal Once Plus [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://canal11.uy
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids" x-country-code="uy" x-original-group="Animation;Kids" x-source-check="upstream-only",Cartoon Network Latin America South Atlantic (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://158.172.217.18:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy" x-country-code="uy" x-original-group="Comedy" x-source-check="upstream-only",Comedy Central Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+#EXTINF:-1 tvg-id="DesdeElSurTV.uy@SD" tvg-logo="https://i.imgur.com/y3vNkEU.jpeg" group-title="Entertainment" x-country-code="uy" x-original-group="Entertainment" x-source-check="upstream-only",Desde El Sur TV [SOURCE NOT DAILY-VALIDATED]
+https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids" x-country-code="uy" x-original-group="Animation;Kids" x-source-check="upstream-only",Disney Channel Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids" x-country-code="uy" x-original-group="Animation;Kids" x-source-check="upstream-only",Disney Channel Latin America Panregional HD (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids" x-country-code="uy" x-original-group="Animation;Kids" x-source-check="upstream-only",Disney Jr. Latin America South (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids" x-country-code="uy" x-original-group="Animation;Kids" x-source-check="upstream-only",Disney Jr. Latin America South HD (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",DSports (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Entertainment;News" x-country-code="uy" x-original-group="Entertainment;News" x-source-check="upstream-only",E! Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Cooking" x-country-code="uy" x-original-group="Cooking" x-source-check="upstream-only",El Gourmet South (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",ESPN 2 Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",ESPN 3 Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",ESPN 4 Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",ESPN 5 Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",ESPN 6 Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",ESPN 7 Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",ESPN Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="HTV.us@Argentina" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music" x-country-code="uy" x-original-group="Music" x-source-check="upstream-only",HTV Argentina (720p) [SOURCE NOT DAILY-VALIDATED]
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary" x-country-code="uy" x-original-group="Documentary" x-source-check="upstream-only",Investigation Discovery Latin America South (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://38.65.175.84:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-id="LaElegidaTelevision.uy@SD" tvg-logo="https://i.imgur.com/zdrbjDc.png" group-title="Music" x-country-code="uy" x-original-group="Music" x-source-check="upstream-only",La Elegida Television [SOURCE NOT DAILY-VALIDATED]
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MisionVidaTV.uy@SD" tvg-logo="https://i.imgur.com/8JgBuTm.png" group-title="Religious" x-country-code="uy" x-original-group="Religious" x-source-check="upstream-only",Mision Vida TV [SOURCE NOT DAILY-VALIDATED]
+https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment" x-country-code="uy" x-original-group="Entertainment" x-source-check="upstream-only",MTV Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports" x-country-code="uy" x-original-group="Sports" x-source-check="upstream-only",Ovacion TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids" x-country-code="uy" x-original-group="Kids" x-source-check="upstream-only",Pakapaka (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@South" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Undefined" x-country-code="uy" x-original-group="Undefined" x-source-check="upstream-only",TCM Latin America South (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.171.64.30:6060/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="General" x-country-code="uy" x-original-group="General" x-source-check="upstream-only",TELE 6 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="General" x-country-code="uy" x-original-group="General" x-source-check="upstream-only",Telemundo Internacional (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@Argentina" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation;Kids" x-country-code="uy" x-original-group="Animation;Kids" x-source-check="upstream-only",Tooncast Argentina (720p) [SOURCE NOT DAILY-VALIDATED]
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
+#EXTINF:-1 tvg-id="TVUniversalUruguay.uy@SD" tvg-logo="https://i.imgur.com/KD4aZ7W.jpeg" group-title="Religious" x-country-code="uy" x-original-group="Religious" x-source-check="upstream-only",TV Universal Uruguay [SOURCE NOT DAILY-VALIDATED]
+https://stream.universal.org.uy/hls/0/stream.m3u8
+#COUNTRY-FALLBACK-AUDIT|va|2
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports" x-country-code="va" x-original-group="Sports" x-source-check="upstream-only",FIFA+ Italy (720p) [SOURCE NOT DAILY-VALIDATED]
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2000.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png" group-title="Religious" x-country-code="va" x-original-group="Religious" x-source-check="upstream-only",TV2000 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#COUNTRY-FALLBACK-AUDIT|vc|1
+#EXTINF:-1 tvg-id="SVGTV.vc@SD" tvg-logo="https://i.imgur.com/fGLz34S.png" group-title="General" x-country-code="vc" x-original-group="General" x-source-check="upstream-only",SVG TV (576p) [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://customer-1drvoydzrkhpnbh4.cloudflarestream.com/64f76b07446d5d8801c4b9f6192ac79b/manifest/video.m3u8
+#COUNTRY-FALLBACK-AUDIT|ws|1
+#EXTINF:-1 tvg-id="TV3.ws@SD" tvg-logo="https://i.imgur.com/VT2Tqmr.png" group-title="General" x-country-code="ws" x-original-group="General" x-source-check="upstream-only",TV3 (Samoa) (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
+#COUNTRY-FALLBACK-AUDIT|ye|4
+#EXTINF:-1 tvg-id="AlMasirah.ye@SD" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="News" x-country-code="ye" x-original-group="News" x-source-check="upstream-only",Al Masirah (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasirahMubacher.ye@SD" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="News" x-country-code="ye" x-original-group="News" x-source-check="upstream-only",Al Masirah Mubacher (642p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSahatTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Religious" x-country-code="ye" x-original-group="Religious" x-source-check="upstream-only",Al-Sahat TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+#EXTINF:-1 tvg-id="YemenTodayTV.ye@SD" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="Undefined" x-country-code="ye" x-original-group="Undefined" x-source-check="upstream-only",Yemen Today TV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://video.yementdy.tv/hls/yementoday.m3u8
+#COUNTRY-FALLBACK-AUDIT|za|22
+#EXTINF:-1 tvg-id="1KZNTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General" x-country-code="za" x-original-group="Entertainment;Family;General" x-source-check="upstream-only",1KZN TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BOKTV.za@SD" tvg-logo="https://i.imgur.com/mcNjuuO.png" group-title="Music" x-country-code="za" x-original-group="Music" x-source-check="upstream-only",BOKTV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 tvg-id="CapeTownTV.za@SD" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="General" x-country-code="za" x-original-group="General" x-source-check="upstream-only",Cape Town TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimeandEvidence.za@SD" tvg-logo="https://i.imgur.com/xwGquEb.png" group-title="Undefined" x-country-code="za" x-original-group="Undefined" x-source-check="upstream-only",Crime and Evidence (720p) [SOURCE NOT DAILY-VALIDATED]
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
+#EXTINF:-1 tvg-id="etvNewsSport.za@SD" tvg-logo="https://i.imgur.com/lXMzsNM.png" group-title="News" x-country-code="za" x-original-group="News" x-source-check="upstream-only",e.tv News & Sport (720p) [SOURCE NOT DAILY-VALIDATED]
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+#EXTINF:-1 tvg-id="GNFTV.za@SD" tvg-logo="https://i.imgur.com/vCB7u0e.png" group-title="Religious" x-country-code="za" x-original-group="Religious" x-source-check="upstream-only",GNF TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HomebaseTV.za@SD" tvg-logo="https://i.imgur.com/MaLNfJG.png" group-title="Religious" x-country-code="za" x-original-group="Religious" x-source-check="upstream-only",Homebase TV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LN24SA.za@SD" tvg-logo="https://i.imgur.com/Hg5YTwu.png" group-title="News" x-country-code="za" x-original-group="News" x-source-check="upstream-only",LN24SA (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="Religious" x-country-code="za" x-original-group="Religious" x-source-check="upstream-only",LoveworldSAT (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+#EXTINF:-1 tvg-id="NuViewTV.za@SD" tvg-logo="https://i.imgur.com/dYRJ7F0.png" group-title="Entertainment" x-country-code="za" x-original-group="Entertainment" x-source-check="upstream-only",NuView TV (360p) [SOURCE NOT DAILY-VALIDATED]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RLWTV.za@SD" tvg-logo="https://i.imgur.com/VcwqoEF.png" group-title="Religious" x-country-code="za" x-original-group="Religious" x-source-check="upstream-only",RLW TV (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ROVTV.za@SD" tvg-logo="https://i.imgur.com/sbeuEYY.png" group-title="Undefined" x-country-code="za" x-original-group="Undefined" x-source-check="upstream-only",ROV TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SABC1.za@SD" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="Undefined" x-country-code="za" x-original-group="Undefined" x-source-check="upstream-only",SABC 1 (720p) [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABC2.za@SD" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="Undefined" x-country-code="za" x-original-group="Undefined" x-source-check="upstream-only",SABC 2 [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABC3.za@SD" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="Undefined" x-country-code="za" x-original-group="Undefined" x-source-check="upstream-only",SABC 3 (576i) [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABCLehae.za@SD" tvg-logo="https://i.imgur.com/YhdnZHH.png" group-title="News" x-country-code="za" x-original-group="News" x-source-check="upstream-only",SABC Lehae [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="News" x-country-code="za" x-original-group="News" x-source-check="upstream-only",SABC News (720p) [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SeraphimTV.za@SD" tvg-logo="https://i.imgur.com/MfeKk07.png" group-title="Religious" x-country-code="za" x-original-group="Religious" x-source-check="upstream-only",Seraphim TV [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
+#EXTINF:-1 tvg-id="SowetoTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Entertainment;Family" x-country-code="za" x-original-group="Entertainment;Family" x-source-check="upstream-only",Soweto TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trigger.za@SD" tvg-logo="https://i.imgur.com/TrlrcWf.png" group-title="Undefined" x-country-code="za" x-original-group="Undefined" x-source-check="upstream-only",Trigger [SOURCE NOT DAILY-VALIDATED]
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+#EXTINF:-1 tvg-id="TshwaneTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment;Family;General" x-country-code="za" x-original-group="Entertainment;Family;General" x-source-check="upstream-only",Tshwane TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSEnglish.in@SD" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="General" x-country-code="za" x-original-group="General" x-source-check="upstream-only",TV BRICS English (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|zw|1
+#EXTINF:-1 tvg-id="YadahTV.zw@SD" tvg-logo="https://i.imgur.com/4BNVhoC.png" group-title="Religious" x-country-code="zw" x-original-group="Religious" x-source-check="upstream-only",Yadah TV (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
