@@ -1,0 +1,595 @@
+#EXTM3U
+#STAGE|upstream_15|source=iptv-org/iptv/streams
+#UPSTREAM-COUNTRY|sa|Saudi Arabia|🇸🇦|70
+#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Abdulmajeed Abdullah (1080p)
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+#EXTINF:-1 tvg-id="Aflam.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Aflam (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Arabiya English (1080p)
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Arabiya English (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF:-1 tvg-id="AlEkhbariya.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Ekhbariya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-id="AlEkhbariya.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Ekhbariya (360p)
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Hadath (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Hadath TV (1080p) [Not 24/7]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Quran Al Kareem TV (720p)
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Quran Al Kareem TV (720p)
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Quran Al Kareem TV (360p) [Not 24/7]
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Resalah (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRiyadhRadio.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Riyadh Radio (1080p)
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Saudiya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Saudiya (360p)
+https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Saudiya Alaan (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Sunnah Al Nabawiyah TV (720p)
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Sunnah Al Nabawiyah TV (720p)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Sunnah Al Nabawiyah TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="AlkhuzamaRadio.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Alkhuzama Radio (1080p)
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
+#EXTINF:-1 tvg-id="AlwesamTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Alwesam TV (1080p)
+https://stream.addresses-sat.com/Alwesam/index.m3u8
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Asharq News (1080p)
+https://live-news.asharq.com/asharq.m3u8
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Asharq News (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqRadio.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Asharq Radio (1080p)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Atfal & Mawaheb TV (1080p)
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="BabAlHara.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Bab Al Hara (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+#EXTINF:-1 tvg-id="BigTimePlus.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Big Time Plus (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+#EXTINF:-1 tvg-id="DrPalTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Dr Pal TV (720p)
+https://stream.cisk.tech/drpal/index.m3u8
+#EXTINF:-1 tvg-id="Fairuz.sa@HD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Fairuz (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraaAfricaEurope.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Iqraa Africa & Europe (1080p)
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraaArabic.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Iqraa Arabic (1080p) [Not 24/7]
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraaQuran.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Iqraa Quran (1080p)
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-id="JeddahRadio.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Jeddah Radio (1080p)
+https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
+#EXTINF:-1 tvg-id="LBC.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",LBC (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="MajidAlMohandis.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Majid Al Mohandis (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+#EXTINF:-1 tvg-id="MakkahTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Makkah TV (576p)
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="Maraya.sa@HD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Maraya (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",MBC Masr Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 tvg-id="MBCMood.sa@HD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",MBC Mood (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",MBC+ Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="MohammedAbdo.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Mohammed Abdo (1080p)
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+#EXTINF:-1 tvg-id="MoviesAction.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Movies Action (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 tvg-id="MoviesThriller.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Nidae AlIslam Radio (1080p)
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="PanoramaFM.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Panorama FM (1080p)
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+#EXTINF:-1 tvg-id="PanoramaFM.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Panorama FM (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8
+#EXTINF:-1 tvg-id="HolyQuranRadio.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Quran Radio (1080p)
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-id="RabehSaqer.sa@HD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rabeh Saqer (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+#EXTINF:-1 tvg-id="RashidAlMajed.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rashid AlMajed (1080p)
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rotana Cinema KSA (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rotana Classic (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClip.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rotana Clip (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rotana Comedy (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rotana Drama (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rotana Khalijia (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Rotana Music (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Saudi Thaqafiya TV (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+#EXTINF:-1 tvg-id="SaudiaRadio.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Saudia Radio (1080p)
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="SBC.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",SBC (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-id="ThikrayatTV.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Thikrayat TV (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+#EXTINF:-1 tvg-id="MBCLoud.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",MBC Loud
+https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
+#EXTINF:-1 tvg-id="AlAlamAlYawm.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Alam Al Yawm
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Al Saudiya
+https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8
+#EXTINF:-1 tvg-id="Tarab.sa@SD" group-title="Saudi Arabia" x-country-code="sa" x-country-name="🇸🇦 Saudi Arabia" x-health="source-only" x-original-group="",Tarab (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
+#UPSTREAM-COUNTRY|sn|Senegal|🇸🇳|14
+#EXTINF:-1 tvg-id="A2iMusic.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iNaija.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",A2i Naija (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iReligion.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="AmaniTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",Amani TV (1080p) [Not 24/7]
+https://goccn.cloud/hls/amanitv/index.m3u8
+#EXTINF:-1 tvg-id="ChabibaTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",Chabiba TV (360p) [Not 24/7]
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+#EXTINF:-1 tvg-id="CNMTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",CNM TV (720p) [Not 24/7]
+https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Diaspora24.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",Diaspora 24 [Geo-blocked]
+https://vdo3.pro-fhi.net:3218/stream/play.m3u8
+#EXTINF:-1 tvg-id="GMSTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+#EXTINF:-1 tvg-id="LougaTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",Louga TV (480p)
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="OneNationTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",One Nation TV (720p) [Not 24/7]
+https://endour.net/hls/One_nationtv/index.m3u8
+#EXTINF:-1 tvg-id="SenewebTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",Seneweb TV [Geo-blocked]
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-id="SenJeunesTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",SenJeunes TV (480p) [Not 24/7]
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SunuLabelTV.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",Sunu Label TV (480p) [Not 24/7]
+https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMusikSenegal.sn@SD" group-title="Senegal" x-country-code="sn" x-country-name="🇸🇳 Senegal" x-health="source-only" x-original-group="",TeleMusik Senegal (720p)
+https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
+#UPSTREAM-COUNTRY|rs|Serbia|🇷🇸|48
+#EXTINF:-1 tvg-id="DMSat.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",DM Sat (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/DMSat/index.m3u8
+#EXTINF:-1 tvg-id="DMSat.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",DM Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.40:5000
+#EXTINF:-1 tvg-id="EDUTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",EDU TV (576p) [Not 24/7]
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+#EXTINF:-1 tvg-id="IDJTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",IDJTV
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
+#EXTINF:-1 tvg-id="KitchenTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Kitchen TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03n
+#EXTINF:-1 tvg-id="TVMarsh.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Marsh TV (720p) [Not 24/7]
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1 tvg-id="MISTelevizija.au@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",MIS Televizija (720p) [Not 24/7]
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="NarodnaTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Narodna TV (720p)
+https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1 tvg-id="Nova.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Nova (1080p)
+https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+#EXTINF:-1 tvg-id="Pink.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Pink (720p)
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-id="Prva.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Prva (1080p)
+https://de1.dstv.cx/PrvaTVHD/index.m3u8
+#EXTINF:-1 tvg-id="PrvaFiles.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Prva Files
+https://de1.dstv.cx/PrvaFiles/index.m3u8
+#EXTINF:-1 tvg-id="PrvaKick.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Prva Kick (1080p)
+https://de1.dstv.cx/PrvaKick/index.m3u8
+#EXTINF:-1 tvg-id="PrvaLife.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Prva Life (1080p)
+https://de1.dstv.cx/PrvaLife/index.m3u8
+#EXTINF:-1 tvg-id="PrvaMax.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Prva Max (1080p)
+https://de1.dstv.cx/PrvaMax/index.m3u8
+#EXTINF:-1 tvg-id="PrvaPlus.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Prva Plus (1080p)
+https://de1.dstv.cx/PrvaPlus/index.m3u8
+#EXTINF:-1 tvg-id="PrvaWorld.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Prva World (1080p)
+https://de1.dstv.cx/PrvaWorld/index.m3u8
+#EXTINF:-1 tvg-id="RadioHitFMTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Radio Hit FM TV (720p)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 tvg-id="RadioKarolinaTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Radio Karolina TV (720p)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Radio Lola (720p) [Not 24/7]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-id="RTS1.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS 1 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 tvg-id="RTS1.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS 1
+https://de1.dstv.cx/RTS1HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS 2 (1080p)
+https://de1.dstv.cx/RTS2HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS 2 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="RTS3.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS 3 (720p)
+http://185.81.240.65:15000/udp/233.233.233.36:12000
+#EXTINF:-1 tvg-id="RTSDrama.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS Drama (576p)
+https://de1.dstv.cx/RTSDrama/index.m3u8
+#EXTINF:-1 tvg-id="RTSKolo.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS Kolo (576p)
+https://de1.dstv.cx/RTSKolo/index.m3u8
+#EXTINF:-1 tvg-id="RTSMuzika.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS Muzika (576p)
+https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1 tvg-id="RTSPoletarac.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS Poletarac (576p)
+https://de1.dstv.cx/RTSPoletarac/index.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS Svet (1080p)
+https://de1.dstv.cx/RTSSvet/index.m3u8
+#EXTINF:-1 tvg-id="RTSTrezor.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS Trezor (576p)
+https://de1.dstv.cx/RTSTrezor/index.m3u8
+#EXTINF:-1 tvg-id="RTSZivot.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTS Zivot (576p)
+https://de1.dstv.cx/RTSZivot/index.m3u8
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTV Bap (480p)
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 tvg-id="SandzakTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Sandzak TV (576p)
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",SOS Kanal Plus (720p)
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 tvg-id="TopTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Top TV (1080p)
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BelleAmie.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",TV Belle Amie (540p)
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",TV Duga Plus (480p) [Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHram.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",TV Hram (576p) [Not 24/7]
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="TVKanalM.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",TV Kanal M (576p)
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 tvg-id="TVPanon.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",TV Panon
+https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",TV Pi Kanal (576p) [Not 24/7]
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",TV Pirot (240p) [Not 24/7]
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ZICOTV.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",ZICO TV (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 tvg-id="SciFi.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Sci Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" group-title="Serbia" x-country-code="rs" x-country-name="🇷🇸 Serbia" x-health="source-only" x-original-group="",Arena Sport 1 Premium (360p)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
+#UPSTREAM-COUNTRY|sl|Sierra Leone|🇸🇱|1
+#EXTINF:-1 tvg-id="MercyTV.sl@SD" group-title="Sierra Leone" x-country-code="sl" x-country-name="🇸🇱 Sierra Leone" x-health="source-only" x-original-group="",Mercy TV
+https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8
+#UPSTREAM-COUNTRY|sg|Singapore|🇸🇬|28
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@India" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Animax Asia India (1080p) [Geo-blocked]
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="AniplusAsia.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Aniplus Asia (720p) [Geo-blocked]
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Channel 8 (720p)
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="ChannelU.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Channel U (720p)
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 tvg-id="CNA.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",CNA (1080p) [Geo-blocked]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Crime + Investigation Asia HD (720p) [Geo-blocked]
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+#EXTINF:-1 tvg-id="KCM.sg@India" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",KCM (1080p) [Geo-blocked]
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",meWATCH LIVE 1 (1080p)
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="Suria.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Suria [Geo-blocked]
+https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
+#EXTINF:-1 tvg-id="TechStorm.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Tech Storm (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Zee TV Asia Pacific (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",CNA International (576p)
+https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",ZooMoo (1080p)
+http://168.196.127.137:6001/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="HITSMovies.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",HITS Movies (576p)
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+#EXTINF:-1 tvg-id="Channel5.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Channel 5 (720p)
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Cartoon Network Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Cartoonito Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Asian Food Network Vietnam (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",HBO Asia Taiwan (1080p)
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Cinemax Asia HD (1080p)
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",HBO Asia SD (720p) [Geo-blocked]
+https://tinyurl.com/yn3d3rmd
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Cinemax Asia (720p) [Geo-blocked]
+https://tinyurl.com/44efw2rx
+#EXTINF:-1 tvg-id="CNBCAsia.sg@HD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" group-title="Singapore" x-country-code="sg" x-country-name="🇸🇬 Singapore" x-health="source-only" x-original-group="",CNA International (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+#UPSTREAM-COUNTRY|sx|Sint Maarten|🇸🇽|8
+#EXTINF:-1 tvg-id="981PearlFM.sx@SD" group-title="Sint Maarten" x-country-code="sx" x-country-name="🇸🇽 Sint Maarten" x-health="source-only" x-original-group="",98.1 Pearl FM (720p)
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sint Maarten" x-country-code="sx" x-country-name="🇸🇽 Sint Maarten" x-health="source-only" x-original-group="",Nolan Nanton Productions (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8
+#EXTINF:-1 tvg-id="TVCARiB.sx@SD" group-title="Sint Maarten" x-country-code="sx" x-country-name="🇸🇽 Sint Maarten" x-health="source-only" x-original-group="",TVCARiB (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
+#EXTINF:-1 tvg-id="TVCARiBCinema.sx@SD" group-title="Sint Maarten" x-country-code="sx" x-country-name="🇸🇽 Sint Maarten" x-health="source-only" x-original-group="",TVCARiB Cinema (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
+#EXTINF:-1 tvg-id="TVCARiBGospel.sx@SD" group-title="Sint Maarten" x-country-code="sx" x-country-name="🇸🇽 Sint Maarten" x-health="source-only" x-original-group="",TVCARiB Gospel (480p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+#EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" group-title="Sint Maarten" x-country-code="sx" x-country-name="🇸🇽 Sint Maarten" x-health="source-only" x-original-group="",TVCARiB Kids & Teens (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+#EXTINF:-1 tvg-id="TVCARiBLatino.sx@SD" group-title="Sint Maarten" x-country-code="sx" x-country-name="🇸🇽 Sint Maarten" x-health="source-only" x-original-group="",TVCARiB Latino (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sint Maarten" x-country-code="sx" x-country-name="🇸🇽 Sint Maarten" x-health="source-only" x-original-group="",TVCARiB Radio (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8
+#UPSTREAM-COUNTRY|sk|Slovakia|🇸🇰|57
+#EXTINF:-1 tvg-id="24.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",:24 (1080p)
+http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",:Šport (1080p)
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="AntikInfoTV.sk@HD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Antik Info TV (1080p)
+https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",ducktv (720p)
+https://jmp2.uk/stvp-ESBC4700001GR
+#EXTINF:-1 tvg-id="ducktv.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",ducktv (720p)
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",ducktv (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
+#EXTINF:-1 tvg-id="ducktv.sk@HD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",ducktv HD
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",ducktv PLUS
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 tvg-id="Dvojka.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Dvojka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="HAHATV.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",HAHA TV
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Jednotka.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Jednotka
+http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeTv.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",LifeTv (1080p)
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-id="MTR.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",MTR (1080p)
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Prima Cool SK (1080p)
+http://88.212.15.50/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaKrimiSK.sk@HD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Prima Krimi SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/prima_krimi_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRaj.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Raj TV (720p) [Not 24/7]
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 tvg-id="RegioTV.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Régió TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
+#EXTINF:-1 tvg-id="Senzi.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Senzi (720p)
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Televízia Močenok (720p)
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Televízia OSEM (576p)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Televízia OSEM (360p)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="TurboTV.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Turbo TV (1080p)
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrezova.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Brezová (540p)
+http://95.105.193.219:88/hls/tvb.m3u8
+#EXTINF:-1 tvg-id="TVCentral.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV DK (486p) [Not 24/7]
+https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLiptov.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Liptov (1080p)
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLocAll.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 tvg-id="TVLux.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Lux (720p) [Geo-blocked]
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8
+#EXTINF:-1 tvg-id="TVLux.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Lux (720p) [Not 24/7]
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMyjava.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Myjava (540p)
+http://95.105.193.219:88/hls/tvm.m3u8
+#EXTINF:-1 tvg-id="NZTV.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Nové Zámky (486p) [Not 24/7]
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="TVNRSR.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV NRSR (720p) [Not 24/7]
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPanorama.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Panorama
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
+#EXTINF:-1 tvg-id="TVPoprad.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Poprad (1080p) [Not 24/7]
+http://213.81.153.221:8080/poprad
+#EXTINF:-1 tvg-id="TVPovazie.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Povazie (1080p)
+https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRomana.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Romana (720p)
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRuzinov.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Ružinov (1080p) [Not 24/7]
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSen.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Sen (540p)
+http://95.105.193.219:88/hls/tvsen.m3u8
+#EXTINF:-1 tvg-id="TVSeverka.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Severka (576p) [Not 24/7]
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSkalica.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Skalica (540p)
+http://95.105.193.219:88/hls/tvs.m3u8
+#EXTINF:-1 tvg-id="TVStaraTura.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Stará Turá (540p)
+http://95.105.193.219:88/hls/tvst.m3u8
+#EXTINF:-1 tvg-id="TVVega.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TV Vega (576p) [Not 24/7]
+http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",TVT (486p)
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+#EXTINF:-1 tvg-id="VIOTV.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",VIO TV (480p)
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaSK.sk@HD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Prima SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_prima_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Canal+ Sport SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Canal+ Sport 2 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Canal+ Sport 3 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Canal+ Sport 4 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Canal+ Sport 5 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Canal+ Sport 6 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Canal+ Sport 7 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",Canal+ Sport 8 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VIATV.sk@SD" group-title="Slovakia" x-country-code="sk" x-country-name="🇸🇰 Slovakia" x-health="source-only" x-original-group="",VIA TV
+http://88.212.15.50/live/via_tv/index.m3u8
+#UPSTREAM-COUNTRY|si|Slovenia|🇸🇮|19
+#EXTINF:-1 tvg-id="ExodusTV.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ExodusTV.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="FolxSlovenija.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Folx Slovenija
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="H2HD.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",H2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+#EXTINF:-1 tvg-id="History.si@HD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01s
+#EXTINF:-1 tvg-id="StarCrime.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Star Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02o
+#EXTINF:-1 tvg-id="StarLife.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Star Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02n
+#EXTINF:-1 tvg-id="StarMovies.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Star Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01o
+#EXTINF:-1 tvg-id="TrzicTV.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Tržič TV (1080p) [Not 24/7]
+https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Viasat Kino Balkan (1080p)
+http://176.61.157.250/TV1000/index.m3u8
+#EXTINF:-1 tvg-id="TVSLO1.si@HD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",TV SLO 1 HD (1080p) [Not 24/7]
+http://23.88.66.93/SLO1/index.m3u8
+#EXTINF:-1 tvg-id="TVSLO2.si@HD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",TV SLO 2 HD (1080p) [Not 24/7]
+http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:-1 tvg-id="TelevizijaUrslja.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",TV Uršlja (1080p) [Not 24/7]
+http://ott.sgn.net/hls/tvurslja.m3u8
+#EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",TV Veseljak Golica HD
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.si@HD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.si@HD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1Premium.si@SD" group-title="Slovenia" x-country-code="si" x-country-name="🇸🇮 Slovenia" x-health="source-only" x-original-group="",Arena Sport 1 Premium
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
+#UPSTREAM-COUNTRY|so|Somalia|🇸🇴|9
+#EXTINF:-1 tvg-id="ArlaadiTV.so@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",Arlaadi TV
+https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
+#EXTINF:-1 tvg-id="DacwaTV.ke@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",Dacwa TV (576p) [Not 24/7]
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1 tvg-id="HirshabelleTV.so@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",Hirshabelle TV (576p)
+http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="PuntlandTV.so@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",Puntland TV (720p)
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SaabTV.so@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",Saab TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="SaabTV.so@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",Saab TV (576p)
+https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBCTV.so@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",SBC TV (720p) [Not 24/7]
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SNTVDaljir.so@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",SNTV Daljir (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-id="SomaliNationalTV.so@SD" group-title="Somalia" x-country-code="so" x-country-name="🇸🇴 Somalia" x-health="source-only" x-original-group="",Somali National TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+#UPSTREAM-COUNTRY|za|South Africa|🇿🇦|23
+#EXTINF:-1 tvg-id="BOKTV.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",BOKTV (720p) [Not 24/7]
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 tvg-id="GNFTV.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",GNF TV (576p)
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HomebaseTV.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",Homebase TV (576p) [Not 24/7]
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HomebaseTV.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",Homebase TV (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelAfrica.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",Hope Channel Africa (1080p)
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+#EXTINF:-1 tvg-id="LN24SA.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",LN24SA (1080p)
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",LoveworldSAT (1080p)
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",LoveworldSAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="NuViewTV.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",NuView TV (360p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RLWTV.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",RLW TV (576p) [Not 24/7]
+https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ROVTV.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",ROV TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SABC1.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",SABC 1 (720p) [Geo-blocked]
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABC2.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",SABC 2 [Geo-blocked]
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABCLehae.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",SABC Lehae [Geo-blocked]
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",SABC News (720p) [Geo-blocked]
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SeraphimTV.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",Seraphim TV [Not 24/7]
+https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",WildEarth (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",WildEarth (1080p)
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",WildEarth (1080p)
+https://wildearth-xumo.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="FaithAfrica.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",Faith Africa (1080p)
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SABC3.za@SD" group-title="South Africa" x-country-code="za" x-country-name="🇿🇦 South Africa" x-health="source-only" x-original-group="",SABC 3 (576i) [Geo-blocked]
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
