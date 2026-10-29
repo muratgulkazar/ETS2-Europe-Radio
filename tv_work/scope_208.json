@@ -1,0 +1,1331 @@
+{
+  "count": 208,
+  "unMemberUniqueCount": 193,
+  "extras": [
+    {
+      "key": "PS",
+      "name": "Palestine",
+      "code": "ps"
+    },
+    {
+      "key": "VA",
+      "name": "Vatican City",
+      "code": "va"
+    },
+    {
+      "key": "TW",
+      "name": "Taiwan",
+      "code": "tw"
+    },
+    {
+      "key": "XK",
+      "name": "Kosovo",
+      "code": "xk"
+    },
+    {
+      "key": "KKT",
+      "name": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC)",
+      "code": "kktc"
+    },
+    {
+      "key": "EH",
+      "name": "Western Sahara",
+      "code": "eh"
+    },
+    {
+      "key": "CK",
+      "name": "Cook Islands",
+      "code": "ck"
+    },
+    {
+      "key": "NU",
+      "name": "Niue",
+      "code": "nu"
+    },
+    {
+      "key": "SOL",
+      "name": "Somaliland",
+      "code": "sol"
+    },
+    {
+      "key": "FO",
+      "name": "Faroe Islands",
+      "code": "fo"
+    },
+    {
+      "key": "GL",
+      "name": "Greenland",
+      "code": "gl"
+    },
+    {
+      "key": "HK",
+      "name": "Hong Kong",
+      "code": "hk"
+    },
+    {
+      "key": "MO",
+      "name": "Macao",
+      "code": "mo"
+    },
+    {
+      "key": "PR",
+      "name": "Puerto Rico",
+      "code": "pr"
+    },
+    {
+      "key": "CW",
+      "name": "Curaçao",
+      "code": "cw"
+    }
+  ],
+  "scope": [
+    {
+      "key": "DZ",
+      "code": "dz",
+      "name": "Algeria",
+      "flag": "🇩🇿"
+    },
+    {
+      "key": "AO",
+      "code": "ao",
+      "name": "Angola",
+      "flag": "🇦🇴"
+    },
+    {
+      "key": "BJ",
+      "code": "bj",
+      "name": "Benin",
+      "flag": "🇧🇯"
+    },
+    {
+      "key": "BW",
+      "code": "bw",
+      "name": "Botswana",
+      "flag": "🇧🇼"
+    },
+    {
+      "key": "BF",
+      "code": "bf",
+      "name": "Burkina Faso",
+      "flag": "🇧🇫"
+    },
+    {
+      "key": "BI",
+      "code": "bi",
+      "name": "Burundi",
+      "flag": "🇧🇮"
+    },
+    {
+      "key": "CV",
+      "code": "cv",
+      "name": "Cape Verde",
+      "flag": "🇨🇻"
+    },
+    {
+      "key": "CM",
+      "code": "cm",
+      "name": "Cameroon",
+      "flag": "🇨🇲"
+    },
+    {
+      "key": "CF",
+      "code": "cf",
+      "name": "Central African Republic",
+      "flag": "🇨🇫"
+    },
+    {
+      "key": "TD",
+      "code": "td",
+      "name": "Chad",
+      "flag": "🇹🇩"
+    },
+    {
+      "key": "KM",
+      "code": "km",
+      "name": "Comoros",
+      "flag": "🇰🇲"
+    },
+    {
+      "key": "CG",
+      "code": "cg",
+      "name": "Republic of the Congo",
+      "flag": "🇨🇬"
+    },
+    {
+      "key": "CD",
+      "code": "cd",
+      "name": "Democratic Republic of the Congo",
+      "flag": "🇨🇩"
+    },
+    {
+      "key": "CI",
+      "code": "ci",
+      "name": "Ivory Coast",
+      "flag": "🇨🇮"
+    },
+    {
+      "key": "DJ",
+      "code": "dj",
+      "name": "Djibouti",
+      "flag": "🇩🇯"
+    },
+    {
+      "key": "EG",
+      "code": "eg",
+      "name": "Egypt",
+      "flag": "🇪🇬"
+    },
+    {
+      "key": "GQ",
+      "code": "gq",
+      "name": "Equatorial Guinea",
+      "flag": "🇬🇶"
+    },
+    {
+      "key": "ER",
+      "code": "er",
+      "name": "Eritrea",
+      "flag": "🇪🇷"
+    },
+    {
+      "key": "SZ",
+      "code": "sz",
+      "name": "Swaziland",
+      "flag": "🇸🇿"
+    },
+    {
+      "key": "ET",
+      "code": "et",
+      "name": "Ethiopia",
+      "flag": "🇪🇹"
+    },
+    {
+      "key": "GA",
+      "code": "ga",
+      "name": "Gabon",
+      "flag": "🇬🇦"
+    },
+    {
+      "key": "GM",
+      "code": "gm",
+      "name": "Gambia",
+      "flag": "🇬🇲"
+    },
+    {
+      "key": "GH",
+      "code": "gh",
+      "name": "Ghana",
+      "flag": "🇬🇭"
+    },
+    {
+      "key": "GN",
+      "code": "gn",
+      "name": "Guinea",
+      "flag": "🇬🇳"
+    },
+    {
+      "key": "GW",
+      "code": "gw",
+      "name": "Guinea-Bissau",
+      "flag": "🇬🇼"
+    },
+    {
+      "key": "KE",
+      "code": "ke",
+      "name": "Kenya",
+      "flag": "🇰🇪"
+    },
+    {
+      "key": "LS",
+      "code": "ls",
+      "name": "Lesotho",
+      "flag": "🇱🇸"
+    },
+    {
+      "key": "LR",
+      "code": "lr",
+      "name": "Liberia",
+      "flag": "🇱🇷"
+    },
+    {
+      "key": "LY",
+      "code": "ly",
+      "name": "Libya",
+      "flag": "🇱🇾"
+    },
+    {
+      "key": "MG",
+      "code": "mg",
+      "name": "Madagascar",
+      "flag": "🇲🇬"
+    },
+    {
+      "key": "MW",
+      "code": "mw",
+      "name": "Malawi",
+      "flag": "🇲🇼"
+    },
+    {
+      "key": "ML",
+      "code": "ml",
+      "name": "Mali",
+      "flag": "🇲🇱"
+    },
+    {
+      "key": "MR",
+      "code": "mr",
+      "name": "Mauritania",
+      "flag": "🇲🇷"
+    },
+    {
+      "key": "MU",
+      "code": "mu",
+      "name": "Mauritius",
+      "flag": "🇲🇺"
+    },
+    {
+      "key": "MA",
+      "code": "ma",
+      "name": "Morocco",
+      "flag": "🇲🇦"
+    },
+    {
+      "key": "MZ",
+      "code": "mz",
+      "name": "Mozambique",
+      "flag": "🇲🇿"
+    },
+    {
+      "key": "NA",
+      "code": "na",
+      "name": "Namibia",
+      "flag": "🇳🇦"
+    },
+    {
+      "key": "NE",
+      "code": "ne",
+      "name": "Niger",
+      "flag": "🇳🇪"
+    },
+    {
+      "key": "NG",
+      "code": "ng",
+      "name": "Nigeria",
+      "flag": "🇳🇬"
+    },
+    {
+      "key": "RW",
+      "code": "rw",
+      "name": "Rwanda",
+      "flag": "🇷🇼"
+    },
+    {
+      "key": "ST",
+      "code": "st",
+      "name": "Sao Tome and Principe",
+      "flag": "🇸🇹"
+    },
+    {
+      "key": "SN",
+      "code": "sn",
+      "name": "Senegal",
+      "flag": "🇸🇳"
+    },
+    {
+      "key": "SC",
+      "code": "sc",
+      "name": "Seychelles",
+      "flag": "🇸🇨"
+    },
+    {
+      "key": "SL",
+      "code": "sl",
+      "name": "Sierra Leone",
+      "flag": "🇸🇱"
+    },
+    {
+      "key": "SO",
+      "code": "so",
+      "name": "Somalia",
+      "flag": "🇸🇴"
+    },
+    {
+      "key": "ZA",
+      "code": "za",
+      "name": "South Africa",
+      "flag": "🇿🇦"
+    },
+    {
+      "key": "SS",
+      "code": "ss",
+      "name": "South Sudan",
+      "flag": "🇸🇸"
+    },
+    {
+      "key": "SD",
+      "code": "sd",
+      "name": "Sudan",
+      "flag": "🇸🇩"
+    },
+    {
+      "key": "TZ",
+      "code": "tz",
+      "name": "Tanzania",
+      "flag": "🇹🇿"
+    },
+    {
+      "key": "TG",
+      "code": "tg",
+      "name": "Togo",
+      "flag": "🇹🇬"
+    },
+    {
+      "key": "TN",
+      "code": "tn",
+      "name": "Tunisia",
+      "flag": "🇹🇳"
+    },
+    {
+      "key": "UG",
+      "code": "ug",
+      "name": "Uganda",
+      "flag": "🇺🇬"
+    },
+    {
+      "key": "ZM",
+      "code": "zm",
+      "name": "Zambia",
+      "flag": "🇿🇲"
+    },
+    {
+      "key": "ZW",
+      "code": "zw",
+      "name": "Zimbabwe",
+      "flag": "🇿🇼"
+    },
+    {
+      "key": "AF",
+      "code": "af",
+      "name": "Afghanistan",
+      "flag": "🇦🇫"
+    },
+    {
+      "key": "AM",
+      "code": "am",
+      "name": "Armenia",
+      "flag": "🇦🇲"
+    },
+    {
+      "key": "AZ",
+      "code": "az",
+      "name": "Azerbaijan",
+      "flag": "🇦🇿"
+    },
+    {
+      "key": "BH",
+      "code": "bh",
+      "name": "Bahrain",
+      "flag": "🇧🇭"
+    },
+    {
+      "key": "BD",
+      "code": "bd",
+      "name": "Bangladesh",
+      "flag": "🇧🇩"
+    },
+    {
+      "key": "BT",
+      "code": "bt",
+      "name": "Bhutan",
+      "flag": "🇧🇹"
+    },
+    {
+      "key": "BN",
+      "code": "bn",
+      "name": "Brunei",
+      "flag": "🇧🇳"
+    },
+    {
+      "key": "KH",
+      "code": "kh",
+      "name": "Cambodia",
+      "flag": "🇰🇭"
+    },
+    {
+      "key": "CN",
+      "code": "cn",
+      "name": "China",
+      "flag": "🇨🇳"
+    },
+    {
+      "key": "CY",
+      "code": "cy",
+      "name": "Cyprus",
+      "flag": "🇨🇾"
+    },
+    {
+      "key": "GE",
+      "code": "ge",
+      "name": "Georgia",
+      "flag": "🇬🇪"
+    },
+    {
+      "key": "IN",
+      "code": "in",
+      "name": "India",
+      "flag": "🇮🇳"
+    },
+    {
+      "key": "ID",
+      "code": "id",
+      "name": "Indonesia",
+      "flag": "🇮🇩"
+    },
+    {
+      "key": "IR",
+      "code": "ir",
+      "name": "Iran",
+      "flag": "🇮🇷"
+    },
+    {
+      "key": "IQ",
+      "code": "iq",
+      "name": "Iraq",
+      "flag": "🇮🇶"
+    },
+    {
+      "key": "IL",
+      "code": "il",
+      "name": "Israel",
+      "flag": "🇮🇱"
+    },
+    {
+      "key": "JP",
+      "code": "jp",
+      "name": "Japan",
+      "flag": "🇯🇵"
+    },
+    {
+      "key": "JO",
+      "code": "jo",
+      "name": "Jordan",
+      "flag": "🇯🇴"
+    },
+    {
+      "key": "KZ",
+      "code": "kz",
+      "name": "Kazakhstan",
+      "flag": "🇰🇿"
+    },
+    {
+      "key": "KW",
+      "code": "kw",
+      "name": "Kuwait",
+      "flag": "🇰🇼"
+    },
+    {
+      "key": "KG",
+      "code": "kg",
+      "name": "Kyrgyzstan",
+      "flag": "🇰🇬"
+    },
+    {
+      "key": "LA",
+      "code": "la",
+      "name": "Laos",
+      "flag": "🇱🇦"
+    },
+    {
+      "key": "LB",
+      "code": "lb",
+      "name": "Lebanon",
+      "flag": "🇱🇧"
+    },
+    {
+      "key": "MY",
+      "code": "my",
+      "name": "Malaysia",
+      "flag": "🇲🇾"
+    },
+    {
+      "key": "MV",
+      "code": "mv",
+      "name": "Maldives",
+      "flag": "🇲🇻"
+    },
+    {
+      "key": "MN",
+      "code": "mn",
+      "name": "Mongolia",
+      "flag": "🇲🇳"
+    },
+    {
+      "key": "MM",
+      "code": "mm",
+      "name": "Myanmar",
+      "flag": "🇲🇲"
+    },
+    {
+      "key": "NP",
+      "code": "np",
+      "name": "Nepal",
+      "flag": "🇳🇵"
+    },
+    {
+      "key": "KP",
+      "code": "kp",
+      "name": "North Korea",
+      "flag": "🇰🇵"
+    },
+    {
+      "key": "KR",
+      "code": "kr",
+      "name": "South Korea",
+      "flag": "🇰🇷"
+    },
+    {
+      "key": "OM",
+      "code": "om",
+      "name": "Oman",
+      "flag": "🇴🇲"
+    },
+    {
+      "key": "PK",
+      "code": "pk",
+      "name": "Pakistan",
+      "flag": "🇵🇰"
+    },
+    {
+      "key": "PH",
+      "code": "ph",
+      "name": "Philippines",
+      "flag": "🇵🇭"
+    },
+    {
+      "key": "QA",
+      "code": "qa",
+      "name": "Qatar",
+      "flag": "🇶🇦"
+    },
+    {
+      "key": "SA",
+      "code": "sa",
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦"
+    },
+    {
+      "key": "SG",
+      "code": "sg",
+      "name": "Singapore",
+      "flag": "🇸🇬"
+    },
+    {
+      "key": "LK",
+      "code": "lk",
+      "name": "Sri Lanka",
+      "flag": "🇱🇰"
+    },
+    {
+      "key": "SY",
+      "code": "sy",
+      "name": "Syria",
+      "flag": "🇸🇾"
+    },
+    {
+      "key": "TJ",
+      "code": "tj",
+      "name": "Tajikistan",
+      "flag": "🇹🇯"
+    },
+    {
+      "key": "TH",
+      "code": "th",
+      "name": "Thailand",
+      "flag": "🇹🇭"
+    },
+    {
+      "key": "TL",
+      "code": "tl",
+      "name": "East Timor",
+      "flag": "🇹🇱"
+    },
+    {
+      "key": "TR",
+      "code": "tr",
+      "name": "Turkiye",
+      "flag": "🇹🇷"
+    },
+    {
+      "key": "TM",
+      "code": "tm",
+      "name": "Turkmenistan",
+      "flag": "🇹🇲"
+    },
+    {
+      "key": "AE",
+      "code": "ae",
+      "name": "United Arab Emirates",
+      "flag": "🇦🇪"
+    },
+    {
+      "key": "UZ",
+      "code": "uz",
+      "name": "Uzbekistan",
+      "flag": "🇺🇿"
+    },
+    {
+      "key": "VN",
+      "code": "vn",
+      "name": "Vietnam",
+      "flag": "🇻🇳"
+    },
+    {
+      "key": "YE",
+      "code": "ye",
+      "name": "Yemen",
+      "flag": "🇾🇪"
+    },
+    {
+      "key": "AL",
+      "code": "al",
+      "name": "Albania",
+      "flag": "🇦🇱"
+    },
+    {
+      "key": "AD",
+      "code": "ad",
+      "name": "Andorra",
+      "flag": "🇦🇩"
+    },
+    {
+      "key": "AT",
+      "code": "at",
+      "name": "Austria",
+      "flag": "🇦🇹"
+    },
+    {
+      "key": "BY",
+      "code": "by",
+      "name": "Belarus",
+      "flag": "🇧🇾"
+    },
+    {
+      "key": "BE",
+      "code": "be",
+      "name": "Belgium",
+      "flag": "🇧🇪"
+    },
+    {
+      "key": "BA",
+      "code": "ba",
+      "name": "Bosnia and Herzegovina",
+      "flag": "🇧🇦"
+    },
+    {
+      "key": "BG",
+      "code": "bg",
+      "name": "Bulgaria",
+      "flag": "🇧🇬"
+    },
+    {
+      "key": "HR",
+      "code": "hr",
+      "name": "Croatia",
+      "flag": "🇭🇷"
+    },
+    {
+      "key": "CZ",
+      "code": "cz",
+      "name": "Czech Republic",
+      "flag": "🇨🇿"
+    },
+    {
+      "key": "DK",
+      "code": "dk",
+      "name": "Denmark",
+      "flag": "🇩🇰"
+    },
+    {
+      "key": "EE",
+      "code": "ee",
+      "name": "Estonia",
+      "flag": "🇪🇪"
+    },
+    {
+      "key": "FI",
+      "code": "fi",
+      "name": "Finland",
+      "flag": "🇫🇮"
+    },
+    {
+      "key": "FR",
+      "code": "fr",
+      "name": "France",
+      "flag": "🇫🇷"
+    },
+    {
+      "key": "DE",
+      "code": "de",
+      "name": "Germany",
+      "flag": "🇩🇪"
+    },
+    {
+      "key": "GR",
+      "code": "gr",
+      "name": "Greece",
+      "flag": "🇬🇷"
+    },
+    {
+      "key": "HU",
+      "code": "hu",
+      "name": "Hungary",
+      "flag": "🇭🇺"
+    },
+    {
+      "key": "IS",
+      "code": "is",
+      "name": "Iceland",
+      "flag": "🇮🇸"
+    },
+    {
+      "key": "IE",
+      "code": "ie",
+      "name": "Ireland",
+      "flag": "🇮🇪"
+    },
+    {
+      "key": "IT",
+      "code": "it",
+      "name": "Italy",
+      "flag": "🇮🇹"
+    },
+    {
+      "key": "LV",
+      "code": "lv",
+      "name": "Latvia",
+      "flag": "🇱🇻"
+    },
+    {
+      "key": "LI",
+      "code": "li",
+      "name": "Liechtenstein",
+      "flag": "🇱🇮"
+    },
+    {
+      "key": "LT",
+      "code": "lt",
+      "name": "Lithuania",
+      "flag": "🇱🇹"
+    },
+    {
+      "key": "LU",
+      "code": "lu",
+      "name": "Luxembourg",
+      "flag": "🇱🇺"
+    },
+    {
+      "key": "MT",
+      "code": "mt",
+      "name": "Malta",
+      "flag": "🇲🇹"
+    },
+    {
+      "key": "MD",
+      "code": "md",
+      "name": "Moldova",
+      "flag": "🇲🇩"
+    },
+    {
+      "key": "MC",
+      "code": "mc",
+      "name": "Monaco",
+      "flag": "🇲🇨"
+    },
+    {
+      "key": "ME",
+      "code": "me",
+      "name": "Montenegro",
+      "flag": "🇲🇪"
+    },
+    {
+      "key": "NL",
+      "code": "nl",
+      "name": "Netherlands",
+      "flag": "🇳🇱"
+    },
+    {
+      "key": "MK",
+      "code": "mk",
+      "name": "North Macedonia",
+      "flag": "🇲🇰"
+    },
+    {
+      "key": "NO",
+      "code": "no",
+      "name": "Norway",
+      "flag": "🇳🇴"
+    },
+    {
+      "key": "PL",
+      "code": "pl",
+      "name": "Poland",
+      "flag": "🇵🇱"
+    },
+    {
+      "key": "PT",
+      "code": "pt",
+      "name": "Portugal",
+      "flag": "🇵🇹"
+    },
+    {
+      "key": "RO",
+      "code": "ro",
+      "name": "Romania",
+      "flag": "🇷🇴"
+    },
+    {
+      "key": "RU",
+      "code": "ru",
+      "name": "Russia",
+      "flag": "🇷🇺"
+    },
+    {
+      "key": "SM",
+      "code": "sm",
+      "name": "San Marino",
+      "flag": "🇸🇲"
+    },
+    {
+      "key": "RS",
+      "code": "rs",
+      "name": "Serbia",
+      "flag": "🇷🇸"
+    },
+    {
+      "key": "SK",
+      "code": "sk",
+      "name": "Slovakia",
+      "flag": "🇸🇰"
+    },
+    {
+      "key": "SI",
+      "code": "si",
+      "name": "Slovenia",
+      "flag": "🇸🇮"
+    },
+    {
+      "key": "ES",
+      "code": "es",
+      "name": "Spain",
+      "flag": "🇪🇸"
+    },
+    {
+      "key": "SE",
+      "code": "se",
+      "name": "Sweden",
+      "flag": "🇸🇪"
+    },
+    {
+      "key": "CH",
+      "code": "ch",
+      "name": "Switzerland",
+      "flag": "🇨🇭"
+    },
+    {
+      "key": "UA",
+      "code": "ua",
+      "name": "Ukraine",
+      "flag": "🇺🇦"
+    },
+    {
+      "key": "GB",
+      "code": "gb",
+      "name": "GB",
+      "flag": ""
+    },
+    {
+      "key": "AG",
+      "code": "ag",
+      "name": "Antigua and Barbuda",
+      "flag": "🇦🇬"
+    },
+    {
+      "key": "AR",
+      "code": "ar",
+      "name": "Argentina",
+      "flag": "🇦🇷"
+    },
+    {
+      "key": "BS",
+      "code": "bs",
+      "name": "Bahamas",
+      "flag": "🇧🇸"
+    },
+    {
+      "key": "BB",
+      "code": "bb",
+      "name": "Barbados",
+      "flag": "🇧🇧"
+    },
+    {
+      "key": "BZ",
+      "code": "bz",
+      "name": "Belize",
+      "flag": "🇧🇿"
+    },
+    {
+      "key": "BO",
+      "code": "bo",
+      "name": "Bolivia",
+      "flag": "🇧🇴"
+    },
+    {
+      "key": "BR",
+      "code": "br",
+      "name": "Brazil",
+      "flag": "🇧🇷"
+    },
+    {
+      "key": "CA",
+      "code": "ca",
+      "name": "Canada",
+      "flag": "🇨🇦"
+    },
+    {
+      "key": "CL",
+      "code": "cl",
+      "name": "Chile",
+      "flag": "🇨🇱"
+    },
+    {
+      "key": "CO",
+      "code": "co",
+      "name": "Colombia",
+      "flag": "🇨🇴"
+    },
+    {
+      "key": "CR",
+      "code": "cr",
+      "name": "Costa Rica",
+      "flag": "🇨🇷"
+    },
+    {
+      "key": "CU",
+      "code": "cu",
+      "name": "Cuba",
+      "flag": "🇨🇺"
+    },
+    {
+      "key": "DM",
+      "code": "dm",
+      "name": "Dominica",
+      "flag": "🇩🇲"
+    },
+    {
+      "key": "DO",
+      "code": "do",
+      "name": "Dominican Republic",
+      "flag": "🇩🇴"
+    },
+    {
+      "key": "EC",
+      "code": "ec",
+      "name": "Ecuador",
+      "flag": "🇪🇨"
+    },
+    {
+      "key": "SV",
+      "code": "sv",
+      "name": "El Salvador",
+      "flag": "🇸🇻"
+    },
+    {
+      "key": "GD",
+      "code": "gd",
+      "name": "Grenada",
+      "flag": "🇬🇩"
+    },
+    {
+      "key": "GT",
+      "code": "gt",
+      "name": "Guatemala",
+      "flag": "🇬🇹"
+    },
+    {
+      "key": "GY",
+      "code": "gy",
+      "name": "Guyana",
+      "flag": "🇬🇾"
+    },
+    {
+      "key": "HT",
+      "code": "ht",
+      "name": "Haiti",
+      "flag": "🇭🇹"
+    },
+    {
+      "key": "HN",
+      "code": "hn",
+      "name": "Honduras",
+      "flag": "🇭🇳"
+    },
+    {
+      "key": "JM",
+      "code": "jm",
+      "name": "Jamaica",
+      "flag": "🇯🇲"
+    },
+    {
+      "key": "MX",
+      "code": "mx",
+      "name": "Mexico",
+      "flag": "🇲🇽"
+    },
+    {
+      "key": "NI",
+      "code": "ni",
+      "name": "Nicaragua",
+      "flag": "🇳🇮"
+    },
+    {
+      "key": "PA",
+      "code": "pa",
+      "name": "Panama",
+      "flag": "🇵🇦"
+    },
+    {
+      "key": "PY",
+      "code": "py",
+      "name": "Paraguay",
+      "flag": "🇵🇾"
+    },
+    {
+      "key": "PE",
+      "code": "pe",
+      "name": "Peru",
+      "flag": "🇵🇪"
+    },
+    {
+      "key": "KN",
+      "code": "kn",
+      "name": "Saint Kitts and Nevis",
+      "flag": "🇰🇳"
+    },
+    {
+      "key": "LC",
+      "code": "lc",
+      "name": "Saint Lucia",
+      "flag": "🇱🇨"
+    },
+    {
+      "key": "VC",
+      "code": "vc",
+      "name": "Saint Vincent and the Grenadines",
+      "flag": "🇻🇨"
+    },
+    {
+      "key": "SR",
+      "code": "sr",
+      "name": "Suriname",
+      "flag": "🇸🇷"
+    },
+    {
+      "key": "TT",
+      "code": "tt",
+      "name": "Trinidad and Tobago",
+      "flag": "🇹🇹"
+    },
+    {
+      "key": "US",
+      "code": "us",
+      "name": "United States",
+      "flag": "🇺🇸"
+    },
+    {
+      "key": "UY",
+      "code": "uy",
+      "name": "Uruguay",
+      "flag": "🇺🇾"
+    },
+    {
+      "key": "VE",
+      "code": "ve",
+      "name": "Venezuela",
+      "flag": "🇻🇪"
+    },
+    {
+      "key": "AU",
+      "code": "au",
+      "name": "Australia",
+      "flag": "🇦🇺"
+    },
+    {
+      "key": "FJ",
+      "code": "fj",
+      "name": "Fiji",
+      "flag": "🇫🇯"
+    },
+    {
+      "key": "KI",
+      "code": "ki",
+      "name": "Kiribati",
+      "flag": "🇰🇮"
+    },
+    {
+      "key": "MH",
+      "code": "mh",
+      "name": "Marshall Islands",
+      "flag": "🇲🇭"
+    },
+    {
+      "key": "FM",
+      "code": "fm",
+      "name": "Micronesia",
+      "flag": "🇫🇲"
+    },
+    {
+      "key": "NR",
+      "code": "nr",
+      "name": "Nauru",
+      "flag": "🇳🇷"
+    },
+    {
+      "key": "NZ",
+      "code": "nz",
+      "name": "New Zealand",
+      "flag": "🇳🇿"
+    },
+    {
+      "key": "PW",
+      "code": "pw",
+      "name": "Palau",
+      "flag": "🇵🇼"
+    },
+    {
+      "key": "PG",
+      "code": "pg",
+      "name": "Papua New Guinea",
+      "flag": "🇵🇬"
+    },
+    {
+      "key": "WS",
+      "code": "ws",
+      "name": "Samoa",
+      "flag": "🇼🇸"
+    },
+    {
+      "key": "SB",
+      "code": "sb",
+      "name": "Solomon Islands",
+      "flag": "🇸🇧"
+    },
+    {
+      "key": "TO",
+      "code": "to",
+      "name": "Tonga",
+      "flag": "🇹🇴"
+    },
+    {
+      "key": "TV",
+      "code": "tv",
+      "name": "Tuvalu",
+      "flag": "🇹🇻"
+    },
+    {
+      "key": "VU",
+      "code": "vu",
+      "name": "Vanuatu",
+      "flag": "🇻🇺"
+    },
+    {
+      "key": "PS",
+      "name": "Palestine",
+      "code": "ps",
+      "flag": "🇵🇸"
+    },
+    {
+      "key": "VA",
+      "name": "Vatican City",
+      "code": "va",
+      "flag": "🇻🇦"
+    },
+    {
+      "key": "TW",
+      "name": "Taiwan",
+      "code": "tw",
+      "flag": "🇹🇼"
+    },
+    {
+      "key": "XK",
+      "name": "Kosovo",
+      "code": "xk",
+      "flag": "🇽🇰"
+    },
+    {
+      "key": "KKT",
+      "name": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC)",
+      "code": "kktc",
+      "flag": ""
+    },
+    {
+      "key": "EH",
+      "name": "Western Sahara",
+      "code": "eh",
+      "flag": "🇪🇭"
+    },
+    {
+      "key": "CK",
+      "name": "Cook Islands",
+      "code": "ck",
+      "flag": "🇨🇰"
+    },
+    {
+      "key": "NU",
+      "name": "Niue",
+      "code": "nu",
+      "flag": "🇳🇺"
+    },
+    {
+      "key": "SOL",
+      "name": "Somaliland",
+      "code": "sol",
+      "flag": ""
+    },
+    {
+      "key": "FO",
+      "name": "Faroe Islands",
+      "code": "fo",
+      "flag": "🇫🇴"
+    },
+    {
+      "key": "GL",
+      "name": "Greenland",
+      "code": "gl",
+      "flag": "🇬🇱"
+    },
+    {
+      "key": "HK",
+      "name": "Hong Kong",
+      "code": "hk",
+      "flag": "🇭🇰"
+    },
+    {
+      "key": "MO",
+      "name": "Macao",
+      "code": "mo",
+      "flag": "🇲🇴"
+    },
+    {
+      "key": "PR",
+      "name": "Puerto Rico",
+      "code": "pr",
+      "flag": "🇵🇷"
+    },
+    {
+      "key": "CW",
+      "name": "Curaçao",
+      "code": "cw",
+      "flag": "🇨🇼"
+    }
+  ]
+}
