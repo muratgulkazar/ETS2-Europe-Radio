@@ -1,0 +1,315 @@
+#EXTM3U
+#STAGE|upstream_09|source=iptv-org/iptv/streams
+#UPSTREAM-COUNTRY|xk|Kosovo|🇽🇰|11
+#EXTINF:-1 tvg-id="Kohavision.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",RTK 3 (1080p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="T7.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",T7 (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",TV Arbëria 3 Fëmijë (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberia4Muzike.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",TV Arbëria 4 Muzikë (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberiaRetroHits.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",TV Arbëria Retro Hits (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",TV Arta (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="TVDielli.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",TV Dielli (720p) [Not 24/7]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVOpoja.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk@SD" group-title="Kosovo" x-country-code="xk" x-country-name="🇽🇰 Kosovo" x-health="source-only" x-original-group="",TV Syri (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#UPSTREAM-COUNTRY|kw|Kuwait|🇰🇼|16
+#EXTINF:-1 tvg-id="" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",Ch4Teen (1080i)
+#EXTVLCOPT:http-referrer=http://ch14.tv
+https://ch14.tv/live/ch4teen1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",Ch4Teen (1080p)
+#EXTVLCOPT:http-referrer=https://ch14.tv
+https://ch14.tv/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",Ch4Teen Documentary (1080p)
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV1.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV 1 (1080p)
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTV1.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV 1 (360p)
+https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="KTV2.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV 2 (1080p)
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVAlQurain.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV Al Qurain (1080p)
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVArabe.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV Arabe (1080p)
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVEthraa.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV Ethraa (1080p)
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV News (1080p)
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV News (1080p)
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV News (360p)
+https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV Sport (1080p)
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",KTV Sport Plus (1080p)
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MarinaTV.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",Marina TV (1080p)
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+#EXTINF:-1 tvg-id="RitmuTV.kw@SD" group-title="Kuwait" x-country-code="kw" x-country-name="🇰🇼 Kuwait" x-health="source-only" x-original-group="",Ritmu TV
+https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
+#UPSTREAM-COUNTRY|kg|Kyrgyzstan|🇰🇬|12
+#EXTINF:-1 tvg-id="312Kino.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",312 Кино (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="312TV.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",312 ТВ (406p)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="NextTV.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",Next TV (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1KG.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",TV1 KG (1080p)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV15.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",TV15 (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+#EXTINF:-1 tvg-id="OshPirim.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",Ош Пирим (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+#EXTINF:-1 tvg-id="AlaToo24.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",УТРК Ала-Тоо 24 (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",УТРК Музыка (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 tvg-id="Sport.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",УТРК Спорт (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+#EXTINF:-1 tvg-id="ElTR.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",ЭлТР (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
+#EXTINF:-1 tvg-id="BilimIlim.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",ЭлТР Билим Илим (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+#EXTINF:-1 tvg-id="ManasTV.kg@SD" group-title="Kyrgyzstan" x-country-code="kg" x-country-name="🇰🇬 Kyrgyzstan" x-health="source-only" x-original-group="",Manas TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#UPSTREAM-COUNTRY|la|Laos|🇱🇦|9
+#EXTINF:-1 tvg-id="BrianTV.la@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",Brian TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DaoLaneXangTV.la@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",Dao Lane Xang (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HmongStarTV.us@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",Hmong Star TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTV.la@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",ISTV (480p)
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LookThoongTV.la@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",Look Thoong TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LSTV.la@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",LS TV (480p)
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NATTV.us@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",NAT TV (1080p)
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OhMuangLaoTV.la@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",Oh Muang Lao TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VatiLao.la@SD" group-title="Laos" x-country-code="la" x-country-name="🇱🇦 Laos" x-health="source-only" x-original-group="",Vati Lao TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
+#UPSTREAM-COUNTRY|lv|Latvia|🇱🇻|20
+#EXTINF:-1 tvg-id="" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Latvijas Radio 3 Klasika (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV1.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",LTV1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/34/index.m3u8
+#EXTINF:-1 tvg-id="LTV1.lv@HD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",LTV1 (720p)
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",LTV7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/371/index.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@HD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",LTV7 (720p)
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MovifyKino.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Movify Kino (576p)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="Pingviins.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Pingvīns (576p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
+#EXTINF:-1 tvg-id="RadioSWHTV.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Radio SWH TV (1080p)
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ReTV.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Re TV (1080p)
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3Life.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",TV3 Life (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/373/index.m3u8
+#EXTINF:-1 tvg-id="TVJurmala.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",TV Jūrmala (1080p)
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",TV XXI (1080p)
+http://31.148.48.15/TV_XXI/index.m3u8
+#EXTINF:-1 tvg-id="TVNET.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",TVNET (360p)
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Vidusdaugavas Televīzija (576p)
+https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 tvg-id="Pingviins.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Пингвин (720p)
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:-1 tvg-id="Gribuvisuzinat.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Хочу всё знать (576p)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="SeaTV.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",Sea TV (360p)
+http://dtv.vol.net.ua/Sea_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="LTV1.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",LTV1 (1080p)
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",LTV7 (1080p)
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@SD" group-title="Latvia" x-country-code="lv" x-country-name="🇱🇻 Latvia" x-health="source-only" x-original-group="",LTV7
+http://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+#UPSTREAM-COUNTRY|lb|Lebanon|🇱🇧|36
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Aghani Aghani TV (1080p)
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
+#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Al Ittihad (552p) [Not 24/7]
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Al Ittihad (552p) [Not 24/7]
+https://live.alittihad.tv:444/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="AlJadeed.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Al Jadeed (1080p)
+http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Al Manar (576p) [Not 24/7]
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Al Mayadeen (576p)
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Aliman TV (240p) [Not 24/7]
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ALWifakNewsTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",ALWifak News TV (720p)
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArabicaTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="CharityTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Charity TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CharityTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",CharityTV (1080p) [Not 24/7]
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1 tvg-id="FutureTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Future TV (1080p)
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LanaTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Lana TV (576p)
+https://cdn.streamlane.tv/hls/ltv/master.m3u8
+#EXTINF:-1 tvg-id="LBC.sa@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",LBC (576p)
+http://185.9.2.18/chid_327/index.m3u8
+#EXTINF:-1 tvg-id="LBCInternational.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",LBC International (1080p)
+http://185.9.2.18/chid_521/index.m3u8
+#EXTINF:-1 tvg-id="mfm.lb@HD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",mfm (1080p)
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",MTV Lebanon (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Nabaa TV (720p) [Not 24/7]
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Nabaa TV (720p) [Not 24/7]
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Nabaa TV (720p) [Not 24/7]
+https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="NourAlKoddass.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Nour Al Koddas (406p) [Not 24/7]
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NourAlSharq.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Nour Al Sharq (576p)
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NourElShabeb.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Nour El Shabeb (720p)
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NourMariam.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Nour Mariam (576p)
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Noursat.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",NourSAT (576p)
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NoursatEnglish.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Noursat English (576p)
+https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OneTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",One TV (720p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="OneFM.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",OneFM (720p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",OTV (1080p)
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Palestine Al Yawm (720p)
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+#EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Red TV Lebanon (1080p)
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SensesTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Senses TV (1080p)
+http://31.14.41.69:8080/hls/sensesonline/index.m3u8
+#EXTINF:-1 tvg-id="TahaTV.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Taha TV (576p)
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+#EXTINF:-1 tvg-id="TeleLiban.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Tele Liban (720p) [Not 24/7]
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="UNews.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",UNews (1080p)
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" group-title="Lebanon" x-country-code="lb" x-country-name="🇱🇧 Lebanon" x-health="source-only" x-original-group="",Voice of Lebanon (1080p)
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#UPSTREAM-COUNTRY|ly|Libya|🇱🇾|6
+#EXTINF:-1 tvg-id="AlMasarTV.ly@SD" group-title="Libya" x-country-code="ly" x-country-name="🇱🇾 Libya" x-health="source-only" x-original-group="",Al Masar TV (576p)
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 tvg-id="LibyaAlWataniya.ly@SD" group-title="Libya" x-country-code="ly" x-country-name="🇱🇾 Libya" x-health="source-only" x-original-group="",Libya Al Wataniya (360p)
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="TanasuhTV.ly@HD" group-title="Libya" x-country-code="ly" x-country-name="🇱🇾 Libya" x-health="source-only" x-original-group="",Tanasuh TV (1080p)
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="TanasuhTV.ly@HD" group-title="Libya" x-country-code="ly" x-country-name="🇱🇾 Libya" x-health="source-only" x-original-group="",Tanasuh TV (1080p)
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.mpd
+#EXTINF:-1 tvg-id="TanasuhTV.ly@HD" group-title="Libya" x-country-code="ly" x-country-name="🇱🇾 Libya" x-health="source-only" x-original-group="",Tanasuh TV (1080p)
+https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WasatTV.ly@SD" group-title="Libya" x-country-code="ly" x-country-name="🇱🇾 Libya" x-health="source-only" x-original-group="",Wasat TV (1080p)
+#EXTVLCOPT:http-referrer=https://alwasat.ly/
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
+#UPSTREAM-COUNTRY|li|Liechtenstein|🇱🇮|0
+#UPSTREAM-COUNTRY|lt|Lithuania|🇱🇹|21
+#EXTINF:-1 tvg-id="BalticumTV.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",Balticum TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/376/index.m3u8
+#EXTINF:-1 tvg-id="BTV.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",BTV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/35/index.m3u8
+#EXTINF:-1 tvg-id="DelfiTV.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",Delfi TV
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",Lietuvos Rytas TV (1080p)
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTINF:-1 tvg-id="LNK.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LNK (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-id="LRTKlasika.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LRT Klasika (1080p)
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 tvg-id="LRTLituanica.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LRT Lituanica (1080p) [Geo-blocked]
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 tvg-id="LRTOpus.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LRT Opus (1080p)
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LRT Plius (1080p) [Geo-blocked]
+https://stream-live.lrt.lt/plius/master.m3u8
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LRT Plius (1080p)
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 tvg-id="LRTRadijas.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LRT Radijas (1080p)
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 tvg-id="LRTTV.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LRT TV (1080p) [Geo-blocked]
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+#EXTINF:-1 tvg-id="LRTTV.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",LRT TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 tvg-id="M1.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",M-1 (480p)
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerHitRadio.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",Power Hit Radio (576p)
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+#EXTINF:-1 tvg-id="TV3.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",TV3 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 tvg-id="TV6.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",TV6 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/375/index.m3u8
+#EXTINF:-1 tvg-id="TV8.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",TV8 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/374/index.m3u8
+#EXTINF:-1 tvg-id="TV1.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",TV1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd
+#EXTINF:-1 tvg-id="2TV.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",2TV (1080p)
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+#EXTINF:-1 tvg-id="InfoTV.lt@SD" group-title="Lithuania" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-health="source-only" x-original-group="",Info TV (1080p)
+https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
+#UPSTREAM-COUNTRY|lu|Luxembourg|🇱🇺|12
+#EXTINF:-1 tvg-id="apartTV.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",apart TV (1080p)
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DudelangeTV.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",Dudelange TV (720p)
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 tvg-id="eldoTV.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",eldo.TV (1080p)
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",Luxe TV (1080p)
+http://103.154.3.101:5001/live/1736.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",RTL Gold (1080p)
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",RTL Radio Web TV (1080p)
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",RTL Télé Lëtzebuerg (1080p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",RTL Today Radio (720p)
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwee.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",RTL Zwee (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",Luxe TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+#EXTINF:-1 tvg-id="MierschTV.lu@SD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",MierschTV
+https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxembourgGlobalRadioTV.lu@HD" group-title="Luxembourg" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-health="source-only" x-original-group="",Luxembourg Global Radio TV (1080p)
+https://stream.globalradio.lu/lgr/index.m3u8
