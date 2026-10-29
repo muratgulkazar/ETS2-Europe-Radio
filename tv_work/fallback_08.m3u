@@ -1,0 +1,76 @@
+#EXTM3U
+#FALLBACK-BATCH|8
+#COUNTRY-FALLBACK-AUDIT|my|Malaysia|21
+#EXTINF:-1 tvg-id="8TV.my@SD" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Entertainment" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="Entertainment" x-source-check="upstream-only",8TV [SOURCE NOT DAILY-VALIDATED]
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-id="NTV7.my@SD" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-title="General" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="General" x-source-check="upstream-only",NTV7 [SOURCE NOT DAILY-VALIDATED]
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="News" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="News" x-source-check="upstream-only",RTM ASEAN [SOURCE NOT DAILY-VALIDATED]
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="SelangorTV.my@SD" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="General" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="General" x-source-check="upstream-only",SelangorTV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
+#EXTINF:-1 tvg-id="SukeTV.my@SD" tvg-logo="https://i.imgur.com/hCwH3s0.png" group-title="Shop" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="Shop" x-source-check="upstream-only",Suke TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
+#EXTINF:-1 tvg-id="TV1.my@SD" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="General" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="General" x-source-check="upstream-only",TV1 (Malaysia) (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
+#EXTINF:-1 tvg-id="TV2.my@SD" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="General" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="General" x-source-check="upstream-only",TV2 (Malaysia) (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+#EXTINF:-1 tvg-id="TV9.my@SD" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="Undefined" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="Undefined" x-source-check="upstream-only",TV9 (Malaysia) [SOURCE NOT DAILY-VALIDATED]
+https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:-1 tvg-id="TVIKIM.my@SD" tvg-logo="https://i.imgur.com/X6JKNEE.png" group-title="Undefined" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="Undefined" x-source-check="upstream-only",TVIKIM (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942
+#COUNTRY-FALLBACK-AUDIT|mv|Maldives|11
+#EXTINF:-1 tvg-id="Channel13.mv@SD" tvg-logo="https://i.imgur.com/lR5jUSU.jpeg" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="upstream-only",Channel 13 (Maldives) [SOURCE NOT DAILY-VALIDATED]
+https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8
+#EXTINF:-1 tvg-id="MaldivesTV.mv@SD" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="Travel" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="Travel" x-source-check="upstream-only",Maldives TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-logo="https://i.imgur.com/21tpl5b.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="upstream-only",MMTV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-id="Munnaaru.mv@SD" tvg-logo="https://i.imgur.com/Adhr5xq.png" group-title="Religious" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="Religious" x-source-check="upstream-only",Munnaaru [SOURCE NOT DAILY-VALIDATED]
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+#EXTINF:-1 tvg-id="NTV.mv@SD" tvg-logo="https://i.imgur.com/jnXpcwV.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="upstream-only",NTV (Maldives) [SOURCE NOT DAILY-VALIDATED]
+https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
+#EXTINF:-1 tvg-id="PSMNews.mv@SD" tvg-logo="https://i.imgur.com/mGuBbPv.png" group-title="News" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="News" x-source-check="upstream-only",PSM News [SOURCE NOT DAILY-VALIDATED]
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+#EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="https://i.imgur.com/QxdkiCZ.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="upstream-only",Raajje TV [SOURCE NOT DAILY-VALIDATED]
+https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
+#EXTINF:-1 tvg-id="TVMaldives.mv@SD" tvg-logo="https://i.imgur.com/1c7rFKC.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="upstream-only",TV Maldives [SOURCE NOT DAILY-VALIDATED]
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
+#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="News" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="News" x-source-check="upstream-only",VTV (Maldives) [SOURCE NOT DAILY-VALIDATED]
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
+#EXTINF:-1 tvg-id="YES.mv@SD" tvg-logo="https://i.imgur.com/HARIGQl.png" group-title="Culture;Entertainment;Sports" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="Culture;Entertainment;Sports" x-source-check="upstream-only",YES [SOURCE NOT DAILY-VALIDATED]
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+#COUNTRY-FALLBACK-AUDIT|ml|Mali|4
+#EXTINF:-1 tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="Entertainment" x-country-code="ml" x-country-name="🇲🇱 Mali" x-original-group="Entertainment" x-source-check="upstream-only",D3 TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTM1.ml@SD" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="General" x-country-code="ml" x-country-name="🇲🇱 Mali" x-original-group="General" x-source-check="upstream-only",ORTM 1 [SOURCE NOT DAILY-VALIDATED]
+https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
+#EXTINF:-1 tvg-id="TM1TV.ml@SD" tvg-logo="https://i.imgur.com/83BgaBa.png" group-title="General" x-country-code="ml" x-country-name="🇲🇱 Mali" x-original-group="General" x-source-check="upstream-only",TM1 TV (360p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://69.64.57.208/tm1/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|mt|Malta|7
+#EXTINF:-1 tvg-id="MedTV.mt@SD" tvg-logo="https://i.imgur.com/ejGeXPD.png" group-title="Culture" x-country-code="mt" x-country-name="🇲🇹 Malta" x-original-group="Culture" x-source-check="upstream-only",Med.TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+#EXTINF:-1 tvg-id="One.mt@SD" tvg-logo="https://i.imgur.com/UPlfzFx.png" group-title="General" x-country-code="mt" x-country-name="🇲🇹 Malta" x-original-group="General" x-source-check="upstream-only",One [SOURCE NOT DAILY-VALIDATED]
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="SmashTV.mt@SD" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="General" x-country-code="mt" x-country-name="🇲🇹 Malta" x-original-group="General" x-source-check="upstream-only",Smash TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
+#COUNTRY-FALLBACK-AUDIT|mq|Martinique|6
+#EXTINF:-1 tvg-id="FUSIONTV.mq@SD" tvg-logo="https://i.imgur.com/WMrYEgH.png" group-title="Music" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="Music" x-source-check="upstream-only",FUSION TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq@SD" tvg-logo="https://i.imgur.com/Atsf6Cd.png" group-title="Music" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="Music" x-source-check="upstream-only",Identite Tele Caraibes (548p) [SOURCE NOT DAILY-VALIDATED]
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+#EXTINF:-1 tvg-id="TeleZoukla.mq@SD" tvg-logo="https://i.imgur.com/lWYKgPC.png" group-title="Music" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="Music" x-source-check="upstream-only",Tele Zoukla [SOURCE NOT DAILY-VALIDATED]
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+#EXTINF:-1 tvg-id="TVFamille.mq@SD" tvg-logo="https://i.imgur.com/Kbfihk5.png" group-title="Family;Religious" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="Family;Religious" x-source-check="upstream-only",TV Famille (720p) [SOURCE NOT DAILY-VALIDATED]
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id="ZitataTV.mq@SD" tvg-logo="https://i.imgur.com/KJmefse.png" group-title="General" x-country-code="mq" x-country-name="🇲🇶 Martinique" x-original-group="General" x-source-check="upstream-only",Zitata TV [SOURCE NOT DAILY-VALIDATED]
+https://live.zitata.tv/direct-hls/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|mr|Mauritania|2
+#EXTINF:-1 tvg-id="Sahara24.mr@HD" tvg-logo="https://i.imgur.com/pnzWYwT.png" group-title="News" x-country-code="mr" x-country-name="🇲🇷 Mauritania" x-original-group="News" x-source-check="upstream-only",Sahara 24 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.saharamedias.net:3317/live/shara24live.m3u8
+#COUNTRY-FALLBACK-AUDIT|mu|Mauritius|2
+#COUNTRY-FALLBACK-AUDIT|mc|Monaco|5
+#EXTINF:-1 tvg-id="MonacoInfo.mc@SD" tvg-logo="https://i.imgur.com/dIrKYH7.png" group-title="News" x-country-code="mc" x-country-name="🇲🇨 Monaco" x-original-group="News" x-source-check="upstream-only",Monaco Info (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://webtv.monacoinfo.com/live/prod/index.m3u8
+#EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png" group-title="General" x-country-code="mc" x-country-name="🇲🇨 Monaco" x-original-group="General" x-source-check="upstream-only",TV Monaco (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
