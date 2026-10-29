@@ -1,0 +1,150 @@
+#EXTM3U
+#FALLBACK-BATCH|2
+#COUNTRY-FALLBACK-AUDIT|ba|Bosnia and Herzegovina|20
+#EXTINF:-1 tvg-id="BHT1.ba@SD" tvg-logo="https://i.imgur.com/LEwlEEE.png" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="" x-source-check="upstream-only", like Gecko) Version/17.10 Safari/605.1.1" group-title="General",BHT 1 (720p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" tvg-logo="https://i.imgur.com/astdRrE.png" group-title="General" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="General" x-source-check="upstream-only",Federalna televizija (720p) [SOURCE NOT DAILY-VALIDATED]
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-id="Kanal6.ba@SD" tvg-logo="https://i.imgur.com/GGhvR0l.png" group-title="General" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="General" x-source-check="upstream-only",Kanal 6 (288p) [SOURCE NOT DAILY-VALIDATED]
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba@SD" tvg-logo="https://i.imgur.com/xUOspBx.png" group-title="Religious" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="Religious" x-source-check="upstream-only",Maria+Vision Medjugorje (720p) [SOURCE NOT DAILY-VALIDATED]
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" tvg-logo="https://i.imgur.com/BXFPz8c.png" group-title="News" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="News" x-source-check="upstream-only",Newsmax Balkans (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+#EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="Undefined" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="Undefined" x-source-check="upstream-only",RTRS plus (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba@SD" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="Undefined" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="Undefined" x-source-check="upstream-only",RTRS TV (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba@SD" tvg-logo="https://i.imgur.com/9NgxOdb.png" group-title="General;Music" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="General;Music" x-source-check="upstream-only",RTV Glas Drine (404p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVHB.ba@SD" tvg-logo="https://i.imgur.com/6FNL8Iv.png" group-title="General" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="General" x-source-check="upstream-only",RTV HB (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba@SD" tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="Undefined" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="Undefined" x-source-check="upstream-only",RTV Zenica (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ba@SD" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="General" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="General" x-source-check="upstream-only",Super TV (Bosnia and Herzegovina) (720p) [SOURCE NOT DAILY-VALIDATED]
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba@SD" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="Undefined" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="Undefined" x-source-check="upstream-only",Televizija 5 (576p) [SOURCE NOT DAILY-VALIDATED]
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="General" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="General" x-source-check="upstream-only",Televizija M (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Kids" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="Kids" x-source-check="upstream-only",TNT Kids TV (288p) [SOURCE NOT DAILY-VALIDATED]
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="TVSlonExtra.ba@SD" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="Undefined" x-country-code="ba" x-country-name="🇧🇦 Bosnia and Herzegovina" x-original-group="Undefined" x-source-check="upstream-only",TV Slon Extra (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://31.47.0.130:8082
+#COUNTRY-FALLBACK-AUDIT|vg|British Virgin Islands|2
+#EXTINF:-1 tvg-id="CBNGospel.vg@SD" tvg-logo="https://i.imgur.com/SHBAblV.png" group-title="Religious" x-country-code="vg" x-country-name="🇻🇬 British Virgin Islands" x-original-group="Religious" x-source-check="upstream-only",CBN Gospel (720p) [SOURCE NOT DAILY-VALIDATED]
+https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
+#EXTINF:-1 tvg-id="CBNTV.vg@SD" tvg-logo="https://i.imgur.com/SHBAblV.png" group-title="General" x-country-code="vg" x-country-name="🇻🇬 British Virgin Islands" x-original-group="General" x-source-check="upstream-only",CBN TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|bn|Brunei|4
+#EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="General" x-country-code="bn" x-country-name="🇧🇳 Brunei" x-original-group="General" x-source-check="upstream-only",RTB Go (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn@SD" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="General" x-country-code="bn" x-country-name="🇧🇳 Brunei" x-original-group="General" x-source-check="upstream-only",RTB Sukmaindera (720p) [SOURCE NOT DAILY-VALIDATED]
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|bf|Burkina Faso|6
+#EXTINF:-1 tvg-id="Canal3.bf@SD" tvg-logo="https://i.imgur.com/WIrVAa2.png" group-title="General" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="General" x-source-check="upstream-only",Canal 3 (Burkina Faso) [SOURCE NOT DAILY-VALIDATED]
+https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilinfoTV.bf@SD" tvg-logo="https://i.imgur.com/KG93Tvn.png" group-title="News" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="News" x-source-check="upstream-only",Filinfo TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+#EXTINF:-1 tvg-id="ImpactTV.bf@SD" tvg-logo="https://i.imgur.com/nynh5LY.png" group-title="Religious" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="Religious" x-source-check="upstream-only",Impact TV (Burkina Faso) [SOURCE NOT DAILY-VALIDATED]
+https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+#EXTINF:-1 tvg-id="RTB3.bf@SD" tvg-logo="https://i.imgur.com/OFZm8ic.png" group-title="Culture" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="Culture" x-source-check="upstream-only",RTB 3 [SOURCE NOT DAILY-VALIDATED]
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 tvg-id="RTB.bf@SD" tvg-logo="https://i.imgur.com/BFfLV0y.png" group-title="Undefined" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="Undefined" x-source-check="upstream-only",RTB (360p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 tvg-id="SavaneTV.bf@SD" tvg-logo="https://i.imgur.com/mv3S1Zc.png" group-title="General" x-country-code="bf" x-country-name="🇧🇫 Burkina Faso" x-original-group="General" x-source-check="upstream-only",Savane TV [SOURCE NOT DAILY-VALIDATED]
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+#COUNTRY-FALLBACK-AUDIT|bi|Burundi|2
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi@SD" tvg-logo="https://i.imgur.com/vNCVLuO.png" group-title="Entertainment" x-country-code="bi" x-country-name="🇧🇮 Burundi" x-original-group="Entertainment" x-source-check="upstream-only",RTNB Divertissement [SOURCE NOT DAILY-VALIDATED]
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+#EXTINF:-1 tvg-id="RTNBTV.bi@SD" tvg-logo="https://i.imgur.com/xfR5P9F.png" group-title="General" x-country-code="bi" x-country-name="🇧🇮 Burundi" x-original-group="General" x-source-check="upstream-only",RTNB TV [SOURCE NOT DAILY-VALIDATED]
+https://tv1-stream.rtnb.bi/hls/master.m3u8
+#COUNTRY-FALLBACK-AUDIT|kh|Cambodia|26
+#EXTINF:-1 tvg-id="ApsaraTV11.kh@SD" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="General" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="General" x-source-check="upstream-only",Apsara TV11 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ARDBTV.kh@SD" tvg-logo="https://i.imgur.com/yOncWla.png" group-title="Outdoor" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Outdoor" x-source-check="upstream-only",ARDB TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="General" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="General" x-source-check="upstream-only",Bayon TV [SOURCE NOT DAILY-VALIDATED]
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="News" x-source-check="upstream-only",BTV News (720p) [SOURCE NOT DAILY-VALIDATED]
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTN.kh@SD" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined" x-source-check="upstream-only",CTN (Cambodia) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV8HD.kh@SD" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="General" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="General" x-source-check="upstream-only",CTV8 HD [SOURCE NOT DAILY-VALIDATED]
+https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
+#EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined" x-source-check="upstream-only",CTV 9 (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+#EXTINF:-1 tvg-id="DMusic.kh@SD" tvg-logo="" group-title="Music" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Music" x-source-check="upstream-only",D Music (1280p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD" tvg-logo="https://i.imgur.com/EuYhS9Z.png" group-title="News" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="News" x-source-check="upstream-only",EAC News TV [SOURCE NOT DAILY-VALIDATED]
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 tvg-id="EBCGeneralEducation.kh@SD" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" group-title="Education" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Education" x-source-check="upstream-only",EBC General Education (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="FreshNews.kh@SD" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="News" x-source-check="upstream-only",Fresh News [SOURCE NOT DAILY-VALIDATED]
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="iTVHD.kh@SD" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="Entertainment" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Entertainment" x-source-check="upstream-only",iTV HD [SOURCE NOT DAILY-VALIDATED]
+https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
+#EXTINF:-1 tvg-id="KomsanTV.kh@SD" tvg-logo="https://i.imgur.com/SNTf2r3.png" group-title="Movies" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Movies" x-source-check="upstream-only",Komsan TV [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:-1 tvg-id="MSJTV.kh@SD" tvg-logo="https://i.imgur.com/TilslGU.png" http-referrer="https://www.iptvservice.site/" group-title="General" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="General" x-source-check="upstream-only",MSJ TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://www.iptvservice.site/
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTV.kh@SD" tvg-logo="https://i.imgur.com/lhxRefQ.png" group-title="Entertainment" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Entertainment" x-source-check="upstream-only",My TV (Cambodia) (576p) [SOURCE NOT DAILY-VALIDATED]
+https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.kh@SD" tvg-logo="https://i.imgur.com/SoBhuIb.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined" x-source-check="upstream-only",NTV (Cambodia) [SOURCE NOT DAILY-VALIDATED]
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh@SD" tvg-logo="https://i.imgur.com/wLzVdeT.png" group-title="Education" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Education" x-source-check="upstream-only",One TV E-School Cambodia (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="SangkemTV.kh@SD" tvg-logo="https://i.imgur.com/728fAcC.png" group-title="Religious" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Religious" x-source-check="upstream-only",Sangkem TV [SOURCE NOT DAILY-VALIDATED]
+https://live.sangkemtv.com/memfs/sangkem.m3u8
+#EXTINF:-1 tvg-id="SEATV.kh@SD" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined" x-source-check="upstream-only",SEA TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh@SD" tvg-logo="https://i.imgur.com/9fUGvVG.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined" x-source-check="upstream-only",Town TV [SOURCE NOT DAILY-VALIDATED]
+https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
+#EXTINF:-1 tvg-id="TV5Cambodia.kh@SD" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Undefined" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Undefined" x-source-check="upstream-only",TV5 Cambodia [SOURCE NOT DAILY-VALIDATED]
+https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh@SD" tvg-logo="https://i.imgur.com/L36ptO2.png" group-title="Education" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Education" x-source-check="upstream-only",TVK 2 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK.kh@SD" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="General" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="General" x-source-check="upstream-only",TVK (Cambodia) (720p) [SOURCE NOT DAILY-VALIDATED]
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh@SD" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education" x-country-code="kh" x-country-name="🇰🇭 Cambodia" x-original-group="Education" x-source-check="upstream-only",Wiki TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|cm|Cameroon|17
+#EXTINF:-1 tvg-id="Afrique54TV.cm@SD" tvg-logo="https://i.imgur.com/WIaRpiS.png" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News" x-source-check="upstream-only",Afrique54 TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
+#EXTINF:-1 tvg-id="AfriqueMedia.cm@SD" tvg-logo="https://i.imgur.com/spQgX7X.png" http-referrer="https://odysee.com" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News" x-source-check="upstream-only",Afrique Media (720p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://odysee.com
+https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
+#EXTINF:-1 tvg-id="AlloCine.cm@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" group-title="Movies" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Movies" x-source-check="upstream-only",Allo Cine (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-id="CAM10TV.cm@SD" tvg-logo="https://i.imgur.com/xspb9uY.png" group-title="General" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="General" x-source-check="upstream-only",CAM 10 TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.it-innov.com/cam10tv/index.m3u8
+#EXTINF:-1 tvg-id="CRTV.cm@SD" tvg-logo="https://i.imgur.com/cQWNh3L.png" group-title="General" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="General" x-source-check="upstream-only",CRTV (Cameroon) [SOURCE NOT DAILY-VALIDATED]
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTVNews.cm@SD" tvg-logo="https://i.imgur.com/5CshVf9.png" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News" x-source-check="upstream-only",CRTV News [SOURCE NOT DAILY-VALIDATED]
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" tvg-logo="https://i.imgur.com/DiIei9F.png" http-referrer="https://crtv.cm/live/crtv-sport" group-title="Sports" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Sports" x-source-check="upstream-only",CRTV Sports and Entertainment SD (360p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
+#EXTINF:-1 tvg-id="ForYouTV.cm@SD" tvg-logo="https://i.imgur.com/1oMboXL.png" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News" x-source-check="upstream-only",For You TV [SOURCE NOT DAILY-VALIDATED]
+https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
+#EXTINF:-1 tvg-id="KemetTV.cm@SD" tvg-logo="https://i.imgur.com/NZ0YqOb.jpeg" group-title="Culture" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Culture" x-source-check="upstream-only",Kemet TV [SOURCE NOT DAILY-VALIDATED]
+https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
+#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm@SD" tvg-logo="https://i.imgur.com/zzG1S2n.png" group-title="General" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="General" x-source-check="upstream-only",Laura Dave Media TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://streaming.lauradavemedia.com/ldm/index.m3u8
+#EXTINF:-1 tvg-id="MyRighteousTV.cm@SD" tvg-logo="https://i.imgur.com/wKSLNHB.png" group-title="Religious" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Religious" x-source-check="upstream-only",My Righteous TV [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTVChannel.cm@SD" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Undefined" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Undefined" x-source-check="upstream-only",My TV Channel (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm@SD" tvg-logo="https://i.imgur.com/wneSSYM.png" group-title="News" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="News" x-source-check="upstream-only",Panafrican Media TV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm@SD" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="Music" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Music" x-source-check="upstream-only",Play TV (Cameroon) (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PLEXTV.cm@SD" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Entertainment" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Entertainment" x-source-check="upstream-only",PLEX TV [SOURCE NOT DAILY-VALIDATED]
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
+#EXTINF:-1 tvg-id="TR24Television.cm@SD" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" group-title="Entertainment" x-country-code="cm" x-country-name="🇨🇲 Cameroon" x-original-group="Entertainment" x-source-check="upstream-only",TR24 Television (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.it-innov.com/tr24/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|cv|Cape Verde|1
+#EXTINF:-1 tvg-id="TVCidade.cv@SD" tvg-logo="https://i.imgur.com/gmSu21X.jpg" group-title="Music" x-country-code="cv" x-country-name="🇨🇻 Cape Verde" x-original-group="Music" x-source-check="upstream-only",TV Cidade [SOURCE NOT DAILY-VALIDATED]
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
