@@ -1,0 +1,347 @@
+#EXTM3U
+#STAGE|tv_work/raw_14.m3u
+#COUNTRY-AUDIT|mm|Myanmar|🇲🇲|14|validated source available
+#EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Culture" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Culture",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Documentary" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Documentary",MWD Documentary [Geo-blocked]
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary;Lifestyle" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Documentary;Lifestyle",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-id="FortuneTV.mm@SD" tvg-logo="https://i.imgur.com/MM5evnD.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment",FORTUNE TV (720p)
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm@SD" tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment",MWD Variety (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="General" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="General",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 tvg-id="MWD.mm@SD" tvg-logo="https://i.imgur.com/zyTQG9F.png" group-title="General" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="General",MWD (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm@SD" tvg-logo="https://i.imgur.com/ClmWqE5.png" group-title="General" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="General",Myanmar International TV
+https://mrtvott.com/cache/MITV/master.m3u8
+#EXTINF:-1 tvg-id="HluttawSD.mm@SD" tvg-logo="https://i.imgur.com/Gffq8ks.png" group-title="Legislative" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Legislative",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-logo="https://i.imgur.com/5KRsqeF.png" group-title="Movies" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Movies",MWD Movies [Not 24/7]
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-id="DVBTV.mm@SD" tvg-logo="https://i.imgur.com/VdezHOv.png" group-title="News" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="News",DVB TV (720p) [Geo-blocked]
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm@SD" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="News" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="News",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Sports" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Sports",MRTV Sports [Not 24/7]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#COUNTRY-AUDIT|na|Namibia|🇳🇦|1|validated source available
+#EXTINF:-1 tvg-id="TjilTV.na@SD" tvg-logo="https://i.imgur.com/iBbawJ0.png" group-title="Music" x-country-code="na" x-country-name="🇳🇦 Namibia" x-original-group="Music",Tjil TV (720p)
+https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
+#COUNTRY-AUDIT|np|Nepal|🇳🇵|6|validated source available
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np@SD" tvg-logo="https://i.ibb.co/Gf9VH1VN/TV-Today-Janakpur.png" group-title="Entertainment;General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Entertainment;General",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@HD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General",Kantipur TV (1080p)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General",Mithila Nepal TV (1080p)
+http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" group-title="Religious" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Religious",Divya Darshan TV (720p)
+http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@HD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" group-title="Religious" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Religious",Divya Darshan TV HD (1080p)
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+#COUNTRY-AUDIT|nl|Netherlands|🇳🇱|129|validated source available
+#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/7bf139cc-e5c4-4bca-bef2-ad07687f239f/InTrouble_landscapeOrange.png" group-title="Auto;Sports;Outdoor" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Auto;Sports;Outdoor",INTROUBLE (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TMF.nl@HDFAST" tvg-logo="https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png" group-title="Classic;Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Classic;Music",TMF (1080p)
+https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
+#EXTINF:-1 tvg-id="JinTV.nl@SD" tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="Culture" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Culture",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="Salto2.nl@SD" tvg-logo="https://i.imgur.com/6H3ycdL.png" group-title="Culture" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Culture",Salto 2 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Documentary",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Documentary",INWILD (1080p)
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Gametoon.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment",Gametoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/gametoon.m3u8
+#EXTINF:-1 tvg-id="MagicPowerRadio.nl@SD" tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment",Magic PowerRadio (288p) [Not 24/7]
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioToppers.nl@SD" tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment",RadioToppers (720p)
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-id="Salto1.nl@SD" tvg-logo="https://i.imgur.com/hyubvS5.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment",Salto 1 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
+#EXTINF:-1 tvg-id="MaLive.nl@SD" tvg-logo="https://i.imgur.com/0Vzg2OR.png" group-title="Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Entertainment",Salto MaLive (1080p)
+https://live.salto.nl/hls/malive_high.m3u8
+#EXTINF:-1 tvg-id="1AlmereTV.nl@SD" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",1Almere TV (720p)
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl@SD" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",1Twente TV (1080p)
+https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+#EXTINF:-1 tvg-id="A1TV.nl@SD" tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",A1 TV (1080p) [Not 24/7]
+https://www.a1mediagroep.nl/hls/a1tv.m3u8
+#EXTINF:-1 tvg-id="AssenTV.nl@SD" tvg-logo="https://i.imgur.com/upik15D.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Assen TV (720p)
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
+#EXTINF:-1 tvg-id="AT5.nl@SD" tvg-logo="https://i.imgur.com/iAiSlEL.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DitisHelmond.nl@SD" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Dit is Helmond (480p)
+https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DTVDenBosch.nl@SD" tvg-logo="https://i.imgur.com/aFBNbsy.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",DTV Den Bosch (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVMaashorst.nl@SD" tvg-logo="https://i.imgur.com/5WaCCAC.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",DTV Maashorst (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVOssBernheze.nl@SD" tvg-logo="https://i.imgur.com/JL1f9Tx.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",DTV Oss & Bernheze (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="Haarlem105TV.nl@SD" tvg-logo="https://i.imgur.com/xyOVVZ0.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Haarlem105 RTV (720p)
+https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
+#EXTINF:-1 tvg-id="KempenTV.nl@SD" tvg-logo="https://i.imgur.com/ZiPL9ar.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",KempenTV (480p)
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LangstraatTV.nl@SD" tvg-logo="https://i.imgur.com/xchUfks.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Langstraat TV (720p)
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
+#EXTINF:-1 tvg-id="LansingerlandTV.nl@SD" tvg-logo="https://i.imgur.com/1r7IZ7Q.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Lansingerland TV (720p)
+https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LEOMiddelseTV.nl@SD" tvg-logo="https://i.imgur.com/wF3FFZv.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",LEO Middelsé TV (480p)
+https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MerweTV.nl@SD" tvg-logo="https://i.imgur.com/JjB7U1q.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Merwe TV (720p)
+https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
+#EXTINF:-1 tvg-id="NOOSTV.nl@SD" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",NOOS TV (720p)
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabant.nl@SD" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Brabant (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabantRadio.nl@SD" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Brabant Radio (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-id="OmroepDommelland.nl@SD" tvg-logo="https://i.imgur.com/6Tkd9Pv.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Dommelland (720p)
+https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
+#EXTINF:-1 tvg-id="OmroepFlevoland.nl@SD" tvg-logo="https://i.imgur.com/rF4MTYD.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Flevoland (720p) [Not 24/7]
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepGelderland.nl@HD" tvg-logo="https://i.imgur.com/G08hKit.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Gelderland HD (1080p)
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl@SD" tvg-logo="https://i.imgur.com/pgMwNGV.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Hoeksche Waard (480p)
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepLandvanCuijk.nl@SD" tvg-logo="https://i.imgur.com/Pt2gXJ1.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Land van Cuijk (720p)
+https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Lingewaard (720p)
+https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepPeelrand.nl@SD" tvg-logo="https://i.imgur.com/K4AhATP.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Peelrand (720p)
+https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepSudwest.nl@SD" tvg-logo="https://i.imgur.com/XtKLmQS.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Súdwest (720p)
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+#EXTINF:-1 tvg-id="OmroepTilburg.nl@SD" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Tilburg TV (480p)
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepVenlo.nl@SD" tvg-logo="https://i.imgur.com/zjDZdmM.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Venlo (720p)
+https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+#EXTINF:-1 tvg-id="OmroepVenray.nl@SD" tvg-logo="https://i.imgur.com/uVqTbi2.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Venray (720p)
+https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+#EXTINF:-1 tvg-id="OmroepZeeland.nl@SD" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omroep Zeeland (1080p)
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmropFryslan.nl@SD" tvg-logo="https://i.imgur.com/khacDTU.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Omrop Fryslân (1080p) [Not 24/7]
+https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
+#EXTINF:-1 tvg-id="OOGTV.nl@SD" tvg-logo="https://i.imgur.com/WzxY0PL.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",OOG TV (720p)
+https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
+#EXTINF:-1 tvg-id="OPENRotterdamTV.nl@SD" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Open Rotterdam (480p) [Not 24/7]
+https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTSTV.nl@SD" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",ORTS (480p) [Not 24/7]
+https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RPLWoerden.nl@SD" tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",RPL TV Woerden (720p)
+https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+#EXTINF:-1 tvg-id="RTVLOVE.nl@SD" tvg-logo="https://i.imgur.com/hucwX6v.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",RTV LOVE (720p)
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+#EXTINF:-1 tvg-id="RTVMeppel.nl@SD" tvg-logo="https://i.imgur.com/RosyQkb.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",RTV Meppel (720p)
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmondExtra.nl@SD" tvg-logo="https://i.imgur.com/mlrd5ia.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",RTV Rijnmond Extra (1080p)
+http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVZulthe.nl@SD" tvg-logo="https://i.imgur.com/Z3zUUsJ.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",RTV Zulthe (720p)
+http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SleutelstadTV.nl@SD" tvg-logo="https://i.imgur.com/ljVGMWV.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Sleutelstad TV (720p)
+https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
+#EXTINF:-1 tvg-id="SRCTV.nl@SD" tvg-logo="https://i.imgur.com/VSSbjrM.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",SRC TV (720p)
+http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
+#EXTINF:-1 tvg-id="StreekstadCentral.nl@SD" tvg-logo="https://i.imgur.com/9gM6rPb.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Streekstad Alkmaar Centraal (1080p)
+https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8
+#EXTINF:-1 tvg-id="Studio040TV.nl@SD" tvg-logo="https://i.imgur.com/NBludRL.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",Studio040 TV (720p)
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+#EXTINF:-1 tvg-id="WeertFMTV.nl@SD" tvg-logo="https://i.imgur.com/8bt6xt2.png" group-title="General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General",WeertFM TV (720p)
+https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NH.nl@SD" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="General;News" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="General;News",NH Niews (1080p)
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Enquetezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerMaxvanderStoelzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Legislative",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Lifestyle",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="INFAST.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/42ab0c78-fd11-4b3c-88cb-64d9dd642f23/InFast_landscape-red.png" group-title="Lifestyle" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Lifestyle",INFAST (1080p)
+https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="360TuneBox.nl@SD" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",360TuneBox (1080p)
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="DanceTelevision.nl@SD" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",Dance Television (1080p)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="GigantFM.nl@SD" tvg-logo="https://i.imgur.com/LwEHfjD.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",Gigant FM (720p)
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl@SD" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",Hype Visual Radio (1080p)
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Qmusic.nl@SD" tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",Qmusic (720p)
+https://stream.qmusic.nl/qmusic/videohls.m3u8
+#EXTINF:-1 tvg-id="RadioJND.nl@SD" tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",Radio JND (1080p)
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioNLTV.nl@SD" tvg-logo="https://i.imgur.com/TVaMJYB.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",RadioNL TV (1080p) [Not 24/7]
+https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE.nl@SD" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",XITE (720p)
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITEClassicCountry.nl@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",XITE Classic Country (720p)
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@NL" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",XITE Hits (1080p)
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@Germany" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",XITE Hits Germany (1080p)
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",XITE Hits UK (1080p)
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="XITEJustChill.nl@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",XITE Just Chill (1080p)
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",XITE Reggae Vibes (1080p)
+https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+#EXTINF:-1 tvg-id="XITERockxMetal.nl@US" tvg-logo="https://i.imgur.com/szDM09P.png" group-title="Music" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music",XITE Rock x Metal (1080p)
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-id="BEATTV.nl@SD" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Music;Entertainment" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music;Entertainment",BE@TTV (1080p)
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-id="FomixTV.nl@HD" tvg-logo="https://i.imgur.com/7SLYEMG.png" group-title="Music;Public;General" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Music;Public;General",FomixTV (1080p)
+#EXTVLCOPT:http-referrer=https://www.fomix.nl
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+#EXTINF:-1 tvg-id="FunBoxUHD.nl@SD" tvg-logo="https://i.imgur.com/9FJct9o.png" group-title="Relax" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Relax",FunBox UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/4b12c878-0f30-47e1-9ca8-d5828e81e18e/InWonder_landscape-white.png" group-title="Science" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Science",InWonder (1080p)
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+#EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Sports" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Sports",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Sports",FightBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Sports",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@Poland" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Sports",FightBox Poland (576i)
+http://92.114.85.87:8003/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-logo="https://cdn.uc.assets.prezly.com/731574b6-2dab-4d87-85cf-fa48648b845a/INTRAVELLandscapeColor.png" group-title="Travel" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Travel",INTRAVEL (1080p)
+https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8
+#EXTINF:-1 tvg-id="AltenaTV.nl@SD" tvg-logo="https://i.imgur.com/0wblu0I.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Altena TV (720p)
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 tvg-id="BNRNieuwsradio.nl@SD" tvg-logo="https://i.imgur.com/d0KLwkj.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",BNR Nieuwsradio (720p) [Geo-blocked]
+https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:-1 tvg-id="LONTV.nl@SD" tvg-logo="https://i.imgur.com/bH4XSGw.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",LON TV (720p)
+https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8
+#EXTINF:-1 tvg-id="OmroepWest.nl@HD" tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Omroep West (1080p) [Not 24/7]
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+#EXTINF:-1 tvg-id="PodiumTV.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Podium.TV (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV2.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Podium.TV 2 (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV3.nl@SD" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Podium.TV 3 (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="Radio10.nl@SD" tvg-logo="https://i.imgur.com/2oGtj7r.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Radio 10 (720p)
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
+#EXTINF:-1 tvg-id="Radio350.nl@SD" tvg-logo="https://i.imgur.com/3nkzXup.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Radio 350 (360p) [Not 24/7]
+https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 tvg-id="Radio538.nl@SD" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Radio 538 (270p)
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl@SD" tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Radio Aalsmeer TV (720p) [Not 24/7]
+https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 tvg-id="Regio90TV.nl@SD" tvg-logo="https://i.imgur.com/UGnm1jd.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Regio90 TV (720p)
+https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RN7.nl@SD" tvg-logo="https://i.imgur.com/dYBTrLc.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RN7 TV (1080p)
+https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+#EXTINF:-1 tvg-id="RTV1.nl@SD" tvg-logo="https://i.imgur.com/lRCsPWT.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV 1 (720p)
+https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
+#EXTINF:-1 tvg-id="RTVDrenthe.nl@SD" tvg-logo="https://i.imgur.com/UBQCjnG.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Drenthe (1080p)
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVHorizon.nl@SD" tvg-logo="https://i.imgur.com/wnRsI8B.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Horizon (720p)
+https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
+#EXTINF:-1 tvg-id="RTVMaastricht.nl@SD" tvg-logo="https://i.imgur.com/nYl8H2e.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Maastricht (720p) [Not 24/7]
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoord.nl@SD" tvg-logo="https://i.imgur.com/l92Cb6H.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Noord (720p) [Not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoordExtra.nl@SD" tvg-logo="https://i.imgur.com/T0UvltB.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Noord Extra (1080p) [Not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVOost.nl@SD" tvg-logo="https://i.imgur.com/nTR6q9H.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Oost (720p)
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVPurmerend.nl@SD" tvg-logo="https://i.imgur.com/dLKSpqz.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Purmerend (720p)
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmond.nl@SD" tvg-logo="https://i.imgur.com/fJTs9xH.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Rijnmond (1080p)
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVRijnstreekTV.nl@SD" tvg-logo="https://i.imgur.com/uM5sJJs.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Rijnstreek TV (720p) [Not 24/7]
+https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVSLOS.nl@SD" tvg-logo="https://i.imgur.com/xdzrT9A.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV SLOS (720p)
+https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8
+#EXTINF:-1 tvg-id="RTVUtrecht.nl@SD" tvg-logo="https://i.imgur.com/nrvs30l.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Utrecht (1080p)
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-id="RTVVeluwezoomTV.nl@SD" tvg-logo="https://i.imgur.com/KeHbJTM.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Veluwezoom (720p)
+https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
+#EXTINF:-1 tvg-id="RTVWesterwolde.nl@SD" tvg-logo="https://i.imgur.com/002YXP6.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",RTV Westerwolde (432p)
+https://media.rtvwesterwolde.nl/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="SchieTV.nl@SD" tvg-logo="https://i.imgur.com/kt4Aqvq.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Schie TV (576i)
+https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
+#EXTINF:-1 tvg-id="StreekTV.nl@SD" tvg-logo="https://i.imgur.com/48lkh57.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Streek TV (720p) [Not 24/7]
+http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 tvg-id="StudioRheden.nl@SD" tvg-logo="https://i.imgur.com/swfxaac.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Studio Rheden (1080p)
+https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
+#EXTINF:-1 tvg-id="TVEllef.nl@SD" tvg-logo="https://i.imgur.com/FaCd2QY.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",TV Ellef (1080p)
+http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerKlompezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Tweede Kamer: Klompezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="UStad.nl@SD" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",UStad (1080p)
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 tvg-id="VechtdalTV.nl@SD" tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Vechtdal TV (480p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WOS.nl@SD" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",WOS TV (1080p)
+https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZO34.nl@SD" tvg-logo="https://i.imgur.com/yiihDg6.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",ZO!34 (720p)
+https://video.uitzending.tv:19360/zo34/zo34.m3u8
+#EXTINF:-1 tvg-id="TVRain.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="Undefined" x-country-code="nl" x-country-name="🇳🇱 Netherlands" x-original-group="Undefined",Дождь (1080p) [Geo-blocked]
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#COUNTRY-AUDIT|nc|New Caledonia|🇳🇨|1|validated source available
+#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc@SD" tvg-logo="https://i.imgur.com/BJgNq21.png" group-title="General" x-country-code="nc" x-country-name="🇳🇨 New Caledonia" x-original-group="General",Nouvelle Caledonie 1ere (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
+#COUNTRY-AUDIT|nz|New Zealand|🇳🇿|7|validated source available
+#EXTINF:-1 tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="Legislative" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Legislative",Parliament TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.nz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Lifestyle",HGTV (1080p)
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-id="Firstlight.nz@SD" tvg-logo="https://i.imgur.com/gtDROeT.png" group-title="Religious" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Religious",Firstlight (576p)
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KordiaTV.nz@SD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined",Kordia TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="TeReo.nz@SD" tvg-logo="https://i.imgur.com/3CNvYUN.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined",Te Reo (1080p)
+https://i.mjh.nz/.r/te-reo.m3u8
+#EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined",Wairarapa TV (1080p) [Not 24/7]
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
+#EXTINF:-1 tvg-id="WhakaataMaori.nz@SD" tvg-logo="https://i.imgur.com/oT3PrHZ.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined",Whakaata Maori (1080p)
+https://i.mjh.nz/.r/maori-tv.m3u8
+#COUNTRY-AUDIT|ni|Nicaragua|🇳🇮|6|validated source available
+#EXTINF:-1 tvg-id="WTVCanal20.ni@SD" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entertainment" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Entertainment",WTV Canal 20 (1080p)
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10.ni@SD" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General",Canal 10
+https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
+#EXTINF:-1 tvg-id="Canal12.ni@SD" tvg-logo="https://i.imgur.com/UhEW8cj.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General",Canal 12 (576p)
+http://45.228.234.9:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="TN8.ni@SD" tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General",TN8 (1080p)
+https://streamingcws30.com/tn8/videotn8/playlist.m3u8
+#EXTINF:-1 tvg-id="EscuchameRadioTV.ni@SD" tvg-logo="https://i.imgur.com/gt6UvG8.png" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious",Escúchame Radio TV (720p) [Not 24/7]
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+#EXTINF:-1 tvg-id="OlamMetroTV.ni@SD" tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious",Olam Metro TV (720p)
+https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
+#COUNTRY-AUDIT|ne|Niger|🇳🇪|2|validated source available
+#EXTINF:-1 tvg-id="TalTV.ne@SD" tvg-logo="https://i.imgur.com/KWMP0t1.png" group-title="Entertainment" x-country-code="ne" x-country-name="🇳🇪 Niger" x-original-group="Entertainment",Tal TV (1080p)
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD" tvg-logo="https://i.imgur.com/vboq428.png" group-title="General" x-country-code="ne" x-country-name="🇳🇪 Niger" x-original-group="General",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
