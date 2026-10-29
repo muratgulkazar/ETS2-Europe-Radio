@@ -1,0 +1,163 @@
+#EXTM3U
+#FALLBACK-BATCH|3
+#COUNTRY-FALLBACK-AUDIT|td|Chad|1
+#EXTINF:-1 tvg-id="TeleTchad.td@SD" tvg-logo="https://i.imgur.com/udSzfHD.png" group-title="General" x-country-code="td" x-country-name="🇹🇩 Chad" x-original-group="General" x-source-check="upstream-only",Tele Tchad (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|km|Comoros|1
+#COUNTRY-FALLBACK-AUDIT|hr|Croatia|29
+#EXTINF:-1 tvg-id="BravoKidsTV.hr@SD" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="Kids" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Kids" x-source-check="upstream-only",Bravo! Kids TV [SOURCE NOT DAILY-VALIDATED]
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr@SD" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Music" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Music" x-source-check="upstream-only",CMC TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="DiadoraTV.hr@SD" tvg-logo="https://i.imgur.com/qZzsASl.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="upstream-only",Diadora TV [SOURCE NOT DAILY-VALIDATED]
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr@SD" tvg-logo="https://i.imgur.com/lDSctzX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="General",HRT 1 (720p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr@SD" tvg-logo="https://i.imgur.com/yyePcl1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="General",HRT 2 (720p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr@SD" tvg-logo="https://i.imgur.com/4OrOJRx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Culture;Documentary",HRT 3 (720p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr@SD" tvg-logo="https://i.imgur.com/sKj3dgc.png" group-title="Music" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Music" x-source-check="upstream-only",Klape i Tambure TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="Klasik.hr@SD" tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="Movies" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Movies" x-source-check="upstream-only",Klasik (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="LibertasTV.hr@SD" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="upstream-only",Libertas TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Documentary" x-source-check="upstream-only",National Geographic (Croatia) (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Kids" x-source-check="upstream-only",Nick Jr. (Croatia) (540p) [SOURCE NOT DAILY-VALIDATED]
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Kids" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Kids" x-source-check="upstream-only",Nickelodeon (Croatia) (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://176.61.157.250/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="NovaTV.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="upstream-only",Nova TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 tvg-id="OTV.hr@SD" tvg-logo="https://i.imgur.com/67zVdu2.png" group-title="News" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="News" x-source-check="upstream-only",OTV (Croatia) (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr@SD" tvg-logo="https://i.imgur.com/gCFgC5D.png" group-title="Undefined" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Undefined" x-source-check="upstream-only",Radio Televizija Banovina (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="SBTV.hr@SD" tvg-logo="https://i.imgur.com/MIampxZ.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="upstream-only",SBTV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-id="ShiftTV.hr@SD" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Auto" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Auto" x-source-check="upstream-only",Shift TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.hr@SD" tvg-logo="https://i.imgur.com/Z3yRl17.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="upstream-only",STV (Croatia) (720p) [SOURCE NOT DAILY-VALIDATED]
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="TrendTV.hr@SD" tvg-logo="https://i.imgur.com/4SmNISY.jpg" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="upstream-only",Trend TV (480p) [SOURCE NOT DAILY-VALIDATED]
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJadran.hr@SD" tvg-logo="https://i.imgur.com/UWMHnOG.png" group-title="News" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="News" x-source-check="upstream-only",TV Jadran (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="TVNova.hr@SD" tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="Entertainment" x-source-check="upstream-only",TV Nova (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="TVZapad.hr@SD" tvg-logo="https://i.imgur.com/cgCeX12.png" group-title="General" x-country-code="hr" x-country-name="🇭🇷 Croatia" x-original-group="General" x-source-check="upstream-only",TV Zapad (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+#COUNTRY-FALLBACK-AUDIT|cu|Cuba|5
+#EXTINF:-1 tvg-id="CanalCaribe.cu@SD" tvg-logo="https://i.imgur.com/CV5Rz35.png" http-referrer="https://teveo.cu/" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML x-country-code="cu" x-country-name="🇨🇺 Cuba" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="News",Canal Caribe [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Cubavision.cu@SD" tvg-logo="https://i.imgur.com/ki9ipMU.png" http-referrer="https://teveo.cu/" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML x-country-code="cu" x-country-name="🇨🇺 Cuba" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-logo="https://i.imgur.com/0ZHm9f6.png" http-referrer="https://teveo.cu/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="cu" x-country-name="🇨🇺 Cuba" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Cubavision Internacional (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD" tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News" x-country-code="cu" x-country-name="🇨🇺 Cuba" x-original-group="News" x-source-check="upstream-only",Prensa Latina TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://eu1.servers10.com:8081/8192/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|cw|Curacao|5
+#EXTINF:-1 tvg-id="BonceTV.cw@SD" tvg-logo="https://i.imgur.com/7cVkllH.png" group-title="Entertainment" x-country-code="cw" x-country-name="🇨🇼 Curacao" x-original-group="Entertainment" x-source-check="upstream-only",Bonce TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 tvg-id="NosPais.cw@SD" tvg-logo="https://i.imgur.com/ZUob2uZ.png" group-title="Entertainment" x-country-code="cw" x-country-name="🇨🇼 Curacao" x-original-group="Entertainment" x-source-check="upstream-only",Nos Pais (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDirect13.cw@SD" tvg-logo="https://i.imgur.com/T2IbQqv.png" group-title="General" x-country-code="cw" x-country-name="🇨🇼 Curacao" x-original-group="General" x-source-check="upstream-only",TV Direct 13 (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VAMTV.cw@SD" tvg-logo="https://i.imgur.com/CD1PffA.png" group-title="Music" x-country-code="cw" x-country-name="🇨🇼 Curacao" x-original-group="Music" x-source-check="upstream-only",VAM TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
+#COUNTRY-FALLBACK-AUDIT|cy|Cyprus|18
+#EXTINF:-1 tvg-id="AdaTV.cy@SD" tvg-logo="https://i.imgur.com/YWmkUWU.png" group-title="General" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="General" x-source-check="upstream-only",Ada TV [SOURCE NOT DAILY-VALIDATED]
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaSport.cy@SD" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="Sports" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Sports" x-source-check="upstream-only",Alfa Sport (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="Entertainment" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Entertainment" x-source-check="upstream-only",ANT1 Cyprus (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="CityChannel.cy@SD" tvg-logo="https://i.imgur.com/oo2fxta.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="upstream-only",City Channel (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-id="ERTCosmosCyprus.cy@HD" tvg-logo="https://www.ert.gr/wp-content/uploads/2026/05/ert-cosmos-cyprus.svg" group-title="General" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="General" x-source-check="upstream-only",ERT Cosmos Cyprus (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
+#EXTINF:-1 tvg-id="MiddleEastTV.cy@SD" tvg-logo="https://i.imgur.com/oKU5KeW.png" group-title="Religious" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Religious" x-source-check="upstream-only",Middle East TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+#EXTINF:-1 tvg-id="OmegaChannel.cy@SD" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="General" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="General" x-source-check="upstream-only",Omega Channel (576i) [SOURCE NOT DAILY-VALIDATED]
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 tvg-id="RIK1.cy@SD" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="upstream-only",RIK 1 [SOURCE NOT DAILY-VALIDATED]
+http://213.7.216.229:8888/udp/239.23.0.1:1234
+#EXTINF:-1 tvg-id="RIK2.cy@SD" tvg-logo="https://i.imgur.com/EZUDmtI.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="upstream-only",RIK 2 [SOURCE NOT DAILY-VALIDATED]
+http://213.7.216.229:8888/udp/239.23.0.2:1234
+#EXTINF:-1 tvg-id="RIKHD.cy@SD" tvg-logo="https://i.imgur.com/xQnHaPy.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="upstream-only",RIK HD [SOURCE NOT DAILY-VALIDATED]
+http://213.7.216.229:8888/udp/239.23.0.5:1234
+#EXTINF:-1 tvg-id="RIKSat.cy@SD" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="upstream-only",RIK Sat (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Arabic.cy@SD" tvg-logo="https://i.imgur.com/BzDjQeQ.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="upstream-only",Sat 7 Arabic (240p) [SOURCE NOT DAILY-VALIDATED]
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Sat7Kids.cy@SD" tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="Kids;Religious" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Kids;Religious" x-source-check="upstream-only",Sat 7 Kids (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD" tvg-logo="https://i.imgur.com/VTLQeul.png" group-title="Religious" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Religious" x-source-check="upstream-only",Sat 7 Pars [SOURCE NOT DAILY-VALIDATED]
+https://sat7phls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Sat7Turk.cy@SD" tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="upstream-only",Sat 7 Turk (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 tvg-id="SigmaTV.cy@SD" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Undefined" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="Undefined" x-source-check="upstream-only",Sigma TV (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="VouliTV.cy@SD" tvg-logo="https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png" group-title="News" x-country-code="cy" x-country-name="🇨🇾 Cyprus" x-original-group="News" x-source-check="upstream-only",Vouli TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#COUNTRY-FALLBACK-AUDIT|cd|Democratic Republic of the Congo|17
+#EXTINF:-1 tvg-id="AntenneA.cd@SD" tvg-logo="https://i.imgur.com/tgxrcv7.png" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",Antenne A [SOURCE NOT DAILY-VALIDATED]
+http://51.254.199.122:8080/antenne_a-plus/index.m3u8
+#EXTINF:-1 tvg-id="BarakaTelevision.cd@SD" tvg-logo="https://i.imgur.com/IKXddHN.png" group-title="News" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="News" x-source-check="upstream-only",Baraka Television (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
+#EXTINF:-1 tvg-id="BossBrothersTV.cd@SD" tvg-logo="https://i.imgur.com/rc9MXm5.png" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",Boss Brothers TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd@SD" tvg-logo="https://i.imgur.com/9IIIvPf.png" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",Congo Planet Television (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd@SD" tvg-logo="https://i.imgur.com/uz2Rsu7.png" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",Digital Congo TV [SOURCE NOT DAILY-VALIDATED]
+http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+#EXTINF:-1 tvg-id="EVITV.cd@SD" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="Entertainment" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="Entertainment" x-source-check="upstream-only",EVI TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
+#EXTINF:-1 tvg-id="Kin24.cd@SD" tvg-logo="https://i.imgur.com/Lak10Wo.png" group-title="News" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="News" x-source-check="upstream-only",Kin24 [SOURCE NOT DAILY-VALIDATED]
+http://51.254.199.122:8080/kin24/index.m3u8
+#EXTINF:-1 tvg-id="LBFDRTV.cd@SD" tvg-logo="https://i.imgur.com/buMvLJc.jpeg" group-title="Religious" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="Religious" x-source-check="upstream-only",LBFD RTV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://tnt-television.com/LBFD_RTV/index.m3u8
+#EXTINF:-1 tvg-id="LeMondeen24h.cd@SD" tvg-logo="https://i.imgur.com/2igwi7g.png" group-title="News" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="News" x-source-check="upstream-only",Le Monde en 24h [SOURCE NOT DAILY-VALIDATED]
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
+#EXTINF:-1 tvg-id="LollywoodHDTV.cd@SD" tvg-logo="https://i.imgur.com/fQhrsdr.png" group-title="Movies" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="Movies" x-source-check="upstream-only",Lollywood HD TV [SOURCE NOT DAILY-VALIDATED]
+https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
+#EXTINF:-1 tvg-id="MikubaTV.cd@SD" tvg-logo="https://i.imgur.com/yJehCQM.png" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",Mikuba TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://51.254.199.122:8080/MIKUBATV/index.m3u8
+#EXTINF:-1 tvg-id="ONETV.cd@SD" tvg-logo="https://i.imgur.com/Wob7gjp.png" group-title="Religious" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="Religious" x-source-check="upstream-only",ONE-TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
+#EXTINF:-1 tvg-id="PSTVHD.cd@SD" tvg-logo="https://i.imgur.com/xQlkuAa.png" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",PSTV HD (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://51.254.199.122:8080/PSTV/index.m3u8
+#EXTINF:-1 tvg-id="RLPROTV.cd@SD" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" group-title="Documentary" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="Documentary" x-source-check="upstream-only",RL PRO TV [SOURCE NOT DAILY-VALIDATED]
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:-1 tvg-id="RTNC3.cd@SD" tvg-logo="https://i.imgur.com/rr9Zsno.jpeg" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",RTNC 3 [SOURCE NOT DAILY-VALIDATED]
+http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
+#EXTINF:-1 tvg-id="RTNC.cd@SD" tvg-logo="https://i.imgur.com/oVXO950.jpeg" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",RTNC (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://kali.vdopanel.com:3850/live/masterlive.m3u8
+#EXTINF:-1 tvg-id="RTVS1.cd@SD" tvg-logo="https://i.imgur.com/doaZCzy.png" group-title="General" x-country-code="cd" x-country-name="🇨🇩 Democratic Republic of the Congo" x-original-group="General" x-source-check="upstream-only",RTVS1 [SOURCE NOT DAILY-VALIDATED]
+http://51.254.199.122:8080/RTVS1/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|dk|Denmark|152
+#EXTINF:-1 tvg-id="DRTV.dk@SD" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" group-title="General" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="General" x-source-check="upstream-only",DRTV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk@SD" tvg-logo="https://i.imgur.com/afujBQs.jpeg" group-title="General" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="General" x-source-check="upstream-only",Kanal Hovedstaden (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="KKRtv.dk@SD" tvg-logo="https://i.imgur.com/TbtjWHI.png" group-title="Religious" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="Religious" x-source-check="upstream-only",KKRtv (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2Bornholm.dk@SD" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="Undefined" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="Undefined" x-source-check="upstream-only",TV 2/Bornholm (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk@SD" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Legislative" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="Legislative" x-source-check="upstream-only",TV from the Danish Parliament (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="TVStorbyen.dk@SD" tvg-logo="https://i.ibb.co/X5h3hJL/tvstb.png" group-title="General" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="General" x-source-check="upstream-only",TV Storbyen (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarineret.dk@SD" tvg-logo="https://i.imgur.com/r1Caske.jpg" group-title="General" x-country-code="dk" x-country-name="🇩🇰 Denmark" x-original-group="General" x-source-check="upstream-only",TVMarineret (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://sdream.info:8080/hls/livestream/index.m3u8
