@@ -501,3 +501,132 @@
 {"code":"ie","label":"İrlanda","url":"http://stream.audioxi.com/CLASSIC","name":"Classic Hits 4FM","genre":"Various","lang":"IE","bitrate":"128"}
 {"code":"ie","label":"İrlanda","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3","name":"Highland Radio","genre":"Popular music","lang":"ENG","bitrate":"128"}
 {"code":"ie","label":"İrlanda","url":"http://icecast.rte.ie/lyric","name":"RTE lyric fm","genre":"Classical","lang":"ENG","bitrate":"160"}
+{"code":"es","label":"İspanya","url":"http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3","name":"Cadena 100","genre":"Various","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"http://ibizaglobalradio.streaming-pro.com:8024/","name":"Ibiza Global Radio","genre":"Dance","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3","name":"LOS 40 Principales Espana","genre":"Pop","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"http://streaming5.elitecomunicacion.es:8082/live.mp3","name":"Chocolate FM","genre":"Chr","lang":"SPA","bitrate":"192"}
+{"code":"es","label":"İspanya","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3","name":"Cadena SER Espana","genre":"Cultural news","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"http://c2.auracast.net:8048/stream","name":"1000 HITS 80s","genre":"Italo","lang":"ENG","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"http://flucast-bl02.flumotion.com/cope/rockfm-low.mp3","name":"Rock FM","genre":"Various","lang":"SPA","bitrate":"96"}
+{"code":"es","label":"İspanya","url":"https://80sexitos.stream.laut.fm/80sexitos","name":"_80 EXITOS","genre":"Dance","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3","name":"Los 40 Urban","genre":"Dance","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC","name":"Los 40 Dance","genre":"Dance","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"http://livestreaming.esradio.fm/stream64.mp3","name":"esRadio","genre":"News","lang":"SPA","bitrate":"56"}
+{"code":"es","label":"İspanya","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3","name":"Cadena Dial","genre":"Musica en espanol","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"https://sonic.mediatelekom.net/9316/stream","name":"Radio Marca","genre":"Classical","lang":"ES","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"http://server7.20comunicacion.com:8040/","name":"Cadena SER Radio MADRID","genre":"Cultural","lang":"CAT","bitrate":"64"}
+{"code":"es","label":"İspanya","url":"https://streams.radio.co/se1a320b47/listen","name":"Cafe del Mar","genre":"Chillout","lang":"ES","bitrate":"192"}
+{"code":"es","label":"İspanya","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3","name":"LOS40 Classic","genre":"Pop rock","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"http://edge4.peta.live365.net/b05055_128mp3","name":"Absolute Chillout","genre":"Various","lang":"ES","bitrate":"192"}
+{"code":"es","label":"İspanya","url":"http://radioweb.radiomarcabarcelona.com:9000/stream","name":"Radio Marca Barcelona","genre":"Sports news","lang":"SPA","bitrate":"96"}
+{"code":"es","label":"İspanya","url":"http://flucast14-h-cloud.flumotion.com/cope/megastar.mp3","name":"MegaStarFM","genre":"Pop","lang":"SPA","bitrate":"128"}
+{"code":"es","label":"İspanya","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC","name":"Radio Marca Madrid","genre":"Sports","lang":"SPA","bitrate":"128"}
+{"code":"se","label":"İsveç","url":"http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=mixmegapol_instream_se_mp3","name":"Mix Megapol","genre":"Various","lang":"SWE","bitrate":"128"}
+{"code":"se","label":"İsveç","url":"http://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3","name":"NRJ Sweden","genre":"Top 40","lang":"SWE","bitrate":"128"}
+{"code":"se","label":"İsveç","url":"http://stream.piraterock.se:8101/webradio","name":"Pirate Rock Vastkustens basta rock","genre":"Classic rock","lang":"SWE","bitrate":"192"}
+{"code":"se","label":"İsveç","url":"http://fm02-ice.stream.khz.se/fm02_mp3","name":"Bandit Rock","genre":"Alternative rock","lang":"SWE","bitrate":"128"}
+{"code":"se","label":"İsveç","url":"http://stream.dbmedia.se/crrMP3","name":"Country Rocks Radio","genre":"Country","lang":"SE","bitrate":"192"}
+{"code":"se","label":"İsveç","url":"http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3","name":"106,7 Rockklassiker","genre":"Classic rock","lang":"SWE","bitrate":"128"}
+{"code":"se","label":"İsveç","url":"http://fm01-ice.stream.khz.se/fm01_mp3","name":"Rix FM","genre":"Various","lang":"SWE","bitrate":"128"}
+{"code":"se","label":"İsveç","url":"http://wr03-ice.stream.khz.se/wr03_mp3","name":"Bandit Metal","genre":"Metal","lang":"SWE","bitrate":"128"}
+{"code":"se","label":"İsveç","url":"http://fm03-ice.stream.khz.se/fm03_mp3?","name":"Lugna Favoriter Stockholm","genre":"Pop","lang":"SWE","bitrate":"128"}
+{"code":"se","label":"İsveç","url":"http://relay1.slayradio.org:8000/","name":"SlayRadio","genre":"Electronic","lang":"SE","bitrate":"128"}
+{"code":"ch","label":"İsviçre","url":"http://stream.srg-ssr.ch/m/rsj/mp3_128","name":"Radio Swiss Jazz","genre":"Jazz","lang":"CH","bitrate":"128"}
+{"code":"ch","label":"İsviçre","url":"http://strm112.1.fm/deephouse_mobile_mp3","name":"1.FM - Deep House Radio","genre":"Deep house","lang":"ENG","bitrate":"256"}
+{"code":"ch","label":"İsviçre","url":"http://strm112.1.fm/atr_mobile_mp3","name":"1.FM - Amsterdam Trance Radio","genre":"Trance","lang":"ENG","bitrate":"256"}
+{"code":"ch","label":"İsviçre","url":"http://strm112.1.fm/crock_mobile_mp3","name":"1.FM - Classic Rock Replay Radio","genre":"Classic rock","lang":"ENG","bitrate":"256"}
+{"code":"ch","label":"İsviçre","url":"http://strm112.1.fm/acountry_mobile_mp3","name":"1.FM - Absolute Country Hits Radio","genre":"Country","lang":"ENG","bitrate":"256"}
+{"code":"ch","label":"İsviçre","url":"http://strm112.1.fm/ccountry_mobile_mp3","name":"1.FM - Classic Country Radio","genre":"Classic country","lang":"ENG","bitrate":"256"}
+{"code":"ch","label":"İsviçre","url":"http://strm112.1.fm/chilloutlounge_mobile_mp3","name":"1.FM - Chillout Lounge Radio","genre":"Chillout","lang":"ENG","bitrate":"256"}
+{"code":"ch","label":"İsviçre","url":"http://strm112.1.fm/blues_mobile_mp3","name":"1.FM - Blues Radio","genre":"Blues","lang":"ENG","bitrate":"256"}
+{"code":"ch","label":"İsviçre","url":"http://stream.srg-ssr.ch/m/rsc_de/mp3_128","name":"Radio Swiss Classic German","genre":"Classical","lang":"GER","bitrate":"128"}
+{"code":"ch","label":"İsviçre","url":"http://strm112.1.fm/caferadio_mobile_mp3","name":"1.FM - Cafe Radio","genre":"Latin","lang":"ENG","bitrate":"256"}
+{"code":"it","label":"İtalya","url":"http://icestreaming.rai.it/1.mp3","name":"Rai Radio 1","genre":"News","lang":"ITA","bitrate":"256"}
+{"code":"it","label":"İtalya","url":"http://icy.unitedradio.it/VirginRockClassics.mp3","name":"Virgin Radio Classic Rock","genre":"Classic rock","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://shoutcast2.radio24.it:8000/;","name":"Radio 24 il sole 24 ore","genre":"News talk","lang":"ITA","bitrate":"64"}
+{"code":"it","label":"İtalya","url":"http://icecast.unitedradio.it/Radio105.mp3","name":"Radio 105 Network","genre":"Hits","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://icestreaming.rai.it/2.mp3","name":"Rai Radio 2","genre":"Public radio","lang":"ITA","bitrate":"256"}
+{"code":"it","label":"İtalya","url":"https://onair.armisa.it/listen/armisa/radio.mp3","name":"Radio Armisa","genre":"Anni 80","lang":"ENG","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://icestreaming.rai.it/3.mp3","name":"Rai Radio 3","genre":"Classical","lang":"ITA","bitrate":"320"}
+{"code":"it","label":"İtalya","url":"http://icecast.unitedradio.it/RMC.mp3","name":"RMC Radio Monte Carlo","genre":"Adult contemporary","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://icecast.unitedradio.it/Virgin.mp3","name":"Virgin Radio Italia","genre":"Mediaset","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://icy.unitedradio.it/105Dance90.mp3","name":"Radio 105 - Dance 90","genre":"Eurodance","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://str01.fluidstream.net:7020/;stream.mp3","name":"Radio 80","genre":"Noventa padovana","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://icy.unitedradio.it/VirginRock70.mp3","name":"Virgin Radio Rock '70","genre":"Classic rock","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://icy.unitedradio.it/VirginRock80.mp3","name":"Virgin Radio Rock '80","genre":"Classic rock","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://77.241.4.100:8020/;","name":"Radio Studio Piu - HQ","genre":"Dance","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://trsw.inmystream.info:8068/;stream.mp3","name":"Tele Radio Stereo","genre":"Roma","lang":"ITA","bitrate":"48"}
+{"code":"it","label":"İtalya","url":"http://edge.radiomontecarlo.net/rmcweb008","name":"RMC 80","genre":"Mediaset","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://icy.unitedradio.it/VirginHardRock.mp3","name":"Virgin Radio Hard Rock","genre":"Hard rock","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://streaming.centrosuono.com:8000/cssport.mp3","name":"Centro Suono Sport","genre":"Roma","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://dreamsiteradiocp.com:8092/;","name":"Radio Maria","genre":"Catholic","lang":"ITA","bitrate":"128"}
+{"code":"it","label":"İtalya","url":"http://icy.unitedradio.it/Virgin_06.mp3","name":"Virgin Radio Rock Ballads","genre":"Ballads","lang":"ITA","bitrate":"128"}
+{"code":"is","label":"İzlanda","url":"http://ice-11.spilarinn.is/80flashback","name":"80 s Flash Back","genre":"80 s pop","lang":"IS","bitrate":"128"}
+{"code":"is","label":"İzlanda","url":"http://live.trolli.is:8200/;","name":"Trolli FM 103.7 Siglufjordu","genre":"Adult contemporary","lang":"ICE","bitrate":"256"}
+{"code":"is","label":"İzlanda","url":"https://ice-11.spilarinn.is/60flashback","name":"Flashback 60s","genre":"Various","lang":"IS","bitrate":"128"}
+{"code":"is","label":"İzlanda","url":"https://stream.utvarpsaga.is/Hljodver","name":"Utvarp Saga","genre":"News talk","lang":"ICE","bitrate":"192"}
+{"code":"is","label":"İzlanda","url":"http://radio.bodun.is:8000/stream","name":"Radio Bodun 105.5 Reykjavik","genre":"Religion","lang":"ICE","bitrate":"128"}
+{"code":"is","label":"İzlanda","url":"http://ice-11.spilarinn.is/retromobile","name":"Restro 89,5","genre":"Various","lang":"ICE","bitrate":"170"}
+{"code":"is","label":"İzlanda","url":"https://ice-11.spilarinn.is/kaninnmobile","name":"K 100","genre":"Various","lang":"IS","bitrate":"170"}
+{"code":"is","label":"İzlanda","url":"https://s10.webradio-hosting.com/proxy/fredradiois/stream","name":"Fred Film Radio-26 Islenska","genre":"Film","lang":"ICE","bitrate":"128"}
+{"code":"is","label":"İzlanda","url":"http://netradio.ruv.is/ras2.mp3","name":"RUV Ras 2","genre":"Culture","lang":"IS","bitrate":"128"}
+{"code":"is","label":"İzlanda","url":"https://ice-11.spilarinn.is/retromobile","name":"Retro","genre":"Oldies","lang":"IS","bitrate":"170"}
+{"code":"kz","label":"Kazakistan","url":"https://listen1.myradio24.com/5967","name":"Radio 90s Eurodance","genre":"Eurodance","lang":"KZ","bitrate":"192"}
+{"code":"kz","label":"Kazakistan","url":"http://91.201.214.229:8000/zhulduz","name":"Zhulduz Radio","genre":"Classic hits","lang":"KAZ","bitrate":"128"}
+{"code":"kz","label":"Kazakistan","url":"https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio","name":"Qazaq radiosy","genre":"Etnic","lang":"KAZ","bitrate":"64"}
+{"code":"kz","label":"Kazakistan","url":"https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio","name":"Shalqar","genre":"Various","lang":"KAZ","bitrate":"128"}
+{"code":"kz","label":"Kazakistan","url":"http://178.88.167.62:8080/AVTORADIO_192","name":"Avtoradio","genre":"Hits","lang":"KAZ","bitrate":"192"}
+{"code":"kz","label":"Kazakistan","url":"http://178.88.167.62:8080/DALA_192","name":"\\xd0\\x9d\\xd0\\xb0\\xd1\\x80\\xd0\\xbe\\xd0\\xb4\\xd0\\xbd\\xd0\\xbe\\xd0\\xb5 \\xd0\\xa0\\xd0\\xb0\\xd0\\xb4\\xd0\\xb8\\xd0\\xbe","genre":"Pop","lang":"RUS","bitrate":"192"}
+{"code":"kz","label":"Kazakistan","url":"http://77.240.38.228:8000/aspanfm","name":"Aspan FM","genre":"Etno","lang":"KAZ","bitrate":"192"}
+{"code":"kz","label":"Kazakistan","url":"http://91.201.214.229:8000/tengrifm","name":"Tengri FM","genre":"Classic rock","lang":"KAZ","bitrate":"128"}
+{"code":"kz","label":"Kazakistan","url":"https://okeyradio.ru/okey","name":"\\xd0\\xa0\\xd0\\xb0\\xd0\\xb4\\xd0\\xb8\\xd0\\xbe \\xd0\\xa2\\xd0\\xb0\\xd0\\xbb\\xd0\\xb0\\xd0\\xbf","genre":"Kazakh music","lang":"KAZ","bitrate":"128"}
+{"code":"kz","label":"Kazakistan","url":"https://listen4.myradio24.com/radiosana","name":"\\xd0\\xa0\\xd0\\xb0\\xd0\\xb4\\xd0\\xb8\\xd0\\xbe SANA","genre":"Pop","lang":"RUS","bitrate":"128"}
+{"code":"uz","label":"Özbekistan","url":"https://radio.filmtastic.uz/listen/rytmabad/radio.mp3","name":"rytmabad","genre":"Various","lang":"UZ","bitrate":"128"}
+{"code":"kg","label":"Kırgızistan","url":"https://ice.coldstar.online/low.mp3","name":"Coldstar Radio (low quality)","genre":"Various","lang":"KG","bitrate":"128"}
+{"code":"kg","label":"Kırgızistan","url":"https://ice.coldstar.online/high.ogg","name":"Coldstar Radio (high quality)","genre":"Various","lang":"KG","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3","name":"Radio Aswat","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"http://beldifm.hf.ma/radio/8000/radio.mp3","name":"bldi","genre":"Classical","lang":"MA","bitrate":"64"}
+{"code":"ma","label":"Fas","url":"http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3","name":"Only rai","genre":"Various","lang":"MA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://stream.zeno.fm/une3a02mb","name":"MA:-Hit Radio Maroc","genre":"Classical","lang":"MA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://stream.zeno.fm/zv3e5wykprhvv.mp3","name":"Fayroz","genre":"Classical","lang":"MA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://radiomars.ice.infomaniak.ch/radiomars-128.mp3","name":"Radio Mars","genre":"Various","lang":"MA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"http://stream.zeno.fm/5bxh2nh0x1zuv?1681882617017","name":"Adwaafm","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://listen.radioking.com/radio/252934/stream/297385","name":"Radio Manarat","genre":"Culture","lang":"ARA","bitrate":"192"}
+{"code":"ma","label":"Fas","url":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3","name":"Aswat FM","genre":"Arabic music","lang":"ARA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://stream.radio.co/s8cc7a5da4/listen","name":"MRC:-Radio plus","genre":"Country","lang":"MA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"http://stream.zeno.fm/qgw73bqh5qruv","name":"MRC:-Sawt Al Amal","genre":"Country","lang":"MA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://stream.zeno.fm/5bxh2nh0x1zuv","name":"MRC:-Radio Adwaa FM 2","genre":"Country","lang":"MA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://stream.zeno.fm/ivdufrl7q0quv","name":"Rap Lbeldi Maroc - Hip Hop Music from Morocco FR AR","genre":"French rap","lang":"ENG","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3","name":"Aziz Mustaphi","genre":"Coran","lang":"ARA","bitrate":"128"}
+{"code":"ma","label":"Fas","url":"https://stream.zeno.fm/d4u7zbqh5qruv","name":"MA:-Radio Sawt Alamal","genre":"Country","lang":"MA","bitrate":"128"}
+{"code":"dz","label":"Cezayir","url":"https://radio12.pro-fhi.net/listen/whmnrlow/stream","name":"Hits 1 Algerie","genre":"Pop","lang":"FRE","bitrate":"256"}
+{"code":"dz","label":"Cezayir","url":"http://stream.radiojar.com/0tpy1h0kxtzuv","name":"\\xd8\\xa7\\xd9\\x95\\xd8\\xb0\\xd8\\xa7\\xd8\\xb9\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x82\\xd8\\xb1\\xd8\\xa7\\xd9\\x93\\xd9\\x86 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xb1\\xd9\\x8a\\xd9\\x85","genre":"Classical","lang":"DZ","bitrate":"128"}
+{"code":"dz","label":"Cezayir","url":"https://listen.radioking.com/radio/6640/stream/347","name":"Antinea Radio","genre":"Various","lang":"DZ","bitrate":"128"}
+{"code":"dz","label":"Cezayir","url":"https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g","name":"\\xd8\\xa7\\xd9\\x95\\xd8\\xb0\\xd8\\xa7\\xd8\\xb9\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x82\\xd8\\xb1\\xd8\\xa7\\xd9\\x93\\xd9\\x86 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xb1\\xd9\\x8a\\xd9\\x85","genre":"Classical","lang":"DZ","bitrate":"128"}
+{"code":"dz","label":"Cezayir","url":"https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3","name":"France Maghreb 2","genre":"International","lang":"DZ","bitrate":"128"}
+{"code":"dz","label":"Cezayir","url":"http://stream.dar.fm/97821","name":"109.0 FM Christmas Kids","genre":"Classical","lang":"DZ","bitrate":"128"}
+{"code":"tn","label":"Tunus","url":"http://radio.mosaiquefm.net:8000/mosalive","name":"Mosaique FM","genre":"Various","lang":"ARA","bitrate":"90"}
+{"code":"tn","label":"Tunus","url":"http://streaming2.toutech.net:8000/jawharafm","name":"Jawhara FM","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"tn","label":"Tunus","url":"https://radio.mosaiquefm.net/mosalive","name":"Mosaique FM","genre":"Classical","lang":"TN","bitrate":"90"}
+{"code":"tn","label":"Tunus","url":"https://streaming.diwanfm.net/stream","name":"diwanfm","genre":"Various","lang":"TN","bitrate":"128"}
+{"code":"tn","label":"Tunus","url":"http://streaming.knoozfm.net:8000/knoozfm","name":"KnOOz FM","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"tn","label":"Tunus","url":"https://radio.mosaiquefm.net/mosatarab","name":"Mosaique FM Tarab","genre":"Various","lang":"TN","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5","name":"\\xd8\\xa7\\xd9\\x95\\xd8\\xb0\\xd8\\xa7\\xd8\\xb9\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x82\\xd8\\xb1\\xd8\\xa7\\xd9\\x93\\xd9\\x86 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xb1\\xd9\\x8a\\xd9\\x85 \\xd9\\x85\\xd9\\x86 \\xd8\\xa7\\xd9\\x84\\xd9\\x82\\xd8\\xa7\\xd9\\x87\\xd8\\xb1\\xd8\\xa9","genre":"\\xd8\\xa7\\xd8\\xb3\\xd9\\x84\\xd8\\xa7\\xd9\\x85\\xd9\\x8a","lang":"ARA","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"http://9090streaming.mobtada.com/9090FMEGYPT","name":"Radio 9090 90.9","genre":"Various","lang":"ARA","bitrate":"64"}
+{"code":"eg","label":"Mısır","url":"https://qurango.net/radio/mahmoud_khalil_alhussary_warsh","name":"\\xd8\\xa7\\xd9\\x95\\xd8\\xb0\\xd8\\xa7\\xd8\\xb9\\xd8\\xa9 \\xd9\\x85\\xd8\\xad\\xd9\\x85\\xd9\\x88\\xd8\\xaf \\xd8\\xae\\xd9\\x84\\xd9\\x8a\\xd9\\x84 \\xd8\\xa7\\xd9\\x84\\xd8\\xad\\xd8\\xb5\\xd8\\xb1\\xd9\\x8a","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"https://qurango.net/radio/mishary_alafasi","name":"\\xd8\\xa7\\xd9\\x95\\xd8\\xb0\\xd8\\xa7\\xd8\\xb9\\xd8\\xa9 \\xd9\\x85\\xd8\\xb4\\xd8\\xa7\\xd8\\xb1\\xd9\\x8a \\xd8\\xa7\\xd9\\x84\\xd8\\xb9\\xd9\\x81\\xd8\\xa7\\xd8\\xb3\\xd9\\x8a","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"http://178.33.135.244:20095/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8","name":"Tes3enat FM","genre":"Classical","lang":"EG","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"https://qurango.net/radio/mustafa_ismail","name":"\\xd8\\xa7\\xd9\\x95\\xd8\\xb0\\xd8\\xa7\\xd8\\xb9\\xd8\\xa9 \\xd9\\x85\\xd8\\xb5\\xd8\\xb7\\xd9\\x81\\xd9\\x89 \\xd8\\xa7\\xd9\\x95\\xd8\\xb3\\xd9\\x85\\xd8\\xa7\\xd8\\xb9\\xd9\\x8a\\xd9\\x84","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"https://qurango.net/radio/tarateel","name":"---\\xd8\\xaa\\xd8\\xb1\\xd8\\xa7\\xd8\\xaa\\xd9\\x8a\\xd9\\x84 \\xd9\\x82\\xd8\\xb5\\xd9\\x8a\\xd8\\xb1\\xd8\\xa9 \\xd9\\x85\\xd8\\xaa\\xd9\\x85\\xd9\\x8a\\xd8\\xb2\\xd8\\xa9---","genre":"\\xd9\\x82\\xd8\\xb1\\xd8\\xa7\\xd9\\x86 \\xd9\\x83\\xd8\\xb1\\xd9\\x8a\\xd9\\x85","lang":"ARA","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"https://qurango.net/radio/yasser_aldosari","name":"\\xd8\\xa7\\xd9\\x95\\xd8\\xb0\\xd8\\xa7\\xd8\\xb9\\xd8\\xa9 \\xd9\\x8a\\xd8\\xa7\\xd8\\xb3\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd8\\xaf\\xd9\\x88\\xd8\\xb3\\xd8\\xb1\\xd9\\x8a","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"http://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&amp;rj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&amp;autoplay=1%22%20type=%22audio/mpeg","name":"\\xd8\\xa7\\xd9\\x84\\xd9\\x82\\xd8\\xb1\\xd8\\xa7\\xd9\\x86 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xb1\\xd9\\x8a\\xd9\\x85 \\xd9\\x85\\xd9\\x86 \\xd8\\xa7\\xd9\\x84\\xd9\\x82\\xd8\\xa7\\xd9\\x87\\xd8\\xb1\\xd9\\x87","genre":"Various","lang":"EG","bitrate":"128"}
+{"code":"eg","label":"Mısır","url":"http://live.mp3quran.net:9842/","name":"Radio \\xd8\\xa7\\xd9\\x84\\xd9\\x82\\xd8\\xa7\\xd8\\xb1\\xd9\\x8a\\xd9\\x94 \\xd8\\xb9\\xd9\\x84\\xd9\\x8a \\xd8\\xad\\xd8\\xac\\xd8\\xa7\\xd8\\xac \\xd8\\xa7\\xd9\\x84\\xd8\\xb3\\xd9\\x88\\xd9\\x8a\\xd8\\xb3\\xd9\\x8a","genre":"\\xd8\\xa7\\xd9\\x84\\xd9\\x82\\xd8\\xb1\\xd8\\xa7\\xd9\\x93\\xd9\\x86","lang":"ARA","bitrate":"128"}
+{"code":"sy","label":"Suriye","url":"http://66.248.205.220:8400/stream","name":"sham fm","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"sy","label":"Suriye","url":"http://usa6.fastcast4u.com:5109/live","name":"\\xd9\\x82\\xd8\\xaf\\xd9\\x8a\\xd9\\x85 FM","genre":"Classical","lang":"SY","bitrate":"96"}
+{"code":"sy","label":"Suriye","url":"https://radio.farah.fm/","name":"Farah FM","genre":"Various","lang":"ARA","bitrate":"64"}
+{"code":"sy","label":"Suriye","url":"http://edge.mixlr.com/channel/qtgru","name":"Arta Radio","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"sy","label":"Suriye","url":"http://asima.out.airtime.pro:8000/asima_a","name":"Asima Online Radio","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"sy","label":"Suriye","url":"https://asima.out.airtime.pro/asima_a","name":"Asima Online Radio","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"sy","label":"Suriye","url":"https://streaming.exclusive.radio/er/meatloaf/icecast.audio","name":"Exclusively Meat Loaf","genre":"Pop","lang":"SY","bitrate":"128"}
+{"code":"sy","label":"Suriye","url":"https://dengeqamishlo.stream.laut.fm/dengeqamishlo","name":"Denge Qamishlo","genre":"Folk music","lang":"KUR","bitrate":"128"}
+{"code":"sy","label":"Suriye","url":"https://stream-149.zeno.fm/4luag56o066uv","name":"Emaar FM Radio","genre":"Various","lang":"ARA","bitrate":"128"}
