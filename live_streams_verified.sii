@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 716
+ stream_data: 726
  stream_data[0]: "https://mangoradio.stream.laut.fm/mangoradio|Almanya - MANGORADIO|Variety|ENG|128|0"
  stream_data[1]: "http://mp3channels.webradio.rockantenne.de/heavy-metal|Almanya - Rock Antenne - Heavy Metal|Heavy metal|GER|128|0"
  stream_data[2]: "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3|Almanya - 1LIVE|Ard|GER|128|0"
@@ -718,5 +718,15 @@ live_stream_def : .live_streams {
  stream_data[713]: "http://sc.brtk.net:8000/|T\xc3\xbcrkiye - BRTK|Various|TUR|96|0"
  stream_data[714]: "http://yayin2.canliyayin.org:7052/;*.mp3|T\xc3\xbcrkiye - Enderun FM|Islamic|TUR|128|0"
  stream_data[715]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;|T\xc3\xbcrkiye - Retro Turk|Pop|TR|64|0"
+ stream_data[716]: "http://proxima.shoutca.st:8946/stream|Libya - Libyana Hits FM|Pop|ARB|128|0"
+ stream_data[717]: "https://stream.zeno.fm/z9wfrdpmgg0uv|Libya - Radio Arts Tripoli|Variety|ARB|128|0"
+ stream_data[718]: "http://stream.zeno.fm/1dy2395z3k8uv|Libya - Hala Sabratha|Variety|ARB|128|0"
+ stream_data[719]: "https://stream.zeno.fm/r6eprdta6nhvv|Libya - Radio Nour Al-Iman 105.7 FM|Religious|ARB|128|0"
+ stream_data[720]: "https://live.munir.ly/proxy/almunirtip/stream|Libya - Almunir Radio - Tripoli|Religious|ARB|128|0"
+ stream_data[721]: "https://live.munir.ly/proxy/almunir/stream|Libya - Almunir Radio - Benghazi|Religious|ARB|128|0"
+ stream_data[722]: "https://radio.telecom.tm/listen/owaz/radio.mp3|T\xc3\xbcrkmenistan - Radio Owaz|Variety|TKM|128|0"
+ stream_data[723]: "https://radio.telecom.tm:8010/radio.mp3|T\xc3\xbcrkmenistan - Radio Vatan|Variety|TKM|128|0"
+ stream_data[724]: "https://radio.telecom.tm:8020/radio.mp3|T\xc3\xbcrkmenistan - Radio Char Tarapdan|Variety|TKM|128|0"
+ stream_data[725]: "https://radio.telecom.tm:8030/radio.mp3|T\xc3\xbcrkmenistan - Radio Miras|Variety|TKM|128|0"
 }
 }
