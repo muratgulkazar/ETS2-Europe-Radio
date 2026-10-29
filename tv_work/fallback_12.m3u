@@ -1,0 +1,271 @@
+#EXTM3U
+#FALLBACK-BATCH|12
+#COUNTRY-FALLBACK-AUDIT|md|25
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids" x-country-code="md" x-original-group="Kids" x-source-check="upstream-only",Disney Channel (Bulgaria) (576i) [SOURCE NOT DAILY-VALIDATED]
+http://87.120.179.187:8000/play/a010
+#EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="Music" x-country-code="md" x-original-group="Music" x-source-check="upstream-only",Hit FM [SOURCE NOT DAILY-VALIDATED]
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Moldova1.md@SD" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="General" x-country-code="md" x-original-group="General" x-source-check="upstream-only",Moldova 1 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 tvg-id="Moldova2.md@SD" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="General" x-country-code="md" x-original-group="General" x-source-check="upstream-only",Moldova 2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="General" x-country-code="md" x-original-group="General" x-source-check="upstream-only",Moldova TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://moldovatv.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-id="NorocTV.md@SD" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="Music" x-country-code="md" x-original-group="Music" x-source-check="upstream-only",Noroc TV [SOURCE NOT DAILY-VALIDATED]
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1 tvg-id="PartyMix.ro@HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj" group-title="Music" x-country-code="md" x-original-group="Music" x-source-check="upstream-only",Party Mix HD (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="Legislative" x-country-code="md" x-original-group="Legislative" x-source-check="upstream-only",Privesc.Eu TV (2160p) [SOURCE NOT DAILY-VALIDATED]
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="General;News" x-country-code="md" x-original-group="General;News" x-source-check="upstream-only",PRO TV Chisinau (576p) [SOURCE NOT DAILY-VALIDATED]
+http://178.76.68.60:7442/15/mpegts
+#EXTINF:-1 tvg-id="RadioChisinau.md@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg" http-referrer="https://radiochisinau.md/" group-title="Music" x-country-code="md" x-original-group="Music" x-source-check="upstream-only",Radio Chisinau (576p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://radiochisinau.md/
+https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1 tvg-id="RadioMoldova.md@SD" tvg-logo="https://i.imgur.com/wNifDCo.png" group-title="General" x-country-code="md" x-original-group="General" x-source-check="upstream-only",Radio Moldova [SOURCE NOT DAILY-VALIDATED]
+https://radiolive.trm.md/hls_rma/actualitati.m3u8
+#EXTINF:-1 tvg-id="RadioMoldovaMuzical.md@SD" tvg-logo="https://i.imgur.com/ZFHWst4.png" group-title="Music" x-country-code="md" x-original-group="Music" x-source-check="upstream-only",Radio Moldova Muzical [SOURCE NOT DAILY-VALIDATED]
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
+#EXTINF:-1 tvg-id="RadioMoldovaTineret.md@SD" tvg-logo="https://i.imgur.com/h2oZuyc.png" group-title="Entertainment" x-country-code="md" x-original-group="Entertainment" x-source-check="upstream-only",Radio Moldova Tineret (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News" x-country-code="md" x-original-group="News" x-source-check="upstream-only",Realitatea TV (406p) [SOURCE NOT DAILY-VALIDATED]
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General" x-country-code="md" x-original-group="General" x-source-check="upstream-only",Sor TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="News" x-country-code="md" x-original-group="News" x-source-check="upstream-only",TeleMoldova + [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+#EXTINF:-1 tvg-id="TezaurTV.md@SD" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="Music" x-country-code="md" x-original-group="Music" x-source-check="upstream-only",Tezaur TV (576i) [SOURCE NOT DAILY-VALIDATED]
+https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1 tvg-id="TSV.md@SD" tvg-logo="https://i.imgur.com/6p4weSK.png" group-title="General" x-country-code="md" x-original-group="General" x-source-check="upstream-only",TSV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md@SD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="General" x-country-code="md" x-original-group="General" x-source-check="upstream-only",TVR Moldova (720p) [SOURCE NOT DAILY-VALIDATED]
+https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md@HD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="General" x-country-code="md" x-original-group="General" x-source-check="upstream-only",TVR Moldova HD (1440p) [SOURCE NOT DAILY-VALIDATED]
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="Undefined" x-country-code="md" x-original-group="Undefined" x-source-check="upstream-only",Vocea Basarabiei TV [SOURCE NOT DAILY-VALIDATED]
+https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
+#COUNTRY-FALLBACK-AUDIT|pa|28
+#EXTINF:-1 tvg-id="ARCanal.pa@SD" tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="Religious" x-country-code="pa" x-original-group="Religious" x-source-check="upstream-only",A&R Canal (720p) [SOURCE NOT DAILY-VALIDATED]
+http://51.222.9.192:3589/stream/play.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" x-country-code="pa" x-original-group="Movies" x-source-check="upstream-only",AXN Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-id="BTVPanama.pa@SD" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="General" x-country-code="pa" x-original-group="General" x-source-check="upstream-only",BTV Panama (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Movies" x-country-code="pa" x-original-group="Movies" x-source-check="upstream-only",Cinecanal (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy" x-country-code="pa" x-original-group="Comedy" x-source-check="upstream-only",Comedy Central Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+#EXTINF:-1 tvg-id="CorazonTV.pa@SD" tvg-logo="https://i.imgur.com/HVdbXku.png" group-title="Music" x-country-code="pa" x-original-group="Music" x-source-check="upstream-only",Corazon TV [SOURCE NOT DAILY-VALIDATED]
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Entertainment" x-country-code="pa" x-original-group="Entertainment" x-source-check="upstream-only",Discovery Channel Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="DreikoTV.pa@SD" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Animation" x-country-code="pa" x-original-group="Animation" x-source-check="upstream-only",Dreiko TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa@SD" tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="Music" x-country-code="pa" x-original-group="Music" x-source-check="upstream-only",Fabulosa Estereo 100.5 FM (720p) [SOURCE NOT DAILY-VALIDATED]
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:-1 tvg-id="HosannaVision.pa@SD" tvg-logo="https://i.imgur.com/v0tc51l.png" group-title="Religious" x-country-code="pa" x-original-group="Religious" x-source-check="upstream-only",Hosanna Vision (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
+#EXTINF:-1 tvg-id="LaXitosaPanama.pa@SD" tvg-logo="https://i.imgur.com/Pt4F9Xz.png" group-title="Music" x-country-code="pa" x-original-group="Music" x-source-check="upstream-only",LaXitosa Panama (360p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
+#EXTINF:-1 tvg-id="Mas23TV.pa@SD" tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="Music" x-country-code="pa" x-original-group="Music" x-source-check="upstream-only",Mas23 TV [SOURCE NOT DAILY-VALIDATED]
+https://movil.ejeserver.com/live/mas23tv.m3u8
+#EXTINF:-1 tvg-id="MINFAVTV.pa@SD" tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="Religious" x-country-code="pa" x-original-group="Religious" x-source-check="upstream-only",MINFAV TV [SOURCE NOT DAILY-VALIDATED]
+https://mp.panelchs.com:1936/8044/8044/playlist.m3u8
+#EXTINF:-1 tvg-id="NexTVCanal21.pa@SD" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General" x-country-code="pa" x-original-group="General" x-source-check="upstream-only",Nex TV Canal 21 [SOURCE NOT DAILY-VALIDATED]
+https://movil.ejeserver.com/live/nextv.m3u8
+#EXTINF:-1 tvg-id="PindinTV.pa@SD" tvg-logo="https://i.imgur.com/UaQC0l8.jpeg" group-title="Music" x-country-code="pa" x-original-group="Music" x-source-check="upstream-only",Pindin TV [SOURCE NOT DAILY-VALIDATED]
+https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+#EXTINF:-1 tvg-id="Planet1009FM.pa@SD" tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Music" x-country-code="pa" x-original-group="Music" x-source-check="upstream-only",Planet 100.9 FM (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PlusTV.pa@SD" tvg-logo="https://i.imgur.com/MmpwhAG.png" group-title="News" x-country-code="pa" x-original-group="News" x-source-check="upstream-only",Plus TV (Panama) (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioAncon.pa@SD" tvg-logo="https://i.imgur.com/xum8PNe.jpg" group-title="News" x-country-code="pa" x-original-group="News" x-source-check="upstream-only",Radio Ancon (720p) [SOURCE NOT DAILY-VALIDATED]
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 tvg-id="RadioHogar.pa@SD" tvg-logo="https://i.imgur.com/P4A1Zwl.jpg" group-title="Religious" x-country-code="pa" x-original-group="Religious" x-source-check="upstream-only",Radio Hogar (720p) [SOURCE NOT DAILY-VALIDATED]
+https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
+#EXTINF:-1 tvg-id="SuperQPanama.pa@SD" tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="Music" x-country-code="pa" x-original-group="Music" x-source-check="upstream-only",Super Q Panama (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemetro.pa@SD" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="General" x-country-code="pa" x-original-group="General" x-source-check="upstream-only",Telemetro (720p) [SOURCE NOT DAILY-VALIDATED]
+http://181.78.121.15:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Undefined" x-country-code="pa" x-original-group="Undefined" x-source-check="upstream-only",TNT Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Series" x-country-code="pa" x-original-group="Series" x-source-check="upstream-only",TNT Series Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="TropiQ997FM.pa@SD" tvg-logo="https://i.imgur.com/5rPdHhb.png" group-title="Music" x-country-code="pa" x-original-group="Music" x-source-check="upstream-only",Tropi Q 99.7 FM (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+#EXTINF:-1 tvg-id="TVMax.pa@SD" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="Entertainment" x-country-code="pa" x-original-group="Entertainment" x-source-check="upstream-only",TVMax (720p) [SOURCE NOT DAILY-VALIDATED]
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TVN.pa@SD" tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="General" x-country-code="pa" x-original-group="General" x-source-check="upstream-only",TVN (Panama) (720p) [SOURCE NOT DAILY-VALIDATED]
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Undefined" x-country-code="pa" x-original-group="Undefined" x-source-check="upstream-only",Universal TV Latin America (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+#EXTINF:-1 tvg-id="VisionLatina.pa@SD" tvg-logo="https://i.imgur.com/TG30lWA.jpg" group-title="Religious" x-country-code="pa" x-original-group="Religious" x-source-check="upstream-only",Vision Latina (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
+#COUNTRY-FALLBACK-AUDIT|ps|19
+#EXTINF:-1 tvg-id="AjyalTV.ps@SD" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General" x-country-code="ps" x-original-group="General" x-source-check="upstream-only",Ajyal TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="AlMadina.ps@SD" tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="Undefined" x-country-code="ps" x-original-group="Undefined" x-source-check="upstream-only",Al Madina (720p) [SOURCE NOT DAILY-VALIDATED]
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
+#EXTINF:-1 tvg-id="AlNajahNews.ps@SD" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="News" x-country-code="ps" x-original-group="News" x-source-check="upstream-only",Al Najah News (720p) [SOURCE NOT DAILY-VALIDATED]
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+#EXTINF:-1 tvg-id="FalastiniTV.ps@SD" tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="Music" x-country-code="ps" x-original-group="Music" x-source-check="upstream-only",Falastini TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps@SD" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Religious" x-country-code="ps" x-original-group="Religious" x-source-check="upstream-only",Holy Quran Radio Nablus (720p) [SOURCE NOT DAILY-VALIDATED]
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-id="KolalnasTV.ps@SD" tvg-logo="https://i.imgur.com/OyMxcRG.png" group-title="News" x-country-code="ps" x-original-group="News" x-source-check="upstream-only",Kolalnas TV [SOURCE NOT DAILY-VALIDATED]
+https://htvint.mada.ps/kolalnas/index.m3u8
+#EXTINF:-1 tvg-id="MaanTV.ps@SD" tvg-logo="https://i.imgur.com/hRFa03k.png" group-title="News" x-country-code="ps" x-original-group="News" x-source-check="upstream-only",Ma'an TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://htvmada.mada.ps:4443/maannews/index.m3u8
+#EXTINF:-1 tvg-id="NablusTV.ps@SD" tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="News" x-country-code="ps" x-original-group="News" x-source-check="upstream-only",Nablus TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 tvg-id="PalestineEdu.ps@SD" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="Education" x-country-code="ps" x-original-group="Education" x-source-check="upstream-only",Palestine Edu (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://pbc.furrera.ps/PalestineEDU/index.m3u8
+#EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News" x-country-code="ps" x-original-group="News" x-source-check="upstream-only",Palestine Today (480p) [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="General" x-country-code="ps" x-original-group="General" x-source-check="upstream-only",Radio Albalad TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="RajeenTV.ps@SD" tvg-logo="https://i.imgur.com/6Cx22ya.png" group-title="Undefined" x-country-code="ps" x-original-group="Undefined" x-source-check="upstream-only",Rajeen TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SerajTV.ps@SD" tvg-logo="https://i.imgur.com/1d25a9Q.png" http-referrer="https://www.alaqsanet.news/" group-title="General;News" x-country-code="ps" x-original-group="General;News" x-source-check="upstream-only",Seraj TV (1080i) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://www.alaqsanet.news/
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 tvg-id="ShababFM.ps@SD" tvg-logo="https://i.imgur.com/4Cyz4Bn.png" group-title="Undefined" x-country-code="ps" x-original-group="Undefined" x-source-check="upstream-only",Shabab FM (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1 tvg-id="WatarTV.ps@SD" tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" group-title="General" x-country-code="ps" x-original-group="General" x-source-check="upstream-only",Watar TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://htvint.mada.ps:8889/orient/index.m3u8
+#EXTINF:-1 tvg-id="WattanTV.ps@SD" tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Undefined" x-country-code="ps" x-original-group="Undefined" x-source-check="upstream-only",Wattan TV [SOURCE NOT DAILY-VALIDATED]
+https://htvmada.mada.ps:4443/wattan/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|qa|9
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary" x-country-code="qa" x-original-group="Documentary" x-source-check="upstream-only",Al Jazeera Documentary (1080p) [Geo-blocked] [SOURCE NOT DAILY-VALIDATED]
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="AlMaarefTV.qa@SD" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Religious" x-country-code="qa" x-original-group="Religious" x-source-check="upstream-only",Al Maaref TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
+#EXTINF:-1 tvg-id="AlRayyanOldTV.qa@SD" tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="General" x-country-code="qa" x-original-group="General" x-source-check="upstream-only",Al Rayyan Old TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlRayyanTV.qa@SD" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="General" x-country-code="qa" x-original-group="General" x-source-check="upstream-only",Al Rayyan TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="LibyaAlAhrarTV.qa@SD" tvg-logo="https://i.imgur.com/xkQKVGi.png" http-referrer="https://player.castr.com" group-title="News" x-country-code="qa" x-original-group="News" x-source-check="upstream-only",Libya Al Ahrar TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://player.castr.com
+https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa@SD" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="General" x-country-code="qa" x-original-group="General" x-source-check="upstream-only",Qatar Television 2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa@SD" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="General" x-country-code="qa" x-original-group="General" x-source-check="upstream-only",Qatar Television (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QatarTVTheHolyQuran.qa@HD" tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="Religious" x-country-code="qa" x-original-group="Religious" x-source-check="upstream-only",Qatar TV The Holy Quran (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+#EXTINF:-1 tvg-id="QBC.qa@HD" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" group-title="Business;News" x-country-code="qa" x-original-group="Business;News" x-source-check="upstream-only",QBC (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
+#COUNTRY-FALLBACK-AUDIT|re|1
+#EXTINF:-1 tvg-id="AntenneReunion.fr@SD" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="General" x-country-code="re" x-original-group="General" x-source-check="upstream-only",Antenne Reunion (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#COUNTRY-FALLBACK-AUDIT|rs|49
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports" x-country-code="rs" x-original-group="Sports" x-source-check="upstream-only",Arena Sport 1 Premium (Serbia) (360p) [SOURCE NOT DAILY-VALIDATED]
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
+#EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="General" x-country-code="rs" x-original-group="General" x-source-check="upstream-only",Belle Amie (540p) [SOURCE NOT DAILY-VALIDATED]
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 tvg-id="EDUTV.rs@SD" tvg-logo="https://i.imgur.com/NE48DJb.png" group-title="Education" x-country-code="rs" x-original-group="Education" x-source-check="upstream-only",EDU TV (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+#EXTINF:-1 tvg-id="IDJTV.rs@SD" tvg-logo="https://i.imgur.com/btvyrzr.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",IDJTV [SOURCE NOT DAILY-VALIDATED]
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
+#EXTINF:-1 tvg-id="NarodnaTV.rs@SD" tvg-logo="https://i.imgur.com/dua57HD.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Narodna TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1 tvg-id="Nova.rs@SD" tvg-logo="https://i.imgur.com/sU8UPPY.png" group-title="General" x-country-code="rs" x-original-group="General" x-source-check="upstream-only",Nova (Serbia) (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+#EXTINF:-1 tvg-id="PannonTV.rs@SD" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="General" x-country-code="rs" x-original-group="General" x-source-check="upstream-only",Pannon TV (648p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-id="Pink.rs@SD" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Pink (720p) [SOURCE NOT DAILY-VALIDATED]
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-id="Prva.rs@SD" tvg-logo="https://i.imgur.com/NA31Gtm.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Prva (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/PrvaTVHD/index.m3u8
+#EXTINF:-1 tvg-id="PrvaFiles.rs@SD" tvg-logo="https://i.imgur.com/8lZgAXu.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Prva Files [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/PrvaFiles/index.m3u8
+#EXTINF:-1 tvg-id="PrvaKick.rs@SD" tvg-logo="https://i.imgur.com/zsXD3cd.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Prva Kick (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/PrvaKick/index.m3u8
+#EXTINF:-1 tvg-id="PrvaLife.rs@SD" tvg-logo="https://i.imgur.com/fHntwzn.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Prva Life (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/PrvaLife/index.m3u8
+#EXTINF:-1 tvg-id="PrvaMax.rs@SD" tvg-logo="https://i.imgur.com/BzxmOaQ.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Prva Max (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/PrvaMax/index.m3u8
+#EXTINF:-1 tvg-id="PrvaPlus.rs@SD" tvg-logo="https://i.imgur.com/IlenHxZ.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Prva Plus (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/PrvaPlus/index.m3u8
+#EXTINF:-1 tvg-id="PrvaWorld.rs@SD" tvg-logo="https://i.imgur.com/tuh1vzj.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Prva World (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/PrvaWorld/index.m3u8
+#EXTINF:-1 tvg-id="RadioHitFMTV.rs@SD" tvg-logo="https://i.imgur.com/gP2OT4S.png" group-title="Music" x-country-code="rs" x-original-group="Music" x-source-check="upstream-only",Radio Hit FM TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 tvg-id="RadioKarolinaTV.rs@SD" tvg-logo="https://i.imgur.com/g2HpLX1.png" group-title="Music" x-country-code="rs" x-original-group="Music" x-source-check="upstream-only",Radio Karolina TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Music" x-country-code="rs" x-original-group="Music" x-source-check="upstream-only",Radio Lola TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-id="RTS1.rs@SD" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTS 1 [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTS1HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTS 2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTS2HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS3.rs@SD" tvg-logo="https://i.imgur.com/gxuGB4J.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTS 3 (720p) [SOURCE NOT DAILY-VALIDATED]
+http://185.81.240.65:15000/udp/233.233.233.36:12000
+#EXTINF:-1 tvg-id="RTSDrama.rs@SD" tvg-logo="https://i.imgur.com/bsTUhYK.png" group-title="Series" x-country-code="rs" x-original-group="Series" x-source-check="upstream-only",RTS Drama (576p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTSDrama/index.m3u8
+#EXTINF:-1 tvg-id="RTSKolo.rs@SD" tvg-logo="https://i.imgur.com/gXlEDDW.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTS Kolo (576p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTSKolo/index.m3u8
+#EXTINF:-1 tvg-id="RTSMuzika.rs@SD" tvg-logo="https://i.imgur.com/n8p11NI.png" group-title="Music" x-country-code="rs" x-original-group="Music" x-source-check="upstream-only",RTS Muzika (576p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1 tvg-id="RTSPoletarac.rs@SD" tvg-logo="https://i.imgur.com/8Nnw8NF.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTS Poletarac (576p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTSPoletarac/index.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs@SD" tvg-logo="https://i.imgur.com/LjunOdy.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTS Svet (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTSSvet/index.m3u8
+#EXTINF:-1 tvg-id="RTSTrezor.rs@SD" tvg-logo="https://i.imgur.com/BnSHfxF.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTS Trezor (576p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTSTrezor/index.m3u8
+#EXTINF:-1 tvg-id="RTSZivot.rs@SD" tvg-logo="https://i.imgur.com/NpFG9uy.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTS Zivot (576p) [SOURCE NOT DAILY-VALIDATED]
+https://de1.dstv.cx/RTSZivot/index.m3u8
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTV Bap (480p) [SOURCE NOT DAILY-VALIDATED]
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs@SD" tvg-logo="https://i.imgur.com/NpyRVyC.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",RTV Novi Pazar [SOURCE NOT DAILY-VALIDATED]
+https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 tvg-id="SandzakTV.rs@SD" tvg-logo="https://i.imgur.com/lm9Fgsp.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",Sandzak TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD" tvg-logo="https://i.imgur.com/9SD40uH.png" group-title="Sports" x-country-code="rs" x-original-group="Sports" x-source-check="upstream-only",SOS Kanal Plus (720p) [SOURCE NOT DAILY-VALIDATED]
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" tvg-logo="https://i.imgur.com/POdTmaD.png" group-title="Music" x-country-code="rs" x-original-group="Music" x-source-check="upstream-only",TDI Radio TV [SOURCE NOT DAILY-VALIDATED]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 tvg-id="TopTV.rs@SD" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music" x-country-code="rs" x-original-group="Music" x-source-check="upstream-only",Top TV (Serbia) (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk@SD" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="News" x-country-code="rs" x-original-group="News" x-source-check="upstream-only",TV Arta (720p) [SOURCE NOT DAILY-VALIDATED]
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" tvg-logo="https://i.imgur.com/qZV3JW5.png" group-title="Music" x-country-code="rs" x-original-group="Music" x-source-check="upstream-only",TV Duga+ (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHram.rs@SD" tvg-logo="https://i.imgur.com/XzAYOFK.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",TV Hram (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="TVKanalM.rs@SD" tvg-logo="https://i.imgur.com/hqNVRUU.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",TV Kanal M (576p) [SOURCE NOT DAILY-VALIDATED]
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 tvg-id="TVMarsh.rs@SD" tvg-logo="https://i.imgur.com/Dt1mPyX.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",TV Marsh (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPanon.rs@SD" tvg-logo="https://i.imgur.com/9ZKA4Gx.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",TV Panon [SOURCE NOT DAILY-VALIDATED]
+https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" tvg-logo="https://i.imgur.com/8ugnFa3.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",TV Pi Kanal (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs@SD" tvg-logo="https://i.imgur.com/o5y1ok6.png" group-title="Undefined" x-country-code="rs" x-original-group="Undefined" x-source-check="upstream-only",TV Pirot (240p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ZICOTV.rs@SD" tvg-logo="https://i.imgur.com/8wbTnNW.png" group-title="Music" x-country-code="rs" x-original-group="Music" x-source-check="upstream-only",ZICO TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|rw|8
+#EXTINF:-1 tvg-id="BTNTV.rw@SD" tvg-logo="https://i.imgur.com/WmaP8zP.png" group-title="General" x-country-code="rw" x-original-group="General" x-source-check="upstream-only",BTN TV (Rwanda) [SOURCE NOT DAILY-VALIDATED]
+https://tv.btnrwanda.com:3973/live/btnv2live.m3u8
+#EXTINF:-1 tvg-id="IsangoTV.rw@SD" tvg-logo="https://i.imgur.com/EfsHaMQ.png" group-title="Music" x-country-code="rw" x-original-group="Music" x-source-check="upstream-only",Isango TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
+#EXTINF:-1 tvg-id="IsiboTV.rw@SD" tvg-logo="https://i.imgur.com/bXhEeTC.png" group-title="General" x-country-code="rw" x-original-group="General" x-source-check="upstream-only",Isibo TV [SOURCE NOT DAILY-VALIDATED]
+https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KC2.rw@SD" tvg-logo="https://i.imgur.com/PsYPzNc.png" group-title="Entertainment" x-country-code="rw" x-original-group="Entertainment" x-source-check="upstream-only",KC2 (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 tvg-id="RwandaTV.rw@SD" tvg-logo="https://i.imgur.com/4nbGvxW.png" group-title="General" x-country-code="rw" x-original-group="General" x-source-check="upstream-only",Rwanda TV (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV1.rw@SD" tvg-logo="https://i.imgur.com/nQNOHJx.png" group-title="General" x-country-code="rw" x-original-group="General" x-source-check="upstream-only",TV1 (Rwanda) [SOURCE NOT DAILY-VALIDATED]
+https://live.tv1.rw/index.m3u8
+#EXTINF:-1 tvg-id="TV10.rw@SD" tvg-logo="https://i.imgur.com/DeaWC1N.png" group-title="General" x-country-code="rw" x-original-group="General" x-source-check="upstream-only",TV10 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke@SD" tvg-logo="https://i.imgur.com/u7xDXEt.jpg" group-title="Religious" x-country-code="rw" x-original-group="Religious" x-source-check="upstream-only",Urejesho TV Africa (360p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|sd|3
+#EXTINF:-1 tvg-id="AlAlamiya2.sd@SD" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="Education" x-country-code="sd" x-original-group="Education" x-source-check="upstream-only",Al Alamiya 2 [SOURCE NOT DAILY-VALIDATED]
+http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:-1 tvg-id="DabangaTV.sd@SD" tvg-logo="https://i.imgur.com/BH1N6TA.png" group-title="Education;News" x-country-code="sd" x-original-group="Education;News" x-source-check="upstream-only",Dabanga TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://hls.dabangasudan.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SudanTV.sd@SD" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="Undefined" x-country-code="sd" x-original-group="Undefined" x-source-check="upstream-only",Sudan TV (360p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
