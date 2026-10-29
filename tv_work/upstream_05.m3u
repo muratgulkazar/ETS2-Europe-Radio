@@ -1,0 +1,922 @@
+#EXTM3U
+#STAGE|upstream_05|source=iptv-org/iptv/streams
+#UPSTREAM-COUNTRY|ec|Ecuador|🇪🇨|102
+#EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",América Estéreo Guayaquil (360p)
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaEstereoIbarra.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",América Estéreo Ibarra (720p)
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaEstereoQuito.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",América Estéreo Quito (1080p)
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",América Estéreo Tulcán (614p)
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Antena Uno RadioVideo (360p)
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 tvg-id="Asomavision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Asomavisión (614p)
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="AustralTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Austral TV (1080p)
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BacanTeVeo.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Bacán Te Veo (360p)
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+#EXTINF:-1 tvg-id="CaprichoTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Capricho TV (720p) [Not 24/7]
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 tvg-id="CiracuTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ciracu TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CuriquingueTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Curiquingue TV (720p)
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 tvg-id="DuendeTv.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Duende Tv (720p) [Not 24/7]
+https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
+#EXTINF:-1 tvg-id="DuranTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Durán TV (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-id="EcotelTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ecotel TV (720p)
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ecuador TV (1080p)
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+#EXTINF:-1 tvg-id="EcuaMundoRadioTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",EcuaMundo Radio TV (720p) [Not 24/7]
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ecuavisa (1080p)
+http://45.171.108.253:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ecuavisa (1080p)
+http://45.224.97.181:9999/Ecuavisa/index.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ecuavisa Guayaquil (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ecuavisa Quito (1080p) [Not 24/7]
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EducaTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Educa TV (720p) [Not 24/7]
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ElSolNetworkTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",El Sol Network TV (1080p)
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+#EXTINF:-1 tvg-id="FMMundo.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",FM Mundo (1080p)
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Gamavision (1080p)
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Gamavisión (720p) [Not 24/7]
+https://stream.esradioecuador.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GaviotaTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Gaviota TV [Not 24/7]
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+#EXTINF:-1 tvg-id="GM7Digital.ec@HD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",GM7 Digital [Not 24/7]
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1 tvg-id="HechosEcuador.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Hechos Ecuador (1080p) [Not 24/7]
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-id="IeanJesusEcuador.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",IeanJesus Ecuador (720p)
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ImperioTVCanal6.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Imperio TV Canal 6 (720p)
+https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
+#EXTINF:-1 tvg-id="InfinitaTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="IntiTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Inti TV (1080p) [Not 24/7]
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 tvg-id="KCHTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",KCHTV (1080p)
+http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",La Nueva Radio TV 97.7 (1080p)
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LaPerlaRadioTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",La Perla Radio TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-id="LatacungaTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Latacunga TV (360p)
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoretoTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Loreto TV (720p)
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+#EXTINF:-1 tvg-id="MajestadTelevision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Majestad Televisión (720p)
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",MakroDigital Television (1080p)
+#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",MakroDigital Television (720p)
+http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="Manavision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Manavisión (480p)
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 tvg-id="MarcaTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Marca TV (1080p)
+http://200.7.219.221:8088/live/livetv/index.m3u8
+#EXTINF:-1 tvg-id="MarioPintoTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Mario Pinto TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 tvg-id="MelRadioTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Mel Radio TV (360p)
+https://eu1.servers10.com:8081/8334/index.m3u8
+#EXTINF:-1 tvg-id="MetropoliMediosTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Metropoli Medios TV (720p)
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 tvg-id="MulticanalCatamayo.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Multicanal Catamayo (720p) [Not 24/7]
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="NukaTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ñuka TV (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+#EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ondas Quevedeñas TV (720p) [Not 24/7]
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+#EXTINF:-1 tvg-id="OromarTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Oromar TV (1080p)
+http://45.224.97.181:9999/Oromar/index.m3u8
+#EXTINF:-1 tvg-id="OromarTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Oromar TV (720p)
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="OromarTVPlus.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Oromar TV+ (720p)
+https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Pantalla Clásica EC (512p) [Not 24/7]
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaChannel.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Planeta Channel [Not 24/7]
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1 tvg-id="PlusTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Plus TV (720p) [Not 24/7]
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="PuruwaTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Puruwa TV (1080p)
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBonita1067.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Radio Bonita 106.7 (720p)
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 tvg-id="RadioCuencaEstereo.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Radio Cuenca Estéreo (720p)
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-id="RadioFantastica989FM.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Radio Fantástica 98.9 FM (1080p)
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="RadioImpacto2.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Radio Impacto 2 (288p) [Not 24/7]
+https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioMonumentalTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Radio Monumental TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="RedTVEVentanas.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Red TVE Ventanas (432p)
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 tvg-id="RTRTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",RTRTV (1080p)
+https://tv3ecuador.site/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="RTS.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",RTS (1080p)
+http://45.171.108.253:8888/RTS/index.m3u8
+#EXTINF:-1 tvg-id="RTS.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",RTS (1080p)
+http://45.224.97.181:9999/RTS/index.m3u8
+#EXTINF:-1 tvg-id="RTS.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",RTS (720p)
+http://157.100.248.242:8080/RTSHD/index.m3u8
+#EXTINF:-1 tvg-id="RTS.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",RTS (480p)
+https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="RTU.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",RTU (1080p) [Not 24/7]
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-id="RTU.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",RTU (1080p)
+http://45.224.97.181:9999/RTU/index.m3u8
+#EXTINF:-1 tvg-id="RTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",RTV Riobamba (720p) [Not 24/7]
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-id="SonoOndaTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Sono Onda TV (720p)
+https://live.obslivestream.com/sonoondatv/index.m3u8
+#EXTINF:-1 tvg-id="StudioPlusTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Studio + TV (720p)
+https://cloudvideo.servers10.com:8081/8184/index.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TC Television (1080p)
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TC Television
+http://177.234.218.66:8084/play/a089/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Teleamazonas (1080p)
+http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Teleamazonas (1080p)
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Teleamazonas (1080p)
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Teleamazonas (720p)
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Teleamazonas Quito (1080p) [Geo-blocked]
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-id="Telecosta.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Telecosta
+https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
+#EXTINF:-1 tvg-id="Telemar.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Telemar (720p)
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="Telerama.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Telerama (240p) [Not 24/7]
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+#EXTINF:-1 tvg-id="Telesucesos.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Telesucesos (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/play.html?name=UIO-HD
+https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
+#EXTINF:-1 tvg-id="TVCisne.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TV Cisne (1080p)
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1 tvg-id="TVColorCanal36.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TV Color Canal 36 (720p)
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 tvg-id="TVLegislativa.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TV Legislativa (1080p) [Not 24/7]
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVUniversalEcuador.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TV Universal Ecuador (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-id="TVC.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TVC (1080p)
+http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 tvg-id="TVC.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TVC (720p)
+http://157.100.248.242:8080/TVCHD/index.m3u8
+#EXTINF:-1 tvg-id="TVC.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TVC (480i)
+https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="TvOro.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",TvOro (1080p)
+http://45.187.0.19:9090/tvusa/index.m3u8
+#EXTINF:-1 tvg-id="UEBITVOnline.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",UEBI TV Online (720p) [Not 24/7]
+https://ventaxtv.com:3575/live/uebilive.m3u8
+#EXTINF:-1 tvg-id="UNIANDESTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",UNIANDES TV (720p) [Not 24/7]
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 tvg-id="UnsionTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Unsion TV (1080p)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VitoTVO.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",VitoTVO (1080p)
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="VosyTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Vos y TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="WuanPlus.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Wuan+
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+#EXTINF:-1 tvg-id="ZaracayTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Zaracay TV (1080p) [Not 24/7]
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1 tvg-id="StudioPlusTV.ec@HD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Studio + TV (1080p)
+https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Ecuador TV (720p)
+http://38.44.109.41:8003/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Gamavision (1080p)
+http://181.78.211.244:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-id="MaxivisionCanal8.ec@SD" group-title="Ecuador" x-country-code="ec" x-country-name="🇪🇨 Ecuador" x-health="source-only" x-original-group="",Maxivision Canal 8 (1080p)
+http://181.119.97.124:8080/play/a00w/index.m3u8
+#UPSTREAM-COUNTRY|eg|Egypt|🇪🇬|18
+#EXTINF:-1 tvg-id="AghapyTV.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Aghapy TV (1080p) [Not 24/7]
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlGhadTV.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Al Ghad TV (1080p)
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 tvg-id="AlMasriyah.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Al Masriyah (1080p)
+http://185.9.2.18/chid_247/index.m3u8
+#EXTINF:-1 tvg-id="ATVSat.us@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",ATVSat (1080p) [Not 24/7]
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CopticTV.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Coptic TV (720p) [Not 24/7]
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",El Radio 9090 FM (480p)
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ElsharqTV.tr@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Elsharq TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HudaTV.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Huda TV (720p) [Not 24/7]
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="KoogiTV.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Mazzika.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Mazzika (576p)
+http://149.100.11.235:8080/Mazzika/index.m3u8
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",MBC 1 Egypt (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",MBC Masr (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",MBC Masr 2 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-id="MixHollywood.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Mix Hollywood (1080p)
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 tvg-id="NogoumFMTV.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",NogoumFMTV (672p) [Not 24/7]
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Rotana Cinema Egypt (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="WatanTV.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Watan TV (1080p)
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HyaTV.eg@SD" group-title="Egypt" x-country-code="eg" x-country-name="🇪🇬 Egypt" x-health="source-only" x-original-group="",Hya TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#UPSTREAM-COUNTRY|sv|El Salvador|🇸🇻|50
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Agape TV (720p)
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ArboldeVidaTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Árbol de Vida TV (240p) [Not 24/7]
+https://yupistream.top:19360/livearbol/livearbol.m3u8
+#EXTINF:-1 tvg-id="AwapaSportsTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Awapa Sports TV (1080p) [Not 24/7]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 10 (720p)
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 10 (576p)
+http://45.167.2.101:8000/play/a0r8/index.m3u8
+#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 11 TuTV (349p)
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal12.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 12 (480i)
+https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal15ElZamorano.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 15 El Zamorano [Not 24/7]
+https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
+#EXTINF:-1 tvg-id="El15TV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 15 Usulután (720p) [Not 24/7]
+https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
+#EXTINF:-1 tvg-id="Canal65.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 65 (1080p) [Not 24/7]
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
+#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",El Camino TV (480p)
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElimTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Elim TV (480p) [Not 24/7]
+https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8
+#EXTINF:-1 tvg-id="GSGTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",GSG TV (720p)
+https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GSGTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",GSG TV
+https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JFVTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",JFV TV (720p)
+https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JosueTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Josué TV (1080p)
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Legislative Assembly of El Salvador (1080p) [Not 24/7]
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Megavisión Canal 19 (720p)
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Megavisión Canal 21 (720p)
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="RTVCanal57.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",RTV Canal 57 (720p)
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+#EXTINF:-1 tvg-id="SolTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Sol TV Morazán (1080p) [Not 24/7]
+http://rtmp.info:1935/soltv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="SVPlus.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",SV+ (720p)
+http://45.167.2.101:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="TCSPlus.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TCS+ (480p) [Not 24/7]
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="TribunaTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TribunaTV (720p) [Not 24/7]
+https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
+#EXTINF:-1 tvg-id="TVCRET.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TV CRET (1080p)
+https://radiocret.net:8082/hls/tvcret.m3u8
+#EXTINF:-1 tvg-id="TVGetsemani.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TV Getsemaní (720p)
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1 tvg-id="TVLeondeJuda.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TV León de Judá (720p)
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNetwork.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TVC Network (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+#EXTINF:-1 tvg-id="TVCa.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TVCa Televisión Católica Arquidiocesana (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMElSalvador.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TVM El Salvador [Not 24/7]
+http://201.247.102.189/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVOCanal23.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TVO Canal 23
+http://45.167.2.101:8000/play/a0qo/index.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",WOW TV (1080p)
+https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 2 (720p)
+http://186.33.26.18:8000/play/a0qp/index.m3u8
+#EXTINF:-1 tvg-id="Canal6.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 6 (720p)
+http://45.167.2.101:8000/play/a0qs/index.m3u8
+#EXTINF:-1 tvg-id="SVPlus.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",SV+ (720p)
+http://186.33.26.18:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="Canal12.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 12 (576p)
+http://186.33.26.18:8000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-id="CanalTRV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal TRV (576p)
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOCanal23.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",TVO Canal 23 (720p)
+https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
+#EXTINF:-1 tvg-id="SolTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",SolTV (720p)
+https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
+#EXTINF:-1 tvg-id="MorazanTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Morazan TV (720p)
+http://45.167.2.138:8000/play/a0o4/index.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",WOW TV (720p)
+https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Megavision Canal 19 (720p)
+http://45.167.1.138:8000/play/a02b
+#EXTINF:-1 tvg-id="Canal4.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 4 (1080p)
+http://168.228.44.241:9999/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="ElimTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Elim TV (576p)
+http://38.252.238.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="MizpaTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Mizpa TV (1080p)
+http://45.167.2.101:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-id="Canal9LaUnion.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Canal 9 La Union (1080p)
+http://45.167.2.101:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Tigo Sports (1080p)
+http://45.167.2.101:8000/play/a0pp/index.m3u8
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Agape TV (720p) [Not 24/7]
+https://5fc584f3f19c9.streamlock.net/agape/videoagape/chunklist_w153454298.m3u8
+#EXTINF:-1 tvg-id="ElimTV.sv@SD" group-title="El Salvador" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-health="source-only" x-original-group="",Elim TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.soporteccrtv.xyz/live/elimtv/main_stream.m3u8
+#UPSTREAM-COUNTRY|gq|Equatorial Guinea|🇬🇶|2
+#EXTINF:-1 tvg-id="SolTV.gq@SD" group-title="Equatorial Guinea" x-country-code="gq" x-country-name="🇬🇶 Equatorial Guinea" x-health="source-only" x-original-group="",SolTV (720p)
+https://stream.solmediaeg.com/soltv/soltv.m3u8
+#EXTINF:-1 tvg-id="TVGE.gq@SD" group-title="Equatorial Guinea" x-country-code="gq" x-country-name="🇬🇶 Equatorial Guinea" x-health="source-only" x-original-group="",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8
+#UPSTREAM-COUNTRY|er|Eritrea|🇪🇷|1
+#EXTINF:-1 tvg-id="ERiTV1.er@SD" group-title="Eritrea" x-country-code="er" x-country-name="🇪🇷 Eritrea" x-health="source-only" x-original-group="",ERi-TV 1 (576p)
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
+#UPSTREAM-COUNTRY|ee|Estonia|🇪🇪|26
+#EXTINF:-1 tvg-id="BestofDanceTV.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Best of Dance TV (1080p)
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",DanceTV Algorhythm (1080p)
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",DanceTV Deep House District (1080p)
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",DanceTV EDM Mainstage (1080p)
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",DanceTV House Floor (1080p)
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="DanceTVMinimalTech.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",DanceTV Minimal Tech (1080p)
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",DanceTV Techno Warehouse (1080p)
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="ETV.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",ETV (720p)
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-id="ETV2.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",ETV2 (720p)
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="ETVPlus.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",ETV+ (720p)
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-id="Go3Sport1.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Go3 Sport 1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-id="KidZoneMax.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",KidZone Max (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+#EXTINF:-1 tvg-id="LifeTV.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Life TV (432p) [Not 24/7]
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Life TV (432p) [Not 24/7]
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 tvg-id="Riigikogu.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Riigikogu (720p)
+https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
+#EXTINF:-1 tvg-id="TBNBaltia.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",TBN Baltia (1080p)
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee@HD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Classic (720p)
+https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee@HD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Classic (720p)
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageDance.ee@HD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Dance (720p)
+https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageDance.ee@HD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Dance (720p)
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@HD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Music (720p) [Geo-blocked]
+https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@HD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Music (720p) [Geo-blocked]
+https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@HD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Music (720p) [Geo-blocked]
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@UK" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Music UK (1080p) [Geo-blocked]
+https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageRock.ee@HD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",Vantage Rock (720p) [Geo-blocked]
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1 tvg-id="OTV.ee@SD" group-title="Estonia" x-country-code="ee" x-country-name="🇪🇪 Estonia" x-health="source-only" x-original-group="",OTV
+http://88.212.7.14/live/otv/playlist.m3u8
+#UPSTREAM-COUNTRY|et|Ethiopia|🇪🇹|7
+#EXTINF:-1 tvg-id="AddisTV.et@SD" group-title="Ethiopia" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-health="source-only" x-original-group="",Addis TV (720p)
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSCinema.us@SD" group-title="Ethiopia" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-health="source-only" x-original-group="",EBS Cinema (720p)
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 tvg-id="EBS.us@HD" group-title="Ethiopia" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-health="source-only" x-original-group="",EBS HD (1080p)
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 tvg-id="EBSMusika.us@SD" group-title="Ethiopia" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-health="source-only" x-original-group="",EBS Musika (720p)
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1 tvg-id="MerejaTV.et@SD" group-title="Ethiopia" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-health="source-only" x-original-group="",Mereja TV (1080p) [Not 24/7]
+https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
+#EXTINF:-1 tvg-id="MerejaTV.et@SD" group-title="Ethiopia" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-health="source-only" x-original-group="",Mereja TV
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NesihaTV.et@SD" group-title="Ethiopia" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-health="source-only" x-original-group="",Nesiha TV (720p)
+https://stream.cisk.tech/nasihatv/index.m3u8
+#UPSTREAM-COUNTRY|fi|Finland|🇫🇮|31
+#EXTINF:-1 tvg-id="Eveo.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Eveo (720p) [Not 24/7]
+https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="Hero.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Hero (720p) [Not 24/7]
+https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="HimlenTV7.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Himlen TV7 (720p)
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Jim.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Jim (720p)
+https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="JRTVJarviradio.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",JRTV Järviradio (720p)
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+#EXTINF:-1 tvg-id="Liv.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Liv (720p)
+https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="MTV3.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",MTV3 (720p)
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-id="MTV3.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",MTV3 (576p)
+#EXTVLCOPT:http-referrer=http://195.222.7.17:8002/
+http://195.222.7.17:8002/ch352
+#EXTINF:-1 tvg-id="MTVAva.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",MTV Ava (720p)
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:-1 tvg-id="MTVSub.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",MTV Sub (720p)
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:-1 tvg-id="MTVUutiset.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",MTV Uutiset (720p)
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1 tvg-id="NarTV.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",NärTV (360p)
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",National Geographic (Finland) (720p) [Geo-blocked]
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="NavahangTV.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Navahang TV (720p)
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nelonen.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Nelonen (720p)
+https://live-fi.tvkaista.net/nelonen/live.m3u8
+#EXTINF:-1 tvg-id="NopolaNews.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Nopola News (1080p) [Not 24/7]
+https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OnniTV.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Onni TV (720p)
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
+#EXTINF:-1 tvg-id="STARChannel.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",STAR Channel (Finland) (720p)
+https://live-fi.tvkaista.net/star-channel/live.m3u8
+#EXTINF:-1 tvg-id="TaevasTV7.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Taevas TV7 (720p)
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TaivasTV7.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",Taivas TV7 (720p)
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTV1.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV 1 (1080p) [Geo-blocked]
+https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTV1.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV 1 (1080p) [Not 24/7]
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+#EXTINF:-1 tvg-id="YleTV1.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV 1 (720p) [Not 24/7]
+https://live-fi.tvkaista.net/yle-tv1/live.m3u8
+#EXTINF:-1 tvg-id="YleTV2.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV 2 (1080p) [Geo-blocked]
+https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTV2.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV 2 (1080p) [Not 24/7]
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
+#EXTINF:-1 tvg-id="YleTV2.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV 2 (720p) [Not 24/7]
+https://live-fi.tvkaista.net/yle-tv2/live.m3u8
+#EXTINF:-1 tvg-id="YleTeemaFem.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV Teema & Fem (1080p) [Geo-blocked]
+https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTeemaFem.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV Teema & Fem (1080p) [Not 24/7]
+https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
+#EXTINF:-1 tvg-id="YleTeemaFem.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YLE TV Teema & Fem (720p) [Not 24/7]
+https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8
+#EXTINF:-1 tvg-id="YleX.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",YleX Studio Live (720p)
+https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+#EXTINF:-1 tvg-id="STARChannel.fi@SD" group-title="Finland" x-country-code="fi" x-country-name="🇫🇮 Finland" x-health="source-only" x-original-group="",STAR Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
+#UPSTREAM-COUNTRY|fr|France|🇫🇷|206
+#EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",ADN TV+ (720p)
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24English.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Africa 24 English (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Africanews English (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Africanews French (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Alpe d’Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:-1 tvg-id="AntenneReunion.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 tvg-id="arte.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Arte (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id="BFM2.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",BFM2 (1080p)
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMLyon.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",BFM Lyon (576p)
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BrionnaisTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Brionnais TV (720p)
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-id="CStar.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",C Star (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 tvg-id="Caillou.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Caillou
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Cannes Lérins TV (1080p)
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Cine+ Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Cine+ Frisson (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 tvg-id="CNews.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",CNews (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 tvg-id="CNews.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",CNews (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",CNEWS PRIME (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Disney Jr. (576p)
+http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Equidia (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Equidia Racing Mag (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews English (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews French (720p)
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews French (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews German (720p)
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews German (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGreek.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Greek (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Hungarian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Hungarian
+https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Italian (720p)
+https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Italian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Portuguese (720p)
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Portuguese (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Russian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Russian (576p)
+http://tmptv.sunduk.tv/CH31/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Russian
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Spanish (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:-1 tvg-id="EvandisGospelTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Evandis Gospel TV (1080p)
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",FashionTV Paris L'Original (1080p)
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",FashionTV Secrets (1080p)
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 tvg-id="France3.fr@National" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.144:5000
+#EXTINF:-1 tvg-id="France3.fr@CotedAzur" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 3 Cote d'Azur
+http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 tvg-id="France3.fr@Lorraine" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 3 Lorraine (1080p)
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Arabic (720p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Arabic (720p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Arabic (576p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Arabic (576p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Arabic (360p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Arabic (360p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (1080p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (1080p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (720p)
+http://170.83.16.50/FRANCE_24/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (720p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (720p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (576p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (576p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (360p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (360p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Español (720p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Español (720p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Español (576p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Español (576p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Español (360p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Español (360p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 French (720p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 French (720p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 French (576p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 French (576p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 French (360p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 French (360p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Spanish (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Francophonie24.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Francophonie24 (1080p)
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GenerationsTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="Gong.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Gong (1080p)
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:-1 tvg-id="HANDICAPTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",HANDICAP TV France
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTO.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",KTO (404p) [Not 24/7]
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-id="LCI.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",LCI HD (1080p)
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Le Figaro IDF (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Le Figaro IDF (720p)
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-id="LittoralFMTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Littoral FM (720p)
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",M6 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-id="M6Music.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",M6 Music
+https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+#EXTINF:-1 tvg-id="MDL.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",MDL (720p)
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Mezzo Live (1080p)
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Mezzo Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://45.84.187.172:3001/udp/239.10.10.76:5000
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Mezzo Live
+https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
+#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Monte Carlo Digital Television (1080p)
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+#EXTINF:-1 tvg-id="MTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-id="NRJHits.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",NRJ Hits
+https://test.946985.filegear-sg.me/proxy/a23981548880f405
+#EXTINF:-1 tvg-id="P2MTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",P2M TV (720p)
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-id="PuissanceTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",RMC Story (1080p)
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Sony One Blacklist (1080p)
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Sony One Blacklist (1080p)
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Sony One Favoris (1080p)
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Sony One Hits Action (1080p)
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Sony One Hits Comedie (1080p)
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Sony One Hits Comedie (1080p)
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Syfy.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Syfy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="T18.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-id="TeleGohelle.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TéléGohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 tvg-id="TiVi5Monde.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TiVi5 Monde [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TMC (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@Russia" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Trace Sport Stars Russia (720p)
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Trace Sport Stars SD
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+#EXTINF:-1 tvg-id="TV3V.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV3V (720p)
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Africa (720p)
+http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Asia (1080p)
+http://54.37.19.157/TV5MONDE/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Asia (576p)
+http://27.131.164.187:8080/TV5_Monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Asia
+http://103.172.187.30:12000/stream/allchannel/tv5asie
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Asia
+http://103.190.232.129/stream/tvb/asie/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Asia
+http://103.190.232.129/stream/tvb/asie?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5MONDE Chefs (1080p)
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Europe (1080p)
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Europe (1080p)
+http://45.14.84.37/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Europe (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Latin America (720p)
+http://45.162.231.38:7779/TV5_Monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondePacific.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Pacific
+http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondePacific.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Pacific
+http://103.190.232.129/stream/tvb/pacifique?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondePacific.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Pacifique (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Style (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Style
+http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV7Colmar.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV7 Colmar (576p)
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV78.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="TVAlsace.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV Alsace (1080p)
+http://194.163.157.137:8080/hls/radioalsace.m3u8
+#EXTINF:-1 tvg-id="TVMulhouse.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV Mulhouse (1080p)
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+#EXTINF:-1 tvg-id="TVR.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TVR (Bretagne) (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="TZiK.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TZiK [Not 24/7]
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-id="ViaMatele.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="MoselleTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",viàMoselleTV (720p) [Not 24/7]
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ViaOccitanie.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",viàOccitanie (540p) [Not 24/7]
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+#EXTINF:-1 tvg-id="viaTelePaese.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",viàTéléPaese (720p)
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-id="VosgesTV.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",W9 (1080p)
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",W9 (720p)
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+#EXTINF:-1 tvg-id="zenith.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",zenith (1080p)
+https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 tvg-id="zenith.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",zenith (1080p)
+https://live.azenagroup.com/zenith/index.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Asia (576p)
+https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Euronews Spanish (1080p)
+https://iptv.bitred.cl/euronews/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@EnglishHD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English HD (1080p)
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 Spanish (720p)
+http://138.121.15.230:9002/FRANCE-24/index.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Trace Latina (576p)
+https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Trace Sport Stars (576p)
+https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (720p)
+https://mumbai-edge.smartplaytv.in/france24/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Africanews English (720p)
+https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Canal+ Sport (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1 tvg-id="GolfPlus.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Golf + (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TMC HD (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1 tvg-id="MCMPop.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",MCM Pop (580p)
+http://188.115.15.121:8000/play/a014
+#EXTINF:-1 tvg-id="Europe1TV.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Europe 1 TV (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",W9 (1086p)
+http://5.180.164.197:8080/W9/index.m3u8
+#EXTINF:-1 tvg-id="LCP.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",LCP (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Nickelodeon (504p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Eurosport 1 Hungary
+http://88.212.7.14/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Hungary" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Eurosport 2 Hungary
+http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Turkiye" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Eurosport 1 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Eurosport 2 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Russia" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Eurosport 1 Russia (1080p)
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Russia" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Eurosport 2 Russia (1080p)
+http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Mezzo (576p)
+#EXTVLCOPT:http-user-agent=Enigma2
+http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="RMCLife.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",RMC Life (1080p)
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",RMC Decouverte (1080p)
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TV5Monde Asia (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
+#EXTINF:-1 tvg-id="LEquipe.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",L'Equipe (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 English (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=96
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 24 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 tvg-id="arte.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",arte (720p)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TF1 Series Films
+http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TF1
+http://149.62.177.107:9999/TF1/index.m3u8
+#EXTINF:-1 tvg-id="France2.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 2
+http://149.62.177.107:9999/France_2/index.m3u8
+#EXTINF:-1 tvg-id="France4.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 4
+http://149.62.177.107:9999/France_4/index.m3u8
+#EXTINF:-1 tvg-id="France5.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",France 5
+http://149.62.177.107:9999/France_5/index.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",NOVO19
+http://149.62.177.107:9999/NOVO19/index.m3u8
+#EXTINF:-1 tvg-id="TFX.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TFX
+http://149.62.177.107:9999/TFX/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",TMC HD
+http://149.62.177.107:9999/TMC/index.m3u8
+#EXTINF:-1 tvg-id="6ter.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",6ter
+http://149.62.177.107:9999/6ter/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Spain" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Eurosport 1 Spain (576p)
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Spain" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Eurosport 2 Spain (1080p)
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD" group-title="France" x-country-code="fr" x-country-name="🇫🇷 France" x-health="source-only" x-original-group="",Franceinfo (1080p)
+http://149.62.177.107:9999/franceinfo:/index.m3u8
+#UPSTREAM-COUNTRY|gf|French Guiana|🇬🇫|1
+#EXTINF:-1 tvg-id="TelePeyi.gf@SD" group-title="French Guiana" x-country-code="gf" x-country-name="🇬🇫 French Guiana" x-health="source-only" x-original-group="",Télé Péyi (720p)
+https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
