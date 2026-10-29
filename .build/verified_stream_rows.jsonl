@@ -630,3 +630,87 @@
 {"code":"sy","label":"Suriye","url":"https://streaming.exclusive.radio/er/meatloaf/icecast.audio","name":"Exclusively Meat Loaf","genre":"Pop","lang":"SY","bitrate":"128"}
 {"code":"sy","label":"Suriye","url":"https://dengeqamishlo.stream.laut.fm/dengeqamishlo","name":"Denge Qamishlo","genre":"Folk music","lang":"KUR","bitrate":"128"}
 {"code":"sy","label":"Suriye","url":"https://stream-149.zeno.fm/4luag56o066uv","name":"Emaar FM Radio","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"iq","label":"Irak","url":"http://dreamsiteradiocp4.com:8046/stream","name":"radio maria iraq","genre":"Various","lang":"IQ","bitrate":"64"}
+{"code":"iq","label":"Irak","url":"https://l3.itworkscdn.net/itwaudio/9012/stream","name":"SumerFm Iraq","genre":"Arabic music","lang":"ARA","bitrate":"128"}
+{"code":"iq","label":"Irak","url":"http://streaming.radionomy.com/JamendoLounge","name":"Waar Radio","genre":"Folk music","lang":"KUR","bitrate":"128"}
+{"code":"iq","label":"Irak","url":"http://192.99.170.8:5550/stream","name":"Alseraj Radio Quran","genre":"Alseraj radio quran","lang":"ARA","bitrate":"96"}
+{"code":"iq","label":"Irak","url":"https://streamer.radio.co/sb38bf6e66/listen","name":"Al-bilad Radio/Yaqoubi","genre":"Al-bilad radio","lang":"ARA","bitrate":"64"}
+{"code":"ir","label":"İran","url":"https://stream.radiojar.com/cp13r2cpn3quv","name":"\\xd8\\xa7\\xdb\\x8c\\xd8\\xb1\\xd8\\xa7\\xd9\\x86 Radio Liberty (Iran) (official stream)","genre":"Various","lang":"IRA","bitrate":"128"}
+{"code":"ir","label":"İran","url":"http://parsa.icdndhcp.com:18000/stream","name":"parsa","genre":"Classical","lang":"IR","bitrate":"64"}
+{"code":"ir","label":"İran","url":"http://www.radiofaaz.com:8000/radiofaaz","name":"Faz","genre":"Various","lang":"IR","bitrate":"128"}
+{"code":"ir","label":"İran","url":"https://navairan.com/;stream.nsv","name":"Radio Navahang","genre":"Middle eastern music","lang":"PER","bitrate":"128"}
+{"code":"jo","label":"Ürdün","url":"https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3","name":"Mazaj FM","genre":"Various","lang":"JO","bitrate":"192"}
+{"code":"jo","label":"Ürdün","url":"http://stream.zeno.fm/yawenmfp64zuv","name":"Alnas FM","genre":"Classical","lang":"JO","bitrate":"128"}
+{"code":"jo","label":"Ürdün","url":"https://dahab.ice.infomaniak.ch/dahab-192.mp3","name":"Radio Dahab","genre":"Classical","lang":"JO","bitrate":"192"}
+{"code":"jo","label":"Ürdün","url":"https://radio.ainfm.site/ainfm","name":"Ain FM","genre":"Various","lang":"JO","bitrate":"128"}
+{"code":"jo","label":"Ürdün","url":"https://yufm.yu.edu.jo/broadwave.mp3","name":"Yarmouk University FM","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"lb","label":"Lübnan","url":"https://l3.itworkscdn.net/itwaudio/9054/stream","name":"Voice of Lebanon (Sawtlebnan) Radio","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"lb","label":"Lübnan","url":"https://edge.mixlr.com/channel/qtqeb","name":"Radio Liban Libre","genre":"Arabic music","lang":"ARA","bitrate":"128"}
+{"code":"lb","label":"Lübnan","url":"http://audiostreaming.itworkscdn.com:9066/","name":"91.7FM Al Nour Radio - 91.9 / 92.2 \\xd8\\xa7\\xd9\\x95\\xd8\\xb0\\xd8\\xa7\\xd8\\xb9\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x88\\xd8\\xb1 :: \\xd8\\xb1\\xd8\\xa7\\xd9\\x8a\\xd9\\x94\\xd8\\xaf\\xd8\\xa9","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"lb","label":"Lübnan","url":"http://andromeda.shoutca.st:8192/;stream.mp3","name":"lbi Radio","genre":"Arabic","lang":"ARA","bitrate":"128"}
+{"code":"lb","label":"Lübnan","url":"https://albal-lbnet2.radioca.st/stream","name":"Al Bal Radio","genre":"Various","lang":"LB","bitrate":"128"}
+{"code":"lb","label":"Lübnan","url":"https://l3.itworkscdn.net/itwaudio/9044/stream","name":"Fame FM Lebanon","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"lb","label":"Lübnan","url":"http://byblosnights.com:6190/","name":"Beirut Nights Radio (AAC)","genre":"Eurodance","lang":"ENG","bitrate":"256"}
+{"code":"lb","label":"Lübnan","url":"https://stream.zeno.fm/h66yxnapga0uv","name":"Virgin Radio Lebanon Stars","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"lb","label":"Lübnan","url":"http://dreamsiteradiocp4.com:8014/stream","name":"radio maria arabic","genre":"Christ","lang":"ARA","bitrate":"64"}
+{"code":"lb","label":"Lübnan","url":"https://stream.zeno.fm/dwxw3p9vea0uv","name":"Virgin Radio Lebanon","genre":"Various","lang":"ARA","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"https://cdn.cybercdn.live/103FM/Live/icecast.audio","name":"Radio 103FM","genre":"Various","lang":"IL","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"http://glzwizzlv.bynetcdn.com/glz_mp3","name":"Galei Zahal","genre":"Various","lang":"HEB","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE","name":"Glglz","genre":"Various","lang":"HEB","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio","name":"\\xd0\\x9f\\xd0\\xb5\\xd1\\x80\\xd0\\xb2\\xd0\\xbe\\xd0\\xb5 \\xd1\\x80\\xd0\\xb0\\xd0\\xb4\\xd0\\xb8\\xd0\\xbe 89.1FM","genre":"Pop","lang":"IL","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"http://glzwizzlv.bynetcdn.com/glglz_mp3","name":"\\xd7\\x92\\xd7\\x9c\\xd7\\x92\\xd7\\x9c\\xd7\\xa6 - Glglz","genre":"Ilstations","lang":"HEB","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"http://www.rs.mizrahit.fm:7777/","name":"\\xd7\\xa0\\xd7\\x95\\xd7\\xa9\\xd7\\x9e\\xd7\\x99\\xd7\\x9d \\xd7\\x9e\\xd7\\x96\\xd7\\xa8\\xd7\\x97\\xd7\\x99\\xd7\\xaa - Noshmim Mizrahit","genre":"Ilstations","lang":"HEB","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"https://glzicylv01.bynetcdn.com/glglz_mp3","name":"Galgalatz 91.8 FM","genre":"Hits","lang":"HEB","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio","name":"\\xd7\\x92\\xd7\\x9c\\xd7\\x99 \\xd7\\x99\\xd7\\xa9\\xd7\\xa8\\xd7\\x90\\xd7\\x9c Galey Yisrael","genre":"News","lang":"IL","bitrate":"128"}
+{"code":"il","label":"İsrail","url":"https://jointil.com/stream-blues","name":"#joint radio Blues Rock","genre":"Alternative rock","lang":"ENG","bitrate":"320"}
+{"code":"il","label":"İsrail","url":"http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz","name":"\\xd7\\x92\\xd7\\x9c\\xd7\\xa6","genre":"News","lang":"IL","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://28933.live.streamtheworld.com/VIRGIN_RADIO_SC","name":"Virgin Radio Turkiye","genre":"Pop rock","lang":"TUR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"http://46.20.3.250/;stream","name":"Radyo 7","genre":"Various","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://37.247.98.8/stream/22/;","name":"Turkulerle Turkiye","genre":"Turku","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://live.radyositesihazir.com/8078/stream","name":"Radyo Siran","genre":"Folk","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://live.radyositesihazir.com/8032/stream","name":"KRAL TURK FM","genre":"Various","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://37.247.98.8/stream/30/;","name":"Ankara Havalari","genre":"Folk","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://37.247.98.8/stream/25/;","name":"ALTIN SARKILAR","genre":"Golden oldies","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC","name":"Super Fm","genre":"Pop","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"http://37.247.98.8/stream/166/","name":"90lar turkey","genre":"Various","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://radyo.turkuradyo.net:4591/turkuradyo","name":"Turku Radyo","genre":"Folk","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3","name":"RS FM","genre":"Various","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/","name":"JOY TURK TURKEY","genre":"Various","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/","name":"SUPER FM 2 TURKEY","genre":"Various","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?","name":"Metro fm turkey","genre":"Various","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"https://listen.radioking.com/radio/119251/stream/158701","name":"Kurd1 FM","genre":"Folk music","lang":"KUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://46.20.4.5:8170/","name":"Radyo Spor","genre":"Sport","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://officialbabaradyo.radyotvonline.net/babaofficial","name":"baba radyo","genre":"Classic hits","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://yayin1.canliyayin.org:8700/;*.mp3","name":"Gozyas\\xc4\\xb1 FM","genre":"Islamic","lang":"TUR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3","name":"Radyo A (Radyo Anadolu Universitesi)","genre":"Blues","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://yayin6.radyohizmeti.com:7050/;stream.mp3","name":"Havin FM","genre":"Folk music","lang":"KUR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/","name":"JOY TURK ROCK TURKEY","genre":"Various","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"https://radyo44.80.yayin.com.tr/stream","name":"Radio 44","genre":"Hits","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://radyopiryolu.canliyayinda.com:8165/","name":"Pir Yolu","genre":"Classical","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://icecast-rian.cdnvideo.ru/voicestm","name":"Radyo Sputnik","genre":"News","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://gundifm.ozelip.com:7830/;","name":"Gundi FM","genre":"Folk music","lang":"KUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://amed.ozelip.com/8040/;","name":"Azadi Fm","genre":"Various","lang":"KUR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"https://hayatmix.yayin.com.tr/mp3","name":"HAYATMIX","genre":"Classical","lang":"TR","bitrate":"192"}
+{"code":"tr","label":"Türkiye","url":"http://yayin1.canliyayin.org:7010/;*.mp3","name":"Ribat FM","genre":"Islamic","lang":"TUR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"http://46.20.7.103:8040/;","name":"Radyo Slow Time","genre":"Classical","lang":"TR","bitrate":"112"}
+{"code":"tr","label":"Türkiye","url":"https://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream","name":"Turkiyem FM","genre":"Traditional music","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://yayin.pazarcikfm.com:9090/","name":"Pazarc\\xc4\\xb1k","genre":"Classical","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://icecast.netmedya.net/lalegulfm","name":"LALEGUL FM","genre":"Various","lang":"TR","bitrate":"256"}
+{"code":"tr","label":"Türkiye","url":"https://icecasttgrt.ihlasdigitalassets.com/tgrtfm","name":"TGRT FM","genre":"News talk music","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://eksenwmp.radyotvonline.com/;stream.mp3","name":"Radyo Eksen 96.2","genre":"Alternative rock","lang":"TUR","bitrate":"224"}
+{"code":"tr","label":"Türkiye","url":"https://kiss.radyotvonline.net/kissturk","name":"Kiss Turk","genre":"Various","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://medradyo.kesintisizyayin.com:8062/stream","name":"Med Radyo","genre":"Classical","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio","name":"Power Dance","genre":"Clubbing","lang":"TUR","bitrate":"250"}
+{"code":"tr","label":"Türkiye","url":"http://ntvrdwmp.radyotvonline.com/","name":"NTV Radyo","genre":"News","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://live.radyotvonline.com:8090/;","name":"MaxFM","genre":"Various","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://kesintisizyayin.com:1656/","name":"Denge Gundeme","genre":"Classical","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC","name":"Super Fm","genre":"Pop","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"https://stream.zeno.fm/h6mn2c8ha8zuv","name":"Axa Rojava","genre":"Various","lang":"KUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://yayin2.canliyayin.org:8866/;*.mp3","name":"Radyo Gul","genre":"Various","lang":"TUR","bitrate":"192"}
+{"code":"tr","label":"Türkiye","url":"https://yayin.turkhosted.com/4591/stream","name":"TurkuRadyo","genre":"Various","lang":"TR","bitrate":"64"}
+{"code":"tr","label":"Türkiye","url":"http://anadolu.liderhost.com.tr:8094/","name":"Onur Radyo","genre":"Classical","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://yayin.dostfm.com:8920/;.mp3?no_dl","name":"Dost FM","genre":"Talk & speech","lang":"TR","bitrate":"96"}
+{"code":"tr","label":"Türkiye","url":"http://radyomgm.canliyayinda.com/;stream.mp3","name":"meteorolojinin sesi","genre":"News","lang":"TR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"http://sc.brtk.net:8000/","name":"BRTK","genre":"Various","lang":"TUR","bitrate":"96"}
+{"code":"tr","label":"Türkiye","url":"http://yayin2.canliyayin.org:7052/;*.mp3","name":"Enderun FM","genre":"Islamic","lang":"TUR","bitrate":"128"}
+{"code":"tr","label":"Türkiye","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;","name":"Retro Turk","genre":"Pop","lang":"TR","bitrate":"64"}
