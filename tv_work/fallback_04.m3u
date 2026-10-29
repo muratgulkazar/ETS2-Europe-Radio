@@ -1,0 +1,149 @@
+#EXTM3U
+#FALLBACK-BATCH|4
+#COUNTRY-FALLBACK-AUDIT|sv|El Salvador|39
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",Agape TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ArboldeVidaTV.sv@SD" tvg-logo="https://i.imgur.com/4sGDc4X.jpg" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",Arbol de Vida TV (240p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://yupistream.top:19360/livearbol/livearbol.m3u8
+#EXTINF:-1 tvg-id="AwapaSportsTV.sv@SD" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="Sports" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Sports" x-source-check="upstream-only",Awapa Sports TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-id="Canal2.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 2 (El Salvador) (720p) [SOURCE NOT DAILY-VALIDATED]
+http://186.33.26.18:8000/play/a0qp/index.m3u8
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 3 Impresionante (480p) [SOURCE NOT DAILY-VALIDATED]
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:-1 tvg-id="Canal4.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 4 (El Salvador) (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://168.228.44.241:9999/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="Canal6.sv@SD" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 6 (El Salvador) (720p) [SOURCE NOT DAILY-VALIDATED]
+http://45.167.2.101:8000/play/a0qs/index.m3u8
+#EXTINF:-1 tvg-id="Canal9LaUnion.sv@SD" tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 9 La Union (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.167.2.101:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 10 (El Salvador) (720p) [SOURCE NOT DAILY-VALIDATED]
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 11 TuTV (349p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://i.imgur.com/WMv3yEf.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 12 (El Salvador) (576p) [SOURCE NOT DAILY-VALIDATED]
+http://186.33.26.18:8000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-id="Canal15ElZamorano.sv@SD" tvg-logo="https://i.imgur.com/op13ujg.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal 15 El Zamorano [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
+#EXTINF:-1 tvg-id="Canal65.sv@SD" tvg-logo="https://i.imgur.com/P15QovY.png" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",Canal 65 (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTRV.sv@SD" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Canal TRV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:-1 tvg-id="El15TV.sv@SD" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",El 15 TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
+#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",El Camino TV (480p) [SOURCE NOT DAILY-VALIDATED]
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElimTV.sv@SD" tvg-logo="https://i.imgur.com/payIg0N.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",Elim TV (720p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.soporteccrtv.xyz/live/elimtv/main_stream.m3u8
+#EXTINF:-1 tvg-id="GSGTV.sv@SD" tvg-logo="https://i.imgur.com/Naj8yUN.png" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",GSG TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JFVTV.sv@SD" tvg-logo="https://i.imgur.com/SrmI6nU.jpeg" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",JFV TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JosueTV.sv@SD" tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",Josue TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv@SD" tvg-logo="https://i.imgur.com/OBuiCyb.png" group-title="Legislative" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Legislative" x-source-check="upstream-only",Legislative Assembly of El Salvador (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Megavision Canal 19 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Megavision Canal 21 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="MizpaTV.sv@SD" tvg-logo="https://i.imgur.com/4FPaLYo.jpeg" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",Mizpa TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.167.2.101:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-id="MorazanTV.sv@SD" tvg-logo="https://i.imgur.com/Yh1lFZH.jpeg" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",Morazan TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://45.167.2.138:8000/play/a0o4/index.m3u8
+#EXTINF:-1 tvg-id="RTVCanal57.sv@SD" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",RTV Canal 57 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+#EXTINF:-1 tvg-id="SolTV.sv@SD" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",SolTV (El Salvador) (720p) [SOURCE NOT DAILY-VALIDATED]
+https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
+#EXTINF:-1 tvg-id="SVPlus.sv@SD" tvg-logo="https://i.imgur.com/bCcnLVL.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",SV+ (720p) [SOURCE NOT DAILY-VALIDATED]
+http://45.167.2.101:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="TCSPlus.sv@SD" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",TCS+ (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Sports" x-source-check="upstream-only",Tigo Sports (El Salvador) (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://45.167.2.101:8000/play/a0pp/index.m3u8
+#EXTINF:-1 tvg-id="TribunaTV.sv@SD" tvg-logo="https://i.imgur.com/C5vHpd0.png" group-title="News" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="News" x-source-check="upstream-only",Tribuna TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
+#EXTINF:-1 tvg-id="TVCRET.sv@SD" tvg-logo="https://i.imgur.com/ChonoKb.png" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",TV CRET (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://radiocret.net:8082/hls/tvcret.m3u8
+#EXTINF:-1 tvg-id="TVGetsemani.sv@SD" tvg-logo="https://i.imgur.com/C9SJCcE.jpg" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",TV Getsemani (720p) [SOURCE NOT DAILY-VALIDATED]
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1 tvg-id="TVLeondeJuda.sv@SD" tvg-logo="https://i.imgur.com/ZUCppwi.png" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",TV Leon de Juda (720p) [SOURCE NOT DAILY-VALIDATED]
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNetwork.sv@SD" tvg-logo="https://i.imgur.com/S1xiWB3.png" http-referrer="https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",TVC Network (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+#EXTINF:-1 tvg-id="TVCa.sv@SD" tvg-logo="https://i.imgur.com/uPWWtCA.png" group-title="Religious" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="Religious" x-source-check="upstream-only",TVCa (720p) [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMElSalvador.sv@SD" tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="News" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="News" x-source-check="upstream-only",TVM El Salvador [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://201.247.102.189/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",TVO Canal 23 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv@SD" tvg-logo="https://i.imgur.com/dHxaWyp.png" group-title="General" x-country-code="sv" x-country-name="🇸🇻 El Salvador" x-original-group="General" x-source-check="upstream-only",WOW TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|gq|Equatorial Guinea|2
+#EXTINF:-1 tvg-id="SolTV.gq@SD" tvg-logo="https://i.imgur.com/TJHk6Va.png" group-title="Entertainment" x-country-code="gq" x-country-name="🇬🇶 Equatorial Guinea" x-original-group="Entertainment" x-source-check="upstream-only",SolTV (Equatorial Guinea) (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.solmediaeg.com/soltv/soltv.m3u8
+#EXTINF:-1 tvg-id="TVGE.gq@SD" tvg-logo="https://i.imgur.com/iOdHgPd.png" group-title="General" x-country-code="gq" x-country-name="🇬🇶 Equatorial Guinea" x-original-group="General" x-source-check="upstream-only",TVGE [SOURCE NOT DAILY-VALIDATED]
+http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|er|Eritrea|1
+#EXTINF:-1 tvg-id="ERiTV1.er@SD" tvg-logo="https://i.imgur.com/bTR0Huw.png" group-title="General" x-country-code="er" x-country-name="🇪🇷 Eritrea" x-original-group="General" x-source-check="upstream-only",ERi-TV 1 (576p) [SOURCE NOT DAILY-VALIDATED]
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
+#COUNTRY-FALLBACK-AUDIT|et|Ethiopia|4
+#EXTINF:-1 tvg-id="AddisTV.et@SD" tvg-logo="https://i.imgur.com/kqHWrZ9.png" group-title="General" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-original-group="General" x-source-check="upstream-only",Addis TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MerejaTV.et@SD" tvg-logo="https://i.imgur.com/PaAacxF.png" group-title="News" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-original-group="News" x-source-check="upstream-only",Mereja TV [SOURCE NOT DAILY-VALIDATED]
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NesihaTV.et@SD" tvg-logo="https://i.imgur.com/rqEyzjE.png" group-title="Religious" x-country-code="et" x-country-name="🇪🇹 Ethiopia" x-original-group="Religious" x-source-check="upstream-only",Nesiha TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.cisk.tech/nasihatv/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|gf|French Guiana|1
+#EXTINF:-1 tvg-id="TelePeyi.gf@SD" tvg-logo="https://i.imgur.com/LJ9sXaB.png" group-title="General" x-country-code="gf" x-country-name="🇬🇫 French Guiana" x-original-group="General" x-source-check="upstream-only",Tele Peyi (720p) [SOURCE NOT DAILY-VALIDATED]
+https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
+#COUNTRY-FALLBACK-AUDIT|pf|French Polynesia|2
+#EXTINF:-1 tvg-id="TNTV.pf@SD" tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="General" x-country-code="pf" x-country-name="🇵🇫 French Polynesia" x-original-group="General" x-source-check="upstream-only",TNTV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|gm|Gambia|1
+#EXTINF:-1 tvg-id="QTVGambia.gm@SD" tvg-logo="https://i.imgur.com/ZsTuADb.png" group-title="General" x-country-code="gm" x-country-name="🇬🇲 Gambia" x-original-group="General" x-source-check="upstream-only",QTV Gambia (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://player.qtv.gm/hls/live.stream.m3u8
+#COUNTRY-FALLBACK-AUDIT|ge|Georgia|21
+#EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",1TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge@SD" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",2 TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="Adjarasport1.ge@SD" tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="Sports" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="Sports" x-source-check="upstream-only",Adjarasport 1 [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",Apsua TV [SOURCE NOT DAILY-VALIDATED]
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+#EXTINF:-1 tvg-id="BMGTV.ge@SD" tvg-logo="https://i.imgur.com/vGLkTPA.png" group-title="Business" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="Business" x-source-check="upstream-only",BMG TV [SOURCE NOT DAILY-VALIDATED]
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.ge@SD" tvg-logo="https://i.imgur.com/i1TANKv.png" group-title="Comedy" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="Comedy" x-source-check="upstream-only",Comedy TV (Georgia) [SOURCE NOT DAILY-VALIDATED]
+http://31.146.5.178:8087/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD" tvg-logo="https://i.imgur.com/KuuODMM.png" group-title="Religious" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="Religious" x-source-check="upstream-only",Ertsulovneba [SOURCE NOT DAILY-VALIDATED]
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="News" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="News" x-source-check="upstream-only",Euronews Georgia [SOURCE NOT DAILY-VALIDATED]
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-id="Formula.ge@SD" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="News" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="News" x-source-check="upstream-only",Formula (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="GDSTV.ge@SD" tvg-logo="https://i.imgur.com/gv61tFf.png" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",GDS TV [SOURCE NOT DAILY-VALIDATED]
+http://31.146.5.178:8087/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="GMSTV.ge@SD" tvg-logo="" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",GMS TV (Georgia) [SOURCE NOT DAILY-VALIDATED]
+http://158.101.222.193:88/georgia_play.php?id=gms
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",Imedi TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="MtavariArkhi.ge@SD" tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",Mtavari Arkhi [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+#EXTINF:-1 tvg-id="ObieqtiviTV.ge@SD" tvg-logo="https://i.imgur.com/Kqc8H8X.png" group-title="News" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="News" x-source-check="upstream-only",Obieqtivi TV [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge@SD" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="News" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="News" x-source-check="upstream-only",Palitra News (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="RioniTV.ge@SD" tvg-logo="https://i.imgur.com/ogMqmth.png" group-title="Undefined" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="Undefined" x-source-check="upstream-only",Rioni TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" tvg-logo="https://i.imgur.com/rPqd1Cx.png" group-title="Undefined" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="Undefined" x-source-check="upstream-only",Rustavi 2 [SOURCE NOT DAILY-VALIDATED]
+http://31.146.5.178:8087/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports3.ge@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 3 [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 tvg-id="TVPirveli.ge@SD" tvg-logo="https://i.imgur.com/cGHsM1x.png" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",TV Pirveli [SOURCE NOT DAILY-VALIDATED]
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
+#EXTINF:-1 tvg-id="TVC.ge@SD" tvg-logo="https://sul.ge/images/televizia/tvc.png" group-title="General" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-original-group="General" x-source-check="upstream-only",TVC (Georgia) (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://31.146.5.178:8087/play/a009/index.m3u8
