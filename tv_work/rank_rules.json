@@ -17,18 +17,24 @@
       "Klan News"
     ],
     "dz": [
-      "EPTV",
+      "Samira TV",
+      "Echorouk TV",
+      "MBC 2",
+      "El-Heddaf TV",
+      "Ennahar TV",
+      "MBC 4",
+      "beIN Sports",
+      "ENTV",
+      "MBC Max",
+      "National Geographic Abu Dhabi",
+      "El Bilad",
+      "Echorouk News",
       "TV1",
       "TV2",
       "TV3",
       "TV4",
       "TV5",
       "TV6",
-      "Echorouk",
-      "El-Heddaf TV",
-      "El Bilad",
-      "Ennahar",
-      "Elwatania TV",
       "AL24 News"
     ],
     "ad": [
@@ -36,13 +42,14 @@
       "ATV"
     ],
     "ao": [
+      "TV Zimbo",
       "TPA 1",
       "TPA1",
+      "ZAP Novelas",
       "TPA 2",
       "TPA2",
-      "TV Zimbo",
-      "ZAP Viva",
-      "KK TV Angola"
+      "KK TV Angola",
+      "Muzangala TV"
     ],
     "ag": [
       "ABS TV",
@@ -319,12 +326,16 @@
     ],
     "cy": [
       "RIK 1",
+      "RIK1",
       "RIK 2",
+      "RIK2",
       "RIK HD",
-      "Sigma TV",
       "ANT1 Cyprus",
+      "Sigma TV",
       "Omega Channel",
-      "Alpha TV"
+      "Alpha TV",
+      "Plus TV",
+      "Antenna Cyprus"
     ],
     "cz": [
       "ČT1",
@@ -441,15 +452,21 @@
       "Formula"
     ],
     "de": [
-      "Das Erste",
       "ZDF",
+      "Das Erste",
+      "ARD",
       "RTL",
-      "Sat.1",
+      "VOX",
+      "SAT.1",
+      "ZDFneo",
       "ProSieben",
-      "RTL Zwei",
-      "n-tv",
+      "Kabel Eins",
       "WELT",
-      "Kabel Eins"
+      "arte",
+      "n-tv",
+      "RTL ZWEI",
+      "Phoenix",
+      "3sat"
     ],
     "gh": [
       "TV3",
@@ -717,16 +734,18 @@
     ],
     "my": [
       "TV3",
-      "8TV",
       "TV9",
+      "8TV",
       "TV1",
       "TV2",
-      "NTV7",
+      "TV6",
       "Astro Awani",
       "Bernama TV",
+      "NTV7",
       "TV Okey",
       "RTM ASEAN",
-      "DidikTV"
+      "DidikTV",
+      "Sukan RTM"
     ],
     "mv": [
       "PSM",
@@ -1327,6 +1346,123 @@
       "ZTN",
       "3K TV",
       "Heritage TV"
+    ],
+    "tr": [
+      "TRT 1",
+      "Show TV",
+      "Kanal D",
+      "ATV",
+      "TRT Spor",
+      "Beyaz TV",
+      "CNN Türk",
+      "Star TV",
+      "TV8",
+      "TRT Haber",
+      "NOW",
+      "A Spor",
+      "NTV",
+      "Habertürk",
+      "A Haber",
+      "Kanal 7",
+      "TRT World",
+      "TRT Müzik",
+      "PowerTürk TV"
+    ],
+    "kktc": [
+      "BRT 1",
+      "BRT1",
+      "BRT 2",
+      "BRT2",
+      "BRT 3",
+      "BRT3",
+      "Ada TV",
+      "Genç TV",
+      "Genc TV",
+      "Kanal T",
+      "Kıbrıs TV",
+      "Kibris TV",
+      "TV 2020",
+      "SİM TV",
+      "Sim TV",
+      "BRT Spor",
+      "Güneş TV",
+      "Sokak TV",
+      "Kıbrıs Genç TV"
+    ],
+    "ps": [
+      "Palestine Satellite Channel",
+      "Palestine Mubasher",
+      "Wattan TV",
+      "Ma'an TV",
+      "Ma’an TV",
+      "Al Najah News",
+      "Falastini TV",
+      "Ajyal TV",
+      "Palestine Today"
+    ],
+    "tw": [
+      "TVBS",
+      "SET News",
+      "CTS",
+      "TTV",
+      "FTV Taiwan",
+      "ETTV",
+      "Formosa TV",
+      "EBC News",
+      "Taiwan Indigenous TV"
+    ],
+    "hk": [
+      "TVB Jade",
+      "Jade",
+      "ViuTV",
+      "HOY TV",
+      "TVB News",
+      "RTHK TV"
+    ],
+    "mo": [
+      "TDM",
+      "Macau Lotus",
+      "TDM Macau"
+    ],
+    "pr": [
+      "WAPA",
+      "Telemundo Puerto Rico",
+      "WIPR",
+      "TeleOnce",
+      "WKAQ"
+    ],
+    "sol": [
+      "Somaliland National TV",
+      "SLNTV",
+      "Horn Cable TV"
+    ],
+    "nu": [
+      "Tagata TV",
+      "Niue TV"
+    ],
+    "ck": [
+      "Cook Islands Television",
+      "CITV"
+    ],
+    "eh": [
+      "RASD TV",
+      "SADR TV"
+    ],
+    "fo": [
+      "Kringvarp Føroya",
+      "KVF"
+    ],
+    "gl": [
+      "KNR TV",
+      "KNR Greenland"
+    ],
+    "cw": [
+      "TeleCuraçao",
+      "TV Direct 13"
+    ],
+    "va": [
+      "Telepace",
+      "Vatican Media"
     ]
   },
   "aliases": {
@@ -1400,6 +1536,8 @@
   },
   "meta": {
     "prepared": "2026-10-29",
-    "rule": "country-specific order arrays are rank hints; otherwise national/public broadcaster and major-news patterns precede general content"
+    "rule": "country-specific order arrays are rank hints; otherwise national/public broadcaster and major-news patterns precede general content",
+    "updated": "2026-10-29",
+    "notes": "Rank-order hints revised using available audience/rating research; fallback ranks are broadcaster prominence, not claimed measured ratings."
   }
 }
