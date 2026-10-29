@@ -1,0 +1,92 @@
+#EXTM3U
+#STAGE|world-tv-source-batch|12
+#COUNTRY-AUDIT|lt|Lithuania|🇱🇹|18|daily
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" group-title="Culture;Sports" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Culture;Sports" x-source-check="daily",LRT Plius (1080p)
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt@SD" tvg-logo="https://i.imgur.com/5wpxVI0.png" group-title="Entertainment" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Entertainment" x-source-check="daily",Lietuvos Rytas TV (1080p)
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTINF:-1 tvg-id="DelfiTV.lt@SD" tvg-logo="https://i.imgur.com/IFoHP5M.png" group-title="General" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="General" x-source-check="daily",Delfi TV
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 tvg-id="LNK.lt@SD" tvg-logo="https://i.imgur.com/arCZ56g.png" group-title="General" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="General" x-source-check="daily",LNK (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-id="LRTTV.lt@SD" tvg-logo="https://i.imgur.com/FL2ZuGC.png" group-title="General" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="General" x-source-check="daily",LRT TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 tvg-id="2TV.lt@SD" tvg-logo="https://i.imgur.com/sZUIhGc.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",2TV (1080p)
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+#EXTINF:-1 tvg-id="LRTKlasika.lt@SD" tvg-logo="https://i.imgur.com/Fa8Vhu0.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",LRT Klasika (1080p)
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-logo="https://i.imgur.com/oLuZTMH.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",LRT Opus (1080p)
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 tvg-id="M1.lt@SD" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",M-1 (480p)
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerHitRadio.lt@SD" tvg-logo="https://i.imgur.com/GOlQbfC.png" group-title="Music" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Music" x-source-check="daily",Power Hit Radio (576p)
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+#EXTINF:-1 tvg-id="InfoTV.lt@SD" tvg-logo="https://i.imgur.com/EjQtIpM.png" group-title="News" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="News" x-source-check="daily",Info TV (1080p)
+https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
+#EXTINF:-1 tvg-id="LRTRadijas.lt@SD" tvg-logo="https://i.imgur.com/gYoaqju.png" group-title="News" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="News" x-source-check="daily",LRT Radijas (1080p)
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 tvg-id="BalticumTV.lt@SD" tvg-logo="https://i.imgur.com/35tm57M.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",Balticum TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/376/index.m3u8
+#EXTINF:-1 tvg-id="BTV.lt@SD" tvg-logo="https://i.imgur.com/AeplGsP.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",BTV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/35/index.m3u8
+#EXTINF:-1 tvg-id="TV1.lt@SD" tvg-logo="https://i.imgur.com/KLWDcFy.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",TV1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd
+#EXTINF:-1 tvg-id="TV3.lt@SD" tvg-logo="https://i.imgur.com/7nipq0y.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",TV3 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 tvg-id="TV8.lt@SD" tvg-logo="https://i.imgur.com/9g3wknl.png" group-title="Undefined" x-country-code="lt" x-country-name="🇱🇹 Lithuania" x-original-group="Undefined" x-source-check="daily",TV8 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/374/index.m3u8
+#COUNTRY-AUDIT|lu|Luxembourg|🇱🇺|10|daily
+#EXTINF:-1 tvg-id="eldoTV.lu@SD" tvg-logo="https://i.imgur.com/vCMQLlt.png" group-title="Entertainment" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Entertainment" x-source-check="daily",eldo.TV (1080p)
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 tvg-id="DudelangeTV.lu@SD" tvg-logo="https://i.imgur.com/2dLYZsc.png" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",Dudelange TV (720p)
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MierschTV.lu@SD" tvg-logo="https://i.imgur.com/Vdc1GYP.jpg" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",MierschTV
+https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD" tvg-logo="https://i.imgur.com/qyc8LsE.png" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",RTL Radio Web TV (1080p)
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu@SD" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",RTL Télé Lëtzebuerg (1080p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwee.lu@SD" tvg-logo="https://i.imgur.com/7SmCtyy.png" group-title="General" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="General" x-source-check="daily",RTL Zwee (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxembourgGlobalRadioTV.lu@HD" tvg-logo="https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10" group-title="Lifestyle" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Lifestyle" x-source-check="daily",Luxembourg Global Radio TV (1080p)
+https://stream.globalradio.lu/lgr/index.m3u8
+#EXTINF:-1 tvg-id="apartTV.lu@SD" tvg-logo="https://i.imgur.com/IBcMIcZ.png" group-title="Lifestyle;Business;Culture" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Lifestyle;Business;Culture" x-source-check="daily",apart TV (1080p)
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu@SD" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="Music" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Music" x-source-check="daily",RTL Gold (1080p)
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu@SD" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="Music" x-country-code="lu" x-country-name="🇱🇺 Luxembourg" x-original-group="Music" x-source-check="daily",RTL Today Radio (720p)
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#COUNTRY-AUDIT|mo|Macao|🇲🇴|1|daily
+#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="General" x-country-code="mo" x-country-name="🇲🇴 Macao" x-original-group="General" x-source-check="daily",Lotus Macau HD 720p (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#COUNTRY-AUDIT|mg|Madagascar|🇲🇬|0|none
+#COUNTRY-AUDIT|my|Malaysia|🇲🇾|5|daily
+#EXTINF:-1 tvg-id="MaahTV.my@SD" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Movies" x-country-code="my" x-country-name="🇲🇾 Malaysia" x-original-group="Movies" x-source-check="daily",Maah TV (720p)
+https://hls.maahtv.live/hls/stream.m3u8
+#COUNTRY-AUDIT|mv|Maldives|🇲🇻|5|daily
+#EXTINF:-1 tvg-id="Channel13.mv@SD" tvg-logo="https://i.imgur.com/lR5jUSU.jpeg" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="daily",Channel 13
+https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8
+#EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-logo="https://i.imgur.com/21tpl5b.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="daily",MMTV (1080p)
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-id="NTV.mv@SD" tvg-logo="https://i.imgur.com/jnXpcwV.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="daily",NTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
+#EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="https://i.imgur.com/QxdkiCZ.png" group-title="General" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="General" x-source-check="daily",Raajje TV
+https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
+#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="News" x-country-code="mv" x-country-name="🇲🇻 Maldives" x-original-group="News" x-source-check="daily",VTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
+#COUNTRY-AUDIT|ml|Mali|🇲🇱|1|daily
+#EXTINF:-1 tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="Entertainment" x-country-code="ml" x-country-name="🇲🇱 Mali" x-original-group="Entertainment" x-source-check="daily",D3 TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+#COUNTRY-AUDIT|mt|Malta|🇲🇹|2|daily
+#EXTINF:-1 tvg-id="MedTV.mt@SD" tvg-logo="https://i.imgur.com/ejGeXPD.png" group-title="Culture" x-country-code="mt" x-country-name="🇲🇹 Malta" x-original-group="Culture" x-source-check="daily",Med.TV (720p)
+https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+#EXTINF:-1 tvg-id="One.mt@SD" tvg-logo="https://i.imgur.com/UPlfzFx.png" group-title="General" x-country-code="mt" x-country-name="🇲🇹 Malta" x-original-group="General" x-source-check="daily",One
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
