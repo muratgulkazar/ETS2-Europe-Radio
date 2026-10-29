@@ -1,0 +1,129 @@
+#EXTM3U
+#FALLBACK-BATCH|9
+#COUNTRY-FALLBACK-AUDIT|me|Montenegro|8
+#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me@SD" tvg-logo="https://i.imgur.com/vTZjEC5.png" group-title="General" x-country-code="me" x-country-name="🇲🇪 Montenegro" x-original-group="General" x-source-check="upstream-only",Radio televizija Rozaje (614p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
+#EXTINF:-1 tvg-id="TVNiksic.me@SD" tvg-logo="https://i.imgur.com/51fGwzn.png" group-title="Undefined" x-country-code="me" x-country-name="🇲🇪 Montenegro" x-original-group="Undefined" x-source-check="upstream-only",TV Niksic (720p) [SOURCE NOT DAILY-VALIDATED]
+https://tv.rtv-niksic.me/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVTeuta.me@SD" tvg-logo="https://i.imgur.com/sWVqBuW.png" group-title="General" x-country-code="me" x-country-name="🇲🇪 Montenegro" x-original-group="General" x-source-check="upstream-only",TV Teuta [SOURCE NOT DAILY-VALIDATED]
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="Undefined" x-country-code="me" x-country-name="🇲🇪 Montenegro" x-original-group="Undefined" x-source-check="upstream-only",TVCG MNE (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|ma|Morocco|12
+#EXTINF:-1 tvg-id="2M.ma@SD" tvg-logo="https://i.imgur.com/PJYTfHi.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="upstream-only",2M [SOURCE NOT DAILY-VALIDATED]
+http://185.9.2.18/chid_218/index.m3u8
+#EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" http-referrer="http://www.radio2m.ma/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="upstream-only",2M Monde (360p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="upstream-only",2M Monde +1 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma@SD" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="upstream-only",Al Maghribia (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://185.9.2.18/chid_205/index.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="Sports" x-source-check="upstream-only",Arryadia (720p) [SOURCE NOT DAILY-VALIDATED]
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="ChadaTV.ma@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png" group-title="General" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="General" x-source-check="upstream-only",Chada TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="News" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="News" x-source-check="upstream-only",Medi1TV Afrique (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="News" x-source-check="upstream-only",Medi1TV Arabic (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="News" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="News" x-source-check="upstream-only",Medi1TV Maghreb (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
+#EXTINF:-1 tvg-id="StoryChannelTV.ma@SD" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture" x-country-code="ma" x-country-name="🇲🇦 Morocco" x-original-group="Culture" x-source-check="upstream-only",StoryChannel TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://136044159.r.cdnsun.net/storychannel.m3u8
+#COUNTRY-FALLBACK-AUDIT|mz|Mozambique|5
+#EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" group-title="Business" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="Business" x-source-check="upstream-only",MNTV [SOURCE NOT DAILY-VALIDATED]
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-logo="https://i.imgur.com/oAygpDw.png" group-title="Kids" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="Kids" x-source-check="upstream-only",Reino Infantil [SOURCE NOT DAILY-VALIDATED]
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 tvg-id="TVManaMocambique.mz@SD" tvg-logo="https://i.imgur.com/R5YrV5s.png" group-title="Religious" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="Religious" x-source-check="upstream-only",TV Mana Mocambique (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVitoria.mz@SD" tvg-logo="https://i.imgur.com/HlWzzfj.png" group-title="Entertainment" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="Entertainment" x-source-check="upstream-only",TV Vitoria (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="General" x-country-code="mz" x-country-name="🇲🇿 Mozambique" x-original-group="General" x-source-check="upstream-only",TVM (Mozambique) (480p) [SOURCE NOT DAILY-VALIDATED]
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|mm|Myanmar|18
+#EXTINF:-1 tvg-id="5Plus.mm@SD" tvg-logo="https://i.imgur.com/4EHL2mH.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="upstream-only",5 Plus (720p) [SOURCE NOT DAILY-VALIDATED]
+https://mmtvs.exliatycl.online/5plus/stream.m3u8
+#EXTINF:-1 tvg-id="Channel9.mm@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg" group-title="Undefined" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Undefined" x-source-check="upstream-only",Channel 9 (Myanmar) (720p) [SOURCE NOT DAILY-VALIDATED]
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
+#EXTINF:-1 tvg-id="ChannelK.mm@SD" tvg-logo="https://i.imgur.com/6PqxuhF.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="upstream-only",Channel K (720p) [SOURCE NOT DAILY-VALIDATED]
+https://mmtvs.exliatycl.online/channelk/stream.m3u8
+#EXTINF:-1 tvg-id="FortuneTV.mm@SD" tvg-logo="https://i.imgur.com/MM5evnD.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="upstream-only",Fortune TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-id="HluttawSD.mm@SD" tvg-logo="https://i.imgur.com/Gffq8ks.png" group-title="Legislative" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Legislative" x-source-check="upstream-only",Hluttaw S & D [SOURCE NOT DAILY-VALIDATED]
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 tvg-id="MEntertainmentChannel.mm@SD" tvg-logo="https://i.imgur.com/6PcdTZ2.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="upstream-only",M Entertainment Channel (720p) [SOURCE NOT DAILY-VALIDATED]
+https://mmtvs.exliatycl.online/mchannel/stream.m3u8
+#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="General" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="General" x-source-check="upstream-only",MRTV [SOURCE NOT DAILY-VALIDATED]
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm@SD" tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="upstream-only",MRTV Entertainment [SOURCE NOT DAILY-VALIDATED]
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary;Lifestyle" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Documentary;Lifestyle" x-source-check="upstream-only",MRTV Farmer [SOURCE NOT DAILY-VALIDATED]
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm@SD" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="News" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="News" x-source-check="upstream-only",MRTV News [SOURCE NOT DAILY-VALIDATED]
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Culture" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Culture" x-source-check="upstream-only",MRTV NRC [SOURCE NOT DAILY-VALIDATED]
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Sports" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Sports" x-source-check="upstream-only",MRTV Sports [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1 tvg-id="MWD.mm@SD" tvg-logo="https://i.imgur.com/zyTQG9F.png" group-title="General" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="General" x-source-check="upstream-only",MWD (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-logo="https://i.imgur.com/5KRsqeF.png" group-title="Movies" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Movies" x-source-check="upstream-only",MWD Movies [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" group-title="Entertainment" x-country-code="mm" x-country-name="🇲🇲 Myanmar" x-original-group="Entertainment" x-source-check="upstream-only",MWD Variety (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|na|Namibia|2
+#EXTINF:-1 tvg-id="NBC1.na@SD" tvg-logo="https://i.imgur.com/ykQerMH.png" group-title="General" x-country-code="na" x-country-name="🇳🇦 Namibia" x-original-group="General" x-source-check="upstream-only",NBC 1 [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://hls2.nbcplus.na/hls/high_nbc1.m3u8
+#EXTINF:-1 tvg-id="TjilTV.na@SD" tvg-logo="https://i.imgur.com/iBbawJ0.png" group-title="Music" x-country-code="na" x-country-name="🇳🇦 Namibia" x-original-group="Music" x-source-check="upstream-only",Tjil TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
+#COUNTRY-FALLBACK-AUDIT|np|Nepal|21
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="upstream-only",Capital TV HD (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+#EXTINF:-1 tvg-id="CapitalTVHD.np@HD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="upstream-only",Capital TV HD HD [SOURCE NOT DAILY-VALIDATED]
+https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" group-title="Religious" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Religious" x-source-check="upstream-only",Divya Darshan TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@HD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" group-title="Religious" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Religious" x-source-check="upstream-only",Divya Darshan TV HD (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="upstream-only",Indigenous Television (720p) [SOURCE NOT DAILY-VALIDATED]
+https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@HD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="upstream-only",Kantipur TV [SOURCE NOT DAILY-VALIDATED]
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="upstream-only",Kantipur TV SD (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="General" x-source-check="upstream-only",Mithila Nepal TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="Public4KTV.np@HD" tvg-logo="https://i.imgur.com/JxEzgDP.png" group-title="Entertainment" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Entertainment" x-source-check="upstream-only",Public 4K TV HD [SOURCE NOT DAILY-VALIDATED]
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-id="RayTVHD.np@HD" tvg-logo="https://i.ibb.co/HpXHd5bQ/Ray-TV-HD.png" group-title="Entertainment;General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Entertainment;General" x-source-check="upstream-only",Ray TV HD [SOURCE NOT DAILY-VALIDATED]
+https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
+#EXTINF:-1 tvg-id="RayTVHD.np@SD" tvg-logo="https://i.ibb.co/HpXHd5bQ/Ray-TV-HD.png" group-title="Entertainment;General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Entertainment;General" x-source-check="upstream-only",Ray TV HD SD (576p) [SOURCE NOT DAILY-VALIDATED]
+https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np@SD" tvg-logo="https://i.imgur.com/5fZF69m.png" group-title="Entertainment;General" x-country-code="np" x-country-name="🇳🇵 Nepal" x-original-group="Entertainment;General" x-source-check="upstream-only",TV Today Janakpur [SOURCE NOT DAILY-VALIDATED]
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|nc|New Caledonia|1
+#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc@SD" tvg-logo="https://i.imgur.com/BJgNq21.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="nc" x-country-name="🇳🇨 New Caledonia" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="General",Nouvelle Caledonie 1ere (1080p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
+#COUNTRY-FALLBACK-AUDIT|nz|New Zealand|27
+#EXTINF:-1 tvg-id="Channel200.nz@SD" tvg-logo="https://i.imgur.com/gAebu4q.png" group-title="Entertainment" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Entertainment" x-source-check="upstream-only",Channel 200 (540p) [SOURCE NOT DAILY-VALIDATED]
+https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="Firstlight.nz@SD" tvg-logo="https://i.imgur.com/gtDROeT.png" group-title="Religious" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Religious" x-source-check="upstream-only",Firstlight (576p) [SOURCE NOT DAILY-VALIDATED]
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV.nz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Lifestyle" x-source-check="upstream-only",HGTV (New Zealand) (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-id="JuiceTV.nz@SD" tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="Music" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Music" x-source-check="upstream-only",Juice TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="KordiaTV.nz@SD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined" x-source-check="upstream-only",Kordia TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="Legislative" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Legislative" x-source-check="upstream-only",Parliament TV (New Zealand) (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="TeReo.nz@SD" tvg-logo="https://i.imgur.com/3CNvYUN.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined" x-source-check="upstream-only",Te Reo (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://i.mjh.nz/.r/te-reo.m3u8
+#EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined" x-source-check="upstream-only",Wairarapa TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
+#EXTINF:-1 tvg-id="WhakaataMaori.nz@SD" tvg-logo="https://i.imgur.com/oT3PrHZ.png" group-title="Undefined" x-country-code="nz" x-country-name="🇳🇿 New Zealand" x-original-group="Undefined" x-source-check="upstream-only",Whakaata Maori (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://i.mjh.nz/.r/maori-tv.m3u8
