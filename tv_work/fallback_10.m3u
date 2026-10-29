@@ -1,0 +1,150 @@
+#EXTM3U
+#FALLBACK-BATCH|10
+#COUNTRY-FALLBACK-AUDIT|ni|Nicaragua|20
+#EXTINF:-1 tvg-id="Canal6.ni@SD" tvg-logo="https://i.imgur.com/6BWAZdq.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",Canal 6 (Nicaragua) (480p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7Boaco.ni@SD" tvg-logo="https://i.imgur.com/chXNX9k.jpeg" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",Canal 7 Boaco (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cdn.amixtv.com/c7boaco/index.m3u8
+#EXTINF:-1 tvg-id="Canal10.ni@SD" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",Canal 10 (Nicaragua) [SOURCE NOT DAILY-VALIDATED]
+https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
+#EXTINF:-1 tvg-id="Canal12.ni@SD" tvg-logo="https://i.imgur.com/UhEW8cj.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",Canal 12 (Nicaragua) (576p) [SOURCE NOT DAILY-VALIDATED]
+http://45.228.234.9:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="Canal15.ni@SD" tvg-logo="https://i.imgur.com/DGBMuEs.png" group-title="Education" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Education" x-source-check="upstream-only",Canal 15 (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCvision.ni@SD" tvg-logo="https://i.imgur.com/WUq3NlG.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",Canal Cvision (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.cvision.live/cvision_stream.m3u8
+#EXTINF:-1 tvg-id="CDNN23.ni@SD" tvg-logo="https://i.imgur.com/7CNzlB6.png" group-title="News" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="News" x-source-check="upstream-only",CDNN 23 (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="EscuchameRadioTV.ni@SD" tvg-logo="https://i.imgur.com/gt6UvG8.png" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious" x-source-check="upstream-only",Escuchame Radio TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+#EXTINF:-1 tvg-id="JBN.ni@SD" tvg-logo="https://i.imgur.com/vFi0FMZ.png" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious" x-source-check="upstream-only",JBN (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://hdbox.chunklistv.com/live?stream=jbn39
+#EXTINF:-1 tvg-id="MegaBox.ni@SD" tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="Music" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Music" x-source-check="upstream-only",MegaBox (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://hdbox.chunklistv.com/live?stream=megabox
+#EXTINF:-1 tvg-id="MTVChontales.ni@SD" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",MTV Chontales (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://altair.hostingnica.net/hls/mtv_stream/index.m3u8
+#EXTINF:-1 tvg-id="OlamMetroTV.ni@SD" tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious" x-source-check="upstream-only",Olam Metro TV (720p) [SOURCE NOT DAILY-VALIDATED]
+https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
+#EXTINF:-1 tvg-id="RadioVisiondeDiosStereo.ni@SD" tvg-logo="https://i.imgur.com/ckY8DRW.jpg" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious" x-source-check="upstream-only",Radio Vision de Dios Stereo (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8
+#EXTINF:-1 tvg-id="TN8.ni@SD" tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",TN8 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://streamingcws30.com/tn8/videotn8/playlist.m3u8
+#EXTINF:-1 tvg-id="TV45.ni@SD" tvg-logo="https://i.imgur.com/sI0msrn.png" group-title="Religious" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Religious" x-source-check="upstream-only",TV 45 (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
+#EXTINF:-1 tvg-id="TVONENicaragua.ni@SD" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Music" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Music" x-source-check="upstream-only",TVONE Nicaragua (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://hdbox.chunklistv.com/live?stream=tvone
+#EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni@SD" tvg-logo="https://i.imgur.com/9q7Ajz4.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",Viva Nicaragua Canal 13 (720p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.vivamediosni.com/viva_720p/index.m3u8
+#EXTINF:-1 tvg-id="VivaTV.ni@SD" tvg-logo="https://i.imgur.com/n0buXRa.jpeg" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",Viva TV [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://cdn.amixtv.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-id="VosTV.ni@SD" tvg-logo="https://i.imgur.com/Lbi87xv.png" group-title="General" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="General" x-source-check="upstream-only",Vos TV (Nicaragua) (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVCanal20.ni@SD" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entertainment" x-country-code="ni" x-country-name="🇳🇮 Nicaragua" x-original-group="Entertainment" x-source-check="upstream-only",WTV Canal 20 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|ne|Niger|6
+#EXTINF:-1 tvg-id="DouniaTV.ne@SD" tvg-logo="https://i.imgur.com/ENBCDaQ.png" group-title="General" x-country-code="ne" x-country-name="🇳🇪 Niger" x-original-group="General" x-source-check="upstream-only",Dounia TV [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+#EXTINF:-1 tvg-id="SaraouniaTV.ne@SD" tvg-logo="https://i.imgur.com/O8XIcpH.png" group-title="General" x-country-code="ne" x-country-name="🇳🇪 Niger" x-original-group="General" x-source-check="upstream-only",Saraounia TV [SOURCE NOT DAILY-VALIDATED]
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+#EXTINF:-1 tvg-id="TalTV.ne@SD" tvg-logo="https://i.imgur.com/KWMP0t1.png" group-title="Entertainment" x-country-code="ne" x-country-name="🇳🇪 Niger" x-original-group="Entertainment" x-source-check="upstream-only",Tal TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD" tvg-logo="https://i.imgur.com/vboq428.png" group-title="General" x-country-code="ne" x-country-name="🇳🇪 Niger" x-original-group="General" x-source-check="upstream-only",Tele Sahel (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|kp|North Korea|4
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="General" x-country-code="kp" x-country-name="🇰🇵 North Korea" x-original-group="General" x-source-check="upstream-only",Korean Central Television (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" tvg-logo="https://i.imgur.com/p02AEOF.png" http-referrer="https://kcnawatch.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML x-country-code="kp" x-country-name="🇰🇵 North Korea" x-original-group="" x-source-check="upstream-only", like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="General",Korean Central Television SD (576p) [SOURCE NOT DAILY-VALIDATED]
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" tvg-logo="https://i.imgur.com/1BHJjY4.png" group-title="Education" x-country-code="kp" x-country-name="🇰🇵 North Korea" x-original-group="Education" x-source-check="upstream-only",Ryongnamsan Television (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.koryocdn.org/ryongnamsan/index.m3u8
+#EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="Sports" x-country-code="kp" x-country-name="🇰🇵 North Korea" x-original-group="Sports" x-source-check="upstream-only",Sports Television (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.koryocdn.org/sports/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|mk|North Macedonia|31
+#EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" group-title="Sports" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Sports" x-source-check="upstream-only",Arena Sport Premium M1 [SOURCE NOT DAILY-VALIDATED]
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
+#EXTINF:-1 tvg-id="ArenaSportPremiumM2.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png" group-title="Sports" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Sports" x-source-check="upstream-only",Arena Sport Premium M2 [SOURCE NOT DAILY-VALIDATED]
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4
+#EXTINF:-1 tvg-id="ArenaSportPremiumM3.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png" group-title="Sports" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Sports" x-source-check="upstream-only",Arena Sport Premium M3 [SOURCE NOT DAILY-VALIDATED]
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
+#EXTINF:-1 tvg-id="CoolTV.mk@SD" tvg-logo="https://i.imgur.com/2tFrjUz.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="upstream-only",Cool TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-id="FolkTV.mk@SD" tvg-logo="https://i.imgur.com/4b9aZ9P.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="upstream-only",Folk TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-id="JazzTV.mk@SD" tvg-logo="https://i.imgur.com/CbQlSFX.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="upstream-only",Jazz TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-id="Kanal5.mk@SD" tvg-logo="https://i.imgur.com/Qw7N3S2.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="upstream-only",Kanal 5 (360p) [SOURCE NOT DAILY-VALIDATED]
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveTV.mk@SD" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="upstream-only",Love TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="MNetHD.mk@SD" tvg-logo="https://i.imgur.com/HDYqWuR.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="upstream-only",M-Net HD (720p) [SOURCE NOT DAILY-VALIDATED]
+http://ares.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-id="MNetInfo.mk@SD" tvg-logo="https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg" group-title="News" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="News" x-source-check="upstream-only",M-Net Info [SOURCE NOT DAILY-VALIDATED]
+https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-id="MNetKids.mk@SD" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Kids" x-source-check="upstream-only",M-Net Kids (720p) [SOURCE NOT DAILY-VALIDATED]
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk@SD" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Sports" x-source-check="upstream-only",M-Net Sport (720p) [SOURCE NOT DAILY-VALIDATED]
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="NasaTV.mk@SD" tvg-logo="https://i.imgur.com/9rB4VZy.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="upstream-only",Nasa TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="RockTV.mk@SD" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="upstream-only",Rock TV (North Macedonia) (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="Sitel.mk@SD" tvg-logo="https://i.imgur.com/pdobwKt.png" group-title="Undefined" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Undefined" x-source-check="upstream-only",Sitel (480p) [SOURCE NOT DAILY-VALIDATED]
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" tvg-logo="https://i.imgur.com/ya5xpUL.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="upstream-only",Sky Folk TV (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="StarPlusTelevizija.mk@SD" tvg-logo="https://i.imgur.com/01yz22a.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="upstream-only",Star Plus Televizija (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 tvg-id="TopEstradaTV.mk@SD" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" group-title="Music" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="Music" x-source-check="upstream-only",TopEstrada TV (720p) [SOURCE NOT DAILY-VALIDATED]
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNOVA12.mk@SD" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="upstream-only",TV NOVA 12 (576p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-id="TVZdravkin.mk@SD" tvg-logo="https://i.imgur.com/w4rRUNQ.png" group-title="General" x-country-code="mk" x-country-name="🇲🇰 North Macedonia" x-original-group="General" x-source-check="upstream-only",TV Zdravkin (400p) [SOURCE NOT DAILY-VALIDATED]
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#COUNTRY-FALLBACK-AUDIT|no|Norway|116
+#EXTINF:-1 tvg-id="CanalMotor.no@SD" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-title="Auto" x-country-code="no" x-country-name="🇳🇴 Norway" x-original-group="Auto" x-source-check="upstream-only",Canal Motor (720p) [SOURCE NOT DAILY-VALIDATED]
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-id="Frikanalen.no@SD" tvg-logo="https://i.imgur.com/rY3Owxl.png" group-title="General" x-country-code="no" x-country-name="🇳🇴 Norway" x-original-group="General" x-source-check="upstream-only",Frikanalen (720p) [SOURCE NOT DAILY-VALIDATED]
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVOstfold.no@SD" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="General" x-country-code="no" x-country-name="🇳🇴 Norway" x-original-group="General" x-source-check="upstream-only",TV Ostfold (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://streamnorge.com:8088/hls/tvo.m3u8
+#EXTINF:-1 tvg-id="TVModum.no@SD" tvg-logo="https://i.imgur.com/kljua5X.png" group-title="General" x-country-code="no" x-country-name="🇳🇴 Norway" x-original-group="General" x-source-check="upstream-only",TVModum (720p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
+#COUNTRY-FALLBACK-AUDIT|om|Oman|5
+#EXTINF:-1 tvg-id="AlistiqamaTV.om@SD" tvg-logo="https://i.imgur.com/2FPtYZr.png" group-title="Religious" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="Religious" x-source-check="upstream-only",Alistiqama TV (576p) [SOURCE NOT DAILY-VALIDATED]
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="Sports" x-source-check="upstream-only",Oman Sports TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="General" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="General" x-source-check="upstream-only",Oman TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Culture" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="Culture" x-source-check="upstream-only",Oman TV Cultural (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="News" x-country-code="om" x-country-name="🇴🇲 Oman" x-original-group="News" x-source-check="upstream-only",Oman TV Mubashir (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#COUNTRY-FALLBACK-AUDIT|pg|Papua New Guinea|1
+#EXTINF:-1 tvg-id="NBCTV.pg@SD" tvg-logo="https://i.imgur.com/KNaaG5u.png" group-title="General" x-country-code="pg" x-country-name="🇵🇬 Papua New Guinea" x-original-group="General" x-source-check="upstream-only",NBC TV (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
+#COUNTRY-FALLBACK-AUDIT|ph|Philippines|17
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="News" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="News" x-source-check="upstream-only",Abante TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="Religious" x-source-check="upstream-only",CCTN 47 (1080p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="CLTV36.ph@SD" tvg-logo="https://i.imgur.com/2fGhl7q.png" group-title="General" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="General" x-source-check="upstream-only",CLTV 36 (720p) [Not 24/7] [SOURCE NOT DAILY-VALIDATED]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="Religious" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="Religious" x-source-check="upstream-only",Hope Channel Philippines (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+#EXTINF:-1 tvg-id="INCRadio.ph@SD" tvg-logo="https://i.imgur.com/y2Nrr68.png" group-title="Religious" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="Religious" x-source-check="upstream-only",INC Radio (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="INCTV.ph@SD" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="Religious" x-source-check="upstream-only",INC TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="Travel" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="Travel" x-source-check="upstream-only",Living Asia Channel (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@HD" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="General" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="General" x-source-check="upstream-only",Mindanow Network TV (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD" tvg-logo="https://i.imgur.com/UQeXWd2.png" group-title="Sports" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="Sports" x-source-check="upstream-only",Premier Sports 2 (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports.ph@SD" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="Sports" x-source-check="upstream-only",Premier Sports (1080p) [SOURCE NOT DAILY-VALIDATED]
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="Undefined" x-country-code="ph" x-country-name="🇵🇭 Philippines" x-original-group="Undefined" x-source-check="upstream-only",SMNI (720p) [SOURCE NOT DAILY-VALIDATED]
+https://stream.kdlc.click/hls/0/stream.m3u8
