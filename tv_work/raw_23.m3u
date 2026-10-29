@@ -1,0 +1,14 @@
+#EXTM3U
+#STAGE|tv_work/raw_23.m3u
+#COUNTRY-AUDIT|ye|Yemen|🇾🇪|4|validated source available
+#EXTINF:-1 tvg-id="AlMasirah.ye@SD" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="News" x-country-code="ye" x-country-name="🇾🇪 Yemen" x-original-group="News",Al Masirah (720p) [Not 24/7]
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasirahMubacher.ye@SD" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="News" x-country-code="ye" x-country-name="🇾🇪 Yemen" x-original-group="News",Al Masirah Mubacher (642p) [Not 24/7]
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSahatTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Religious" x-country-code="ye" x-country-name="🇾🇪 Yemen" x-original-group="Religious",Al-Sahat TV (720p)
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+#EXTINF:-1 tvg-id="YemenTodayTV.ye@SD" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="Undefined" x-country-code="ye" x-country-name="🇾🇪 Yemen" x-original-group="Undefined",Yemen Today TV (480p)
+https://video.yementdy.tv/hls/yementoday.m3u8
+#COUNTRY-AUDIT|zw|Zimbabwe|🇿🇼|1|validated source available
+#EXTINF:-1 tvg-id="YadahTV.zw@SD" tvg-logo="https://i.imgur.com/4BNVhoC.png" group-title="Religious" x-country-code="zw" x-country-name="🇿🇼 Zimbabwe" x-original-group="Religious",Yadah TV (576p) [Not 24/7]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
