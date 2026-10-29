@@ -1,0 +1,917 @@
+#EXTM3U
+#STAGE|upstream_06|source=iptv-org/iptv/streams
+#UPSTREAM-COUNTRY|pf|French Polynesia|🇵🇫|1
+#EXTINF:-1 tvg-id="TNTV.pf@SD" group-title="French Polynesia" x-country-code="pf" x-country-name="🇵🇫 French Polynesia" x-health="source-only" x-original-group="",TNTV (720p) [Not 24/7]
+https://bcovlive-a.akamaihd.net/34b9e8a6345d4ee8acb351730d1dbe89/us-west-2/5816339219001/playlist.m3u8
+#UPSTREAM-COUNTRY|gm|Gambia|🇬🇲|1
+#EXTINF:-1 tvg-id="QTVGambia.gm@SD" group-title="Gambia" x-country-code="gm" x-country-name="🇬🇲 Gambia" x-health="source-only" x-original-group="",QTV Gambia (720p) [Not 24/7]
+https://player.qtv.gm/hls/live.stream.m3u8
+#UPSTREAM-COUNTRY|ge|Georgia|🇬🇪|26
+#EXTINF:-1 tvg-id="1TV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",1TV (720p)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="1TV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",1TV
+http://nue01-edge01.itdc.ge/gpb/mpegts
+#EXTINF:-1 tvg-id="2TV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",2TV (720p)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="Adjarasport1.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 tvg-id="ApsuaTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+#EXTINF:-1 tvg-id="BMGTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Comedy TV
+http://31.146.5.178:8087/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Euronews Georgia
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-id="Formula.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Formula (1080p)
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="Formula.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Formula (1080p)
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 tvg-id="GDSTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",GDS TV
+http://31.146.5.178:8087/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Imedi TV (1080p)
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Imedi TV
+http://nue01-edge01.itdc.ge/imedihd/mpegts
+#EXTINF:-1 tvg-id="MtavariArkhi.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Mtavari Arkhi
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+#EXTINF:-1 tvg-id="ObieqtiviTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Obieqtivi TV
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Palitra News (480p) [Not 24/7]
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Palitra News (480p) [Not 24/7]
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="RioniTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Rioni TV (720p) [Not 24/7]
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Rustavi 2
+http://31.146.5.178:8087/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Rustavi 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+#EXTINF:-1 tvg-id="TVPirveli.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
+#EXTINF:-1 tvg-id="TVC.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",TVC (1080p)
+http://31.146.5.178:8087/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="AbazaTV.ru@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",АБАЗА-ТВ (1080p)
+https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports3.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",Setanta Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 tvg-id="GMSTV.ge@SD" group-title="Georgia" x-country-code="ge" x-country-name="🇬🇪 Georgia" x-health="source-only" x-original-group="",GMS TV
+http://158.101.222.193:88/georgia_play.php?id=gms
+#UPSTREAM-COUNTRY|de|Germany|🇩🇪|256
+#EXTINF:-1 tvg-id="123tv.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",3sat (720p) [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Adventure Earth (720p)
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlexBerlin.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+#EXTINF:-1 tvg-id="AllgauTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Allgäu TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AltenburgTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Altenburg TV (1080p)
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="AltenburgTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Altenburg TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ANIMAL KINGDOM (720p)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="AnixePlus.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Anixe + (360p)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Anixe HD Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ARD-alpha (720p) [Not 24/7]
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="AristoTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Aristo TV (360p)
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 tvg-id="arte.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ARTE (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Augsburg TV (a.tv) (1080p) [Not 24/7]
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticTravel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Baden TV (1080p) [Not 24/7]
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVImpuls.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVMusik.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Bibel TV Musik (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",BLK TV (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",BLK TV Hohenmölsen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
+#EXTINF:-1 tvg-id="BRFernsehen.de@Nord" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",BR Fernsehen Nord (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",BR Fernsehen Sud (1080p)
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Chemnitz Fernsehen (1080p)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="CiraTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Cira TV (1080p)
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-id="CiraTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Cira TV
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeLounge.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Deluxe Lounge (720p)
+https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Deluxe Rap (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="DMF.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DMF (1080p) [Not 24/7]
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dokusat.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Dokusat (1080p)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@Arabic" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (1080p)
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (720p)
+http://170.83.16.50/DW/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (720p)
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (576p)
+http://stream.mcquack.net/440/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (576p)
+https://cdn-7.pishow.tv/live/431/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW Espanol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW Espanol (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660
+#EXTINF:-1 tvg-id="DW.de@Espanol" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW Espanol (720p)
+http://45.162.231.38:7779/DW/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@Russian" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 tvg-id="EchtJetztTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",EchtJetzt TV (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ErzTVStollberg.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Filstalwelle.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Filstalwelle (1080p)
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Finest TV (288p) [Not 24/7]
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Folx Music Television
+https://folxapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="FrankenFernsehen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",FrankenPlus (1080p)
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Hamburg1.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Hamburg 1 (1080p)
+https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Handystar.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Handystar (404p) [Not 24/7]
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="HopeChannelGerman.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Hope Channel German (1080p)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="HSE.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="HSEExtra.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="HSETrend.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="iSTUFF.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",iSTUFF (720p) [Not 24/7]
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 tvg-id="Juwelo.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Juwelo (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 tvg-id="Kanal12SprembergTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Kanal12 Spremberg TV (404p) [Not 24/7]
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",KaufBei TV (576p)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",KaufBei TV
+https://elephant.t62a.com/hls/8103/index.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",KiKA (1080p) [Not 24/7]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="labor14.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Leipzig Fernsehen (1080p)
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="LightChannel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Light Channel (576p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 tvg-id="MagentaMusik360.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Magenta Musik 360 (1080p)
+https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-id="MCTV.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",MC TV (720p)
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="MDF1.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Sachsen" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",MDR Fernsehen Sachsen (1080p) [Geo-blocked]
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehen.de@SachsenAnhalt" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked]
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",MDR Fernsehen Thüringen (1080p) [Geo-blocked]
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Motorvision (576p)
+http://hls127.freeott.top:8080/Motorvision/video.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="MunchenTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",München TV (1080p) [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Nachrichten360.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Nachrichten 360 (1080p) [Geo-blocked]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+#EXTINF:-1 tvg-id="NashKinomir.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Nash Kinomir (576p)
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@MecklenburgVorpommern" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Nickelodeon Deutschland [Geo-blocked]
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Niederbayern TV Landshut (1080p) [Not 24/7]
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Niederbayern TV Landshut (1080p)
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Niederbayern TV Passau (1080p)
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="noa4Hamburg.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="noa4Norderstedt.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="NRWision.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",NRWision (1080p)
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OberpfalzTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Oberpfalz TV (1080p)
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="OFTVOffenbach.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-id="OFTVOffenbach.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-id="OK4.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK4 (720p) [Geo-blocked]
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OK54.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK54 (720p) [Geo-blocked]
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Dessau (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Dessau (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKFlensburg.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Flensburg (576p)
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-id="OKKaiserslautern.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Kaiserslautern (720p) [Geo-blocked]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKassel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Kassel (720p) [Geo-blocked]
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKiel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Kiel (576p)
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Magdeburg (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Merseburg-Querfurt (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinMain.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Rhein-Main (576p) [Geo-blocked]
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Salzwedel (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Salzwedel (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Stendal (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTrier.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Trier (720p) [Geo-blocked]
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Weinstraße (Neustadt) (432p) [Geo-blocked]
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTVLudwigshafen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",OK-TV Ludwigshafen (720p) [Geo-blocked]
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAdria.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="OneMusicTelevision.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",One Music Television
+https://oneapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="OstWest.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Ost West (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-id="OstWest24.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Ost West 24 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/455/index.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Parlamentsfernsehen 1 (1080p) [Geo-blocked]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Parlamentsfernsehen 2 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Parlamentsfernsehen 3 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="phoenix.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Phoenix (720p) [Geo-blocked]
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",PUNKTum Fernsehen (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="QVCZwei.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",QVC 2 Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-id="QVC.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",QVC Germany (720p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 tvg-id="QVCStyle.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",QVC Style Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 tvg-id="Radio21TV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Radio 21 TV (720p)
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBremenFernsehen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Radio Bremen Fernsehen (1080p) [Geo-blocked]
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Berlin" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RBB Berlin (1080p) [Geo-blocked]
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Brandenburg" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RBB Brandenburg (1080p) [Geo-blocked]
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-id="RBW.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RBW (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RBW Bitterfeld-Wolfen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Regio TV Bodensee (1080p)
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RFH (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RFH (1080p)
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
+#EXTINF:-1 tvg-id="RFO.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RFO (1080p)
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RiC.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RiC (1080p)
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-id="RocklandTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Rockland TV (480p) [Not 24/7]
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDE.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDE.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Saarland Fernsehen 2 (720p) [Not 24/7]
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenEins.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sachsen Eins (1080p)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SalveTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Salve TV (720p)
+https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
+#EXTINF:-1 tvg-id="Seenluft24.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="SenderNeuJerusalem.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sender Neu Jerusalem (576p)
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 tvg-id="SonnenklarTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-id="SonusFM.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sonus FM TV (1080p) [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="SonusFM.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sonus FM TV (1080p) [Not 24/7]
+https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sophia TV (720p)
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVEspanol.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sophia TV Español (720p)
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVFrancais.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sophia TV Français (720p)
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.it@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Sophia TV Italy (720p)
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="SRF.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",SRF (1080p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="teltOwkanal.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",teltOwkanal (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@German" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Terra Mater WILD (1080p)
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Terra Mater WILD English (1080p)
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="TideTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Tide TV (1080p) [Not 24/7]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TideTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Tide TV (1080p)
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TV38 Südost-Niedersachen (1080p)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="TVIngolstadt.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOberfranken.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TV Oberfranken (TVO) (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TVA (1080p) [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRUS.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TVRUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a082
+#EXTINF:-1 tvg-id="TVRUSPlus.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TVRUS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://83.228.75.166:8000/play/a0aq
+#EXTINF:-1 tvg-id="Unserding.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Unserding (720p) [Geo-blocked]
+https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
+#EXTINF:-1 tvg-id="VolksmusikTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR1Live.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR 1 Live (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-id="WDR1Live.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR 1 Live (720p)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Aachen" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bielefeld" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bonn" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Bonn (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dortmund" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Dortmund (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Duisburg" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dusseldorf" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Essen" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Essen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Köln (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Munster" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Münster (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Siegen" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Siegen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Wuppertal" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="YOLTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZDF.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ZDF (720p) [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ZDFinfo (720p) [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ZDFneo (720p) [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Zwei Music Television
+https://zweiapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (576p)
+https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (576p)
+https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+#EXTINF:-1 tvg-id="MTV.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",MTV
+https://ma.anixa.tv/clips/stream/mtv/playlist.php
+#EXTINF:-1 tvg-id="ComedyCentral.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Comedy Central
+https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+#EXTINF:-1 tvg-id="DW.de@Espanol" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW Espanol (720p)
+http://138.121.15.230:9002/DW/index.m3u8
+#EXTINF:-1 tvg-id="ZDF.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ZDF
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="3sat.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",3sat
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RTL
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenHD.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",SWR Fernsehen HD
+https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",n-tv
+https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RTL Super
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="VOX.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RTL Zwei
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="WELT.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",WELT
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Nitro.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Nitro
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Disney Channel
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ProSieben Maxx
+http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
+#EXTINF:-1 tvg-id="ZDFneo.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ZDFneo
+http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",kabel eins Doku
+http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
+#EXTINF:-1 tvg-id="RiC.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
+#EXTINF:-1 tvg-id="DMAX.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DMAX (576p)
+http://5.180.164.197:8080/DMAX/index.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ProSieben Maxx HD (360p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Disney Channel (576p)
+https://s6.hopslan.com/disneyX/index.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ZDFneo (720p)
+http://5.180.164.197:8080/ZDFNEO/index.m3u8
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",kabel eins Doku (720p)
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-id="TLC.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TLC (576p)
+https://s6.hopslan.com/tlcX/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=109
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",ProSieben Maxx (576p)
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Da Vinci Asia Vietnam (1080p)
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
+#EXTINF:-1 tvg-id="DasErste.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Das Erste HD (1080p) [Geo-blocked]
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="TELE5.de@SD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TELE 5 (576p)
+https://s6.hopslan.com/tele5X/index.m3u8
+#EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",TV Bozsike Hamburg HD (1080p)
+https://rtmp.radiobozsike.com/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@HD" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",Disney Channel HD
+http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany" x-country-code="de" x-country-name="🇩🇪 Germany" x-health="source-only" x-original-group="",DW English (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/116/116_0.m3u8
+#UPSTREAM-COUNTRY|gh|Ghana|🇬🇭|14
+#EXTINF:-1 tvg-id="AdinkraTV.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",Adinkra TV (1080p)
+https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
+#EXTINF:-1 tvg-id="APTV.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",AP TV
+https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",G-eye TV (1080p)
+https://online.geyetv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GTV.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",GTV (540p)
+#EXTVLCOPT:http-referrer=https://liveghanatv.com/
+https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Hope4LifeTV.us@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",Hope4Life TV (720p)
+http://144.217.14.88/hls/hope4life.m3u8
+#EXTINF:-1 tvg-id="HopeChannelGhana.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",Hope Channel Ghana (480p)
+https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
+#EXTINF:-1 tvg-id="MOGPATV.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",MOGPA TV
+https://bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MOGPATV.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",MOGPA TV
+https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MOGPATVPlus.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",MOGPA TV Plus
+https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",OTV (720p)
+https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PentTV.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
+#EXTINF:-1 tvg-id="ResurrectionTV.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",Resurrection TV (720p)
+https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
+#EXTINF:-1 tvg-id="TV3.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",TV3 (540p)
+#EXTVLCOPT:http-referrer=https://liveghanatv.com/
+https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.gh@SD" group-title="Ghana" x-country-code="gh" x-country-name="🇬🇭 Ghana" x-health="source-only" x-original-group="",TV3
+https://adesa.tv/live/tv3_AdesaAdb.m3u8
+#UPSTREAM-COUNTRY|gr|Greece|🇬🇷|78
+#EXTINF:-1 tvg-id="4E.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",4E (1080p)
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4E.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",4E
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AcheloosTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Acheloos TV (576p)
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="Action24.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Action 24 (1080p) [Not 24/7]
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="AeolosTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Aeolos TV (1080p)
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AigaioTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Aigaio TV (720p)
+https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlertTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Alert (576p) [Not 24/7]
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 tvg-id="AlphaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Alpha TV (1080p)
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ANT1.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ANT1 (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=http://watch.antennaplus.gr
+#EXTVLCOPT:http-user-agent=Chrome
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 tvg-id="ART.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ART (1080p)
+https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ART TV
+https://rtmp.win:3696/live/arttvgrlive.m3u8
+#EXTINF:-1 tvg-id="AstraTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Astra TV (1080p)
+https://server.gointernet.gr/live/livestream.m3u8
+#EXTINF:-1 tvg-id="BarazaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Baraza TV (1080p)
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Baraza TV Deep House (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Baraza TV Relaxing (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="BestTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Best TV (720p) [Not 24/7]
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BlueSkyTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Blue Sky TV (720p)
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 tvg-id="CenterTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Center TV (1080p)
+https://eu1.streams.gr:8081/centertv/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Channel 8 (1080p)
+https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
+#EXTINF:-1 tvg-id="CorfuChannel.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Corfu Channel (720p)
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCreta.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Creta (540p) [Not 24/7]
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="DELTATV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",DELTA TV (720p)
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DionTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Dion TV (1080p)
+https://rtmp.win:3650/live/diontvlive.m3u8
+#EXTINF:-1 tvg-id="EcclesiaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Ecclesia TV (1080p)
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1 tvg-id="EgnatiaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Egnatia TV (576p)
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 tvg-id="EllinikosFM.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Ellinikos FM (720p)
+https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+#EXTINF:-1 tvg-id="ENAChannel.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ENA Channel (1080p)
+https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="EpilogesTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Epiloges TV
+https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+#EXTINF:-1 tvg-id="EpirusTV1.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Epirus TV1 (720p)
+https://rtmp.win:3929/live/epiruslive.m3u8
+#EXTINF:-1 tvg-id="ERT3.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ERT3 (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
+#EXTINF:-1 tvg-id="ERTCosmos.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ERT Cosmos (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+#EXTINF:-1 tvg-id="ERTNews.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ERT News HD (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 tvg-id="ERTSports1.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ERT Sports 1 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 tvg-id="ERTSports2.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",ERT Sports 2 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 tvg-id="EuroTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Euro TV (432p)
+https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtraProNews.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Extra ProNews (576p)
+http://62.1.176.18:8888/extra/index.m3u8
+#EXTINF:-1 tvg-id="FarosTV2.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Faros TV2 (480p) [Geo-blocked]
+https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 tvg-id="GnomiTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Gnomi TV (1080p)
+https://live.streams.ovh:8081/gnomitv/index.m3u8
+#EXTINF:-1 tvg-id="GroovyTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Groovy TV (360p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Hellenic Parliament TV (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
+#EXTINF:-1 tvg-id="HighTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",High TV (720p) [Not 24/7]
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 tvg-id="IonianTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Ionian Channel (1080p) [Not 24/7]
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IonianTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Ionian Channel (720p) [Not 24/7]
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="KontraChannel.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Kontra Channel (1080p)
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-id="KosTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Kos TV (720p)
+https://eu1.streams.gr:8081/kostv/index.m3u8
+#EXTINF:-1 tvg-id="KritiTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Kriti TV (1080p)
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="LepantoTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Lepanto TV
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MesogeiosTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Mesogeios TV (720p)
+https://rtmp.win:3793/live/mesogeiostvlive.m3u8
+#EXTINF:-1 tvg-id="MessatidaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Messatida TV (720p)
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF:-1 tvg-id="NaftemporikiTV.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Naftemporiki TV (1080p)
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+#EXTINF:-1 tvg-id="NeaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Nea TV (720p)
+https://live.neatv.gr:8888/hls/neatv.m3u8
+#EXTINF:-1 tvg-id="NeaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Nea TV (720p)
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 tvg-id="NetmaxTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Netmax TV (720p)
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NotioiTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Notioi TV (1080p)
+https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1 tvg-id="NRG91.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",NRG 91 (720p) [Not 24/7]
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-id="OneChannel.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",One Channel (1080p) [Geo-blocked]
+https://onechannel.siliconweb.com/one/stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PanikTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Panik TV (1080p)
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-id="PellaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Pella TV (576p) [Not 24/7]
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 tvg-id="PlayTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Play TV (480p) [Not 24/7]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-id="ReloadPlay.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Reload Play (720p)
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 tvg-id="SamiakiTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Samiaki TV (540p) [Not 24/7]
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 tvg-id="SkaiTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Skai TV (720p)
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Star Channel International
+https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
+#EXTINF:-1 tvg-id="StarChannel.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",STAR HD (1080p)
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",STAR International (720p)
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Star Kentrikis Elladas (1080p)
+https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+#EXTINF:-1 tvg-id="StartTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Start TV (480p)
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 tvg-id="SyrosTV1.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Syros TV1 (720p)
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Telekriti.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Telekriti (720p) [Not 24/7]
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-id="ThrakiNetTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Thraki Net TV (1080p)
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-id="TopChannel.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Top Channel (720p)
+https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",TRT (720p)
+https://av.hellasnet.tv/rst/trt/main_stream.m3u8
+#EXTINF:-1 tvg-id="TV100.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",TV 100 (720p)
+https://gwebstream.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="TVCreta.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",TV Creta (540p) [Not 24/7]
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:-1 tvg-id="VerginaTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Vergina TV (1080p)
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+#EXTINF:-1 tvg-id="Xplore.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Xplore (714p) [Geo-blocked]
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 tvg-id="ZouglaTV.gr@HD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Zougla TV (720p)
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" group-title="Greece" x-country-code="gr" x-country-name="🇬🇷 Greece" x-health="source-only" x-original-group="",Βουλή Τηλεόραση (360p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#UPSTREAM-COUNTRY|gp|Guadeloupe|🇬🇵|5
+#EXTINF:-1 tvg-id="ETV.gp@SD" group-title="Guadeloupe" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-health="source-only" x-original-group="",ETV (1080p)
+https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:-1 tvg-id="MadrasFMTV.gp@SD" group-title="Guadeloupe" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-health="source-only" x-original-group="",Madras FM TV (1080p)
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-id="RadioTVBasseTerre.gp@SD" group-title="Guadeloupe" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-health="source-only" x-original-group="",Radio TV Basse-Terre (720p)
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+#EXTINF:-1 tvg-id="RHTGuadeloupe.gp@SD" group-title="Guadeloupe" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-health="source-only" x-original-group="",RHT Guadeloupe (720p)
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-id="TMA.gp@SD" group-title="Guadeloupe" x-country-code="gp" x-country-name="🇬🇵 Guadeloupe" x-health="source-only" x-original-group="",TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8
+#UPSTREAM-COUNTRY|gu|Guam|🇬🇺|1
+#EXTINF:-1 tvg-id="Star101FM.gu@SD" group-title="Guam" x-country-code="gu" x-country-name="🇬🇺 Guam" x-health="source-only" x-original-group="",Star 101 FM (KNUT Guam) [Not 24/7]
+https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
+#UPSTREAM-COUNTRY|gt|Guatemala|🇬🇹|63
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Amigos TV Chiquimula (480p)
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 tvg-id="BDTelevision.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",BD Televisión (720p)
+https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 3 (720p)
+https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 6 Panadish (720p)
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 7 (720p)
+https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal13Esquipulas.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 13 Esquipulas (720p)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1 tvg-id="Canal27.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 27 (1080p)
+https://live.canal27.tv:3633/live/canal27live.m3u8
+#EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 30 TV Bethel (720p) [Not 24/7]
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+#EXTINF:-1 tvg-id="Canal100Chinique.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 100 Chinique (1080p)
+https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIglesiaLuzyVerdad.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal Iglesia Luz y Verdad (1080p)
+https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal TV Radio Maya TGBA (480p)
+https://s.emisoras.tv:8081/radiomaya/index.m3u8
+#EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal TV Radio Maya TGBA (480p)
+https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisof.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal Visof (720p)
+https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
+#EXTINF:-1 tvg-id="ConectadosconDios.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Conectados con Dios
+https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="CristoTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Cristo TV (480p)
+https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EspirituSantoYFuegoTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Espíritu Santo Y Fuego TV (480p)
+https://inliveserver.com:1936/8392/8392/playlist.m3u8
+#EXTINF:-1 tvg-id="ExpresionTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Expresión TV (1080p)
+https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
+#EXTINF:-1 tvg-id="FeViviente.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Fe Viviente (480p)
+https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
+#EXTINF:-1 tvg-id="FranchsTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Franchs TV (720p)
+https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
+#EXTINF:-1 tvg-id="GardeniasTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Gardenias TV (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Guatevision (720p)
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Guatevision (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Guatevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="IglesiaDelCamino.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Iglesia Del Camino (480p) [Not 24/7]
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="JacalCanal5.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Jacal Canal 5 (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="JehovaNissi.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Jehová Nissi (720p)
+https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8
+#EXTINF:-1 tvg-id="JubiloTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Júbilo TV (720p)
+http://173.249.60.54/hls/jubilotv.m3u8
+#EXTINF:-1 tvg-id="MASTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",MAS TV
+https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
+#EXTINF:-1 tvg-id="MaxivisionTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Maxivisión TV (720p)
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="MCNTelevision.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",MCN Television (720p)
+https://eu1.servers10.com:8081/8338/index.m3u8
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Multivisión Canal 3 (720p) [Not 24/7]
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1 tvg-id="MultivisionSports.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Multivisión Sports (720p) [Not 24/7]
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-id="NuestraImagenTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Nuestra Imagen TV
+https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="PenielKY.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Peniel Kids & Young (480p)
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+#EXTINF:-1 tvg-id="PenielMusical.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Peniel Musical (480p)
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
+#EXTINF:-1 tvg-id="PenielMusical.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Peniel Musical (480p)
+https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8
+#EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Peniel TV Biblia Abierta (480p)
+https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+#EXTINF:-1 tvg-id="PlenitudTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Plenitud TV (360p)
+https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
+#EXTINF:-1 tvg-id="PresenciaTelevision.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Presencia TV (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCoatanCanal21.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Radio Coatan Canal 21
+https://s2.tvdatta.com:3112/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Rhema TV (720p)
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Rhema TV
+http://190.61.90.17:40000/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-id="SILTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",SIL TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecosta.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Telecosta (720p)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",TeleOnce (576p)
+http://45.5.119.43:4000/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Tigo Sports (1080p)
+http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="TN23.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",TN23 (720p)
+https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Totovision.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Totovision
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",TreceVision (576p)
+http://45.5.119.43:4000/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-id="TVMaria.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",TV María (720p) [Not 24/7]
+https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
+#EXTINF:-1 tvg-id="TVMaya.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",TV Maya (480p)
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldTVGuatemala.gt@HD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",World TV Guatemala (720p)
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 3 (720p)
+http://181.119.177.253:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="Canal7.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 7 (720p)
+http://181.119.177.253:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="Canal11.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 11 (720p)
+http://179.60.224.196:8000/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="Canal13.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 13 (720p)
+http://190.61.101.11:7050/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="Canal7.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 7 (576p)
+http://200.115.120.1:8000/play/ca112/index.m3u8
+#EXTINF:-1 tvg-id="Canal11.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 11 (1080p)
+http://168.228.44.241:9999/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Guatevision (720p)
+http://168.196.127.137:6001/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="Canal13.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Canal 13 (720p)
+http://168.196.127.137:6001/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Tigo Sports (1080p)
+http://168.196.127.137:6001/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-id="VeaCanal.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Vea Canal (720p)
+http://181.78.106.127:5000/play/ca090/index.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Guatevision (1080p)
+http://200.115.120.1:8000/play/ca066/index.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt@SD" group-title="Guatemala" x-country-code="gt" x-country-name="🇬🇹 Guatemala" x-health="source-only" x-original-group="",Rhema TV (1080p)
+http://45.171.64.30:6060/play/a04k/index.m3u8
+#UPSTREAM-COUNTRY|gg|Guernsey|🇬🇬|0
